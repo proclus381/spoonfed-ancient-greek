@@ -10,7 +10,7 @@ One operation per line (blank lines and # comments ignored):
   DELETE  <greek of a card>                                         (removes the note; its review history is lost)
 The anchor may be in another chapter file: MOVE takes the line out of its file and puts it next to the anchor.
 MOVE keeps the note's GUID (the Greek is unchanged). REPLACE appends 'original → new' to guid_overrides.txt
-when the Greek changes, so the note keeps its GUID (same rule as apply.py). INSERT creates a new note.
+when the Greek changes, so the note keeps its GUID. INSERT creates a new note.
 Every Greek text must match exactly one card line (NFC, whitespace-trimmed)."""
 import os
 import sys

@@ -1,9 +1,9 @@
 # Paradigm coverage: one card per cell of every inflection scheme
 
-Status 2026-11-25. Request (the user, 2026-11-24): "a card for every possible permutation of grammatical form",
-checked against Smyth and Wiktionary's *Appendix:Ancient Greek grammar tables*. Also: cards that introduce forms
-of one inflection scheme within a chapter should stand next to each other. Later (2026-11-25): "leave the dual
-barebones".
+Design notes from building the deck. Files named here that are not in the repository were working files.
+
+Status 2026-11-25. Goal: a card for every possible grammatical form, checked against Smyth and Wiktionary's *Appendix:Ancient Greek grammar tables*. Also: cards that introduce forms
+of one inflection scheme within a chapter should stand next to each other. The dual is kept bare.
 
 ## Result
 
@@ -49,7 +49,7 @@ barebones".
 - **Irregular words** keep one key per lemma and cell: pronouns, numerals, πατήρ, ἀνήρ, γυνή, πόλις, βασιλεύς,
   ναῦς, βοῦς, πῦρ … (`SPECIFIC`). Their cells were filled in the same way.
 - **Verbs:** the keys are unchanged (tense, voice, mood, class, person); batches 1–3 filled their gaps.
-- **The dual, kept bare** (the user, 2026-11-25): one item per ending, from ch. 30, whatever the paradigm:
+- **The dual, kept bare**: one item per ending, from ch. 30, whatever the paradigm:
   - nouns, adjectives, participles and pronouns: -ω, -ᾱ, -ε, -ει, -οιν, -αιν;
   - the personal pronouns: νώ σφώ, νῷν σφῷν;
   - verbs: -τον, -την, -σθον, -σθην, -των, -σθων.

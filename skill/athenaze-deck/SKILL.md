@@ -1,9 +1,9 @@
 ---
 name: athenaze-deck
-description: Check, extend and rebuild the Athenaze Companion Anki deck (n+1 Ancient Greek sentences). Use when asked to add or rewrite cards, check a chapter for n+1 problems, find grammatical forms no card teaches, fix word order, or build the apkg.
+description: Check, extend and rebuild the Spoonfed Ancient Greek Anki deck (n+1 Ancient Greek sentences). Use when asked to add or rewrite cards, check a chapter for n+1 problems, find grammatical forms no card teaches, fix word order, or build the apkg.
 ---
 
-# Athenaze Companion deck tools
+# Spoonfed Ancient Greek deck tools
 
 The deck lives in `toolkit/` (or in a clone of the repository): `project/sentences/chNN.txt`, one card per line:
 `Greek | English | source | extras`. The extras are:
@@ -52,23 +52,19 @@ Problem lines end with `<-- 2 NEW`, `nothing new`, `unknown form …`, `too earl
 
        cd project && ../.venv/bin/python ../work/phase3/paradigms/catalog.py ../work/tmp/catalog.tsv
 
-3. Plan where each cell's card goes and which words are candidates:
-
-       .venv/bin/python work/phase3/paradigms/plan2.py $PWD/work/tmp/catalog.tsv $PWD/work/tmp/plan.tsv
-
-4. Look up what vocabulary a new card may use at its place, and look at the cards around it:
+3. Look up what vocabulary a new card may use at its place, and look at the cards around it:
 
        python3 work/phase3/paradigms/known_at.py N           # vocabulary known before card N
        python3 work/phase3/paradigms/show.py A B             # cards A..B with their new items
 
-5. Write `NEW.tsv` rows `anchor<TAB>Greek<TAB>English[<TAB>extras]`. The anchor is a card number or that card's
+4. Write `NEW.tsv` rows `anchor<TAB>Greek<TAB>English[<TAB>extras]`. The anchor is a card number or that card's
    Greek. Add hints for every form whose case, gender or person is ambiguous.
-6. Turn the rows into insert operations, apply them, and check:
+5. Turn the rows into insert operations, apply them, and check:
 
        python3 work/phase3/paradigms/mk_inserts.py NEW.tsv ops.txt && python3 tools/deck_edit.py ops.txt && tools/chk.sh
 
-7. Fix any problem and run step 6 again (`git checkout project/sentences/` reverts the files).
-8. Confirm the GUIDs:
+6. Fix any problem and run step 5 again (`git checkout project/sentences/` reverts the files).
+7. Confirm the GUIDs:
 
        .venv/bin/python tools/guid_check.py
 
@@ -86,8 +82,10 @@ Problem lines end with `<-- 2 NEW`, `nothing new`, `unknown form …`, `too earl
 
 **Build:**
 
-    cd project && ../.venv/bin/python build.py                  # eSpeak audio (needs espeak-ng with grc, ffmpeg)
-    AUDIO_MODE=ext ../.venv/bin/python build.py                 # human-voice deck (audio via audio_kit/)
+    cd project && AUDIO_MODE=ext ../.venv/bin/python build.py   # the deck with the ElevenLabs clip names
+
+The clips (`athv_*.mp3`) are not in the repository. `project/out/audio_manifest.tsv` lists each clip and its
+text.
 
 ## Files to know
 
