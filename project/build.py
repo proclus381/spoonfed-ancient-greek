@@ -13,7 +13,7 @@ MEDIA = os.path.join(OUT, 'media')
 os.makedirs(MEDIA, exist_ok=True)
 FONTS = os.path.join(ROOT, 'fonts')
 
-DECK_NAME = 'Athenaze Companion (original sentences)'
+DECK_NAME = 'Spoonfed Ancient Greek'
 DECK_ID = 1846207501
 RATE = 135
 
@@ -601,7 +601,7 @@ def phonemes(text):
 
 
 CLOZE2 = os.environ.get('CLOZE2', '0') == '1'      # Cloze 2 off by default (user's decision 2026-11-24); CLOZE2=1 brings it back
-AUDIO_MODE = os.environ.get('AUDIO_MODE', 'espeak')   # 'ext': human-voice files made outside (ai33 kit)
+AUDIO_MODE = os.environ.get('AUDIO_MODE', 'espeak')   # 'ext': the ElevenLabs clips (athv_*.mp3), made outside the build
 EXT_MANIFEST = {}
 
 
@@ -661,7 +661,7 @@ BACK_INFO = """<div class="en">{{English}}</div>
 {{#Source}}<div class="src">{{Source}}</div>{{/Source}}"""
 
 MODEL = genanki.Model(
-    1846207541, 'Athenaze Companion · Sentence',
+    1846207541, 'Spoonfed Ancient Greek',
     fields=[{'name': n} for n in ['Order', 'Greek', 'Audio', 'English', 'New', 'Notes',
                                   'Cloze', 'ClozeAnswer', 'ClozeHint', 'Cloze2', 'Cloze2Answer', 'Cloze2Hint',
                                   'Source', 'Chapter', 'TTS']],
@@ -823,21 +823,23 @@ for n, c in enumerate(CARDS):
     rows.append(dict(n=n + 1, ch=c['chapter'], gr=greek, en=c['en'], new='<br>'.join(lines),
                      c1=cz[0], h1=cz[2], c2=cz[3], h2=cz[5], src=src))
 
-DESC = """<b>Athenaze Companion</b> — Greek sentences that follow the syllabus of <i>Athenaze</i> I–II
-(Italian edition, ch. 1–31) and <i>Meletemata</i> chapter by chapter: every word, ending and set phrase in the
-book's order, with no story. Grammar from Smyth's <i>Greek Grammar</i> that the book does not treat is added
-where it fits, and the hardest of it in a supplement after ch. 31 (tag ch32). The sentences are composed for
-clarity, except the passages of Herodotus, Plato, Aristophanes and other authors that <i>Athenaze</i> itself
-quotes: these are given in the author's own words (the reference is shown under the answer).
-Every sentence brings exactly <b>one</b> new thing (shown in <span style="color:#b03a2e"><b>red</b></span>);
-everything else in it has come before, so what you learnt is reviewed as you go. There are no practice
-sentences.<br>
-<b>Listening</b>: hear it, understand it, then check the text and translation.
-<b>Cloze</b>: a new word is blanked with its meaning as the hint; a new ending is blanked with the dictionary
-form and the translation as the hint.<br>
-Each Cloze card is placed a few sentences after its Listening card, so it comes up in the same session.
-Deck options: turn <i>off</i> <i>Bury new siblings</i> (otherwise the Cloze cards are held back for days);
-new card sort order <i>Order gathered</i>; 20–30 new cards a day (two cards per sentence: 10–15 new things)."""
+DESC = """<b>Spoonfed Ancient Greek</b>: Greek sentences that follow the syllabus of <i>Athenaze</i> I–II
+(Italian edition, ch. 1–31) and <i>Meletemata</i>, chapter by chapter. Chapter 32 adds grammar from Smyth that the
+book does not treat. The sentences are composed for the deck; the classical passages <i>Athenaze</i> quotes are in
+their authors' own words, with the reference under the answer.<br><br>
+Every sentence brings exactly <b>one</b> new thing, shown in <span style="color:#b03a2e"><b>red</b></span>.
+Everything else in it has come before.<br><br>
+<b>Listening</b>: hear the sentence, understand it, then check the text and translation.<br>
+<b>Cloze</b>: recall the missing word or ending from the hint. It comes a few cards after its listening card.<br><br>
+<b>Deck options</b>:
+<ul>
+<li>New card gather order <i>Deck</i>, sort order <i>Order gathered</i>. Never shuffle.</li>
+<li><i>Bury new siblings</i> <b>off</b>.</li>
+<li>30–50 new cards a day (15–25 sentences). Experienced readers of Greek, using the deck for listening and speaking, can take many more.</li>
+<li>FSRS on, desired retention about 0.90.</li>
+</ul>
+Audio: ElevenLabs voice <i>Giassiranis Dimitrios</i>, modern pronunciation of Greek.<br>
+Licence: CC BY-NC-SA 4.0. More at github.com/proclus381/spoonfed-ancient-greek"""
 
 
 def write_pkg(path):

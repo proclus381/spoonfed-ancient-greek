@@ -1,13 +1,13 @@
 # Word order by information structure: a plan (after Dik 1995 and Mastronarde 2013)
 
+Design notes from building the deck. Files named here that are not in the repository were working files.
+
 Status: applied to the whole deck, 2026-11-24. The results are in §6.
 
 ## Sources
 
 - H. Dik, *Word Order in Ancient Greek: A Pragmatic Account of Word Order Variation in Herodotus* (Amsterdam 1995).
-  The user's copy is in the repository root, untracked.
 - D. Mastronarde, *Word Order in Ancient Greek (especially Attic Prose)*, Ancient Greek Tutorials (2013).
-  The user's copy is `~/Downloads/WordOrder.pdf`.
 
 Both are paraphrased below, not quoted.
 
@@ -75,7 +75,7 @@ Both are paraphrased below, not quoted.
   - vocative start / inside / end.
 
   Both books treat such rates as by-products. A chapter can hit every rate with individual cards in the
-  wrong order, which is the "percentage of good ones and bad ones" the user ruled out. Examples:
+  wrong order, which was ruled out. Examples:
   - generic statements with the subject after the verb, as in Τὰς πόλεις σῴζει ἡ ὁμόνοια (ch. 14, round 1,
     still in the working tree);
   - an object fronted only to put the subject after the verb.
@@ -96,7 +96,7 @@ Both are paraphrased below, not quoted.
 - **Our omission measure counts some neuter objects as subjects.** The checker picks the nominative in
   Τὸ μάθημα μανθάνει. `deck_exact.py` now also prints a figure that does not count them.
 
-## 2a. Newness and emphasis are simulated inside the card (the user's correction, 2026-11-24)
+## 2a. Newness and emphasis are simulated inside the card
 
 Being new in the deck says nothing about being new in the text.
 - The word order follows the information status that the sentence itself presents.
@@ -306,7 +306,7 @@ Unchanged:
 - **Copula** left out in evaluative and gnomic predications, kept in neutral physical descriptions.
 - **Connective particles** only with the utterance they connect; dialogue particles got the line they answer.
 - **ἐγώ / σύ / ἡμεῖς** where the card contrasts persons (Ἡ κόρη ἣν σὺ φιλεῖς οὐ φιλεῖ σε).
-- **Book text is a copyright question only** (the user, 2026-11-24).
+- **Book text is a copyright question only**.
   - A card is never left in a worse order because its best version shares words with the books.
   - Every book-related refusal of every pass, ch. 1–32, was checked: the first word-order pass, the snippet
     pilot, the snippet pass and this pass. The first word-order pass dropped no proposal silently: each was
@@ -369,7 +369,7 @@ The copula measure counts only present-tense predications, since a past ἦν ca
 - **Definite objects before the verb, 26–28% in ch. 11–32** (corpus 43–52%).
   - In many cards the new item is the verb, so the verb carries the focus and the given object follows it.
   - Where a subject or a setting precedes, object–verb stays.
-  - Forcing object–verb would put a predictable object in the focus slot, which the user ruled out.
+  - Forcing object–verb would put a predictable object in the focus slot, which was ruled out.
 - **Presentative verbs:** the deck puts the subject after the verb in 60–100% (5–15 clauses).
   - Attic has 17–22%, but in only 9–18 clauses, and copular γίγνομαι dominates there.
   - Dik's presentatives (ἦν, ἦλθε, ἀφικνεῖται) put a new participant after the verb.
