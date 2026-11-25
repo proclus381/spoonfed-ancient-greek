@@ -1,0 +1,122 @@
+ἀγανακτέω | be annoyed, be angry | v
+ἀκούω | hear, listen (+ gen. of person, acc. of thing) | v
+ἀμέλγω | milk | v
+ἀνατέλλω | rise (of the sun) | v impf=0
+ἀποχωρέω | go away | v impf=0
+γεμίζω | fill | v
+δακρύω | cry, weep | v
+διώκω | chase, pursue | v
+ἐθέλω | want, be willing | v impf=0
+ἐντυγχάνω | meet, come upon (+ dat.) | v impf=0
+ζητέω | look for, seek | v
+ἥκω | have come, be here | v
+θεωρέω | watch, look at | v
+θραύω | break, smash | v
+εἶμι | go (ἰέναι “to go”, ἴθι “go!”) | 
+κελεύω | order, tell (+ acc. and inf.) | v
+κολάζω | punish | v
+λαλέω | chatter, talk | v
+οἰκοδομέω | build | v
+παίζω | play | v
+παρασκευάζω | prepare | v impf=0
+πείθω | persuade | v
+προσκλύζω | wash against (of the sea) | v impf=0
+σχολάζω | have time off, be at leisure | v
+χαλεπαίνω | be angry, be cross | v
+ψέγω | blame, find fault with | v
+οὐδέν | nothing | 
+ἄγγελος | messenger | n
+ἀγορά | market place, agora | n
+ἄγροικος | countryman, rustic | n
+ἀνήρ | man, husband | 
+ἄστυ | city, town (Athens) | 
+αὔλιον | fold, pen | n
+βοή | shout | n
+γῆ | land, earth | n
+γυνή | woman, wife | 
+δέσποινα | mistress (of the house) | n
+δούλη | slave woman | n
+ἑορτή | festival | n
+ἐργαστήριον | workshop | n
+ἔργον | work, task | n
+θάλαττα | sea | n
+θόρυβος | uproar, noise | n
+θυγάτηρ | daughter | 
+θύρα | door | n
+καπηλεῖον | tavern, wine shop | n
+κλίνη | couch, bed | n
+κόρη | girl | n
+κρήνη | spring, fountain | n
+κώμη | village | n
+ὁδός | road, way | n g=f
+οἰκία | house | n
+οὐρανός | sky, heaven | n
+παιδίον | little child | n
+πλοῖον | boat, ship | n
+πρόβατον | sheep | n
+σῦκον | fig | n
+τράπεζα | table | n
+ὑδρία | water jar | n
+ὕδωρ | water | 
+φίλη | (female) friend | n
+φίλος | friend; dear | n
+χορός | dance, chorus | n
+χόρτος | grass, fodder | n
+χώρα | land, country | n
+χωρίον | place, spot | n
+ὥρα | season, hour, time | n
+Ἀκρόπολις | Acropolis | 
+Μέλιττα | (name) | n
+Πειραιεύς | Piraeus (the port of Athens) | 
+ἄθλιος | wretched, miserable | adj
+ἄλλος | other, another | 
+ἄτοπος | strange, odd | adj2
+καρποφόρος | fruitful | adj2
+μεστός | full (+ gen.) | adj
+ὀλίγος | small, little; (pl.) few | adj
+ὅσος | as great as, as many as | adj
+ῥᾴδιος | easy | adj
+τοιοῦτος | such, of this kind | 
+μακράν | far, a long way | 
+ἐμός | my, mine | adj
+ἡμέτερος | our | adj
+παρά | to (a person) (+ acc.) | 
+περί | about, concerning (+ gen.); around (+ acc.) | 
+δή | indeed, now (emphasizing) | 
+ὅμως | nevertheless | 
+ὅτε | when | 
+ὥσπερ | just as, like | 
+ὥστε | so that, and so | 
+ὡς | as, how | 
+ἀληθῶς | truly, really | 
+αὐτίκα | at once, straightaway | 
+ἐνταῦθα | here, there, then | 
+μάλιστα | most of all, especially | 
+μόνον | only | 
+πανταχοῦ | everywhere | 
+πόθεν | from where? | 
+ποῖ | where to? | 
+ποτε | ever, at some time | 
+σπανίως | rarely | 
+συνεχῶς | continuously | 
+ταχέως | quickly | 
+οἴμοι | oh dear! poor me! | 
+χαῖρε | hello! goodbye! (χαίρετε to more than one) | 
+C:διὰ τοῦτο | for this reason, so
+C:ἐν νῷ ἔχω / ἐν νῷ ἔχεις / ἐν νῷ ἔχει / ἐν νῷ ἔχομεν / ἐν νῷ ἔχετε / ἐν νῷ ἔχουσιν / ἐν νῷ ἔχουσι | intend, have in mind
+C:ἐξ ἑωθινοῦ | from early morning
+C:ἑορτὴν ἄγουσιν / ἑορτὴν ἄγομεν / ἑορτὴν ἄγει / ἑορτὴν ποιοῦσιν / ἑορτὴν ποιοῦμεν / ἑορτὴν ποιεῖ | hold a festival
+C:καθ᾽ ἡμέραν | every day
+C:κατ᾽ οἶκον | at home
+C:μὰ τὸν Δία | by Zeus!
+C:ὅλην τὴν ἡμέραν | all day long
+C:ὀνόματι | by name
+C:οὐδὲν ἧττον | nonetheless
+C:ποῖ καὶ πόθεν | where to and where from?
+πιέζω | press, weigh down on | v
+X:sense-oude | οὐδέ also means “not even” (οὐδὲ μικρόν “not even a little”) | lemma=οὐδέ hint=not even
+# set phrases the readings use without listing them among the Locuzioni (added 2026-11-23)
+C:τί ποτε | what ever?, what on earth?, why ever?
+X:ti-de | τί δέ; “and what about …?”, “what then?”: an elliptical question that turns to a new point
+X:ou-monon | οὐ μόνον … ἀλλὰ καί “not only … but also”
+C:οὐδὲν ἄλλο | nothing else (but): οὐδὲν ἄλλο … ἀλλά / ἤ “nothing but …”

@@ -1,0 +1,122 @@
+# ch.27 — the perfect and pluperfect middle-passive; the future perfect; πρίν; the articular infinitive; Croesus tests the oracles
+Ἡ οἰκία πεποίηται ὑπὸ τοῦ πατρός. | The house has been built by father. | composed
+Λέλυμαι, ὦ δέσποτα; | Have I been set free, master? | composed
+Λέλυνται οἱ δεσμῶται. | The prisoners have been released. | composed
+Γέγραπται ἡ ἐπιστολή. | The letter has been written. | composed
+Ἀνέγνων τὴν ἐπιστολὴν τὴν ὑπὸ τοῦ πατρὸς γεγραμμένην. | I read the letter written by father. | composed
+Οἱ νόμοι ἐν τῇ στήλῃ γεγραμμένοι εἰσίν. | The laws are written on the stone. | composed | +X:pfm-3pl
+Λίθῳ βέβληται. | He has been hit by a stone. | composed
+Ὁ παῖς Φίλιππος κέκληται. | The boy has been named Philip. | composed
+Ἐστέρησε τοὺς πολίτας τῆς ἐλευθερίας. | He deprived the citizens of their freedom. | composed
+Διέβη τὸν ποταμόν. | It crossed the river. | composed
+Οἱ Ἀθηναῖοι τὸ τῶν πολεμίων ἱππικὸν ἐφοβοῦντο. | The Athenians feared the enemy's cavalry. | composed
+Ὁ γέρων πένης ἦν πρὶν πλούσιος γενέσθαι. | The old man was poor before he became rich. | composed
+Πρὶν ἐλθεῖν τοὺς πολεμίους, ἔφυγον οἱ πολῖται. | Before the enemy came, the citizens fled. | composed | +X:prin-inf
+Οὐκ ἄπιμεν πρὶν ἂν τὸ ἔργον τελέσωμεν. | We shall not leave until we have finished the work. | composed | +X:prin-an
+Ἡδὺ τὸ μανθάνειν. | Learning is pleasant. | composed | +X:art-inf
+Ἀπεῖπε τοῖς πολίταις μὴ ἐξιέναι. | He forbade the citizens to go out. | composed
+Ἐν Δελφοῖς μαντεῖόν ἐστι τοῦ Ἀπόλλωνος. | At Delphi there is an oracle of Apollo. | composed
+Τὸ τοῦ Διὸς ἄγαλμά ἐστι μέγα. | The statue of Zeus is big. | composed
+Ἀφῖκται ὁ ἄγγελος. | The messenger has arrived. | composed
+Ταῦτα πάλαι ἔγνωσται. | This has been known for a long time. | composed
+Οἱ πολέμιοι εἰς φυγὴν τετραμμένοι εἰσίν. | The enemy have been turned to flight. | composed
+Ὁ παῖς ὑπὸ τοῦ γραμματιστοῦ δεδίδακται ἀναγιγνώσκειν. | The boy has been taught to read by the schoolmaster. | composed
+Κεκάθαρται ὁ ξένος. | The stranger has been purified. | composed
+Πέπυσμαι πάντα τὰ γενόμενα. | I have learned everything that happened. | composed
+Οἱ στρατιῶται εἰς τὴν ἀγορὰν συνειλεγμένοι εἰσίν. | The soldiers have been assembled in the market place. | composed
+Ἦρκται τὸ ἔργον. | The work has been begun. | composed
+Τὰ ἱερὰ τέθυται. | The sacrifices have been made. | composed
+Οἱ δεσμῶται ἀφεῖνται. | The prisoners have been let go. | composed
+Οἱ στρατιῶται παρὰ τῷ ποταμῷ τεταγμένοι εἰσίν. | The soldiers have been drawn up beside the river. | composed
+«Ποῦ τέταξαι, ὦ στρατιῶτα;» | “Where have you been posted, soldier?” | composed
+«Ποῦ τέταχθε, ὦ στρατιῶται;» | “Where have you been posted, soldiers?” | composed | @τέταχθε:ind
+«Πέπαυσο, ὦ παῖ.» | “Stop it once and for all, boy.” | composed
+«Ἐνθάδε τέταξο, ὦ στρατιῶτα.» | “Take your post here, soldier.” | composed
+Εἵλκυσται εἰς τὴν γῆν. | It has been hauled onto the land. | composed
+Ἀποπειρᾶται ὁ διδάσκαλος τῶν μαθητῶν. | The teacher is testing his pupils. | composed
+Ἦλθεν ἡ ἑκατοστὴ ἡμέρα. | The hundredth day came. | composed
+Ἐν Δωδώνῃ χρηστήριόν ἐστι τοῦ Διός. | At Dodona there is an oracle of Zeus. | composed
+Ἐν τῇ ψάμμῳ παίζουσιν. | They are playing in the sand. | composed
+Ἡ χελώνη βραδέως βαδίζει. | The tortoise walks slowly. | composed
+Ὁ λέβης ἐστὶ μέγας. | The cauldron is big. | composed
+Ἐκ χαλκοῦ ἐποιήθη. | It was made of bronze. | composed
+Ἥψησε τὰ λάχανα. | She cooked the vegetables. | composed
+Ἀγαθὰς φρένας ἔχει. | He has good sense. | composed
+Ἡδέα τὰ ἄρνεια κρέα. | Lamb's meat is pleasant. | composed
+Στρατὸν ἀγείρει. | He is gathering an army. | composed
+Ὁ δῆμος ἐβούλετο τὴν τοῦ τυράννου ἀρχὴν καταλῦσαι. | The people wanted to overthrow the tyrant's rule. | composed
+Οἱ Λυδοὶ τοῖς Πέρσαις ἀντιοῦσθαι οὐκ ἐδύναντο. | The Lydians could not resist the Persians. | composed
+Ὁ ποταμὸς εἰς δύο διέστη. | The river was divided in two. | composed
+Τὸ ἔργον ἤδη ἐπεποίητο. | The work had already been done. | composed
+Οἱ δεσμῶται ἤδη ἐλέλυντο. | The prisoners had already been released. | composed
+«Ἤδη ἐλελύμην, ὅτε ἦλθες.» | “I had already been set free when you came.” | composed
+«Ἆρα ἤδη ἐλέλυσο;» | “Had you already been set free?” | composed
+Ἤδη ἐλελύμεθα. | We had already been set free. | composed
+«Ἆρα ἤδη ἐλέλυσθε;» | “Had you already been set free?” | composed
+Νυκτὸς ἐπεχείρησαν τῇ πόλει. | They attacked the city by night. | composed
+Ἐμέμψατο τὸν παῖδα. | He blamed the boy. | composed
+Ὅρκια ἐποιήσαντο. | They made a treaty under oath. | composed
+Κατ᾽ αὐτὸν δὲ Κροῖσον τάδε ἐγίνετο. | And as for Croesus himself, this is what happened. | Hdt. 1.85.1 | +X:ion-ginomai
+Πάντα κατέπραξαν. | They accomplished everything. | composed
+Ἐτιμώρησε τῷ πατρί. | He avenged his father. | composed
+Μέγα ἐφώνησεν. | He shouted loudly. | composed
+Ἡ ὀσμὴ ἦν ἡδεῖα. | The smell was pleasant. | composed
+Πολλὰς καμήλους ἔχουσιν. | They have many camels. | composed
+Ὁ κύων τὴν τοῦ κρέως ὀσμὴν ᾔσθετο. | The dog caught the smell of the meat. | composed
+Διεσκέδασεν ὁ ἄνεμος τὰς ναῦς. | The wind scattered the ships. | composed
+Ἄλκιμοι οἱ Λακεδαιμόνιοι. | The Spartans are brave. | composed
+Προσέταξε τοῖς δούλοις τὸν σῖτον εἰς τὴν οἰκίαν φέρειν. | He ordered the slaves to carry the grain into the house. | composed
+Οἱ Πέρσαι πολλοὺς τῶν Λυδῶν ἔκτειναν. | The Persians killed many of the Lydians. | composed
+Πάντας κτενοῦσιν οἱ πολέμιοι. | The enemy will kill everyone. | composed
+Ὁ παῖς ἐσοφίσατο ὅπως μὴ εἰς διδασκάλου ἴοι. | The boy thought up a trick so as not to go to school. | composed
+Πολλὴ ἡ ἵππος τῶν Περσῶν. | The Persian cavalry is numerous. | composed | +X:sense-hippos
+Ὀπίσω ἔφευγον. | They were running back. | composed
+Ὁ ἵππος γέρων ὢν ἄχρηστός ἐστιν. | The horse is old and useless. | composed
+Ἡ ἵππος ἄχρηστος ἐγένετο. | The cavalry became useless. | composed | +X:hippos-fem
+Ἔθορεν ἀπὸ τοῦ τείχους. | He leapt down from the wall. | composed
+Ἀπέθορεν ἀπὸ τοῦ ἵππου. | He leapt down from his horse. | composed
+Ὁ γέρων ἦν ἐν μεγάλῃ φροντίδι. | The old man was in great anxiety. | composed
+Ἑκκαίδεκα ναῦς ἔπεμψεν. | He sent sixteen ships. | composed | @ναῦς:acc
+Ὡπλίσαντο οἱ Λυδοί. | The Lydians armed themselves. | composed
+Οὐ λέλυσαι, ὦ δοῦλε. | You have not been set free, slave. | composed
+Ὑπὸ τῶν πολεμίων νενικήμεθα. | We have been defeated by the enemy. | composed
+Ὑπὸ πάντων τετίμησθε. | You have been honoured by everyone. | composed
+Πέπεισμαι τὸν ξένον τὰ ἀληθῆ λέγειν. | I am convinced that the stranger is telling the truth. | composed
+Τὰ ὑπὸ τοῦ στρατηγοῦ σεσημασμένα οἱ στρατιῶται ἔπραττον. | The soldiers were doing what the general had signalled. | composed
+Οἱ δεσμῶται εἰς τὴν πόλιν ἠγμένοι εἰσίν. | The prisoners have been brought into the city. | composed
+Ὁ λιμὴν ἔσχηται ὑπὸ τῶν πολεμίων. | The harbour has been occupied by the enemy. | composed
+Ἡ ὁδὸς εἴαται τοῖς ξένοις. | The road has been left open to the strangers. | composed
+Οἱ Λυδοὶ τῆς πόλεως προεμάχοντο. | The Lydians fought for their city. | composed
+Ἐν τῇ πόλει ἦν ταραχὴ πολλή. | There was great confusion in the city. | composed
+Ἐταλαιπώρουν ἐπὶ τοῖς τείχεσιν. | They were suffering hardship on the walls. | composed
+Χαλεπὴ ἡ τῆς γῆς ἐργασία. | Working the land is hard. | composed
+Ὁ δοῦλος λελύσεται. | The slave will have been set free. | composed
+Τὰ δῶρα δέδοται τοῖς θεοῖς. | The gifts have been given to the gods. | composed
+Τὰ ἀγάλματα ἐν τῷ ἱερῷ τέθειται. | The statues have been set up in the temple. | composed
+Πολλὰ ἐν τῷ πολέμῳ ἡμάρτηται. | Many mistakes have been made in the war. | composed
+Πολλὰ χρήματα κέκτηται. | He possesses a great deal of money. | composed
+Τὸ ἀργύριον ἐν τῇ γῇ κέκρυπται. | The money has been hidden in the ground. | composed
+Ἡ ὁδὸς δέδεικται τοῖς ξένοις. | The road has been pointed out to the strangers. | composed
+Οἱ βόες ἐζευγμένοι εἰσίν. | The oxen have been yoked. | composed | @βόες=βοῦς
+Ἀνήκεστος ἦν ἡ συμφορά. | The disaster was irreparable. | composed
+Οἱ Ἀθηναῖοι τοὺς ἐν τῷ πολέμῳ ἀποθανόντας πολλῇ τιμῇ ἐτίμων. | The Athenians paid great honour to those who had died in the war. | composed
+Σοφὸς γεγένηται. | He has become wise. | composed
+Τὸ ἔργον εὖ εἴργασται. | The work has been well done. | composed
+Δεῖ τὴν ἐπιστολὴν γεγράφθαι πρὸ τῆς ἑσπέρας. | The letter must be written by evening. | composed
+Δεῖ τὸ ἔργον πεποιῆσθαι αὔριον. | The work must be done by tomorrow. | composed
+Ἤδη ἐγέγραπτο. | It had already been written. | composed
+«Ποῦ ἐτέταξο;» | “Where had you been posted?” | composed
+«Ποῦ ἐτέταχθε, ὦ φίλοι;» | “Where had you been posted, friends?” | composed
+Τέθαπται παρὰ τῷ πατρί. | He has been buried beside his father. | composed
+Πολλαὶ πόλεις ὑπὸ τῶν Περσῶν κατεστραμμέναι εἰσίν. | Many cities have been subdued by the Persians. | composed
+Κέκριται ὑπὸ τῶν δικαστῶν. | He has been judged by the jurors. | composed
+Οἱ ἵπποι κατεπάτουν τοὺς πεσόντας. | The horses were trampling those who had fallen. | composed
+Εἴληπται ὁ κλέπτης. | The thief has been caught. | composed
+Ἡ πόλις ᾕρηται ὑπὸ τῶν βαρβάρων. | The city has been taken by the barbarians. | composed
+Σέσῳσται ἡ ναῦς. | The ship has been saved. | composed
+Ἡ τοῦ ῥήτορος φιλοτιμία πολλὰ κακὰ ἐποίησεν. | The orator's ambition did much harm. | composed
+# ---- practice (ch.27 review)
+Ἡ ἐπιστολὴ τῷ πατρὶ γέγραπται. | The letter has been written by father. | composed | +X:dat-agent
+Λυδοὶ μὲν δὴ ὑπὸ Πέρσῃσι ἐδεδούλωντο. | So the Lydians had been enslaved by the Persians. | Hdt. 1.94.7 | +X:ion-dat-pl
+Ὁ πατὴρ τοὺς ἑαυτοῦ παῖδας φιλεῖ. | The father loves his own children. | composed
+Οὐκ ἠνέσχοντο τὴν τῶν καμήλων ὀσμήν. | They could not stand the camels' smell. | composed

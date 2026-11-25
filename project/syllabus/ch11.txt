@@ -1,0 +1,84 @@
+ἄγω | lead, bring | v short aor2=ἤγαγον/ἀγαγ
+αἱρέω | take, seize | v aor2=εἷλον/ἑλ
+ἀποθνήσκω | die | v impf=0 aor2=ἀπέθανον/ἀποθαν
+ἀφικνέομαι | arrive | v impf=0 aor_mid=ἀφικόμην/ἀφικ
+βάλλω | throw | v aor2=ἔβαλον/βαλ
+γίγνομαι | become, happen | v aor_mid=ἐγενόμην/γεν
+ἔρχομαι | come, go | v aor2=ἦλθον/ἐλθ
+εὑρίσκω | find | v aor2=ηὗρον/εὑρ
+ἔχω | have, hold | v impf=εἰχ aor2=ἔσχον/σχ
+λαμβάνω | take | v aor2=ἔλαβον/λαβ
+λέγω | say | v aor2=εἶπον/εἰπ
+λείπω | leave | v aor2=ἔλιπον/λιπ
+μανθάνω | learn, understand | v aor2=ἔμαθον/μαθ
+ὁράω | see | v aor2=εἶδον/ἰδ
+πάσχω | suffer, experience | v short aor2=ἔπαθον/παθ
+πίπτω | fall | v short aor2=ἔπεσον/πεσ
+φεύγω | flee | v aor2=ἔφυγον/φυγ
+αἰτέω | ask, ask for (+ acc. and inf.) | v
+δανείζω | lend | v
+θαρρύνω | encourage, cheer up (+ acc.) | v long
+κομίζω | bring, take | v
+λυπέομαι | be sad, be upset | v
+νοσέω | be ill | v
+οἶμαι | think | 
+παραμυθέομαι | comfort, console | v impf=0
+σκοπέω | look at, examine | v
+ὑπάρχω | be, be available | v impf=0
+ὑπολαμβάνω | reply, take up (the conversation) | v impf=0 aor2=ὑπέλαβον/ὑπολαβ
+φροντίζω | worry, think about | v
+ὠφελέω | help, benefit (+ acc.) | v
+ἀδελφός | brother | n
+ἀνδρών | men's quarters | n3 gen=ἀνδρῶνος
+ἀργύριον | silver, money | n
+γυναικών | women's quarters | n3 gen=γυναικῶνος
+δραχμή | drachma | n
+ζῷον | animal | n
+ἰατρός | doctor | n
+κόραξ | crow | n3 gen=κόρακος
+κύκλος | circle | n
+κυψέλη | beehive | n
+λόγος | word, story, account | n
+μάθημα | lesson, learning | n3 gen=μαθήματος g=n
+μισθός | pay, fee | n
+ναύκληρος | ship's captain, ship-owner | n
+ὀβολός | obol (coin) | n
+πάθημα | suffering | n3 gen=παθήματος g=n
+πάθος | experience, suffering | 
+πένης | poor man | n3 gen=πένητος
+σπήλαιον | cave | n
+σωτηρία | safety, rescue | n
+τραῦμα | wound | n3 gen=τραύματος g=n
+φωνή | voice | n
+χάσμα | gaping mouth, chasm | n3 gen=χάσματος g=n
+χρῆμα | thing; (pl.) money | n3 gen=χρήματος g=n
+Ὅμηρος | (name) | n
+Χαιρεφῶν | (name) | n3 gen=Χαιρεφῶντος
+Ἐπίδαυρος | (name) | n g=f
+Μοῦσα | Muse | n
+Ἀσκληπιός | (name) | n
+εὔφρων | cheerful, kindly | adj3 neut=εὖφρον gen=εὔφρονος
+θαυμαστός | wonderful, remarkable | adj
+πρεσβύτατος | eldest | adj
+τάλας | wretched, poor | 
+φίλτατος | dearest | adj
+πλήν | except (+ gen.) | 
+ἅλις | enough (+ gen.) | 
+ὀψέ | late | 
+πεζῇ | on foot | 
+πώποτε | ever yet | 
+τότε | then | 
+καίπερ | although (+ participle) | 
+C:εἴ πως | if somehow, in the hope that
+C:βάλλ᾽ ἐς κόρακας | go to the crows! go to hell!
+C:εἰς τοῦ ἰατροῦ | to the doctor's (house)
+C:οἷός τε / οἵα τε / οἷοί τε / οἷός τ᾽ / οἵα τ᾽ / οἷοί τ᾽ | able (to)
+C:πῶς γὰρ οὔ | of course!
+C:σὸν ἔργον | that's your job
+C:χάριν ἔχω / χάριν ἔχομεν / χάριν ἔχει / χάριν ἔχουσιν / χάριν ἔχουσι / χάριν εἶχον / χάριν εἶχε / χάριν εἶχεν | be grateful
+δοκεῖ | it seems good (+ dat. and inf.); ἔδοξε “it was decided” |
+C:κόπτει τὴν θύραν / κόπτω τὴν θύραν / κόπτουσι τὴν θύραν / κόπτουσιν τὴν θύραν / ἔκοψε τὴν θύραν / ἔκοψεν τὴν θύραν | knock at the door
+# set phrases the readings use without listing them among the Locuzioni (added 2026-11-23)
+C:οὕτως εἰπών / οὕτως εἰποῦσα / οὕτως εἰπόντες | so saying, with these words
+C:εἴ σοι δοκεῖ / εἰ ὑμῖν δοκεῖ / εἰ δοκεῖ | if you agree, if you like
+C:τί δεῖ ποιεῖν / τί δεῖ ἡμᾶς ποιεῖν / τί ἔδει ποιεῖν | what must be done?, what are we to do?

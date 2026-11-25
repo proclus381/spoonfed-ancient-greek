@@ -1,0 +1,2 @@
+greek-accentuation==1.2.0
+genanki==0.13.1

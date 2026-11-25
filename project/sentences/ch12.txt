@@ -1,0 +1,189 @@
+# chapter 12: 1st aorist (active, middle, participle); liquid aorists; imperfect of εἰμί; augment of compounds
+Ἔλυσε τὸν βοῦν. | He untied the ox. | composed
+Οἱ δοῦλοι ἔλυσαν τοὺς βοῦς. | The slaves untied the oxen. | composed
+«Ἔλυσα τὸν βοῦν», λέγει ὁ δοῦλος. | “I untied the ox,” says the slave. | composed
+«Ἆρα ἔλυσας τὸν βοῦν;» | “Did you untie the ox?” | composed
+«Ἐλύσαμεν τοὺς βοῦς.» | “We untied the oxen.” | composed
+«Διὰ τί ἐλύσατε τοὺς βοῦς;» | “Why did you untie the oxen?” | composed
+Ὁ ξένος ὑπὸ θάμνῳ καθεύδει. | The stranger is sleeping under a bush. | composed
+Ὁ Ζεὺς κεραυνὸν βάλλει. | Zeus hurls a thunderbolt. | composed
+Ὁ ναύτης εἰς τὸν Πειραιᾶ ἔπλευσεν. | The sailor sailed to the Piraeus. | composed
+Ἐκ τῆς νεὼς ἐκβαίνει. | He gets out of the ship. | composed
+Μακρὸς ὁ ἱστὸς τῆς νεώς. | The ship's mast is tall. | composed
+Πολὺν χρόνον πλανᾶται ὁ ξένος. | The stranger wanders for a long time. | composed
+Ἡ πόλις ἀπέχει τῆς θαλάττης. | The city is some distance from the sea. | composed
+Οἱ δοῦλοι ἦσαν ἐν τῇ οἰκίᾳ. | The slaves were in the house. | composed
+Ὁ πάππος ἦν ἰσχυρός. | Grandfather used to be strong. | composed
+«Ἐγὼ δοῦλος ἦν.» | “I was a slave.” | composed | @ἦν:1s
+Καλὸς ὁ ποταμός. | The river is beautiful. | composed
+Ἐν τῷ ποταμῷ νεῖ. | He is swimming in the river. | composed
+Παρανεῖ τῷ πλοίῳ. | He swims alongside the boat. | composed
+Πειρᾶται τὴν πατρίδα εὑρεῖν. | He tries to find his homeland. | composed
+Ἐν τῷ λιμένι ἐστὶ πέτρα μεγάλη. | There is a big rock in the harbour. | composed
+Τὸ πλοῖον ἐν τῷ λιμένι ὁρμεῖ. | The boat is lying at anchor in the harbour. | composed
+Ὁ τόπος ἐστὶ καλός. | The place is beautiful. | composed
+Ὁ ξένος μένει ὅπου ἡ κόρη κελεύει. | The stranger waits where the girl tells him to. | composed
+«Ποῦ ἦσθα, ὦ παῖ;» | “Where were you, boy?” | composed
+«Ἐν τῷ ἀγρῷ ἦμεν.» | “We were in the field.” | composed
+«Ποῦ ἦτε, ὦ παῖδες;» | “Where were you, children?” | composed
+Τὸ στόμα τοῦ ποταμοῦ ἐστι πόρρω. | The mouth of the river is far off. | composed
+Ὁμαλὴ ἡ ὁδός. | The road is level. | composed
+Τὸ ἱμάτιόν ἐστι καλόν. | The cloak is a fine one. | composed
+Φιλάνθρωπός ἐστιν ἡ κόρη. | The girl is kind. | composed
+Ὁ πτωχὸς ἐν τῇ ὁδῷ καθίζει. | The beggar sits in the road. | composed
+Ἀλλότριον σῖτον ἐσθίει. | He eats other people's food. | composed
+Οἱ βάρβαροι οὐχ Ἕλληνές εἰσιν. | The barbarians are not Greeks. | composed
+Ἐν τῇ ὕλῃ ἐστὶ πολλὰ θηρία. | There are many wild beasts in the forest. | composed
+Ἀνέτειλεν ὁ ἥλιος. | The sun rose. | composed
+Παρεσκεύασε τὸ δεῖπνον. | She prepared dinner. | composed | +X:aug-comp
+Ἡ δούλη πλύνει τὰ ἱμάτια. | The slave woman is washing the clothes. | composed
+Ἐν τῇ ἑορτῇ οἱ πολῖται χοροὺς εἰσάγουσιν. | At the festival the citizens put on dances. | composed
+Ἐν τῷ ποταμῷ ἔπλυνε τὰ ἱμάτια. | She washed the clothes in the river. | composed
+Ὁ ξένος ἄλουτός ἐστι καὶ ἄθλιος. | The stranger is unwashed and wretched. | composed
+Μεγάλη ἡ ἅμαξα. | The wagon is big. | composed
+Ἤνεγκε τὸ ὕδωρ. | He brought the water. | composed
+Ἐν τῇ οἰκίᾳ ὑφαίνει ἡ ἄνασσα. | The queen weaves in the house. | composed
+Αἱ ἀμφίπολοι τῇ ἀνάσσῃ ἕπονται. | The maidservants follow the queen. | composed
+«Λῦσον, ὦ Ξανθία, τὸν βοῦν.» | “Untie the ox, Xanthias.” | composed
+Ἐκάλεσε τοὺς πολίτας. | He called the citizens. | composed
+Ἔδραμε πρὸς τὸν δεσπότην. | He ran to his master. | composed
+Σφαίρᾳ παίζουσιν. | They are playing with a ball. | composed
+Ἐκάθισεν ἐπὶ τοῦ θράνου. | He sat down on the bench. | composed
+Ἔφαγε τὸν ἀλλᾶντα. | He ate the sausage. | composed
+Τὰ ἱμάτια φέρει ἡ θεράπαινα. | The maidservant carries the clothes. | composed
+Ὁ νεανίας τοῦ λύκου ἁμαρτάνει. | The young man misses the wolf. | composed
+Λίθον βαλὼν τοῦ λύκου ἥμαρτεν. | He threw a stone and missed the wolf. | composed
+Ἔκλαγεν ὁ κύων. | The dog barked. | composed
+Καλὴ ἡ νύμφη. | The bride is beautiful. | composed
+Χαλεπὸς ὁ ἀνθρώπινος βίος. | Human life is hard. | composed
+Πτόρθον λαμβάνει ἀπὸ τοῦ δένδρου. | He takes a branch from the tree. | composed
+Γυμνὸς ὁ ξένος. | The stranger is naked. | composed
+Κρύπτει τὰ αἰδοῖα τῷ πτόρθῳ. | He hides his private parts with the branch. | composed
+Πολὺν χρόνον ἔμεινεν. | He stayed a long time. | composed
+Θνητοὶ οἱ ἄνθρωποι, οἱ δὲ θεοὶ οὔ. | Men are mortal, but the gods are not. | composed
+Μακάριος ὁ πατὴρ τῆς κόρης. | Happy is the girl's father! | composed
+Ἄνθος φέρει τῷ πατρί. | She brings her father a flower. | composed
+Ὁ υἱὸς ὅμοιός ἐστι τῷ πατρί. | The son is like his father. | composed
+Οὐδέποτε δειπνεῖ. | He never has dinner. | composed
+«Λύσατε τοὺς βοῦς, ὦ δοῦλοι.» | “Untie the oxen, slaves.” | composed
+Ἱκετεύει ὁ ξένος τὴν κόρην. | The stranger begs the girl for help. | composed
+Ἐλεεῖ τὸν ξένον. | She pities the stranger. | composed
+Λούει τὸ παιδίον. | She is washing the baby. | composed
+Ἐπαύσατο ἐργαζόμενος. | He stopped working. | composed
+«Ἐπαυσάμην», λέγει ὁ γεωργός. | “I've stopped,” says the farmer. | composed
+Ἐπαύσαντο τοῦ πόνου. | They stopped their work. | composed
+Παυσάμενος τοῦ πόνου ἀναπαύεται. | Having stopped his work, he rests. | composed
+Παυσαμένη τοῦ ἔργου ἡ δούλη καθίζει. | The slave woman stops her work and sits down. | composed
+Ἱμάτιον ἐνδύεται. | He puts on a cloak. | composed
+Ἐθαύμασε τὸ ἄγαλμα. | He admired the statue. | composed
+Ὁ πόσις τῆς ἀνάσσης ἐστὶ βασιλεύς. | The queen's husband is a king. | composed
+Φιλεῖ τὸν πόσιν. | She loves her husband. | composed
+Πείθεται ἡ γυνὴ τῷ πόσει. | The wife obeys her husband. | composed
+Ἡ ἄνασσα τοῦ πόσεως ἐπιθυμεῖ. | The queen longs for her husband. | composed
+Εὐμενῶς δέχεται τὸν ξένον. | She receives the stranger kindly. | composed
+Ὁ γέρων ξενίζει τὸν ξένον. | The old man entertains the stranger. | composed
+Δῶρον ἔχει. | He has a gift. | composed
+Ἔσωσεν ὁ κύων τὰ πρόβατα. | The dog saved the sheep. | composed
+Οὐκ ἐπιλανθάνεται ὁ ξένος τῆς πατρίδος. | The stranger doesn't forget his homeland. | composed
+Οἴκαδε ἤλασε τὸν βοῦν. | He drove the ox home. | composed
+Ἡ κόρη γαμεῖται τῷ νεανίᾳ. | The girl is marrying the young man. | composed
+Οὐκ ἠθέλησε πονεῖν. | He refused to work. | composed
+Ὁ γεραιὸς πατήρ ἐστιν ἐν τῷ κήπῳ. | The aged father is in the garden. | composed
+Πλούσιος ὁ ἔμπορος. | The merchant is rich. | composed
+Ὑπέρκοπός ἐστιν ὁ ἔμπορος. | The merchant is arrogant. | composed
+Οὐκ ἐθέλει τὸν βοῦν λῦσαι. | He doesn't want to untie the ox. | composed
+Τὸν βασιλέα χαίρειν κελεύει καὶ ἀπέρχεται. | He bids the king farewell and goes away. | composed
+Ὀρθή ἐστιν ἡ ὁδός. | The road is straight. | composed
+Τὸν βοῦν λύσας οἴκαδε ἄγει. | He unties the ox and takes it home. | composed
+Τὸν μόσχον λύσασα ἄγει εἰς τὸν ἀγρόν. | She unties the calf and leads it to the field. | composed
+Οἱ παῖδες τὸν κύνα λύσαντες τρέχουσιν. | The children untie the dog and run. | composed
+Τὸ παιδίον τὸν κύνα λῦσαν τρέχει. | The little child unties the dog and runs. | composed | @λῦσαν:nom.n
+Τὰ παιδία τὸν κύνα λύσαντα τρέχει. | The little children untie the dog and run. | composed | @λύσαντα:nom.n
+Αἱ κόραι τὸν κύνα λύσασαι τρέχουσιν. | The girls untie the dog and run. | composed
+Ψέγει ὁ δεσπότης τὴν δούλην τὴν τὸν μόσχον λύσασαν. | The master scolds the slave woman who untied the calf. | composed
+Ἀκούει τῆς δούλης τῆς τὸν μόσχον λυσάσης. | He listens to the slave woman who untied the calf. | composed
+Χαλεπαίνει ὁ πατὴρ τῇ κόρῃ τῇ τὸν κύνα λυσάσῃ. | The father is angry with the girl who untied the dog. | composed
+Ψέγει τὰς κόρας τὰς τὸν κύνα λυσάσας. | He scolds the girls who untied the dog. | composed
+Τὸν ναύκληρον τὸν πάντας σώσαντα θαυμάζουσιν. | They admire the captain who saved everyone. | composed | @σώσαντα:acc.m.s
+Τοῦ ναυκλήρου τοῦ πάντας σώσαντος ἀκούουσιν. | They listen to the captain who saved everyone. | composed
+Τῷ ναυκλήρῳ τῷ πάντας σώσαντι χάριν ἔχουσιν. | They are grateful to the captain who saved everyone. | composed
+Τοὺς ναύτας τοὺς πάντας σώσαντας θαυμάζουσιν. | They admire the sailors who saved everyone. | composed
+Τοῖς ναύταις τοῖς πάντας σώσασι χάριν ἔχουσιν. | They are grateful to the sailors who saved everyone. | composed
+Θαυμάζουσι τὸ πλοῖον τὸ πάντας σῶσαν. | They admire the ship that saved everyone. | composed | @σῶσαν:acc.n
+Θαυμάζουσι τὰ πλοῖα τὰ πάντας σώσαντα. | They admire the ships that saved everyone. | composed | @σώσαντα:acc.n
+Ὁ θόρυβος τῶν ἀκουσάντων μέγας ἦν. | The noise of those who heard it was great. | composed
+Ὁ θόρυβος τῶν ἀκουσασῶν γυναικῶν μέγας ἦν. | The women who heard it made a great noise. | composed
+Ταῖς κόραις ταῖς τὸν παῖδα σωσάσαις χάριν ἔχει. | He is grateful to the girls who saved the boy. | composed
+Οἱ ναῦται τὰ φορτία ἐκφέρουσιν ἐκ τῆς νεώς. | The sailors carry the cargo out of the ship. | composed
+Ἔχεται ὁ παῖς τοῦ πατρός. | The boy holds on to his father. | composed
+Ἀπορεῖ ὁ ξένος· οὐ γὰρ γιγνώσκει τὴν ὁδόν. | The stranger is at a loss, because he doesn't know the way. | composed
+Περιμένει τὸν υἱόν. | He waits for his son. | composed
+Οὐ βούλεται παύσασθαι. | He doesn't want to stop. | composed
+Εἰς τὸ οἰνοπώλιον εἰσέρχεται ὁ ναύτης. | The sailor goes into the wine shop. | composed
+Οἱ πλεῖστοι τῶν ναυτῶν εἰσιν ἐν τῷ οἰνοπωλίῳ. | Most of the sailors are in the wine shop. | composed
+Οἱ παῖδες πανταχόσε τρέχουσιν. | The children run in every direction. | composed
+Πλεῖστον φιλεῖ τὴν θυγατέρα. | He loves his daughter most. | composed | @πλεῖστον=πλεῖστον
+Ὁ ἔμπορος πωλεῖ τὸν οἶνον. | The merchant sells the wine. | composed
+Πλείονα χρήματα ἔχει. | He has more money. | composed | @Πλείονα:acc.n.p
+Πλείων ἐστὶν ὁ πόνος. | The work is greater. | composed
+Πλείονα σῖτον ἔχει. | He has more grain. | composed | @Πλείονα:acc.m
+Πλείονες ἦσαν οἱ δοῦλοι. | There were more slaves. | composed
+Πλείους δούλους ἔχει. | He has more slaves. | composed | @Πλείους:acc
+Πλείονα τὰ ἔργα. | The tasks are more numerous. | composed | @Πλείονα:nom.n
+Ἐκ πλειόνων κωμῶν ἥκουσιν. | They come from more villages. | composed
+Πρᾷος ὁ γέρων. | The old man is gentle. | composed
+Φιλοῦσιν τὸν πρᾷον γέροντα. | They love the gentle old man. | composed
+Πείθονται τῷ πρᾴῳ γέροντι. | They obey the gentle old man. | composed
+Ἀκούουσιν τοῦ πρᾴου γέροντος. | They listen to the gentle old man. | composed
+Πρᾷοι οἱ γέροντες. | The old men are gentle. | composed
+Πραεῖα ἡ γυνή. | The woman is gentle. | composed
+Πρᾷον τὸ ζῷον. | The animal is tame. | composed | @Πρᾷον:nom
+Ἐπὶ τῷ χώματι καθίζει. | He sits down on the mound. | composed
+Εἰς καιρὸν ἦλθεν ὁ ἄγγελος. | The messenger came at the right moment. | composed
+Ἐρωτᾷ ὁ πάππος τὸν παῖδα. | Grandfather asks the boy a question. | composed
+Ἤρετο τὸν παῖδα· «Ποῦ ἦσθα;» | He asked the boy, “Where have you been?” | composed
+«Ἐπὶ πόσῳ;» ἐρωτᾷ ὁ ναύτης. | “How much?” asks the sailor. | composed
+Εὖ λέγεις. | You speak well. | composed
+Νοστεῖν βούλεται. | He wants to return home. | composed
+Μένομεν ἢ ἀπερχόμεθα; | Are we staying or going? | composed
+Ὁ ναύτης ἄγαν πίνει. | The sailor drinks too much. | composed
+Πόρρωθεν ὁρῶμεν τὴν ναῦν. | We see the ship from far away. | composed
+Ὕστερον ἦλθεν ὁ ξένος εἰς τὴν πόλιν. | Later the stranger came to the city. | composed | @ἦλθεν:3s
+Ὀλίγῳ ὕστερον ἀφίκετο ἡ ναῦς. | A little later the ship arrived. | composed
+«Πῶς δαί;» ἔφη ὁ πάππος. | “What do you mean?” said grandfather. | composed
+Ὁ γέρων ἐν τῇ κώμῃ διάγει τὸν βίον. | The old man spends his life in the village. | composed
+Οὐδὲν ἀπεκρίνατο. | He made no answer. | composed
+Ἡ μήτηρ ἤγειρε τοὺς παῖδας. | The mother woke the children. | composed
+Ὁ λύκος ἐτρέψατο καὶ ἔφυγεν. | The wolf turned and fled. | composed
+Ἔπεισε τὸν πατέρα. | She persuaded her father. | composed
+Κατὰ πόλιν εἰσὶ πολλοὶ ἔμποροι. | In the city there are many merchants. | composed
+Ὁ ἰατρὸς ἰᾶται τὸν νοσοῦντα. | The doctor heals the sick man. | composed
+Ἐνύπνιον εἶδεν. | He had a dream. | composed
+Χωλὸς ὁ πτωχός. | The beggar is lame. | composed
+Ἡ ὄψις τοῦ ξένου ἐστὶ φοβερά. | The stranger's appearance is frightening. | composed
+Ὁ ὗς ἐστιν ἐν τῇ ὕλῃ. | The pig is in the wood. | composed
+# review of chapters 11–12
+«Ἐπαύσασθε, ὦ δοῦλοι;» | “Have you stopped, slaves?” | composed | @ἐπαύσασθε:ind
+«Ναί, ἐπαυσάμεθα.» | “Yes, we have stopped.” | composed
+«Τί οὐκ ἐπαύσω, ὦ παῖ;» | “Why didn't you stop, boy?” | composed
+«Παύσασθε, ὦ παῖδες.» | “Stop, children!” | composed | @παύσασθε:imp
+Πάντας ἔσωσεν ὁ ναύκληρος πλὴν ἑνός. | The captain saved everyone except one man. | composed
+Μίαν μόνον κόρην ὁρᾷ. | He sees only one girl. | composed
+Ἑνὶ μόνῳ ἀνθρώπῳ σῖτον παρέχει. | He gives food to one person only. | composed
+Ἐκ μιᾶς κώμης ἥκουσιν. | They come from one village. | composed
+«Χαῖρε, ὦ πάντας σώσας.» | “Hail, you who saved us all.” | composed | @σώσας:voc
+«Χαῖρε, ὦ πάντας σώσασα.» | “Hail, lady, you who saved us all.” | composed | @σώσασα:voc
+«Χαίρετε, ὦ πάντας σώσαντες.» | “Hail, you who saved us all.” | composed | @σώσαντες:voc
+«Χαίρετε, ὦ πάντας σώσασαι.» | “Hail, ladies, you who saved us all.” | composed | @σώσασαι:voc
+«Ἐπὶ πόσῳ πωλεῖς τὸν ὗν;» | “How much are you selling the pig for?” | composed
+Τὸ κρέας τοῦ ὑὸς καλόν ἐστιν. | The pork is good. | composed
+Οἱ ὕες ἐν τῷ ἀγρῷ εἰσιν. | The pigs are in the field. | composed
+Ἀκούσασα τὸν μῦθον ἐδάκρυσεν. | On hearing the story she burst into tears. | composed | +X:aor-ingr
+Ἐκεῖνος ὁ τόπος ἐστὶ καλός, ὅπου τὰ ἄνθη ἐστίν. | That place where the flowers are is beautiful. | composed
+Ἐπιθυμεῖ ἡ κόρη τοῦ ἄνθους. | The girl wants the flower. | composed
+Χαίρει τῷ ἄνθει. | She is delighted with the flower. | composed
+Ἡ κόρη τῶν ἀνθῶν ἐπιθυμεῖ. | The girl wants the flowers. | composed
+Θαυμάζει τὴν ὄψιν τῆς πόλεως. | He marvels at the sight of the city. | composed
+Χαίρει τῇ ὄψει τῆς πόλεως. | He delights in the sight of the city. | composed
+Ὁ ξένος τῆς ὄψεως τῆς πόλεως ἐπιθυμεῖ. | The stranger longs for the sight of the city. | composed
+Ὁ γέρων ἐνύπνιόν τι εἶδεν. | The old man had a dream. | composed

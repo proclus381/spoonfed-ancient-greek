@@ -1,0 +1,25 @@
+# Supplement (not in Athenaze): concepts from Smyth's Greek Grammar that the book does not treat and that are too
+# rare or too advanced for its chapters (added 2026-11-23). Everything else in these cards is known from ch. 1–31.
+αἰτιάομαι | accuse, blame (+ acc. of the person, gen. of the charge) | v
+X:gen-charge | with verbs of accusing, prosecuting and convicting the genitive names the charge (αἰτιῶνται αὐτὸν δειλίας “they accuse him of cowardice”); Smyth §1375
+X:aor-gnomic | the gnomic aorist: the aorist can state a general truth, translated with the English present; Smyth §1931
+X:pres-pf | the present with an expression of past time (πάλαι, πολὺν χρόνον): “have been …-ing” (πάλαι σε ζητῶ “I have been looking for you for a long time”); Smyth §1885
+X:aor-dramatic | the dramatic aorist: in dialogue a 1st sg. aorist for a feeling of the moment (ἥσθην “I am delighted”, ἐγέλασα “I can't help laughing”); Smyth §1937
+X:me-doubt | μή (μὴ οὐ) + subjunctive in a cautious assertion: “it may be that, perhaps (not)” (μὴ χαλεπὸν ᾖ “it may be hard”); Smyth §1801
+C:ἐφ᾽ ᾧτε / ἐφ᾽ ᾧ | on condition that (+ infinitive or future indicative); Smyth §2279
+X:hosper-an-ei | ὥσπερ (ἂν) εἰ + the mood of an unreal condition: “just as if” (ὥσπερ ἂν εἰ νέος ἦν “just as if he were young”); Smyth §2478–2480
+X:kai-tauta | καὶ ταῦτα “and that too, and what is more”, often with a participle (καὶ ταῦτα ἀσθενὴς ὤν “and that although he is weak”); Smyth §2083
+X:prolepsis | anticipation (prolepsis): the subject of a dependent clause becomes the object of the main verb (οὐκ οἶδα τὸν ξένον ὅστις ἐστίν “I don't know who the stranger is”); Smyth §2182
+C:ὡς ἔπος εἰπεῖν | so to speak, practically (the absolute infinitive; Smyth §2012)
+C:ὀλίγου δεῖν / ὀλίγου δεῖ | almost, all but (“to lack little”; the absolute infinitive, Smyth §2012)
+C:ἑκὼν εἶναι | willingly, if I can help it (usually with a negative; the absolute infinitive, Smyth §2012)
+X:echon-ptc | ἔχων with a verb: “keep on …-ing” (τί παίζεις ἔχων; “why do you keep joking?”); Smyth §2062
+C:τί μαθών / τί παθών | τί μαθών; “what possessed you to …?”, τί παθών; “what happened to make you …?”; Smyth §2064
+X:pf-subj | the perfect subjunctive and optative are usually periphrastic: perfect participle + ὦ / εἴην (ἀπεληλυθὼς ᾖ “may have left”); Smyth §691–696
+X:me-hoti | οὐχ ὅπως (μὴ ὅτι) … ἀλλά: “so far from …, (he) even …” (οὐχ ὅπως ἐβοήθησαν, ἀλλὰ καὶ ἔβλαψαν “so far from helping, they even did harm”); Smyth §2763
+ὀδούς | tooth (gen. ὀδόντος: an ντ-stem in -ούς; Smyth §258) |
+γραῦς | old woman (gen. γραός, dat. γραΐ; Smyth §275) |
+πειθώ | persuasion (gen. πειθοῦς, dat. πειθοῖ: stem in -οι; Smyth §279) |
+αἰδώς | shame, reverence (gen. αἰδοῦς, acc. αἰδῶ: σ-stem; Smyth §266) |
+εὔνους | well-disposed (εὔνους, εὔνουν, gen. εὔνου: contracted, two endings; Smyth §290) |
+χαρίεις | graceful (χαρίεις, χαρίεσσα, χαρίεν, gen. χαρίεντος; Smyth §299) |

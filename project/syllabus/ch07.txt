@@ -1,0 +1,87 @@
+αἱρέω | take, seize | v
+ἀναπηδάω | leap up | v impf=0
+ἀποθνήσκω | die | v impf=0
+ἀποκρίνομαι | answer | v impf=0 long
+ἀποφέρω | carry away | v impf=0
+ἁρπάζω | snatch, seize | v
+δεύω | wet, soak | v
+ἐκπέμπω | send out | v impf=0
+ἐκρέω | flow out | 
+ἐξαίρω | lift up, take out | v impf=0
+εὑρίσκω | find | v
+θερμαίνω | heat, warm | v
+καίω | burn, light (a fire) | v
+καταφεύγω | flee for refuge | v impf=0
+κατεσθίω | eat up, devour | v impf=0 mid
+κόπτω | strike, cut, knock | v short
+κρύπτω | hide | v short
+μεθύω | be drunk | v long
+σφάττω | slaughter | v short
+σωφρονέω | be sensible, behave sensibly | v
+ἐμαυτόν | myself | 
+αἰγιαλός | shore, beach | n
+αἴξ | goat | n3 gen=αἰγός g=f
+ἄνεμος | wind | n
+ἄντρον | cave | n
+ἀσκός | wineskin | n
+γίγας | giant | n3 gen=γίγαντος
+δέρμα | skin, hide | n3 gen=δέρματος g=n
+ἐγκέφαλος | brain | n
+εἴσοδος | entrance | n g=f
+εὐδία | fair weather | n
+ἡγεμών | leader, guide | n3 gen=ἡγεμόνος
+θεός | god | n
+θησαυρός | treasure | n
+καπνός | smoke | n
+κίνδυνος | danger | n
+λαμπάς | torch | n3 gen=λαμπάδος g=f
+λιμήν | harbour | n3 gen=λιμένος
+μέτωπον | forehead | n
+μυχός | innermost part, far end | n
+ξένος | stranger, guest | n
+ὄνομα | name | n3 gen=ὀνόματος g=n
+ὀφθαλμός | eye | n
+πατρίς | fatherland, homeland | n3 gen=πατρίδος g=f
+ποίμνιον | flock (τὰ ποίμνια) | n
+πῦρ | fire | n3 gen=πυρός g=n
+πύργος | tower | n
+ῥόπαλον | club | n
+φθόγγος | voice, sound | n
+φῶς | light | n3 gen=φωτός g=n
+χειμών | storm | n3 gen=χειμῶνος
+οὐδείς | no one, nothing, no | 
+δύο | two | 
+δώδεκα | twelve | 
+εἷς | one | 
+ἐχθρός | hostile; enemy | adj
+μέγιστος | very big, biggest | adj
+μέσος | middle | adj
+μόνος | alone, only | adj
+πᾶς | all, every, whole | 
+πολύμητις | of many wiles | 
+πολύτροπος | of many turns, wily | adj2
+σοφός | wise, clever | adj
+σῶος | safe | adj
+σώφρων | sensible, prudent | adj3 neut=σῶφρον gen=σώφρονος
+τυφλός | blind | adj
+φοβερός | frightening | adj
+Ἀγαμέμνων | (name) | n3 gen=Ἀγαμέμνονος
+Αἴολος | (name) | n
+Ἀχαιοί | (name) | n
+Ἰθάκη | (name) | n
+Κύκλωψ | (name) | n3 gen=Κύκλωπος
+Λαέρτης | (name) | n
+Ὀδυσσεύς | (name) | 
+Ποσειδῶν | (name) | n3 gen=Ποσειδῶνος
+Τροία | (name) | n
+ἐγγύς | near (+ gen.) | 
+ἔνδον | inside | 
+ἐνθάδε | here | 
+πρῶτον | first, at first | 
+πῶς | how? | 
+X:passive | the middle forms can also be passive: ὑπό + gen. = “by”
+C:κατὰ θάλατταν | by sea
+C:ὡς τάχιστα | as quickly as possible
+ὑπέχω | hold under, hold out | v impf=0
+# set phrases the readings use without listing them among the Locuzioni (added 2026-11-23)
+C:μετὰ ταῦτα / μετὰ δὲ ταῦτα | after this, afterwards

@@ -1,0 +1,72 @@
+# Athenaze II, ch.25 (Σόλων καὶ Κροῖσος) — the optative: wishes (εἴθε, εἰ γάρ); in subordinate clauses after a past tense; in indirect speech after a past tense; the future optative
+# ---- principal parts
+ξενίζω | receive as a guest, entertain | v fut=ξενιῶ aor=ἐξένισα/ξενισ aorp=ἐξενίσθην
+ἕλκω | drag, draw, pull | v fut=ἕλξω aor=εἵλκυσα/ἑλκυσ irr pfm=εἵλκυσμαι! aorp=εἱλκύσθην/ἑλκυσθ!
+θάπτω | bury | v fut=θάψω pfm=τέθαμμαι!
+καταστρέφω | overturn, upset; (middle) subdue, conquer | v fut=καταστρέψω aor=κατ·έστρεψα/καταστρεψ pfm=κατ·έστραμμαι! aorp=κατ·εστράφην/καταστραφ!
+κρίνω | judge, decide | v fut=κρινῶ! aor=ἔκρινα/κριν irr pf=κέκρικα! pfm=κέκριμαι! aorp=ἐκρίθην!
+πράττω | do, act; fare | v aor=ἔπραξα/πραξ
+# ---- new verbs
+ἀνελίττω | unroll (a book-roll) | v fut=ἀνελίξω aor=ἀν·είλιξα/ἀνελιξ base=ἑλίττω
+ἀποδημέω | be abroad, go abroad | v reg pre=ἀπο
+ἀρτιάζω | play at odds and evens | v reg
+ἀστραγαλίζω | play knucklebones | v reg
+γηροτροφέω | support (a parent) in old age | v reg
+ἐκγίγνομαι | be born from, be the child of (+ gen.) | v aor_mid=ἐξ·εγενόμην/ἐκγεν base=γίγνομαι
+ἐκμανθάνω | learn thoroughly, learn by heart | v fut=ἐκμαθήσομαι aor2=ἐξ·έμαθον/ἐκμαθ base=μανθάνω
+ἐξεπίσταμαι | know thoroughly |
+εὐωχέομαι | feast, have a good time | v reg
+καταφρονέω | look down on, despise (+ gen.) | v reg pre=κατα
+κυρέω | hit upon, meet with; happen to be | v reg
+περιάγω | lead round, take round | v fut=περιάξω aor2=περι·ήγαγον/περιαγαγ base=ἄγω
+προαιρέομαι | choose (in preference), prefer | v fut=προαιρήσομαι aor_mid=προ·ειλόμην/προελ base=αἱρέω
+τελευτάω | end, finish; die | v reg
+τοπάζω | guess | v reg
+ὑποθωπεύω | flatter a little, coax | v reg pre=ὑπο
+# ---- nouns
+ἀπόδειξις | display, demonstration; publication | nis g=f
+ἀποδυτήριον | changing room | n
+βασίλειον | (pl. τὰ βασίλεια) palace | n
+γείτων | neighbour | n3 gen=γείτονος
+γωνία | corner | n
+δευτερεῖον | (pl. τὰ δευτερεῖα) second prize | n
+διδασκαλεῖον | school | n
+εὐδαιμονία | happiness, prosperity | n
+ζεῦγος | yoke (of oxen), pair | nes
+θεωρία | sightseeing, viewing | n
+ὅρκος | oath | n
+παλαίστρα | wrestling school, palaestra | n
+περίπατος | walk, stroll | n
+πλάνη | wandering | n
+τροπή | turning; rout (of an enemy) | n
+φορμίσκος | small basket | n
+Ἀλυάττης | (name) | n
+Βίτων | (name) | n3 gen=Βίτωνος
+Ἥρα | (name) | n
+Κλέοβις | (name) | nis g=m
+Σάρδεις | (name) |
+Σόλων | (name) | n3 gen=Σόλωνος
+# ---- adjectives, numerals
+ἀθλοφόρος | prize-winning | adj2
+ὄλβιος | happy, blessed, prosperous | adj
+πάμπολυς | very much, very great; (pl.) very many |
+συχνός | long; many, frequent | adj
+τετταράκοντα | forty |
+# ---- prepositions, adverbs, conjunctions
+ἀντίον | opposite, facing (+ gen.) |
+πάγχυ | altogether, entirely |
+πάντως | in every way, by all means; at any rate |
+εἴθε | if only, would that (+ optative) |
+C:ἀπὸ στόματος λέγω / ἀπὸ στόματος λέγει / ἀπὸ στόματος λέγουσι / ἀπὸ στόματος λέγουσιν / ἀπὸ στόματος ἔλεγε / ἀπὸ στόματος ἔλεγεν / ἀπὸ στόματος εἶπε / ἀπὸ στόματος εἶπεν / ἀπὸ στόματος λέγειν / ἀπὸ στόματος εἰπεῖν / ἀπὸ στόματος λέγων / ἀπὸ στόματος λέγοιεν | recite from memory, say by heart
+C:δευτερεῖα φέρω / δευτερεῖα φέρει / δευτερεῖα φέρουσι / δευτερεῖα φέρουσιν / δευτερεῖα ἔφερε / δευτερεῖα ἔφερεν / δευτερεῖα ἤνεγκε / δευτερεῖα ἤνεγκεν / δευτερεῖα φέρειν / δευτερεῖα ἐνεγκεῖν / δευτερεῖα φέροι | take second prize, come second
+C:ἐν μέρει | in turn
+C:τὰ νομιζόμενα | the customary rites (for the dead)
+X:ei-gar | εἰ γάρ + optative: a wish, “if only, would that” (= εἴθε)
+X:logos-ergon | λόγῳ μὲν … ἔργῳ δὲ …: “in word … but in fact …”
+X:opt-wish | the optative of wish (often with εἴθε or εἰ γάρ; negative μή): “may …!, if only …!”
+X:opt-past | after a past tense the subjunctive of a subordinate clause may become optative (ἵνα, μή after verbs of fearing, ὅτε, ὅστις …), and ἄν drops out (ἐάν → εἰ, ὅταν → ὅτε)
+X:opt-indirect | indirect speech after a past tense: the verb may go into the optative of the same tense (ἔλεγεν ὅτι ὁ πατὴρ νοσοίη “he said that his father was ill”)
+# Ionic in Herodotus (added 2026-11-23)
+X:ion-art-rel | Ionic: the article as a relative pronoun, τόν, τά, τῷ … = ὅν, ἅ, ᾧ … (τὰ μή τις ἐθέλει “things one would not wish”; Herodotus)
+# for classical passages that the book quotes, in the author's own words (added 2026-11-23)
+ἔξω | outside (+ gen.) |

@@ -1,0 +1,114 @@
+# Athenaze II, ch.26 (Κροῖσος καὶ Ἄδραστος) — correlative pronouns and adverbs; uses of the accusative, genitive and dative; ἀπόλλυμι
+# ---- principal parts of verbs already known
+καθαίρω | purify, cleanse | v pfm=κεκάθαρμαι! aorp=ἐκαθάρθην/καθαρθ!
+ὀνομάζω | name, call | v aorp=ὠνομάσθην/ὀνομασθ
+δέομαι | need; ask, beg (+ gen.) | v fut=δεήσομαι aorp=ἐδεήθην!
+πυνθάνομαι | learn by inquiry, hear | v pfm=πέπυσμαι!
+αἱρέω | take; (mid.) choose | v mid
+# ---- new verbs
+φαίνω | show, reveal | v fut=φανῶ! aor=ἔφηνα/φην irr
+ἀποφαίνω | show, display, declare | v fut=ἀποφανῶ aor=ἀπ·έφηνα/ἀποφην irr base=φαίνω
+χαρίζομαι | do a favour, oblige, gratify (+ dat.) | v fut=χαριοῦμαι aor=ἐχαρισάμην/χαρισ
+ἀπόλλυμι | destroy, ruin, lose; (middle ἀπόλλυμαι, aor. ἀπωλόμην) perish, be lost | numi fut=ἀπολῶ! aor=ἀπ·ώλεσα/ἀπολεσ pf=ἀπολώλεκα!
+ἐφίστημι | set over; (middle, and aorist ἐπέστην) stand by, be in charge of (+ dat.) | cmpd base=ἵστημι pre=ἐπι raor=ἐπ·έστην/ἐπιστη/ἐπιστα fut=ἐπιστήσω
+ἐπανίσταμαι | rise up against, rebel (+ dat.) | cmpd base=ἵστημι pre=ἐπανα raor=ἐπαν·έστην/ἐπαναστη/ἐπαναστα fut=ἐπαναστήσω
+μέλει | it is a care, it concerns (+ dat. of the person, gen. of the thing): μέλει μοι “I care” |
+ἀκοντίζω | throw a javelin | v reg
+εἰσακοντίζω | throw a javelin at, into | v reg pre=εἰσ
+ἀλγέω | feel pain, suffer | v reg
+ἀμηχανέω | be at a loss (+ gen.) | v reg
+ἀνάγω | lead up; (middle) put out to sea | v mid fut=ἀνάξω aor2=ἀν·ήγαγον/ἀναγαγ base=ἄγω
+ἀνασταυρόω | impale, crucify | v reg pre=ἀνα
+γεύω | give a taste of; (middle) taste (+ gen.) | v reg mid
+δυστυχέω | be unlucky, be unfortunate | v reg
+ἐκκομίζω | carry out | v fut=ἐκκομιῶ aor=ἐξ·εκόμισα/ἐκκομισ base=κομίζω
+ἐκπίμπλημι | fill up; satisfy; fulfil |
+ἐξαρτύω | fit out, equip | v reg pre=ἐξ
+ἐπικυρέω | meet with, light upon (+ dat.) | v reg pre=ἐπι
+μεταγιγνώσκω | change one's mind, repent | v fut=μεταγνώσομαι raor=μετ·έγνων/μεταγνω/μεταγνο base=γιγνώσκω
+περιαιρέω | take off, take away | v aor2=περι·εῖλον/περιελ base=αἱρέω
+προθυμέομαι | be eager, be ready (+ inf.) | v aorp=προὐθυμήθην/προθυμηθ
+προσδοκάω | expect | v reg pre=προσ
+συμβουλεύω | advise (+ dat.); (middle) consult | v reg pre=συμ mid
+συννέω | heap up, pile up | v aor=συν·ένησα/συννησ irr
+συνταράττω | throw into confusion, upset | v fut=συνταράξω aor=συν·ετάραξα/συνταραξ aorp=συν·εταράχθην/συνταραχθ
+χρῄζω | need, want; desire (+ gen.) | v
+# ---- nouns
+ἄγρα | hunting, the chase | n
+ἀθυμία | despondency, discouragement | n
+αἰχμή | spear-point | n
+ἀκόντιον | javelin | n
+ἀταραξία | calm, freedom from disturbance | n
+βίβλος | book | n g=f
+βούλευμα | plan, decision | n3 gen=βουλεύματος g=n
+γάμος | marriage, wedding | n
+δειλία | cowardice | n
+ἐπιστολή | letter | n
+ἔπος | word; (pl.) verses, epic poetry | nes
+εὐτυχία | good luck, success | n
+καθάρσιον | purifying offering | n
+καταφυγή | refuge | n
+κειμήλιον | treasure, heirloom | n
+λογάς | (pl. οἱ λογάδες) picked men | n3 gen=λογάδος g=m
+μόρος | fate, death | n
+νέμεσις | retribution, divine vengeance | nis g=f
+ξενία | hospitality | n
+ὄνειρος | dream | n
+πέλαγος | sea, the open sea | nes
+σμάραγδος | emerald | n g=f
+συγγνώμη | pardon, forgiveness (συγγνώμην ἔχω + dat. “forgive”) | n
+σφραγίς | seal, signet ring | n3 gen=σφραγῖδος g=f
+τεχνίτης | craftsman | n
+φήμη | report, rumour; message from the gods | n
+φθόνος | envy, jealousy | n
+Ἄμασις | (name) | nis g=m
+Μυσία | (name) | n
+Μυσός | (name) | n
+Φρυγία | (name) | n
+# ---- adjectives, numerals
+αἱρετός | to be chosen, desirable | adj
+ἄχαρις | without grace, thankless, unpleasant | adj3 neut=ἄχαρι gen=ἀχάριτος
+γλυκύς | sweet | adjus
+ἔκγονος | born from; (as noun) descendant | adj2
+ἐλεινός | pitiable | adj
+καθάρσιος | purifying, of purification | adj2
+κωφός | deaf; dumb | adj
+μοχθηρός | wretched; wicked | adj
+νεόγαμος | newly married | adj2
+σιδηροῦς | of iron | 
+φθονερός | envious, jealous | adj
+ἅπαξ | once |
+# ---- correlatives
+οἷος | of the kind that, such as; οἷός τ᾽ εἰμί + inf. “I am able” | adj
+ὁπόσος | as much as, as many as; (in indirect questions) how much, how many | adj
+ὅθεν | from where, whence |
+ὁπόθεν | from where (indirect) |
+ὅποι | to where (indirect, and “wherever”) |
+ἐκεῖθεν | from there |
+εὐτυχῶς | luckily, successfully |
+C:δίαιταν ἔχω / δίαιταν ἔχει / δίαιταν εἶχε / δίαιταν εἶχεν / δίαιταν εἶχον / δίαιταν ἔχουσι / δίαιταν ἔχουσιν / δίαιταν ἔχων / δίαιταν ἔχειν | live, have one's home (somewhere)
+C:εὖ πράττω / εὖ πράττει / εὖ πράττεις / εὖ πράττομεν / εὖ πράττουσι / εὖ πράττουσιν / εὖ πράττειν / εὖ πράττων / εὖ πράττοντες / εὖ ἔπραττε / εὖ ἔπραττεν / εὖ ἔπραττον | fare well, be prosperous
+C:χωρεῖ εὐτυχῶς / ἐχώρει εὐτυχῶς / χωρήσει εὐτυχῶς | it turns out well, it goes well
+X:agomai-gyn | ἄγομαι γυναῖκα: “take as a wife, marry” (ἄγομαι γυναῖκά τινι “find a wife for someone”)
+X:hoios-te | οἷός τ᾽ εἰμί + infinitive: “I am able to” (οὐχ οἷός τ᾽ εἰμὶ μὴ οὐ + inf. “I cannot help …”)
+X:correl | the correlatives: πόσος; – ποσός – ὁπόσος – ὅσος – τοσοῦτος; ποῖος; – ὁποῖος – οἷος – τοιοῦτος; ποῦ; – ὅπου – οὗ – ἐκεῖ; πόθεν; – ὁπόθεν – ὅθεν – ἐκεῖθεν; ποῖ; – ὅποι – ἐκεῖσε; πότε; – ὁπότε – ὅτε – τότε
+X:acc-resp | accusative of respect: “in respect of, in” (ἀλγεῖ τὴν κεφαλήν “he has a headache”; τὸ γένος Ἕλλην)
+X:acc-abs | accusative absolute of impersonal verbs: ἐξόν “since it is allowed”, δέον “since it is necessary”
+X:me-ou | μὴ οὐ + infinitive after a negative verb of preventing or being able: οὐχ οἷός τ᾽ εἰμὶ μὴ οὐ δακρύειν “I cannot help weeping”
+# Smyth inventory (added 2026-11-23): the uses of the cases. The book's summary in this chapter lists the adverbial accusative, the genitive of separation, with verbs and with adjectives, the dative of interest, verbs with the dative and the dative “with”; the others are Smyth
+X:acc-adv | the adverbial accusative: neuter adjectives and pronouns as adverbs (μέγα βοᾷ “shouts loudly”, οὐδέν “not at all”, τὸ πρῶτον “at first”, τὰ πολλά “for the most part”); Smyth §1606–1611
+X:acc-cognate | the cognate (internal) accusative: a noun of related meaning as object (μάχην μάχεσθαι “fight a battle”, νίκην νικᾶν “win a victory”, βίον ζῆν “live a life”); Smyth §1563–1567
+X:gen-sep | the genitive of separation and origin: παύομαι τοῦ ἔργου “I stop work”, ἀπέχει τῆς θαλάττης “is far from the sea”, ἀγαθοῦ πατρὸς γενόμενος “born of a good father”; Smyth §1392, §1410
+X:gen-verbs | verbs with the genitive: taking hold (λαμβάνομαι), ruling (ἄρχω, κρατέω, βασιλεύω), hitting and missing (τυγχάνω, ἁμαρτάνω), perceiving and touching (ἀκούω, αἰσθάνομαι, ἅπτομαι), sharing (μετέχω); Smyth §1341–1370
+X:gen-adj | the genitive with adjectives: ἄξιος τιμῆς “worthy of honour”, αἴτιος τοῦ πολέμου “responsible for the war”, μεστός, ἔμπειρος, ἄπειρος + gen.; Smyth §1412
+X:gen-cause | the genitive of cause with verbs of feeling: θαυμάζω σε τῆς ἀνδρείας “I admire you for your courage”, οἰκτίρω σε τῆς συμφορᾶς “I pity you for your misfortune”; Smyth §1405
+X:gen-excl | the genitive in exclamations, often after an interjection: φεῦ τοῦ ἀνδρός “alas for the man!”; Smyth §1407
+X:dat-interest | the dative of interest (advantage or disadvantage): “for” (τοῖς παισὶν οἰκίαν ᾠκοδόμησεν “he built a house for his children”); Smyth §1481
+X:dat-verbs | verbs with the dative where English has a direct object: ἕπομαι, ἀκολουθέω “follow”, βοηθέω “help”, πείθομαι “obey”, χράομαι “use”, μάχομαι “fight”; Smyth §1460
+X:dat-accomp | the dative of accompaniment: with αὐτός “… and all” (αὐτοῖς τοῖς ναύταις “crews and all”), and in military movements (πολλῷ στρατῷ “with a large army”); Smyth §1524–1526
+X:dat-manner | the dative of manner: σιγῇ “in silence”, βίᾳ “by force”, δρόμῳ “at a run”, σπουδῇ “in haste”, τούτῳ τῷ τρόπῳ “in this way”; Smyth §1513, §1527
+X:dat-cause | the dative of cause: “from, through, out of” (φόβῳ “from fear”, ὕβρει “out of insolence”, ἀγνοίᾳ “through ignorance”); Smyth §1517
+X:dat-ethic | the ethical dative: μοι, ἡμῖν showing the speaker's concern, often “please” (μή μοι θορυβεῖτε “please don't make a noise”); Smyth §1486
+X:gen-measure | the genitive of measure and material: ὁδὸς τριῶν ἡμερῶν “a three days' journey”, τεῖχος ὀκτὼ σταδίων “a wall eight stades long”; Smyth §1323, §1325
+# for classical passages that the book quotes, in the author's own words (added 2026-11-23)
+X:ion-psil | Ionic has no aspiration in some words and before rough breathing: ἀπικνέομαι = ἀφικνέομαι, ἀπ᾽ οὗ = ἀφ᾽ οὗ (Herodotus)

@@ -1,0 +1,93 @@
+# Athenaze II, ch.29 (ὁ λοιμός; the naval battles in the Gulf) — οἶδα; result clauses; ἕ / σφεῖς; the potential optative; the "Attic" declension
+# ---- οἶδα and other perfects with a present meaning
+οἶδα | know (ᾔδη “I knew”) |
+πρόοιδα | know beforehand |
+εἴωθα | be accustomed (εἰώθει “he used to”) |
+# ---- verbs with principal parts
+ταράττω | disturb, throw into confusion | v fut=ταράξω aor=ἐτάραξα/ταραξ aorp=ἐταράχθην/ταραχθ
+στέλλω | make ready; send | v fut=στελῶ! aor=ἔστειλα/στειλ! aorp=ἐστάλην/σταλ!
+ἀποστέλλω | send away, send off | v fut=ἀποστελῶ aor=ἀπ·έστειλα/ἀποστειλ aorp=ἀπ·εστάλην/ἀποσταλ base=στέλλω
+ἐκπνέω | breathe out; breathe one's last | v aor=ἐξ·έπνευσα/ἐκπνευσ
+# ---- other new verbs
+ἀντιπαραπλέω | sail along on the opposite side |
+διαιτάομαι | live, pass one's life | v
+διαφεύγω | escape | v aor2=δι·έφυγον/διαφυγ base=φεύγω
+ἐγκατασκήπτω | fall upon, strike (of a disease) | v aor=ἐγκατ·έσκηψα/ἐγκατασκηψ
+εἴργω | shut in; keep away, prevent | v
+ἐκπλέω | sail out |
+καλινδέομαι | roll about |
+κατασκεδάννυμι | pour over, scatter over | numi aor=κατ·εσκέδασα/κατασκεδασ
+κενόω | empty | v reg
+ὀλιγωρέω | take little account of, neglect (+ gen.) | v reg
+παραπλέω | sail past, sail along |
+προθνήσκω | die before; die for (ὑπέρ + gen.) | v
+προσπίπτω | fall upon, attack (+ dat.) | v aor2=προσ·έπεσον/προσπεσ base=πίπτω
+προϋπάρχω | be there before, exist already | v
+σέβομαι | revere, worship (also σέβω) | v
+στερίσκω | deprive (someone: acc., of something: gen.) | v
+συνάγω | bring together, gather | v aor2=συν·ήγαγον/συναγαγ base=ἄγω
+τηρέω | watch, guard; watch for | v reg
+φρουρέω | guard, keep watch | v reg
+# ---- nouns
+βήξ | cough | n3 gen=βηχός g=m
+γλῶττα | tongue; language | n
+ἐρύθημα | redness, flush | n3 gen=ἐρυθήματος g=n
+εὐρυχωρία | open space, room | n
+C:ἅμα ἕῳ / ἅμα τῇ ἕῳ / πρὸς ἕω | at dawn (ἡ ἕως, τῆς ἕω, τῇ ἕῳ, τὴν ἕω “dawn”) / towards dawn, eastwards
+θέρμη | heat; fever | n
+καρδία | heart; (in medical writers) stomach | n
+λήθη | forgetfulness | n
+λοιδορία | abuse, railing | n
+λοιμός | plague, pestilence | n
+λύγξ | hiccup, retching | n3 gen=λυγγός g=f
+πορθμός | strait; ferry | n
+πρύμνη | stern (of a ship) | n
+σινδών | fine linen; linen garment | n3 gen=σινδόνος g=f
+σπασμός | convulsion, spasm | n
+σύμβουλος | adviser | n
+τάξις | arrangement, order; battle line, post | nis g=f
+τροπαῖον | trophy (a monument of victory) | n
+φάρυγξ | throat | n3 gen=φάρυγγος g=f
+φθόρος | destruction, death | n
+φλόγωσις | inflammation | nis g=f
+νεώς | temple (Attic declension: τοῦ νεώ, τὸν νεών) |
+λεώς | people, folk (Attic declension) |
+# ---- names (free)
+Ἀκαρνανία | (name) | n
+Ἀχαΐα | (name) | n
+Δύμη | (name) | n
+Κνῆμος | (name) | n
+Κρῖσα | (name) | n
+Κυλλήνη | (name) | n
+Λευκάς | (name) | n3 gen=Λευκάδος g=f
+Μολύκρειον | (name) | n
+Ναύπακτος | (name) | n g=f
+Πάτραι | (name) | n
+Ῥίον | (name) | n
+Φορμίων | (name) | n3 gen=Φορμίωνος
+Χαλκίς | (name) | n3 gen=Χαλκίδος g=f
+# ---- adjectives, adverbs, phrases
+αἱματώδης | bloody, blood-red | adjes
+ἀνωφελής | useless, unprofitable | adjes
+ἡμιθνής | half-dead |
+λεπτός | thin, fine, delicate | adj
+περίλοιπος | remaining, surviving | adj2
+πνιγηρός | stifling, choking | adj
+στρατηγίς | (ναῦς) the general's ship, flagship | n3 gen=στρατηγίδος g=f
+στρατιωτικός | of soldiers, military | adj
+ἀντιπέρας | on the opposite side, opposite (+ gen.) |
+C:ἐν χρῷ | close up, grazing (lit. “at the skin”)
+# ---- pronouns and grammar
+ἕ | (indirect reflexive) him, her: οὗ, οἷ, ἕ |
+σφεῖς | (indirect reflexive) they: σφῶν, σφίσι(ν), σφᾶς |
+X:opt-pot | ἄν + optative, the potential optative: “would, could, might” (negative οὐ): οὐκ ἂν δυναίμην “I couldn't”; βουλοίμην ἄν “I would like”
+X:hoste-ind | ὥστε + indicative: a result that actually happened (ὥστε + infinitive: the natural or possible result)
+X:attic-decl | the “Attic” declension in -ως (an ω everywhere, ι subscript where λόγος has ι): ὁ νεώς, τοῦ νεώ, τῷ νεῴ, τὸν νεών, οἱ νεῴ, τῶν νεών, τοῖς νεῴς, τοὺς νεώς; ἵλεως, ἵλεων
+X:epi-purpose | ἐπί + dative: “for, for the purpose of” (ἐπὶ θήρᾳ “for hunting”)
+X:pro-pref | πρό + genitive: “instead of, in preference to” (θάνατον πρὸ δουλείας αἱροῦμαι)
+X:sense-kamno | κάμνω also means “be ill” (ὁ κάμνων “the sick man, the patient”) | lemma=κάμνω hint=be ill
+X:sense-pharmakon | φάρμακον also means “poison” | lemma=φάρμακον hint=poison
+# Smyth inventory (added 2026-11-23): a Smyth concept Athenaze does not treat
+X:me-redundant | after verbs of hindering, forbidding and denying, μή before the infinitive is not translated (εἴργει αὐτοὺς μὴ ἐκπλεῖν “he prevents them from sailing out”); Smyth §2739–2740
+# Ionic in Herodotus (added 2026-11-23)
+X:ion-uncontr | Ionic leaves vowels uncontracted: ἔτεα = ἔτη, πένθεϊ = πένθει, αἱρέεται = αἱρεῖται (Herodotus)

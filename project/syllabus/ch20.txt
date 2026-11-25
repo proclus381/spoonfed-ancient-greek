@@ -1,0 +1,87 @@
+# Athenaze II, ch.20 (Ὁ νόστος, cont.) — ἵστημι and its compounds; the supplementary participle (λανθάνω, φθάνω, τυγχάνω, φαίνομαι …); ὥστε + infinitive
+# ---- principal parts of verbs already known
+κρύπτω | hide | v short aor=ἔκρυψα/κρυψ pfm=κέκρυμμαι! aorp=ἐκρύφθην
+οἰκτίρω | pity | v fut=οἰκτιρῶ! aor=ᾤκτιρα/οἰκτιρ irr
+ἵστημι | make stand, set up, stop; (middle, and aorist ἔστην) stand, stop | vx mid fut=στήσω! pf=ἕστηκα! aorp=ἐστάθην!
+ἀνίστημι | make stand up, raise; (middle, and aorist ἀνέστην) stand up | cmpd base=ἵστημι pre=ἀνα fut=ἀναστήσω
+# ---- new verbs
+ἀρέσκω | please (+ dat.); ἀρέσκει μοι “it pleases me, I like it” | v fut=ἀρέσω! aor=ἤρεσα/ἀρεσ irr
+καθίστημι | set down; put (into a state), appoint; (middle, and aorist κατέστην) get into (a state), become (εἰς + acc.) | cmpd base=ἵστημι pre=κατα raor=κατ·έστην/καταστη/καταστα fut=καταστήσω
+συνίστημι | bring together, introduce (to: + dat.); (middle, and aorist συνέστην) come together, band together | cmpd base=ἵστημι pre=συν raor=συν·έστην/συστη/συστα fut=συστήσω
+λανθάνω | escape the notice of (+ acc.); with a participle: do something unnoticed | v fut=λήσω! aor2=ἔλαθον/λαθ pf=λέληθα!
+ἀλαλάζω | raise the war-cry, shout aloud | v aor=ἠλάλαξα/ἀλαλαξ irr
+ἀλάομαι | wander | v
+ἀναμιμνήσκομαι | remember, recall (+ gen.) | v
+ἀποδύομαι | take off one's clothes, undress | v
+εἰσπηδάω | leap in, burst in | v reg pre=εἰσ
+μαντεύομαι | prophesy; consult an oracle | v reg
+προμαντεύομαι | foretell, prophesy | v reg pre=προ
+μοιχεύω | commit adultery with, seduce (+ acc.) | v reg
+ὄζω | smell (of: + gen.) | v
+περιφοιτάω | wander about, roam around | v reg pre=περι
+πλήττω | strike, hit | v fut=πλήξω aor=ἔπληξα/πληξ
+προαισθάνομαι | notice beforehand, foresee | v fut=προαισθήσομαι aor_mid=προ·ῃσθόμην/προαισθ base=αἰσθάνομαι
+προεισέρχομαι | go in first, go in before | v aor2=προεισ·ῆλθον/προεισελθ eimi=προεισ base=ἔρχομαι
+προέρχομαι | go forward, advance | v aor2=προ·ῆλθον/προελθ base=ἔρχομαι
+προσποιέομαι | pretend (+ infinitive) | v reg pre=προσ
+φθάνω | be first, get ahead of (+ acc.); with a participle: do something first, before someone | v fut=φθήσομαι! aor=ἔφθασα/φθασ irr
+φρίττω | shudder, shiver | v aor=ἔφριξα/φριξ irr
+# ---- nouns
+ἀγγελία | message, news | n
+αἷμα | blood | n3 gen=αἵματος g=n
+αἰσχύνη | shame, disgrace | n
+ἀνεψιός | cousin | n
+ἀπουσία | absence | n
+ἅρμα | chariot | n3 gen=ἅρματος g=n
+βαλανεῖον | bath, bath-house | n
+δρᾶμα | play, drama; deed | n3 gen=δράματος g=n
+δῶμα | (mostly pl. τὰ δώματα) house, palace | n3 gen=δώματος g=n
+ἔκπληξις | consternation, shock | nis
+ἔλεος | pity | n
+ἐρείπιον | (pl. τὰ ἐρείπια) ruins | n
+λάφυρον | (pl. τὰ λάφυρα) spoils, booty | n
+λουτρόν | bath, water for washing | n
+μαντική | the art of prophecy | n
+μητροκτονία | matricide, the murder of one's mother | n
+νεώριον | dockyard | n
+ὀργή | anger | n
+πέλεκυς | axe (ὁ πέλεκυς, τοῦ πελέκεως) |
+σκοπός | lookout, watchman; mark, target | n
+στέμμα | wreath, garland (worn by priests and suppliants) | n3 gen=στέμματος g=n
+τάπις | carpet, rug | n3 gen=τάπιδος g=f
+τάφρος | ditch, trench | n g=f
+τράχηλος | neck | n
+φάτνη | manger | n
+φύλαξ | guard | n3 gen=φύλακος
+χιτών | tunic | n3 gen=χιτῶνος
+Αἴγισθος | (name) | n
+Ἐρινύς | (name) |
+Ἴλιον | (name) | n
+Κασσάνδρα | (name) | n
+Κλυταιμήστρα | (name) | n
+Μέγαρα | (name) |
+Μυκῆναι | (name) |
+Ὀρέστης | (name) | n
+Πρίαμος | (name) | n
+# ---- adjectives
+ἀσφαλής | safe, secure | adjes
+ἀτράχηλος | without a neck | adj2
+ἄχειρ | without hands | adj3 neut=ἄχειρ gen=ἄχειρος
+δίπους | two-footed | adj3 neut=δίπουν gen=δίποδος
+ἐλεεινός | pitiable, piteous | adj
+ἔνιοι | some | 
+ἔσχατος | furthest, last, extreme | adj
+κρυερός | icy, chilling | adj
+πάγκακος | utterly bad, thoroughly wicked | adj2
+ποικίλος | many-coloured, embroidered; intricate | adj
+δίς | twice |
+C:κραυγὴν ἵστημι / κραυγὴν ἵστησι / κραυγὴν ἵστησιν / κραυγὴν ἱστᾶσι / κραυγὴν ἱστᾶσιν / κραυγὴν ἵστη / κραυγὴν ἵστασαν / κραυγὴν ἔστησε / κραυγὴν ἔστησεν / κραυγὴν ἔστησαν / κραυγὴν στήσας / κραυγὴν στήσαντες / κραυγὴν ἱστάναι / κραυγὴν στῆσαι | raise a shout
+C:λουτρῷ χρῆται / λουτρῷ χρῶμαι / λουτρῷ χρώμενος / λουτρῷ ἐχρήσατο / λουτρῷ ἐχρῶντο / λουτρῷ χρῆσθαι / λουτρῷ χρησάμενος / λουτρῷ χρησόμενος | take a bath
+X:lanthano-ptc | λανθάνω + participle: do something without being noticed (ἔλαθεν εἰσελθών “he came in unnoticed”; + acc. “by someone”)
+X:phthano-ptc | φθάνω + participle: do something first (ἔφθασαν ἀφικόμενοι “they arrived first”; + acc. “before someone”)
+X:phainomai-ptc | φαίνομαι + participle: “be plainly, be seen to be” (φαίνεται σοφὸς ὤν “he is clearly wise”); with the infinitive it means “seem to”
+X:ptc-know | verbs of seeing, hearing, learning, knowing + participle = “that …”: ὁρῶ σε κάμνοντα “I see that you are tired”
+X:hoste-inf | ὥστε + infinitive (its subject in the accusative): a result that naturally follows — “so as to, so that”
+X:pyra-pl | the plural of τὸ πῦρ is second declension: τὰ πυρά, τῶν πυρῶν, τοῖς πυροῖς “(watch-)fires”
+# Smyth inventory (added 2026-11-23): a Smyth concept Athenaze does not treat
+X:ptc-begin | verbs of beginning, ceasing and feeling + participle: παύεται λέγων “he stops speaking”, χαίρει ἀκούων “he enjoys hearing”; Smyth §2098, §2100

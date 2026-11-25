@@ -1,0 +1,121 @@
+# ch.20 — ἵστημι and its compounds; the supplementary participle (λανθάνω, φθάνω, φαίνομαι, verbs of perceiving); ὥστε + infinitive; the house of Agamemnon
+Ἵστησι τοὺς στρατιώτας πρὸ τῶν πυλῶν. | He stations the soldiers in front of the gates. | composed
+«Τί ποιεῖς;» «Ἵστημι τὸν ἱστόν.» | “What are you doing?” “I'm setting up the mast.” | composed
+Διὰ τί ἵστης τὸν ἵππον; | Why are you stopping the horse? | composed | @ἵστης:pres
+Ἵσταμεν τὴν στήλην παρὰ τῇ ὁδῷ. | We are setting up the gravestone beside the road. | composed | @ἵσταμεν:pres
+Ποῦ ἵστατε τὸ ἄγαλμα; | Where are you setting up the statue? | composed | @ἵστατε:ind.pres
+Βούλονται ἄγαλμα τῷ θεῷ ἱστάναι. | They want to set up a statue to the god. | composed
+Στήλην ἔστησεν. | He set up a pillar. | composed
+Εἰς τὰ δώματα εἰσέρχεται. | He goes into the palace. | composed
+Ἀσφαλὴς ὁ λιμήν. | The harbour is safe. | composed
+Ἄγαλμα τοῦ θεοῦ ἐν τῇ ἀγορᾷ ἱστᾶσιν. | They are setting up a statue of the god in the market place. | composed
+Νέον στρατηγὸν καθιστᾶσιν. | They appoint a new general. | composed
+Αἵματος πλῆρες ἦν τὸ ξίφος. | The sword was covered in blood. | composed
+Φρίττει ὁρῶσα τὸ αἷμα. | She shudders at the sight of the blood. | composed
+Κρυερὸς φόβος ἡμᾶς λαμβάνει. | An icy fear takes hold of us. | composed
+Ὁ Αἰσχύλος πολλὰ δράματα ἐποίησεν. | Aeschylus wrote many plays. | composed
+Ἀρέσκει τὸ δρᾶμα τοῖς πολίταις. | The citizens like the play. | composed
+Ἆρα ἀρέσει σοι τὸ δῶρον; | Will you like the present? | composed
+Ἤρεσαν οἱ τοῦ ῥήτορος λόγοι τῷ δήμῳ. | The speaker's words pleased the people. | composed
+Οἴνου ὄζει ἡ οἰκία. | The house smells of wine. | composed
+Περιφοιτᾷ ὁ κύων περὶ τὴν οἰκίαν. | The dog roams around the house. | composed
+Ὦ πάγκακε, τί ἐποίησας; | You utter villain, what have you done? | composed
+Ἔλεος ἡμᾶς ἔλαβε τῶν ἀθλίων παίδων. | We were seized with pity for the wretched children. | composed
+Ἀναμιμνήσκεται τῶν πάλαι. | He is recalling the old days. | composed | +X:art-adv
+Λανθάνει τὸν δεσπότην. | He escapes the master's notice. | composed
+Λανθάνει εἰσιὼν ὁ κλέπτης. | The thief gets in unnoticed. | composed | +X:lanthano-ptc
+Ἔλαθε τὸν πατέρα ἐξελθών. | He went out without his father noticing. | composed
+Οὐ λήσεις ἡμᾶς φεύγων. | You won't get away without our noticing. | composed
+Ἐλεεινῇ φωνῇ ἐβόα. | She was crying out in a piteous voice. | composed
+Τίς ἡμᾶς οἰκτιρεῖ; | Who will pity us? | composed
+Ὁ βασιλεὺς ᾤκτιρε τοὺς ἱκέτας. | The king took pity on the suppliants. | composed | @ᾤκτιρε:aor
+Ἐρείπια μόνον τῆς πόλεως ἔλιπον οἱ πολέμιοι. | The enemy left only ruins of the city. | composed
+Οἱ Ἀθηναῖοι τοὺς πολεμίους φθάνουσιν. | The Athenians get there before the enemy. | composed
+Φθάνουσι τὸν πατέρα οἴκαδε ἀφικόμενοι. | They get home before their father. | composed | +X:phthano-ptc
+Κακὴν ἀγγελίαν φέρει. | He brings bad news. | composed
+Ὁ σκοπὸς ἀπὸ τοῦ τείχους τὴν θάλατταν θεᾶται. | The lookout watches the sea from the wall. | composed
+Οἱ φύλακες τὰς πύλας φυλάττουσιν. | The guards are guarding the gates. | composed
+Πυρὰ ἔκαιον. | They were burning watch-fires. | composed | +X:pyra-pl @πυρά=πῦρ
+Αἴγισθος ἐμοίχευσε τὴν τοῦ βασιλέως γυναῖκα. | Aegisthus seduced the king's wife. | composed
+Ὁ Αἴγισθος ἀνεψιὸς ἦν τοῦ Ἀγαμέμνονος. | Aegisthus was Agamemnon's cousin. | composed
+Ἵστη τὸν ἵππον, ὦ παῖ. | Stop the horse, boy. | composed | @ἵστη:imp
+«Ἵστατε τοὺς ἵππους, ὦ παῖδες.» | “Stop the horses, boys.” | composed | @ἵστατε:imp
+Ἵστασαν τὸν ἱστόν. | They were setting up the mast. | composed
+Ἵστη τοὺς βοῦς. | He was bringing the oxen to a halt. | composed | @ἵστη:impf @βοῦς:acc
+«Ἵστην τοὺς βοῦς.» | “I was bringing the oxen to a halt.” | composed
+«Διὰ τί ἵστης τὸν ἵππον;» | “Why were you stopping the horse?” | composed | @ἵστης:impf
+Ἵσταμεν τὸν ἱστόν. | We were setting up the mast. | composed | @ἵσταμεν:impf
+«Ποῦ ἵστατε τὸ ἄγαλμα;» | “Where were you setting up the statue?” | composed | @ἵστατε:impf
+Τὸν ἱστὸν ἱστὰς τοὺς ναύτας καλεῖ. | As he sets up the mast, he calls the sailors. | composed
+Ἡ κόρη τὸν ἵππον ἱστᾶσα καλεῖ τὸν πατέρα. | The girl stops the horse and calls her father. | composed
+Ὁ φυγὼν ὑπ᾽ αἰσχύνης τὸ πρόσωπον κρύπτει. | The man who ran away hides his face for shame. | composed
+Εἰς τὰ ἔσχατα τῆς γῆς ἀφίκοντο. | They reached the ends of the earth. | composed
+Ἐν τῇ τοῦ ἀνδρὸς ἀπουσίᾳ ἡ γυνὴ φυλάττει τὸν οἶκον. | In her husband's absence the wife looks after the house. | composed
+Δίπους ὁ ἄνθρωπος. | Man walks on two feet. | composed
+Ζῷον δίπουν ἐστὶν ὁ ἄνθρωπος. | Man is a two-footed animal. | composed
+Ἄνθρωπον δίποδα ὁρᾷ. | He sees a two-footed man. | composed
+Δίπουν ζῷον ὁρᾷ. | He sees a two-footed creature. | composed | @Δίπουν:acc
+Ἀκούει δίποδός τινος ζῴου. | He hears some two-footed creature. | composed
+Δίποδι ζῴῳ ἐντυγχάνει. | He meets a two-footed creature. | composed
+Δίποδες οἱ ἄνθρωποι. | Human beings are two-footed. | composed
+Δίποδα τὰ ζῷα. | The creatures are two-footed. | composed | @Δίποδα:nom.n
+Δίποδας ἀνθρώπους ὁρᾷ. | He sees two-footed men. | composed | @Δίποδας:acc
+Δίποδα ζῷα ὁρᾷ. | He sees two-footed creatures. | composed | @Δίποδα:acc.n
+Ὁ βίος τῶν διπόδων χαλεπός ἐστιν. | The life of two-footed creatures is hard. | composed
+Ἐν τοῖς δίποσι ζῴοις ἐστὶν ὁ ἄνθρωπος. | Man is one of the two-footed creatures. | composed
+Ὁ φίλος με τῷ στρατηγῷ συνέστησεν. | My friend introduced me to the general. | composed
+Οἱ παῖδες κραυγὴν ἱστᾶσιν. | The children raise a shout. | composed
+Τάπιδας τιθέασιν ἐπὶ τὴν γῆν. | They lay carpets on the ground. | composed
+Ποικίλη ἦν ἡ τάπις. | The carpet was richly coloured. | composed
+Προσποιεῖται χαίρειν. | She pretends to be glad. | composed
+Ἄγαλμα στήσομεν τῇ Ἀθηνᾷ. | We shall set up a statue to Athena. | composed
+Ἔφθασαν τοὺς πολεμίους τὸ ὄρος καταλαβόντες. | They seized the mountain before the enemy could. | composed
+Φθήσονται ἡμᾶς εἰς τὸν λιμένα ἀφικόμενοι. | They will reach the harbour before us. | composed
+Ὁ ξένος φαίνεται σοφὸς ὤν. | The stranger is clearly a wise man. | composed | +X:phainomai-ptc
+Ὁρῶ σε κάμνοντα. | I see that you are tired. | composed | +X:ptc-know
+Ὁ παῖς οὕτως ἀνδρεῖός ἐστιν ὥστε τοὺς πολεμίους μὴ φοβεῖσθαι. | The boy is so brave that he is not afraid of the enemy. | composed | +X:hoste-inf
+Ἐφ᾽ ἅρματος ἐλαύνει. | He is driving in a chariot. | composed
+Οἱ νικῶντες πολλὰ λάφυρα οἴκαδε φέρουσιν. | The victors bring home much booty. | composed
+Ἡ Κασσάνδρα μαντεύεται τὰ μέλλοντα. | Cassandra prophesies what is to come. | composed
+Προεμαντεύσατο τὴν συμφοράν. | He foretold the disaster. | composed
+Προῃσθάνετο τὸν θάνατον. | She sensed her death in advance. | composed
+Ἡ μητροκτονία ἐστὶ δεινότατον ἔργον. | Matricide is a most terrible deed. | composed
+Στέμμα ἐν ταῖς χερσὶν ἔχει. | He holds a wreath in his hands. | composed
+Εἰσπηδᾷ ὁ κύων εἰς τὴν οἰκίαν. | The dog bounds into the house. | composed
+Βραδέως προέρχονται. | They advance slowly. | composed
+Προεισέρχεται ὁ δοῦλος. | The slave goes in first. | composed
+Ὁ Ἀπόλλων τὴν μαντικὴν ἔδωκε τῇ Κασσάνδρᾳ. | Apollo gave Cassandra the gift of prophecy. | composed
+Πάντες ἐν ἐκπλήξει ἦσαν. | Everyone was in a state of shock. | composed
+Εἰς τὸ βαλανεῖον βαδίζει. | He is walking to the bath-house. | composed
+Ἐν τῷ βαλανείῳ ἀποδυόμεθα. | We undress in the bath-house. | composed
+Λουτρὸν παρασκευάζει τῷ δεσπότῃ. | She is preparing a bath for her master. | composed
+Ὁ βασιλεὺς λουτρῷ χρῆται. | The king is taking a bath. | composed
+Ἀποδύεται τὸν χιτῶνα. | He takes off his tunic. | composed
+Ἄχειρ ὁ ὄφις. | A snake has no hands. | composed
+Ἀτράχηλος ὁ ἰχθῦς. | A fish has no neck. | composed
+Ὁ ἵππος μακρὸν ἔχει τὸν τράχηλον. | The horse has a long neck. | composed
+Μέγας ὁ πέλεκυς. | The axe is big. | composed
+Πελέκει τέμνει τὰ δένδρα. | He is cutting down the trees with an axe. | composed
+Λαμβάνει τὸν πέλεκυν. | He takes the axe. | composed
+Λαμβάνεται τοῦ πελέκεως. | He grips the axe. | composed
+Οἱ πελέκεις ἐν τῇ οἰκίᾳ εἰσίν. | The axes are in the house. | composed | @πελέκεις:nom
+Πελέκεις φέρουσιν. | They are carrying axes. | composed | @Πελέκεις:acc
+Ἀκούει τὸν ψόφον τῶν πελέκεων. | He hears the sound of the axes. | composed
+Πελέκεσι τέμνουσι τὰ δένδρα. | They cut the trees with axes. | composed
+Δὶς τῆς ἡμέρας ἐσθίομεν. | We eat twice a day. | composed
+Ἐκ τῆς φάτνης ἐσθίει. | It is eating from the manger. | composed
+Ἡ Κλυταιμήστρα πελέκει ἔπληξε τὸν ἄνδρα. | Clytemnestra struck her husband with an axe. | composed
+Ἀλαλάζουσιν οἱ στρατιῶται. | The soldiers raise the war-cry. | composed
+Οἱ Ἕλληνες ἠλάλαξαν καὶ τοῖς βαρβάροις προσέβαλον. | The Greeks raised the war-cry and attacked the barbarians. | composed
+Ὁ Ὀρέστης πολὺν χρόνον ἠλᾶτο. | Orestes wandered for a long time. | composed
+Ἡ τοῦ βασιλέως ὀργὴ ἦν δεινή. | The king's anger was terrible. | composed
+Αἱ τριήρεις εἰσὶν ἐν τῷ νεωρίῳ. | The triremes are in the dockyard. | composed
+Οἰκοῦσιν οὖν ἔνιοι μὲν δούλους, οἱ δὲ δεσπότας ἀλλήλους νομίζοντες. | [In other cities] people live regarding one another, some as slaves, others as masters. | Pl. Menexenus 238e
+Τάφρον ὀρύττουσιν. | They are digging a trench. | composed
+# ---- practice (ch.20 review)
+Λανθάνει ἑαυτὸν γέρων γιγνόμενος. | He is growing old without realising it. | composed
+Τοσαύτη ἦν ἡ ἔκπληξις ὥστε πάντας σιγᾶν. | The shock was so great that everyone fell silent. | composed
+Ἔνειμε τὰ λάφυρα τοῖς στρατιώταις. | He shared out the booty among the soldiers. | composed
+Ἡ Κασσάνδρα πρὸ τῶν δωμάτων ἱσταμένη οὐδὲν ἔλεγεν. | Cassandra stood in front of the palace and said nothing. | composed
+Ἐπαύσατο λέγων. | He stopped speaking. | composed | +X:ptc-begin
+Πάντες ἔφριξαν ἀκούσαντες τὴν ἀγγελίαν. | Everyone shuddered when they heard the news. | composed

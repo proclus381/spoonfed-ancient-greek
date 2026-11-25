@@ -1,0 +1,92 @@
+# Athenaze I, ch.15 (Ἡ ἐν τῇ Σαλαμῖνι μάχη) — root aorist; contract verbs in -όω; contracted 2nd declension (νοῦς)
+βαίνω | go, step | v raor=ἔβην/βη/βα
+ἀναβαίνω | go up, climb | v raor=ἀν·έβην/ἀναβη/ἀναβα
+καταβαίνω | go down | v raor=κατ·έβην/καταβη/καταβα
+εἰσβαίνω | go in, embark | v raor=εἰσ·έβην/εἰσβη/εἰσβα
+ἐκβαίνω | go out, disembark | v raor=ἐξ·έβην/ἐκβη/ἐκβα
+γιγνώσκω | get to know, recognize | v raor=ἔγνων/γνω/γνο
+διαγιγνώσκω | distinguish, decide | v raor=δι·έγνων/διαγνω/διαγνο
+ἵστημι | set up; aor. ἔστην “I stood” | raor raor=ἔστην/στη/στα
+ἀνίστημι | raise; aor. ἀνέστην “I stood up” | raor raor=ἀν·έστην/ἀναστη/ἀναστα
+καταδύω | sink (aor. κατέδυσα); aor. κατέδυν “I sank, (of the sun) set” | v aor=κατ·έδυσα/καταδυσ raor=κατ·έδυν/καταδυ/καταδυ
+ἀξιόω | think worthy; expect, ask | v aor=ἠξίωσα/ἀξιωσ
+δηλόω | show, make clear | v aor=ἐδήλωσα/δηλωσ
+δουλόω | enslave; (mid.) enslave for oneself | v mid aor=ἐδούλωσα/δουλωσ
+καταδουλόω | enslave, subdue | v aor=κατ·εδούλωσα/καταδουλωσ
+ἐλευθερόω | set free | v aor=ἠλευθέρωσα/ἐλευθερωσ
+πληρόω | fill; man (ships) | v aor=ἐπλήρωσα/πληρωσ
+ἀπονέμω | assign, distribute | v
+ἀρκέομαι | be content with (+ dat.) | v
+ἄρχω | rule (+ gen.); begin | v aor=ἦρξα/ἀρξ
+βλάπτω | harm, hurt | v aor=ἔβλαψα/βλαψ
+διαθερμαίνω | warm through | v
+διαφθείρω | destroy, ruin | v aor=δι·έφθειρα/διαφθειρ irr
+δουλεύω | be a slave, serve (+ dat.) | v
+εἴκω | yield, give way (+ dat.) | v
+ἐπιφλέγω | burn, set on fire | v
+ἐχθαίρω | hate | v
+καταφρονέω | despise (+ gen.) | v
+κλύω | hear (+ gen. of person) | v
+κυβερνάω | steer, pilot | v
+ὀδύρομαι | lament, mourn | v
+πολεμέω | make war, fight (+ dat.) | v aor=ἐπολέμησα/πολεμησ
+συμπίπτω | clash, collide (+ dat.) | v aor2=συν·έπεσον/συμπεσ
+ἔκπλους | sailing out |
+εὐλογία | praise | n
+ἧττα | defeat | n
+θήκη | tomb | n
+θύννος | tunny fish | n
+κέρας | horn; wing (of a fleet or army) | n3 gen=κέρατος g=n
+κρύσταλλος | ice | n
+κώπη | oar | n
+μέρος | part, share | nes
+μνήμη | memory | n
+ναυάγιον | wreck (of a ship) | n
+ναύαρχος | admiral | n
+νεκρός | corpse | n
+νοῦς | mind |
+ὄχθος | hill, bank | n
+παιάν | paean, song of victory | n3 gen=παιᾶνος
+πλεονεξία | greed | n
+ῥῖγος | cold, frost | nes
+σπουδή | haste, eagerness, zeal | n
+στρατηγός | general | n
+συνέδριον | council | n
+τύχη | fortune, luck | n
+φυγή | flight, escape | n
+ἀκτίς | ray (of the sun) | n3 gen=ἀκτῖνος g=f
+ἀπορία | perplexity, difficulty | n
+γνώμη | opinion, judgement | n
+δίψα | thirst | n
+ἕδος | seat, abode (of a god) | nes
+Λιβύη | (name) | n
+Μῆδος | (name) | n
+Σιμωνίδης | (name) | n
+Σκύθης | (name) | n
+Αἴγυπτος | (name) | n g=f
+Αἰσχύλος | (name) | n
+Δαρεῖος | (name) | n
+Θρᾴκη | (name) | n
+Κῦρος | (name) | n
+ἄξιος | worthy (of + gen.) | adj cmp=ἀξιώτερος sup=ἀξιώτατος
+ἄωρος | untimely | adj2
+δεξιός | right (opposite of left); clever | adj
+δίκαιος | just | adj cmp=δικαιότερος sup=δικαιότατος
+ἕκαστος | each | adj
+λοιπός | remaining, the rest | adj
+πατρῷος | of one's fathers, ancestral | adj
+πιστός | faithful, trustworthy | adj cmp=πιστότερος sup=πιστότατος
+μέχρι | as far as, until (+ gen.) |
+δεύτερον | secondly, for the second time |
+δημοσίᾳ | publicly, at public expense |
+εὐτάκτως | in good order |
+ἥκιστα | least, not at all |
+ἰδίᾳ | privately |
+λάθρᾳ | secretly (+ gen. “without the knowledge of”) |
+ὁμοῦ | together |
+C:ἔνθα καὶ ἔνθα | this way and that
+C:προσέχω τὸν νοῦν / πρόσεχε τὸν νοῦν / προσέχετε τὸν νοῦν / προσέχει τὸν νοῦν / προσέχουσι τὸν νοῦν / προσέχουσιν τὸν νοῦν / προσεῖχε τὸν νοῦν / προσεῖχον τὸν νοῦν / προσέχων τὸν νοῦν / προσέχοντες τὸν νοῦν | pay attention (to + dat.)
+X:hos-that | ὡς = ὅτι: “that” after verbs of saying and knowing (λέγει ὡς …)
+πειράω | try; (+ gen.) make an attempt on | v
+# set phrases the readings use without listing them among the Locuzioni (added 2026-11-23)
+C:καὶ δὴ καί | and in particular, and what is more

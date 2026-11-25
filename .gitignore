@@ -1,0 +1,9 @@
+key.txt
+.env
+.venv/
+__pycache__/
+*.pyc
+project/out/
+work/tmp/
+audio_kit/audio/
+audio_kit/audio_unused/

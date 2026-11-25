@@ -1,0 +1,178 @@
+# Athenaze II, ch.17 (Ἡ Ἐπίδαυρος) — future (sigmatic, contract, middle futures of active verbs); future of εἰμί;
+# εἶμι; ὡς + future participle (purpose)
+ἀκέομαι | heal, cure; mend | v aor=ἠκεσάμην/ἀκεσ irr
+ἀφικνέομαι | arrive | v impf=0 fut=ἀφίξομαι! pfm=ἀφ·ῖγμαι!
+γιγνώσκω | get to know, recognize | v fut=γνώσομαι! pf=ἔγνωκα! pfm=ἔγνωσμαι! aorp=ἐγνώσθην!
+ἕπομαι | follow (+ dat.) | v fut=ἕψομαι! aor_mid=ἑσπόμην/σπ
+ἔρχομαι | come, go (future εἶμι) | v pf=ἐλήλυθα!
+ἀπέρχομαι | go away | v aor2=ἀπ·ῆλθον/ἀπελθ eimi=ἀπο base=ἔρχομαι
+εἰσέρχομαι | go in, come in | v aor2=εἰσ·ῆλθον/εἰσελθ eimi=εἰσ base=ἔρχομαι
+ἐξέρχομαι | go out, come out | v aor2=ἐξ·ῆλθον/ἐξελθ eimi=ἐκ base=ἔρχομαι
+ἐπανέρχομαι | come back, return (εἰς, πρός + acc.) | v aor2=ἐπαν·ῆλθον/ἐπανελθ eimi=ἐπανα base=ἔρχομαι
+παρέρχομαι | pass by, go past; come forward (to speak) | v aor2=παρ·ῆλθον/παρελθ eimi=παρα base=ἔρχομαι
+προσέρχομαι | approach, go up to (+ dat. or πρός + acc.) | v aor2=προσ·ῆλθον/προσελθ eimi=προσ base=ἔρχομαι
+ἐπέρχομαι | come upon, attack; approach | v aor2=ἐπ·ῆλθον/ἐπελθ eimi=ἐπι base=ἔρχομαι
+κατέρχομαι | go down; come back (from exile) | v aor2=κατ·ῆλθον/κατελθ eimi=κατα base=ἔρχομαι
+περιέρχομαι | go round | v aor2=περι·ῆλθον/περιελθ eimi=περι base=ἔρχομαι
+ἔχω | have, hold; (+ adverb) be | v impf=εἰχ fut=ἕξω! pf=ἔσχηκα! pfm=ἔσχημαι!
+ἀπέχω | be distant from (+ gen.); (mid.) keep away from, abstain from (+ gen.) | v mid fut=ἀφέξω base=ἔχω
+πλέω | sail | vx fut=πλεύσομαι! pf=πέπλευκα!
+τρέπω | turn; put to flight | v mid fut=τρέψω aor=ἔτρεψα/τρεψ pf=τέτροφα! pfm=τέτραμμαι! aorp=ἐτράπην!
+ἐπιτρέπω | entrust, hand over to (+ dat.); allow | v fut=ἐπιτρέψω aor=ἐπ·έτρεψα/ἐπιτρεψ base=τρέπω
+τυγχάνω | hit, get, obtain (+ gen.); (+ participle) happen to | v fut=τεύξομαι! aor2=ἔτυχον/τυχ pf=τετύχηκα!
+αἰσθάνομαι | perceive, notice, learn (+ gen. or acc.) | v fut=αἰσθήσομαι! aor_mid=ᾐσθόμην/αἰσθ
+ἀμείβομαι | answer, reply | v aor=ἠμειψάμην/ἀμειψ
+ἀναιρέω | take up; (of an oracle) answer, ordain | v fut=ἀναιρήσω aor2=ἀν·εῖλον/ἀνελ
+ἀντιβολέω | entreat, beg | v fut=ἀντιβολήσω aor=ἠντεβόλησα/ἀντιβολησ
+εἰσβάλλω | throw into; invade; (of rivers) flow into | v fut=εἰσβαλῶ aor2=εἰσ·έβαλον/εἰσβαλ base=βάλλω
+ἐκλακτίζω | kick out | v aor=ἐξ·ελάκτισα/ἐκλακτισ
+ἐκλάμπω | shine out | v fut=ἐκλάμψω aor=ἐξ·έλαμψα/ἐκλαμψ
+ἐμβάλλω | throw in; (+ dat.) strike, ram; put into | v fut=ἐμβαλῶ aor2=ἐν·έβαλον/ἐμβαλ base=βάλλω
+ἱππεύω | ride (a horse) | v reg
+καθαίρω | cleanse, purify | v mid fut=καθαρῶ aor=ἐκάθηρα/καθηρ irr
+κάθημαι | sit, be seated |
+καθοσιόω | dedicate, consecrate | v reg pre=καθ
+κατακλίνω | make (someone) lie down | v aor=κατ·έκλινα/κατακλιν irr
+κοιμάω | put to sleep; (mid.) sleep | v mid reg
+ἐγκοιμάομαι | sleep in (a temple, to be healed) | v reg pre=ἐγ
+οἰμώζω | wail, cry out in pain | v fut=οἰμώξομαι! aor=ᾤμωξα/οἰμωξ
+οἶμαι | think, suppose (also οἴομαι; + acc. and inf.) | vx fut=οἰήσομαι!
+πηδάω | leap, jump | v fut=πηδήσομαι aor=ἐπήδησα/πηδησ
+πυρέττω | have a fever | v
+συρίττω | hiss; whistle | v
+φρονέω | think, be minded (εὖ φρονεῖν be sensible, μέγα φρονεῖν be proud) | v reg
+χρή | it is necessary, one ought (+ inf., or acc. and inf.) |
+ἀμφότερος | both (plural: ἀμφότεροι) | adj
+σαυτόν | yourself (= σεαυτόν) |
+ἄβατον | holy place (not to be entered), the sleeping hall of a healing sanctuary | n
+ἀδελφή | sister | n
+ἀστραπή | lightning | n
+αὐτόπτης | eyewitness | n
+γάλα | milk | n3 gen=γάλακτος g=n
+γαστήρ | belly, stomach |
+γονεύς | parent | neus
+δράκων | serpent, dragon | n3 gen=δράκοντος
+δυστυχία | misfortune, bad luck | n
+ἐπιθυμία | desire | n
+θαῦμα | wonder, marvel | n3 gen=θαύματος g=n
+ἱκέτης | suppliant | n
+καταγώγιον | inn, lodging | n
+λῃστής | robber, pirate | n
+λύχνος | lamp | n
+νόσημα | illness | n3 gen=νοσήματος g=n
+νόσος | sickness, disease | n g=f
+ὄφις | snake | nis g=m
+πελανός | offering (a cake or thick liquid) | n
+ποιμήν | shepherd | n3 gen=ποιμένος
+πόπανον | sacrificial cake | n
+πρόθυμα | preliminary sacrifice | n3 gen=προθύματος g=n
+πρόπολος | temple attendant | n
+ῥυτήρ | rein, strap | n3 gen=ῥυτῆρος
+στιβάδιον | straw mattress | n
+συγγενής | related; (as noun) relative, kinsman | adjes
+σωτήρ | saviour, deliverer | n3 gen=σωτῆρος voc=σῶτερ
+φάρμακον | drug, medicine | n
+φιάλη | bowl, cup (for pouring offerings) | n
+Ἀσκληπιεῖον | (name) | n
+ἀναγκαῖος | necessary | adj
+ἀναρίθμητος | countless | adj2
+ἄπιστος | incredible; untrustworthy | adj2
+δῆλος | clear, evident | adj
+ἔνδοξος | famous | adj2
+εὐδαίμων | happy, fortunate | adj3 neut=εὔδαιμον gen=εὐδαίμονος
+ἥμερος | tame, gentle | adj2
+θαυμάσιος | wonderful, marvellous | adj
+θεῖος | divine | adj
+ἱερός | holy, sacred (+ gen. “sacred to”) | adj
+καθαρός | clean, pure | adj
+κακοδαίμων | unlucky, wretched | adj3 neut=κακόδαιμον gen=κακοδαίμονος
+μῶρος | foolish | adj
+ὁποῖος | of what kind (in indirect questions) | adj
+ὄρθιος | upright, steep | adj
+ὅσιος | holy, pious, pure | adj
+παντοδαπός | of every kind | adj
+ὑγιής | healthy, sound | adjes
+οὑτοσί | this … here (οὗτος + -ί for pointing) |
+αὐτόθι | on the spot, there |
+ἡδέως | gladly, with pleasure |
+ἠρέμα | gently, quietly |
+πάνυ | very, altogether; (in answers) certainly |
+πρότερον | before, earlier, first |
+τήμερον | today |
+τηνικαῦτα | at that time, then |
+πότερον | whether (πότερον … ἤ … “whether … or …”) |
+σύν | with (+ dat.) |
+C:τὴν εὐθεῖαν | straight on (“the straight road”)
+C:διὰ πολλοῦ | after a long time; at a long distance (οὐ διὰ πολλοῦ “soon”)
+C:σὺν θεοῖς / σὺν θεῷ | with the gods' help
+C:τά γε παρ᾽ ἡμῖν | at least where we are concerned, in our country at least
+C:ὡς τὸ εἰκός | as is likely, as is natural
+C:ἐπιθυμίαν ἐμβάλλεις / ἐπιθυμίαν ἐμβάλλει / ἐπιθυμίαν ἐνέβαλε / ἐπιθυμίαν ἐνέβαλεν / ἐπιθυμίαν ἐμβάλλουσι / ἐπιθυμίαν ἐμβάλλουσιν | make (someone, dat.) want (+ gen.): “put a desire into …”
+X:hos-fut-ptc | ὡς + future participle: purpose (“in order to …”): ἦλθον ὡς τὸν ἰατρὸν ὀψόμενος “I came to see the doctor”
+X:deinos-inf | δεινός + infinitive: “clever at, good at” (δεινὸς λέγειν “a clever speaker”)
+X:tynchano-ptc | τυγχάνω + participle: “happen to be …-ing” (ἔτυχε παρών “he happened to be there”)
+X:chre-inf | χρή + (accusative and) infinitive: “one ought to …” (χρή σε σπεύδειν)
+# ---- futures of verbs known from book 1 (active verbs with a middle future; liquid and other stems)
+ἀκούω | hear, listen to | v fut=ἀκούσομαι!
+βαίνω | go, step | v fut=βήσομαι!
+ἀναβαίνω | go up, climb | v fut=ἀναβήσομαι base=βαίνω
+καταβαίνω | go down | v fut=καταβήσομαι base=βαίνω
+εἰσβαίνω | go in, embark | v fut=εἰσβήσομαι base=βαίνω
+ἐκβαίνω | go out, disembark | v fut=ἐκβήσομαι base=βαίνω
+βλέπω | look, see | v fut=βλέψομαι!
+βοάω | shout | v fut=βοήσομαι!
+θαυμάζω | wonder at, admire | v fut=θαυμάσομαι!
+κάμνω | be tired | v short fut=καμοῦμαι!
+λαμβάνω | take | v fut=λήψομαι!
+μανθάνω | learn, understand | v fut=μαθήσομαι!
+ὁράω | see | v fut=ὄψομαι!
+πάσχω | suffer, experience | v short fut=πείσομαι!
+πίπτω | fall | v short fut=πεσοῦμαι!
+τρέχω | run | v fut=δραμοῦμαι!
+φεύγω | flee, run away | v fut=φεύξομαι!
+ἀποθνήσκω | die | v impf=0 fut=ἀποθανοῦμαι!
+γίγνομαι | become, happen | v fut=γενήσομαι!
+μένω | stay, wait | v fut=μενῶ!
+βάλλω | throw, hit | v fut=βαλῶ!
+ἀποκτείνω | kill | v impf=0 fut=ἀποκτενῶ!
+αἴρω | lift, raise | v fut=ἀρῶ!
+ἐγείρω | wake (someone) up | v fut=ἐγερῶ!
+ἀγγέλλω | announce, report | v fut=ἀγγελῶ!
+ἀποκρίνομαι | answer | v fut=ἀποκρινοῦμαι!
+μάχομαι | fight (+ dat.) | v fut=μαχοῦμαι!
+καλέω | call | v fut=καλῶ!
+ἐλαύνω | drive | v fut=ἐλῶ~α!
+λέγω | say, speak | v fut=ἐρῶ!
+φέρω | carry, bring | v fut=οἴσω!
+εὑρίσκω | find | v fut=εὑρήσω!
+αἱρέω | take, seize; (mid.) choose | v fut=αἱρήσω
+δοκέω | seem; think | v fut=δόξω!
+ἐσθίω | eat | v fut=ἔδομαι!
+πίνω | drink | v long fut=πίομαι!
+ἐθέλω | be willing, wish | v fut=ἐθελήσω!
+βούλομαι | want, wish | v fut=βουλήσομαι!
+ἄγω | lead, bring | v short fut=ἄξω
+λείπω | leave | v fut=λείψω
+πείθω | persuade | v fut=πείσω
+πείθομαι | obey (+ dat.) | v fut=πείσομαι
+διώκω | chase, pursue | v fut=διώξω aor=ἐδίωξα/διωξ
+δέχομαι | receive, accept | v fut=δέξομαι
+σῴζω | save | v fut=σώσω
+πράττω | do, fare | v fut=πράξω
+φυλάττω | guard, watch | v fut=φυλάξω
+κομίζω | bring, take | v fut=κομιῶ
+χαίρω | rejoice, be glad | v fut=χαιρήσω!
+ἁμαρτάνω | miss (+ gen.); make a mistake | v fut=ἁμαρτήσομαι!
+κόπτω | strike, cut, knock | v fut=κόψω
+κρύπτω | hide | v fut=κρύψω
+εὔχομαι | pray | v fut=εὔξομαι
+σπείρω | sow | v fut=σπερῶ!
+φαίνομαι | appear, seem | v fut=φανοῦμαι!
+ἀποκτείνω | kill | v impf=0 aor=ἀπ·έκτεινα/ἀποκτειν irr
+διαφθείρω | destroy, ruin | v fut=διαφθερῶ
+κατακλίνω | make (someone) lie down | v fut=κατακλινῶ
+X:sense-deinos | δεινός also means “clever, skilled”, with an infinitive “clever at” (δεινὸς λέγειν “a clever speaker”) | lemma=δεινός hint=clever (at)
+# set phrases the readings use without listing them among the Locuzioni (added 2026-11-23)
+C:ταῦτ᾽ εἰπών / ταῦτα εἰπών / ταῦτ᾽ εἰποῦσα / ταῦτα εἰποῦσα / ταῦτ᾽ εἰπόντες / ταῦτα εἰπόντες | with these words, having said this
+# Smyth inventory (added 2026-11-23): a Smyth concept Athenaze does not treat
+X:adj-inf | adjective + infinitive, “to …” (ἡ ὁδὸς χαλεπή ἐστιν εὑρεῖν “the road is hard to find”, ἡδὺς ἀκοῦσαι “pleasant to hear”); Smyth §2001

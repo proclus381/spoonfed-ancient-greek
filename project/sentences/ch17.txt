@@ -1,0 +1,229 @@
+# ch.17 — future (active, middle, contract); future of εἰμί; εἶμι; ὡς + future participle; sanctuary and healing vocabulary
+Λύσει τὸν δοῦλον. | He will set the slave free. | composed
+Αὔριον βοηθήσω τῷ πατρί. | Tomorrow I shall help father. | composed
+Αὔριον πορεύσεται πρὸς τὸ ἄστυ. | Tomorrow he will travel to the city. | composed
+Οὐ φοβήσομαι τοὺς πολεμίους. | I shall not be afraid of the enemy. | composed
+Αὔριον πρὸς τὴν πόλιν πορευσόμεθα. | Tomorrow we shall travel to the city. | composed
+Ἕψεται ὁ κύων τῷ δεσπότῃ. | The dog will follow its master. | composed
+Ἕσποντο τῷ στρατηγῷ. | They followed the general. | composed
+Καλὸν ἵππον ἕξει. | He will have a fine horse. | composed
+Ἐπὶ τῇ πέτρᾳ κάθηται ὁ νεανίας. | The young man is sitting on the rock. | composed
+Μέλλει πρὸς τὸν βασιλέα πορεύσεσθαι. | He is about to travel to the king. | composed
+Πρὸς τὴν κρήνην ἰὼν λύκον εἶδεν. | As he was going to the spring he saw a wolf. | composed
+Αὔριον εἰς τὸ ἄστυ εἶμι. | Tomorrow I shall go to the city. | composed
+Προσέρχεται ὁ γέρων τῷ βωμῷ. | The old man approaches the altar. | composed
+Ὁ ποιμὴν τὰ πρόβατα φυλάττει. | The shepherd guards the sheep. | composed
+Δῆλόν ἐστιν ὅτι ὁ παῖς νοσεῖ. | It is clear that the boy is ill. | composed
+Σὺν τοῖς φίλοις ἀφικόμην. | I arrived with my friends. | composed
+Ὁ νικῶν δόξης τυγχάνει. | The winner gains glory. | composed
+Μισθοῦ ἔτυχεν. | He got his pay. | composed
+Ὁ ἰατρὸς παρὼν τὸν παῖδα ἔσωσεν. | The doctor, who was there, saved the boy. | composed
+Ἔτυχε παρών. | He happened to be there. | composed | +X:tynchano-ptc
+Ὁ ἀγαθὸς δόξης τεύξεται. | The good man will win glory. | composed
+Αἰσθάνεται ὁ κύων τοῦ λύκου. | The dog senses the wolf. | composed
+Καλεῖ τὸν τρέχοντα παῖδα. | He calls the boy who is running. | composed
+Τὸ τρέχον παιδίον καλεῖ ἡ μήτηρ. | Mother calls the running child. | composed | @τρέχον:acc
+Τὰ παιδία τρέχοντα πίπτει. | The children fall as they run. | composed | @τρέχοντα:nom.n
+Τὰ τρέχοντα παιδία καλεῖ. | He calls the running children. | composed | @τρέχοντα:acc.n
+Οὐκ ᾔσθετο τὸν λύκον προσιόντα. | He did not notice the wolf coming near. | composed
+Οὐδεὶς αἰσθήσεται. | No one will notice. | composed
+Μεγάλη ἡ γαστὴρ τοῦ γέροντος. | The old man's belly is big. | composed
+Πολλὰ ἐσθίων τὴν γαστέρα πληροῖ. | He eats a lot and fills his belly. | composed
+Αἱ γαστέρες αὐτῶν μεγάλαι εἰσίν. | Their bellies are big. | composed
+Πληροῦσιν τὰς γαστέρας. | They fill their bellies. | composed
+Δουλεύουσιν ταῖς γαστράσι. | They are slaves to their bellies. | composed
+Ἐπιμελοῦνται τῶν γαστέρων. | They take care of their bellies. | composed
+Αὔριον πρὸς τὴν νῆσον πλευσόμεθα. | Tomorrow we shall sail to the island. | composed
+Ἐν τῇ ἑορτῇ πολλὰ καὶ καλὰ ὀψόμεθα. | At the festival we shall see many fine things. | composed
+Πάντα μαθήσεται. | He will learn everything. | composed
+Λήψεται τὸ ἀργύριον. | He will take the money. | composed
+Ποῖ, ὦ ξένε, πορεύσῃ αὔριον; | Where will you travel tomorrow, stranger? | composed
+Θεάσονται τὴν πομπήν. | They will watch the procession. | composed
+Οὐδεὶς γνώσεται τί ἐγένετο. | No one will find out what happened. | composed
+Ποῖ εἶ, ὦ φίλε; | Where will you go, my friend? | composed | @εἶ=εἶμι
+Οἴκαδε ἴμεν. | We shall go home. | composed
+Ἑσπέρας ἐπανῆλθεν ὁ πατήρ. | Father came back in the evening. | composed
+Τί ποιήσεις, ὦ φίλε; | What will you do, my friend? | composed
+Αὔριον ποιήσομεν τὴν ἑορτήν. | Tomorrow we shall hold the festival. | composed
+Τιμήσουσι τοὺς θεούς. | They will honour the gods. | composed
+Αὔριον ἀφίξεται ὁ ἰατρός. | The doctor will arrive tomorrow. | composed
+Τί γενήσεται; | What will happen? | composed
+Ἐνθάδε μενῶ. | I shall stay here. | composed
+Τήμερον οὐ πονοῦμεν· ἑορτὴ γάρ ἐστιν. | Today we are not working, for it is a festival. | composed
+Πότερον μενεῖς ἢ ἄπει; | Will you stay or go away? | composed
+Πρότερον μὲν πένης ἦν, νῦν δὲ πλούσιός ἐστιν. | Before he was poor, but now he is rich. | composed
+Πότε οἴκαδε ἴτε, ὦ παῖδες; | When will you go home, children? | composed | @ἴτε:ind
+Ἴασι πρὸς τὸν ἀγρόν. | They will go to the field. | composed
+Αὔριον εἶσιν εἰς τὴν ἀγοράν. | Tomorrow he will go to the market place. | composed
+Οἴκαδε ἰοῦσα ᾖδεν. | She sang as she went home. | composed
+Σὺν θεοῖς νικήσομεν. | With the gods' help we shall win. | composed
+Ἆρα, ὦ ἄνδρες, πιστεύσετέ μοι; | Will you trust me, men? | composed
+Αὔριον ἑορτὴ ἔσται. | Tomorrow there will be a festival. | composed
+Τὰ ἐσόμενα οὐδεὶς γιγνώσκει. | Nobody knows what will be. | composed
+Ἐγώ, ὦ πάτερ, ναύτης ἔσομαι. | I shall be a sailor, father. | composed
+Πότε, ὦ πάτερ, οἴκοι ἔσῃ; | When will you be home, father? | composed
+Πεσεῖται ἐκ τοῦ δένδρου. | He will fall out of the tree. | composed
+Ὁ παῖς μέλλει πεσεῖσθαι. | The boy is about to fall. | composed
+«Οὐ πεσοῦμαι, ὦ πάτερ.» | “I won't fall, father.” | composed
+«Πεσεῖσθε, ὦ παῖδες.» | “You'll fall, children!” | composed
+Ταχέως δραμεῖται. | He will run fast. | composed
+Μέγα βοήσονται. | They will give a great shout. | composed
+Πάντες θαυμάσονται τὴν ἀρετήν σου. | Everyone will admire your courage. | composed
+Ὁ τυφλὸς αὖθις βλέψεται. | The blind man will see again. | composed
+Οἱ βόες ταχέως καμοῦνται. | The oxen will soon grow tired. | composed
+Ἡμεῖς μὲν ἐνθάδε μενοῦμεν, ὑμεῖς δὲ ἄπιτε. | We shall stay here, but you go away. | composed
+Πολλοὺς τῶν πολεμίων ἀποκτενεῖ. | He will kill many of the enemy. | composed
+Κακοδαίμων ὁ ἄνθρωπος. | The man is unlucky. | composed
+Ὦ κακόδαιμον, τί ποιεῖς; | You poor wretch, what are you doing? | composed | @κακόδαιμον:m
+Σῶφρον τὸ παιδίον. | The child is sensible. | composed | @Σῶφρον:nom
+Σῶφρον τέκνον ἔχει. | He has a sensible child. | composed | @Σῶφρον:acc
+Σώφρονα υἱὸν ἔχει. | He has a sensible son. | composed | @Σώφρονα:m
+Ἀκούουσιν τοῦ σώφρονος γέροντος. | They listen to the sensible old man. | composed
+Πείθονται τῷ σώφρονι ἀνδρί. | They obey the sensible man. | composed
+Τλήμονες οἱ δοῦλοι. | The slaves are wretched. | composed
+Φιλοῦσιν τοὺς σώφρονας. | They love sensible people. | composed | @σώφρονας:m
+Σώφρονα τὰ παιδία. | The children are sensible. | composed | @Σώφρονα:nom.n
+Σώφρονα τέκνα ἔχει. | He has sensible children. | composed | @Σώφρονα:acc.n
+Ὁ βίος τῶν σωφρόνων ῥᾴδιός ἐστιν. | The life of sensible people is easy. | composed
+Πείθονται τοῖς σώφροσι. | They obey the sensible. | composed
+Χαιρήσουσιν οἱ σύμμαχοι. | The allies will rejoice. | composed
+Οὐχ ἁμαρτήσῃ τῆς ὁδοῦ. | You will not miss the way. | composed
+Ἡ ἀδελφή μου καλή ἐστιν. | My sister is beautiful. | composed
+Ἀναγκαῖόν ἐστιν ἡμῖν ἀπιέναι. | We have to go away. | composed
+Ἐλεύθεροι, ὦ ἄνδρες, ἔσεσθε. | You will be free, men. | composed
+Ἔφη ὁ γέρων χειμῶνα ἔσεσθαι. | The old man said there would be a storm. | composed
+Ἀεὶ φίλοι ἐσόμεθα. | We shall always be friends. | composed
+Οἱ παῖδες ἔσονται ἀνδρεῖοι. | The boys will be brave. | composed
+Πεσὼν ᾤμωξεν. | He fell and cried out in pain. | composed
+Οἰμώξεται ὁ κλέπτης. | The thief will be sorry for it. | composed
+Οὐδεὶς ἀεὶ εὐδαίμων ἐστίν. | No one is happy all the time. | composed
+Ὁ ῥήτωρ δεινὸς λέγειν ἐστίν. | The orator is clever at speaking. | composed | +X:sense-deinos
+Μέλλει τοὺς δούλους λύσειν. | He is going to free the slaves. | composed
+Οἱ γονῆς τὸν παῖδα φιλοῦσιν. | The parents love their child. | composed
+«Χαίρετε, ὦ γονεῖς.» | “Greetings, parents.” | composed
+Μεγάλη ἦν ἡ δυστυχία τοῦ ἀνδρός. | The man's misfortune was great. | composed
+Αὐτόθι ἔμεινεν. | He stayed on the spot. | composed
+Τὸ ὄρος ἱερόν ἐστι τοῦ θεοῦ. | The mountain is sacred to the god. | composed | @ἱερόν=ἱερός
+Ἀμφότεροι οἱ ἀδελφοί εἰσι ναῦται. | Both brothers are sailors. | composed
+Ἔνδοξος ἡ τῶν Ἀθηναίων πόλις. | The city of the Athenians is famous. | composed
+Λέγε μοι ὁποῖός ἐστιν ὁ βασιλεύς. | Tell me what kind of man the king is. | composed
+Θαυμάσια ἔργα ποιεῖ ὁ θεός. | The god does wonderful deeds. | composed
+Πότε ἐργάσεσθε, ὦ δοῦλοι; | When will you work, slaves? | composed
+Τίς ἡμῶν ἀκούσεται; | Who will listen to us? | composed
+Ἡδέως σοι βοηθήσω. | I shall gladly help you. | composed
+Οὑτοσὶ ὁ ἀνήρ ἐστι κλέπτης. | This man here is a thief. | composed
+Οἱ λῃσταὶ τὰ χρήματα ἔλαβον. | The robbers took the money. | composed
+Ἀπέκτειναν τὸν ἔμπορον. | They killed the merchant. | composed
+Γάλα παρέχει τῷ παιδίῳ. | She gives the baby milk. | composed
+Ἀστραπὴ ἐγένετο καὶ βροντή. | There was lightning and thunder. | composed
+Φέγγος ἐξέλαμψεν ἐκ τοῦ ἱεροῦ. | A light shone out of the temple. | composed
+Ὁ θεὸς ἀνεῖλε τοὺς Ἀθηναίους νικήσειν. | The god's answer was that the Athenians would win. | composed
+Θεῖοι ἄνδρες εἰσὶν οἱ ποιηταί. | Poets are divine men. | composed
+Ἡ νόσος ἦν δεινή. | The sickness was terrible. | composed
+Τὸ νόσημα ἦν χαλεπόν. | The illness was a hard one. | composed
+Φάρμακον παρέχει τῷ νοσοῦντι. | He gives the sick man a medicine. | composed
+Νηὶ πολεμίᾳ ἐνέβαλεν. | It rammed an enemy ship. | composed
+Μεγάλη ἐπιθυμία τῆς εἰρήνης τοὺς πολίτας ἔχει. | A great desire for peace possesses the citizens. | composed
+Ἐπιθυμίαν ἐμβάλλεις μοι τῆς θαλάττης. | You make me long for the sea. | composed
+Ἴθι τὴν εὐθεῖαν, ὦ ξένε. | Go straight on, stranger. | composed
+Ἀναρίθμητοι ἦσαν αἱ τῶν βαρβάρων νῆες. | The barbarians' ships were countless. | composed
+Πρὸς τὸ ἱερὸν ἔρχονται οἱ ἱκέται. | The suppliants are coming to the temple. | composed
+Ἀντιβολεῖ τὸν θεόν. | He entreats the god. | composed
+Οἱ κακοὶ κακὰ πείσονται. | The wicked will suffer for it. | composed
+Ἡμεῖς ἀμέλει σοι τά γε παρ᾽ ἡμῖν πείσομεν. | Leave it to us: we'll win over our side for you. | Ar. Lysistrata 172
+Πάνυ ἀληθῆ λέγεις. | What you say is very true. | composed
+Λίθον βαλεῖ. | He will throw a stone. | composed
+Ἀροῦσι τὰ ἱστία. | They will hoist the sails. | composed | @ἀροῦσι=αἴρω
+Πρῲ ἐγερεῖ τὸν παῖδα. | She will wake the boy early. | composed
+Ἀγγελεῖ πάντα τῷ βασιλεῖ. | He will report everything to the king. | composed
+Τί ἀποκρινεῖται ὁ πατήρ; | What will father answer? | composed
+Πόπανον φέρει ἐπὶ τὸν βωμόν. | He is bringing a cake to the altar. | composed
+Πρῶτον δεῖ πελανὸν τῷ θεῷ παρέχειν. | First one must give the god an offering. | composed
+Τὸ πρόθυμα ἤδη ἕτοιμον. | The preliminary sacrifice is now ready. | composed
+Ὁ ἱερεὺς καθοσιοῖ τὸν βωμὸν τῷ θεῷ. | The priest consecrates the altar to the god. | composed
+Ὁ ποταμὸς εἰσβάλλει εἰς τὴν θάλατταν. | The river flows into the sea. | composed
+Ὁ παῖς, ὡς τὸ εἰκός, ἐφοβεῖτο. | The boy, naturally, was afraid. | composed
+Ὁ ῥήτωρ δεινός ἐστι λέγειν. | The orator is a clever speaker. | composed | +X:deinos-inf
+Ἐν τῷ ἀβάτῳ καθεύδουσιν οἱ ἱκέται. | The suppliants sleep in the holy hall. | composed
+Κατέκλινε τὸν παῖδα. | She laid the boy down. | composed
+Ἐπὶ στιβαδίου καθεύδει. | He is sleeping on a straw mattress. | composed
+Φεύξονται οἱ πολέμιοι. | The enemy will run away. | composed
+Πάντες ἀποθανούμεθα. | We shall all die. | composed
+Αὔριον φανεῖται ὁ ἥλιος. | Tomorrow the sun will appear. | composed
+Σπερεῖ τὸν σῖτον. | He will sow the grain. | composed
+Μῶρος εἶ, ὦ παῖ. | You are a fool, boy. | composed
+Ὁ πρόπολος τοὺς ἱκέτας εἰς τὸ ἱερὸν εἰσάγει. | The temple attendant leads the suppliants into the temple. | composed
+Λύχνον φέρει εἰς τὸν οἶκον. | He is carrying a lamp into the house. | composed
+Ὁ ὄφις ἱερός ἐστι τοῦ Ἀσκληπιοῦ. | The snake is sacred to Asclepius. | composed
+«Ὦ ἱερὲ ὄφι, ἵλεως ἴσθι.» | “Holy snake, be gracious.” | composed
+«Μὴ δάκνετε, ὦ ὄφεις.» | “Snakes, don't bite.” | composed
+Ὁ δράκων μέγας ἦν καὶ φοβερός. | The serpent was huge and frightening. | composed
+Συρίττει ὁ ὄφις. | The snake is hissing. | composed
+Συνῆλθον ὡς τὸν χορὸν θεασόμενοι. | They gathered to watch the chorus. | composed
+Ἡ γυνὴ πρὸς τὴν κρήνην ἔβη ὡς τὴν ὑδρίαν πληρώσουσα. | The woman went to the spring to fill her water jar. | composed
+Οἱ νοσοῦντες ἐν τῷ ἀβάτῳ ἐγκοιμῶνται. | The sick sleep the night in the holy hall. | composed
+Παντοδαπὰ θηρία ἐν τοῖς ὄρεσίν ἐστιν. | There are wild beasts of every kind in the mountains. | composed
+Περιέρχεται τὰ τείχη. | He goes round the walls. | composed
+Νυκτὸς ἐπῆλθον οἱ πολέμιοι. | The enemy attacked by night. | composed
+Ὑγιὴς ἔσῃ, ὦ παῖ. | You will be well, child. | composed
+Σῷζε σαυτόν, ὦ φίλε. | Save yourself, my friend. | composed
+«Σαυτῇ ταῦτα λέγεις, ὦ γύναι.» | “You are saying this to yourself, woman.” | composed
+«Σαυτῆς ἐπιμελοῦ, ὦ γύναι.» | “Take care of yourself, woman.” | composed
+Παρῆλθε τὴν οἰκίαν. | He went past the house. | composed
+Εἰσβήσονται εἰς τὴν ναῦν. | They will go on board the ship. | composed
+Οἱ Ἀθηναῖοι τοῖς βαρβάροις μαχοῦνται. | The Athenians will fight the barbarians. | composed
+Αὔριον ἐπὶ δεῖπνον καλῶ τοὺς φίλους. | Tomorrow I shall invite my friends to dinner. | composed | @καλῶ:fut
+Ἐλᾷ τοὺς βοῦς πρὸς τὸν ἀγρόν. | He will drive the oxen to the field. | composed | @βοῦς:acc
+Αὔριον ἐλῶμεν τοὺς βοῦς πρὸς τὸν ἀγρόν. | Tomorrow we shall drive the oxen to the field. | composed
+«Πότε ἐλᾶτε τοὺς βοῦς οἴκαδε;» | “When will you drive the oxen home?” | composed
+«Ἆρα ἐλᾷς τὰ πρόβατα πρὸς τὸν ποταμόν;» | “Will you drive the sheep to the river?” | composed
+Αὔριον ἐλῶσι τοὺς βοῦς πρὸς τὴν κρήνην. | Tomorrow they will drive the oxen to the spring. | composed
+Μέλλει τοὺς βοῦς οἴκαδε ἐλᾶν. | He is about to drive the oxen home. | composed
+Τί ἐρεῖς τῷ πατρί; | What will you say to father? | composed
+Οἴσει τὸν οἶνον. | He will bring the wine. | composed
+Ποῦ εὑρήσομεν τὸν κύνα; | Where shall we find the dog? | composed
+Τοῦτο ἄριστον δόξει τοῖς πολίταις. | This will seem best to the citizens. | composed
+Ἔδονται τὸν σῖτον. | They will eat the food. | composed
+Οὐδεὶς οἶνον πίεται. | No one will drink wine. | composed
+Οὐκ ἐθελήσει ὁ γέρων ἡμῖν βοηθεῖν. | The old man will not be willing to help us. | composed
+Ὁ βασιλεὺς οὐ βουλήσεται ἡμᾶς σῴζειν. | The king will not want to save us. | composed
+Ὁ νεανίας εὖ ἱππεύει. | The young man rides well. | composed
+Ἥμεροί εἰσιν οἱ ὄφεις οὗτοι. | These snakes are tame. | composed
+Ἐκλακτίζει ὁ ἵππος. | The horse is kicking out. | composed
+Ἐπήδησεν ὁ κύων ἐπὶ τὸν λύκον. | The dog leapt at the wolf. | composed
+Ἡ ὁδὸς ὀρθία ἦν καὶ χαλεπή. | The road was steep and hard. | composed
+Λαμβάνει τοὺς ῥυτῆρας. | He takes the reins. | composed
+Ὁ ποταμὸς κατέρχεται ἀπὸ τοῦ ὄρους. | The river comes down from the mountain. | composed
+Ἐν τῷ καταγωγίῳ ἦσαν πολλοὶ ξένοι. | There were many strangers in the inn. | composed
+Οἱ συγγενεῖς βοηθοῦσι τῷ νοσοῦντι. | The relatives are helping the sick man. | composed
+Πυρέττει ὁ παῖς. | The boy has a fever. | composed
+Ἦλθε τῷ πατρὶ βοηθήσων. | He came to help his father. | composed
+Οἱ ἄνδρες ἔσπευσαν ὡς τὴν πόλιν σώσοντες. | The men hurried to save the city. | composed | +X:hos-fut-ptc
+Ὁ αὐτουργὸς ἐξῆλθεν ὡς τοὺς βοῦς ἐλῶν. | The farmer went out to drive the oxen. | composed
+Ἡ κόρη ἐξῆλθεν ὡς τὰ πρόβατα ἐλῶσα. | The girl went out to drive the sheep. | composed
+Ἡ μήτηρ ἦλθεν ὡς τὸν χορὸν θεασομένη. | Mother came to watch the dance. | composed
+Κοιμᾷ τὸ παιδίον. | She is putting the baby to sleep. | composed
+Ὁ ἄγγελος αὐτόπτης ἦν τῆς μάχης. | The messenger was an eyewitness of the battle. | composed
+Μέγα θαῦμα εἴδομεν. | We saw a great marvel. | composed
+Ἄπιστος ὁ λόγος. | The story is hard to believe. | composed
+Ταῦτ᾽ εἰπὼν ἀπῆλθεν. | With these words he went away. | composed
+Χρὴ τοὺς θεοὺς τιμᾶν. | One ought to honour the gods. | composed
+Ἐχρῆν σε οἴκοι μένειν. | You ought to have stayed at home. | composed
+Ἐπιτρέπει τὸν κλῆρον τῷ υἱῷ. | He entrusts the farm to his son. | composed
+Οἰήσεται ὁ πατὴρ ἡμᾶς ἀργοὺς εἶναι. | Father will think that we are lazy. | composed
+Οὐ διὰ πολλοῦ ἐπάνεισιν ὁ πατήρ. | Father will be back before long. | composed
+Τηνικαῦτα ἡ πόλις ἦν μεγάλη. | At that time the city was great. | composed
+Ὁ θεὸς ἀκεῖται τοὺς τυφλούς. | The god heals the blind. | composed
+Οὐδὲν ἠμείψατο. | He made no reply. | composed
+Χρή σε, ὦ παῖ, σπεύδειν. | You ought to hurry, boy. | composed | +X:chre-inf
+Δεῖ τοὺς ἱκέτας καθαροὺς εἶναι. | The suppliants must be pure. | composed
+Ὁ σοφὸς εὖ φρονεῖ. | The wise man thinks sensibly. | composed
+Καθαίρει τοὺς ἱκέτας. | He purifies the suppliants. | composed | @καθαίρει=καθαίρω
+Οὐχ ὅσιόν ἐστι τοὺς ἱκέτας βλάπτειν. | It is not right to harm suppliants. | composed
+Ὁ Ἀσκληπιὸς σωτήρ ἐστι τῶν νοσούντων. | Asclepius is the saviour of the sick. | composed
+«Ὦ σῶτερ, βοήθει ἡμῖν.» | “Saviour, help us.” | composed
+Οἶνον ἐκ φιάλης σπένδει. | He pours wine from a bowl. | composed
+Ἠρέμα λέγε, ὦ παῖ· ὁ πάππος καθεύδει. | Speak quietly, boy: grandfather is asleep. | composed
+# ---- practice (ch.17 review)
+Ἡ ὁδὸς χαλεπή ἐστιν εὑρεῖν. | The road is hard to find. | composed | +X:adj-inf
+Ὁ στρατηγὸς τοὺς πολεμίους τρέψει καὶ τὴν πόλιν σώσει. | The general will put the enemy to flight and save the city. | composed

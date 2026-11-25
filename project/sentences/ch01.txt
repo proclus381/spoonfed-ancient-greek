@@ -1,0 +1,90 @@
+# chapter 1, first cards (sample)
+Φλέγει ὁ ἥλιος. | The sun is blazing. | composed
+Μάλα φλέγει ὁ ἥλιος. | The sun is blazing fiercely. | composed
+Καταδύνει ὁ ἥλιος. | The sun is setting. | composed
+Δι᾽ ὀλίγου καταδύνει ὁ ἥλιος. | The sun will soon set. | composed
+Μάλα κάμνει. | He's very tired. | composed
+Μάλα κάμνει ὁ ἄνθρωπος. | The man is very tired. | composed
+Οὐ κάμνει. | He isn't tired. | composed
+Πονεῖ ὁ ἄνθρωπος. | The man is working. | composed
+Πονεῖ καὶ κάμνει. | He works and gets tired. | composed
+Πονεῖ ἀεὶ καὶ οὐ κάμνει. | He's always working and never gets tired. | composed
+Ἄοκνος ὁ ἄνθρωπος. | The man never flags. | composed
+Ὁ ἄνθρωπος ἄοκνός ἐστιν· ἀεὶ πονεῖ. | The man is tireless: he's always at work. | composed
+Ὁ ἄνθρωπός ἐστιν ἰσχυρός. | The man is strong. | composed
+Ἰσχυρός ἐστιν· οὐ γὰρ κάμνει. | He's strong; he doesn't get tired, you see. | composed
+Οὐκέτι πονεῖ. | He isn't working any more. | composed
+Καθίζει ὁ ἄνθρωπος. | The man sits down. | composed
+Τέλος καθίζει. | At last he sits down. | composed
+Οὐ πονεῖ ἀλλὰ καθίζει. | He isn't working, he's sitting down. | composed
+Σκάπτει ὁ ἄνθρωπος. | The man is digging. | composed
+Μικρὸς ὁ ἄνθρωπος, ἀλλὰ ἰσχυρός. | The man is small, but strong. | composed
+Ὁ ἀγρός ἐστι μικρός. | The field is small. | composed
+Σκάπτει τὸν ἀγρόν. | He is digging the field. | composed
+Ἐν τοῖς ἀγροῖς πονεῖ. | He works in the country. | composed
+Οἰκεῖ ἐν τοῖς ἀγροῖς. | He lives in the country. | composed
+Οὐκ οἰκεῖ ἐν ταῖς Ἀθήναις. | He doesn't live in Athens. | composed
+Ἀθηναῖός ἐστιν ὁ ἄνθρωπος. | The man is an Athenian. | composed
+Αὐτουργός ἐστιν ὁ ἄνθρωπος. | The man is a farmer who works his own land. | composed
+Γεωργεῖ τὸν ἀγρόν. | He farms the field. | composed
+Ὁ ἀγρός ἐστι μικρός, καὶ ὁ οἶκός ἐστι μικρός. | The field is small, and the house is small too. | composed
+Ἐν τῷ οἴκῳ καθίζει. | He sits down in the house. | composed
+Μικρὸς ὁ τοῦ αὐτουργοῦ οἶκος. | The farmer's house is small. | composed
+Βαδίζει καὶ οὐ καθίζει. | He keeps walking and doesn't sit down. | composed
+Βαδίζει πρὸς τὸν ἀγρόν. | He walks to the field. | composed
+Ἐκ τοῦ οἴκου βαδίζει πρὸς τὸν ἀγρόν. | He walks out of the house to the field. | composed
+Ὁ λίθος ἐστὶ μικρός. | The stone is small. | composed
+Ὁ αὐτουργὸς αἴρει τὸν λίθον. | The farmer lifts the stone. | composed
+Αἴρει τὸν λίθον καὶ φέρει ἐκ τοῦ ἀγροῦ. | He picks up the stone and carries it out of the field. | composed
+Αἴρει τοὺς λίθους ἐκ τοῦ ἀγροῦ. | He clears the stones out of the field. | composed
+Πολλάκις φέρει τοὺς λίθους ἐκ τοῦ ἀγροῦ. | He often carries the stones out of the field. | composed
+Ὁ λίθος ἐστὶ μέγας. | The stone is big. | composed
+Μέγαν ἀγρὸν οὐ γεωργεῖ. | He doesn't farm a big field. | composed
+Μέγας ὁ λίθος, ἀλλὰ ὁ αὐτουργὸς αἴρει αὐτόν. | The stone is big, but the farmer lifts it. | composed
+Μεγάλους λίθους αἴρει. | He lifts big stones. | composed
+Ἐκ τοῦ μεγάλου ἀγροῦ φέρει τοὺς λίθους. | He carries the stones out of the big field. | composed
+Ἐν τῷ μεγάλῳ ἀγρῷ ἀεὶ πονεῖ. | He is always at work in the big field. | composed
+Πολλοὺς λίθους φέρει. | He carries a lot of stones. | composed
+Ἐν τῷ ἀγρῷ ἐστιν ἕρμα. | In the field there is a heap of stones. | composed
+Μέγα τὸ ἕρμα. | The heap of stones is big. | composed
+Ὁ ἥλιος φλέγει, ὁ δὲ αὐτουργὸς μάλα κάμνει. | The sun is blazing, and the farmer is very tired. | composed
+Μικρὸς ὁ οἶκος, μακρὸς δὲ ὁ ἀγρός. | The house is small, but the field is long. | composed
+Οὐ μικρόν ἐστι τὸ ἕρμα. | The heap of stones isn't small. | composed | @μικρόν:n
+Μικρὸν ἀγρὸν γεωργεῖ. | He works a small field. | composed | @Μικρὸν:m
+Ἐκ τοῦ μικροῦ οἴκου βαδίζει. | He walks out of the little house. | composed
+Ἐν τῷ μικρῷ οἴκῳ οἰκεῖ. | He lives in the little house. | composed
+Μικροὺς λίθους ἐκ τοῦ ἀγροῦ φέρει. | He carries small stones out of the field. | composed
+Μακρὸν τὸ δένδρον. | The tree is tall. | composed
+Μικρὸν δένδρον φέρει ὁ αὐτουργός. | The farmer is carrying a small tree. | composed | @Μικρὸν:acc.n
+Πρὸς τῷ δένδρῳ καθίζει. | He sits down by the tree. | composed
+Ὑπὸ τῷ δένδρῳ καθίζει ὁ αὐτουργός. | The farmer sits down under the tree. | composed
+Ὑπὸ τῷ δένδρῳ ἡσυχάζει· κάμνει γάρ. | He rests under the tree, for he is tired. | composed
+Ὑπὸ τοῖς δένδροις ἡσυχάζει. | He rests under the trees. | composed
+Μάλα κάμνει ὁ αὐτουργός· οὐκέτι οὖν πονεῖ. | The farmer is very tired, so he stops working. | composed
+Μικρός ἐστιν ὁ κλῆρος. | The farm is small. | composed
+Μικρὸς ὁ κλῆρος· φιλεῖ δὲ αὐτὸν ὁ αὐτουργός. | The farm is small, but the farmer loves it. | composed
+Φιλεῖ τὸ δένδρον. | He loves the tree. | composed | @δένδρον:acc
+Ὁ σῖτός ἐστιν ἐν τῷ οἴκῳ. | The grain is in the house. | composed
+Ὁ ἀγρὸς σῖτον παρέχει. | The field provides grain. | composed
+Ἱκανὸς ὁ σῖτος. | There is enough grain. | composed
+Μικρὸς ὁ κλῆρος, σῖτον δὲ ἱκανὸν παρέχει. | The farm is small, but it provides enough grain. | composed
+Καλὸς ὁ σῖτος. | The grain is good. | composed
+Καλὸν τὸ δένδρον. | The tree is beautiful. | composed | @Καλὸν:nom
+Φιλεῖ τὸ καλὸν δένδρον. | He loves the beautiful tree. | composed | @καλὸν:acc.n
+Πολὺν σῖτον οὐ παρέχει. | It doesn't give much grain. | composed
+Ὁ ἀγρὸς μακρός ἐστιν· πολὺν οὖν χρόνον πονεῖ. | The field is long, so he works for a long time. | composed
+Μέγας ὁ πόνος. | The toil is great. | composed
+Χαλεπός ἐστιν ὁ πόνος. | The work is hard. | composed
+Χαλεπὸς ὁ πόνος, ἀλλὰ οὐκ ὀκνεῖ. | The work is hard, but he doesn't shirk it. | composed
+Ἀπέραντος ὁ πόνος. | The toil is endless. | composed
+Πολὺς ὁ πόνος καὶ ἀπέραντος. | There is a lot of toil, and it never ends. | composed
+Ὁ βίος ἐστὶ χαλεπός. | Life is hard. | composed
+Ὁ βίος χαλεπός ἐστιν, ἀλλὰ ἐλεύθερος ὁ αὐτουργός. | Life is hard, but the farmer is free. | composed
+Ἐλεύθερός ἐστι καὶ χαίρει. | He is free, and glad of it. | composed
+Κάμνει καὶ στενάζει. | He is tired and groans. | composed
+«Χαλεπὸς ὁ πόνος», λέγει ὁ αὐτουργός. | “The work is hard,” says the farmer. | composed
+Στενάζει καὶ λέγει· «Ὦ Ζεῦ, ἀπέραντος ὁ πόνος.» | He groans and says, “O Zeus, the toil is endless!” | composed
+Στενάζει· κατατρίβει γὰρ αὐτὸν ὁ πόνος. | He groans, for the work wears him out. | composed
+Ὁ ἥλιος καταδύνει· τέλος οὖν ἐπαίρει ἑαυτόν. | The sun is setting, so at last he gets up. | composed
+Μικρὸς ὁ μόσχος. | The calf is small. | composed
+Λύει τὸν μόσχον. | He unties the calf. | composed

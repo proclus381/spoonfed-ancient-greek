@@ -1,0 +1,134 @@
+# Athenaze I, ch.13 (Πρὸς τὴν Σαλαμῖνα) — imperfect; relative pronoun; stems in -εσ-; expressions of time
+ᾄδω | sing | v
+ἀμύνω | ward off (acc.) from (dat.); (+ dat.) help | v aor=ἤμυνα/ἀμυν irr
+ἀμύνομαι | defend oneself against (+ acc.) | v aor=ἠμυνάμην/ἀμυν irr
+ἀνοικοδομέω | rebuild | v aor=ἀνῳκοδόμησα/ἀνοικοδομησ
+ἀντιτάττω | draw up (troops) against; (mid.) take a stand against (+ dat.) | v mid aor=ἀντέταξα/ἀντιταξ
+ἀξιόω | think worthy, expect, ask | v
+ἀποκαλύπτω | uncover, reveal | v aor=ἀπεκάλυψα/ἀποκαλυψ
+δέομαι | need, ask, beg (+ gen.) |
+διαβιβάζω | take across, carry over | v aor=διεβίβασα/διαβιβασ
+διέρχομαι | go through, come through | v aor2=δι·ῆλθον/διελθ
+ἐξανθέω | bloom; break out (of troubles) | v
+ἐρέσσω | row | v
+καταλαμβάνω | overtake, catch | v aor2=κατέλαβον/καταλαβ
+καταλέγω | enlist, enrol | v aor=κατέλεξα/καταλεξ
+κατασκευάζω | equip, build | v aor=κατεσκεύασα/κατασκευασ
+κινδυνεύω | be in danger, run a risk | v aor=ἐκινδύνευσα/κινδυνευσ
+διακινδυνεύω | run every risk, face the danger | v aor=διεκινδύνευσα/διακινδυνευσ
+κυμαίνω | swell (of the sea) | v
+μάχομαι | fight (+ dat.) | v aor=ἐμαχεσάμην/μαχεσ irr
+νομίζω | think, consider; believe in (the gods) | v aor=ἐνόμισα/νομισ
+ὀργίζομαι | grow angry, be angry at (+ dat.) | v
+παραγίγνομαι | be present, arrive | v aor_mid=παρεγενόμην/παραγεν
+περιγίγνομαι | survive; overcome (+ gen.) | v aor_mid=περιεγενόμην/περιγεν
+πιστεύω | trust, believe (+ dat.) | v aor=ἐπίστευσα/πιστευσ
+ῥίπτω | throw | v aor=ἔρριψα/ῥιψ
+τολμάω | dare | v aor=ἐτόλμησα/τολμησ
+ὑπείκω | yield, give way (+ dat.) | v aor=ὑπ·εῖξα/ὑπειξ
+ἀλλήλων | one another, each other |
+μηδείς | no one, nothing, no (with μή) |
+αἰτία | cause, responsibility, blame | n
+ἀρετή | excellence, courage, virtue | n
+ἀρχή | beginning; rule, power, empire | n
+δάκρυον | tear | n
+διδάσκαλος | teacher | n
+δόξα | opinion, reputation, glory | n
+δουλεία | slavery | n
+δύναμις | power, strength, force |
+ἔθνος | tribe, people, nation | nes
+ἐλευθερία | freedom | n
+ἐρέτης | rower | n
+θάνατος | death | n
+ἰσονομία | equality before the law | n
+ἱστίον | sail (τὰ ἱστία “the sails”) | n
+κατάστρωμα | deck (of a ship) | n3 gen=καταστρώματος g=n
+κελευστής | boatswain (calls the stroke for the rowers) | n
+κῦμα | wave | n3 gen=κύματος g=n
+μαθητής | pupil, student | n
+μέγεθος | size, greatness | nes
+μέλος | song; limb | nes
+ναυμαχία | sea battle | n
+ναυτικόν | fleet | n
+νόμος | law, custom | n
+ὀλιγαρχία | oligarchy, rule of the few | n
+πεῖσμα | cable, mooring rope | n3 gen=πείσματος g=n
+πένθος | grief, mourning | nes
+πλῆθος | number, crowd; the people | nes
+πλοῦτος | wealth | n
+πόλεμος | war | n
+πολιτεία | constitution, form of government | n
+πρᾶγμα | matter, affair; (pl.) troubles | n3 gen=πράγματος g=n
+πρόγονος | ancestor | n
+ῥήτωρ | speaker, orator | n3 gen=ῥήτορος
+ῥώμη | strength | n
+σημεῖον | sign, signal | n
+στρατιά | army | n
+σῶμα | body | n3 gen=σώματος g=n
+τεῖχος | wall (of a city) | nes
+τέχνη | art, skill, craft | n
+τόλμα | daring | n
+τριήρης | trireme (warship) |
+τροφή | food, nourishment | n
+τυραννίς | tyranny, rule of one man | n3 gen=τυραννίδος g=f
+τύραννος | tyrant, absolute ruler | n
+ὕβρις | insolence, violence, arrogance |
+φιλία | friendship | n
+ψυχή | soul, life | n
+Ἀσία | (name) | n
+Ἀττική | (name) | n
+Ἑλλάς | (name) | n3 gen=Ἑλλάδος g=f
+Ἑλλήσποντος | (name) | n
+Εὐρώπη | (name) | n
+Μαραθών | (name) | n3 gen=Μαραθῶνος
+Ξέρξης | (name) | n
+Πέρσης | (name) | n
+Σαλαμίς | (name) | n3 gen=Σαλαμῖνος g=f
+ἄγευστος | not tasting, without experience of (+ gen.) | adj2
+ἄδηλος | unclear, unknown | adj2
+ἀθάνατος | immortal | adj2
+ἀληθής | true | adjes
+ἄμαχος | unconquerable, not to be fought | adj2
+ἅπας | all, the whole |
+ἄπειρος | inexperienced in (+ gen.) | adj2
+βέβαιος | firm, secure | adj
+κενός | empty | adj
+κρείττων | stronger, better |
+λαμπρός | bright, brilliant, splendid | adj
+μείζων | bigger, greater |
+ναυτικός | naval, of ships | adj
+οἰκεῖος | of the family, one's own; (as noun) relative | adj
+οὔριος | favourable (of wind) | adj
+πεζός | on foot; (as noun) infantry, land army | adj
+πολέμιος | hostile; οἱ πολέμιοι “the enemy” | adj
+σαφής | clear | adjes
+στενός | narrow; τὰ στενά “the straits” | adj
+στρογγύλος | round | adj
+ταχύς | quick, swift |
+ὕστερος | later, next | adj
+χίλιοι | a thousand | 
+ψευδής | false, lying | adjes
+ὅς | who, which, that (relative pronoun) |
+ὅσπερ | who indeed, the very one who |
+ἄνευ | without (+ gen.) |
+ἐπιφθόνως | so as to cause envy, invidiously |
+μᾶλλον | more, rather |
+C:ἐξ ἀρχῆς / ἀπ᾽ ἀρχῆς | from the beginning
+C:ἥσυχος ἔχε / ἥσυχοι ἔχετε / ἥσυχος ἔχει / ἥσυχοι ἔχουσιν / ἥσυχοι ἔχουσι / ἥσυχος εἶχε / ἥσυχοι εἶχον / ἥσυχος ἔχω / ἥσυχοι ἔχομεν / ἥσυχος ἔχειν / ἥσυχοι ἔχειν | keep quiet, keep still
+C:ναῦς μακρά / ναῦν μακράν / νεὼς μακρᾶς / νηὶ μακρᾷ / νῆες μακραί / ναῦς μακράς / νεῶν μακρῶν / ναυσὶ μακραῖς / ναυσὶν μακραῖς | warship (“long ship”)
+C:στρογγύλη ναῦς / στρογγύλην ναῦν / στρογγύλης νεώς / στρογγύλαι νῆες / στρογγύλας ναῦς / στρογγύλων νεῶν / στρογγύλαις ναυσίν / στρογγύλαις ναυσί | merchant ship (“round ship”)
+C:οὐδὲν λέγεις / οὐδὲν λέγετε / οὐδὲν ἔλεγε / οὐδὲν ἔλεγεν / οὐδὲν ἔλεγον | talk nonsense (“say nothing”)
+C:τῷ ὄντι | in reality, really
+X:impf-aspect | the imperfect: an action going on (“was …-ing”), repeated (“used to …”) or attempted (“tried to …”) in the past; the aorist just says it happened
+X:rel-case | the relative pronoun takes gender and number from the word it refers to, but its case from its own clause (ἡ γυνή, ἣν ὁρᾷς “the woman whom you see”)
+X:acc-time | the accusative of time: how long (τρεῖς ἡμέρας “for three days”, πολὺν χρόνον “for a long time”)
+X:acc-inf | νομίζω + accusative + infinitive: “I think that …” (νομίζω τὸν ἄνδρα σοφὸν εἶναι)
+δακρύω | weep | v aor=ἐδάκρυσα/δακρυσ
+νικάω | win, defeat | v aor=ἐνίκησα/νικησ
+X:gen-time | the genitive of time within which: νυκτός “by night”, τῆς ἡμέρας “in the daytime”
+X:sense-pateres | οἱ πατέρες also means “ancestors, forefathers” (οἱ πατέρες ἡμῶν “our forefathers”) | lemma=πατήρ hint=ancestors, forefathers
+# set phrases the readings use without listing them among the Locuzioni (added 2026-11-23)
+C:κατὰ γῆν | by land (κατὰ γῆν καὶ κατὰ θάλατταν “by land and sea”)
+C:ἐκ τοῦ ὄπισθεν | from behind, in the rear
+# Smyth inventory (added 2026-11-23): a Smyth concept Athenaze does not treat
+X:hist-pres | the historical present: in a story about the past the present tense may be used for vividness; translate it with a past tense; Smyth §1883

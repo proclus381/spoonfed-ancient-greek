@@ -1,0 +1,38 @@
+ἀγωνίζομαι | compete, contend | v
+ἀναπνέω | breathe again, recover | 
+δεῖ | it is necessary, one must (+ acc. and inf.) | 
+διαπράττω | accomplish, get done | v impf=0 long
+διοικέω | manage, administer | v impf=0
+ἔξεστι | it is allowed, it is possible (+ dat. and inf.) | 
+εὐεργετέω | do good to, benefit | v
+καίομαι | burn, be on fire | v
+καταχέω | pour down, pour over | 
+κινέομαι | move | v
+μισέω | hate | v
+νικάω | win, defeat | v
+ποθέω | long for, miss | v
+πολυπραγμονέω | be a busybody, meddle | v
+σαλπίζω | sound the trumpet | v
+ὑμνέω | sing (a hymn), praise in song | v
+φαίνομαι | appear, seem | v
+χορεύω | dance | v
+ἡσυχία | quiet, peace | n
+θρᾶνος | bench | n
+μάχη | battle | n
+ὀρχήστρα | dancing-floor (of the theatre) | n
+πόθος | longing, desire | n
+σαλπιγκτής | trumpeter | n
+στέφανος | garland, crown | n
+συμφορά | misfortune, disaster | n
+τραγῳδία | tragedy | n
+Λακεδαίμων | (name) | n3 gen=Λακεδαίμονος g=f
+τλήμων | wretched, poor | adj3 neut=τλῆμον gen=τλήμονος
+πρό | before, in front of (+ gen.) | 
+ἀμέλει | of course, don't worry | 
+ἄνω | up, above | 
+ἄριστα | very well, best | 
+εὐθύς | at once, straight away | 
+ἐφεξῆς | in a row, next | 
+πρῴ | early | 
+X:impers | impersonal verbs: δεῖ ἡμᾶς ἰέναι “we must go”; ἔξεστί σοι μένειν “you may stay”
+C:κατὰ τὸ εἰκός | probably, as is likely

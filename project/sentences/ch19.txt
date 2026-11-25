@@ -1,0 +1,181 @@
+# ch.19 — the genitive absolute; attributive and predicative position; more uses of the article; the road home, country life, robbers and ransom
+Ἑσπέρας γιγνομένης οἴκαδε ἐπανέρχονται οἱ γεωργοί. | As evening falls, the farmers go back home. | composed | +X:gen-abs
+Ἡμᾶς θάλπει ὁ ἥλιος. | The sun warms us. | composed
+Ἀλλ᾽, ὦ παῖ, δέχομαι μὲν ἔγωγε ἡδέως ὅσα σὺ δίδως, οὐ μέντοι δέομαί γε τούτων οὐδενός. | Well, my boy, I gladly accept what you give me, but I have no need of any of it. | Xen. Cyropaedia 1.4.10
+Ὁ νόστος μακρὸς ἦν καὶ χαλεπός. | The journey home was long and hard. | composed
+Διὰ τοῦ πεδίου ἐβαδίζομεν. | We were walking across the plain. | composed
+Ὕδατος πλήρης ἐστὶν ἡ ὑδρία. | The jar is full of water. | composed
+Ἤδη ἀκμάζουσιν αἱ ἄμπελοι. | The vines are now at their best. | composed
+Ἐν τῷ ἀμπελῶνι πονεῖ. | He is working in the vineyard. | composed
+Ἐν τῷ δρυμῷ ἐστι πολλὰ θηρία. | There are many wild animals in the thicket. | composed
+Ἐρεβίνθους ἐσθίει. | He is eating chick-peas. | composed
+Περιέκοψαν τὴν χώραν. | They laid the country waste. | composed
+Ἐν τῷ λειμῶνι μένει. | They stay in the meadow. | composed
+Αἱ μέλιτται περὶ τὰ ἄνθη πέτονται. | The bees fly round the flowers. | composed
+Ἡδὺς ὁ τῶν μελιττῶν βόμβος. | The humming of bees is pleasant. | composed
+Τραχεῖαι αἱ ὄρειαι ὁδοί. | Mountain roads are rough. | composed
+Φιλεῖ τὸν ἄρνα. | She loves the lamb. | composed
+Τέρπονται τοῖς τῶν ἀρνῶν σκιρτήμασιν. | They enjoy the lambs' leaps. | composed
+Ὁ ποιμὴν μουσικὸς ὢν εὖ ᾄδει. | The shepherd, being musical, sings well. | composed
+Αὔριον ἐν τῇ ἑορτῇ ᾄσομαι. | Tomorrow I shall sing at the festival. | composed
+Ἄρνα ἀρτιγέννητον ἐν ταῖς χερσὶ φέρει. | He is carrying a new-born lamb in his arms. | composed
+Ἐν τῷ λειμῶνι σκιρτῶσιν οἱ ἄρνες. | The lambs are frisking in the meadow. | composed
+Βομβοῦσιν αἱ μέλιτται. | The bees are humming. | composed
+Ὁ μαθητὴς μιμητὴς τοῦ διδασκάλου γίγνεται. | The pupil becomes an imitator of his teacher. | composed
+Οἱ παῖδες χαίροντες ἅλλονται. | The children are jumping for joy. | composed
+Οἱ παῖδες μιμοῦνται τὸν πατέρα. | Children imitate their father. | composed
+Ἐν τῷ κόλπῳ ἔχει τὸ παιδίον. | She holds the baby in her lap. | composed
+Στεφανίσκον ἐπιτίθησι τῷ ἀρνί. | She puts a little garland on the lamb. | composed
+Ὁ κωμάρχης τοὺς ξένους ἐδέξατο. | The village chief received the strangers. | composed
+Γέρων τις ἡμῖν ἀπαντᾷ. | An old man meets us. | composed
+Αὔριον ἀπαντήσομαί σοι ἐν τῇ ἀγορᾷ. | I'll meet you in the market place tomorrow. | composed
+Μετὰ μακρὰν ὁδοιπορίαν πάντες ἐκάμνομεν. | After a long journey we were all tired. | composed
+Ὁ φίλος πάντα μοι συμπράττει. | My friend helps me in everything. | composed
+Ὁ ποιητὴς μύθους συντίθησιν. | The poet composes stories. | composed
+Ἐφ᾽ ἁρπαγὴν ἐξῆλθον. | They went out to plunder. | composed
+Λάχανα ἐν τῷ κήπῳ συλλέγει. | She is gathering vegetables in the garden. | composed
+Οἱ ἁλιῆς πολλοὺς ἰχθῦς αἱροῦσιν. | The fishermen catch many fish. | composed
+Οἶνον χεῖ ἐπὶ τὸν βωμόν. | He pours wine on the altar. | composed
+Ἔχεε τὸν οἶνον εἰς τὴν γῆν. | He poured the wine on the ground. | composed
+Σῖτον παρατίθησι τοῖς ξένοις. | She sets food before the guests. | composed
+Πολὺς σῖτος ἡμῖν παράκειται. | Plenty of food is set before us. | composed
+Οἶνον ἐγχεῖ. | He pours in the wine. | composed
+Ἐν τῷ κοιτῶνι καθεύδει ὁ ξένος. | The guest is sleeping in the bedroom. | composed
+Προσκεφάλαιον αἰτεῖ. | He asks for a pillow. | composed
+Οὐδεὶς ἐνοικεῖ τὴν νῆσον. | No one lives on the island. | composed
+Ἡ ὑδρία πλήρης ἐστὶ μέχρι τοῦ χείλους. | The jar is full to the brim. | composed
+Ὁ δοῦλος δᾷδα φέρων ἡμῖν ἡγεῖται. | The slave leads us, carrying a torch. | composed
+Ἔφηβος ἤδη ἐστὶν ὁ υἱός. | The son is now an ephebe. | composed
+Ἐπὶ τὴν πυρὰν ἐπέθεσαν τοὺς νεκρούς. | They laid the dead on the pyre. | composed
+Ἐν λέμβῳ ἔπλεον. | They were sailing in a skiff. | composed
+Ὁ νεανίσκος τὸν γέροντα ἠσπάσατο. | The young man greeted the old man. | composed
+Ὁ γέρων λευκὰς ἔχει τὰς τρίχας. | The old man's hair is white. | composed
+Μακρὸν ἔχει τὸ γένειον. | He has a long beard. | composed
+Κατὰ τοῦ ὄρους πίπτουσιν οἱ λίθοι. | The stones are falling down the mountain. | composed | +X:kata-gen
+Ὁ κλέπτης γυναικείαν ἐσθῆτα ἔχων ἔφυγεν. | The thief got away wearing women's clothes. | composed
+Τρεῖς μῆνας ἐν τῇ νήσῳ ἐμείναμεν. | We stayed on the island for three months. | composed
+Ἔτι ζῇ ὁ πάππος. | Grandfather is still alive. | composed
+Ἀληθῆ λέγεις· ἀλλὰ μὴν καὶ τοῦτο ἀληθές ἐστιν. | You are right; but surely this too is true. | composed
+Πάντες συντρέχουσιν εἰς τὴν ἀγοράν. | Everyone is running together into the market place. | composed
+Ἀτάκτως ἔφευγον. | They were fleeing in disorder. | composed
+Ἐγύμνωσαν τὸν ἔμπορον. | They stripped the merchant. | composed
+Κλαίει τὸ παιδίον. | The baby is crying. | composed
+Πολὺν χρόνον ἔκλαυσεν. | She wept for a long time. | composed
+Ὁ κλέπτης κλαύσεται. | The thief will be sorry for it. | composed
+Κατάγουσι τὴν ναῦν εἰς τὸν λιμένα. | They bring the ship into harbour. | composed
+Ὁ ἀργὸς ἀμελεῖ τῶν ἀγρῶν. | The lazy man neglects his fields. | composed
+Ὁ λῃστάρχης τοὺς ἐμπόρους ἔλαβεν. | The pirate chief captured the merchants. | composed
+Πολλοὺς τῶν πολιτῶν ἐφόνευσεν. | He murdered many of the citizens. | composed
+Οἱ οἰκέται τὰ ἐν τῇ οἰκίᾳ πράττουσιν. | The house-slaves do the work indoors. | composed
+Πεσὼν τὸ γόνυ ἔβλαψεν. | He fell and hurt his knee. | composed
+Οἱ νικῶντες ἐφείσαντο τῶν παίδων. | The victors spared the children. | composed
+Δέκα δραχμῶν ἀποδίδομαι τὸ ἱμάτιον. | I'm selling the cloak for ten drachmas. | composed
+«Ἀποδιδόμεθα τὸν σῖτον.» | “We are selling the grain.” | composed
+«Τί ἀποδίδοσθε;» | “What are you selling?” | composed | @ἀποδίδοσθε:ind
+Ἀποδίδονται τὸν οἶνον. | They are selling the wine. | composed
+Ὁ ἔμπορος τὸν ἵππον ἀποδιδόμενος πολὺ ἀργύριον αἰτεῖ. | The merchant is asking a lot of money for the horse he is selling. | composed
+Ἡ γυνὴ σῦκα ἀποδιδομένη ἐν τῇ ἀγορᾷ κάθηται. | The woman sits in the market place selling figs. | composed
+«Οὐ βούλομαι τὸν οἶκον ἀποδίδοσθαι.» | “I don't want to sell the house.” | composed
+«Μὴ ἀποδίδοσο τὸν ἵππον.» | “Don't sell the horse.” | composed
+«Μὴ ἀποδίδοσθε τοὺς βοῦς, ὦ παῖδες.» | “Don't sell the oxen, boys.” | composed | @ἀποδίδοσθε:imp
+Συνέκλεισαν τὰς πύλας. | They shut the gates. | composed
+Οἱ δεσμῶται ἐν τῷ οἰκήματι ἔμενον. | The prisoners were kept in the room. | composed
+Ἐξέλυσε τοὺς δεσμώτας. | He set the prisoners free. | composed
+Ὀρρωδοῦσι τὸν χειμῶνα. | They dread the storm. | composed
+Ἡ ὁδὸς ἐπικίνδυνός ἐστι νυκτός. | The road is dangerous at night. | composed
+Ἅμα τῇ ἡμέρᾳ ἐκ τῆς κώμης ἀφωρμήσαμεν. | At daybreak we set out from the village. | composed
+Τὸ σκάφος τῆς νεὼς ἦν ἰσχυρόν. | The ship's hull was strong. | composed
+Τοῦ θέρους αὐχμηρά ἐστιν ἡ γῆ. | In summer the ground is parched. | composed
+Ὁ νικήσας καλὸν ἆθλον δέξεται. | The winner will receive a fine prize. | composed
+Τέμνει τὰ δένδρα. | He is cutting down the trees. | composed
+Ἔτεμε τὸ οἴδημα. | He cut the swelling open. | composed
+Αὔριον τεμοῦμεν τὰ δένδρα. | Tomorrow we shall cut down the trees. | composed
+Τί κράζεις, ὦ παῖ; | Why are you shrieking, boy? | composed
+Μέγα ἔκραγεν. | He gave a loud shriek. | composed
+Τὴν γῆν ἰδόντες ἀνέκραγον οἱ ναῦται. | When they saw land, the sailors cried out. | composed
+Ὁ ὄνος τὰ φορτία φέρει. | The donkey carries the loads. | composed
+Ὠθεῖ τὸν ἀδελφόν. | He is pushing his brother. | composed
+Ἔωσαν τοὺς πολεμίους εἰς τὸν ποταμόν. | They pushed the enemy into the river. | composed
+Τίς τὴν ἅμαξαν ὤσει; | Who will push the wagon? | composed
+Ἀπέτεμε τὴν τοῦ πολεμίου κεφαλήν. | He cut off the enemy's head. | composed
+Ἄρτον ἐσθίει. | He is eating bread. | composed
+Οἱ παλαιοὶ ἐτίμων τοὺς θεούς. | The men of old honoured the gods. | composed
+Ξέρξης ὁ Δαρείου βασιλεὺς ἦν τῶν Περσῶν. | Xerxes son of Darius was king of the Persians. | composed | +X:art-gen
+Ὁ ἀγρὸς ὁ τοῦ ἀδελφοῦ μείζων ἐστὶ τοῦ ἐμοῦ. | My brother's field is bigger than mine. | composed | +X:art-repeat
+Ὀργιζόμενος τὸν υἱὸν ἀπεκήρυξεν. | In his anger he disowned his son. | composed
+Ἐπὶ τὸ βῆμα ἀνέβη ὁ ῥήτωρ. | The speaker went up onto the platform. | composed
+Ἡ ἔξοδος τοῦ ἄντρου ἦν στενή. | The way out of the cave was narrow. | composed
+Ὁ ἀνδραποδιστὴς τοὺς παῖδας ἐν Αἰγίνῃ ἀπέδοτο. | The slave-dealer sold the boys in Aegina. | composed
+Καλὸν πρόσωπον ἔχει. | She has a beautiful face. | composed
+Ἡ κόρη καλὸν ἔχει τὸ πρόσωπον. | The girl's face is beautiful. | composed | +X:pred-pos
+Πόσοι ναῦταί εἰσιν ἐν τῇ νηί; | How many sailors are there in the ship? | composed
+Πόσου πωλεῖς τὸν οἶνον; | How much are you selling the wine for? | composed | +X:gen-price
+Τί ἀποδίδοσαι, ὦ ξένε; | What are you selling, stranger? | composed
+Ἀργύριον μὲν οὐκ ἔχω ἀλλ᾽ ἢ μικρόν τι, καὶ τοῦτό σοι δίδωμι, τάλαντον. | I have no money except a little, and this I give you, a talent. | Xen. Anabasis 7.7.53
+Χρηστὸς ὁ δοῦλος. | The slave is honest. | composed
+Οὐ τολμᾷ τῷ πατρὶ ἀντιβλέπειν. | He does not dare look his father in the face. | composed
+Πολὺν χρόνον ὁδοιποροῦσιν. | They have been travelling for a long time. | composed
+Ὁ τὸ ἀργύριον οὐκ ἀποδοὺς ἀγώγιμος γίγνεται. | A man who does not pay the money back becomes liable to seizure. | composed
+Πυνθάνεται τὴν ὁδόν. | He asks the way. | composed
+Παρὰ τοῦ ἀγγέλου πάντα ἐπυθόμεθα. | We learned everything from the messenger. | composed
+Αὔριον τὰ γενόμενα πεύσεσθε. | Tomorrow you will hear what has happened. | composed
+Ἔρανον συνέλεξαν τῷ πένητι. | They got together a loan for the poor man. | composed
+Ἄτοκος ἦν ὁ ἔρανος. | The loan was free of interest. | composed
+Τὸ γένος τοῦ ξένου ἐστὶν ἀρχαῖον. | The stranger's family is an ancient one. | composed
+Ἡ φιλοπονία τὸν ἄνδρα πλούσιον ἐποίησεν. | Hard work made the man rich. | composed
+Διὰ τὴν φιλογεωργίαν ὁ γέρων ἀεὶ ἐν τοῖς ἀγροῖς μένει. | Because of his love of farming the old man always stays in the fields. | composed
+Ἐν τῷ λειμῶνι νέμει τὰ πρόβατα. | He is grazing his sheep in the meadow. | composed
+Ἀγέλη βοῶν ἐν τῷ πεδίῳ νέμεται. | A herd of cattle is grazing on the plain. | composed
+Κληρονομήσει ὁ υἱὸς τοῦ κλήρου. | The son will inherit the farm. | composed
+Σύριγγα ἔχει. | He has a panpipe. | composed
+Εὐνοϊκῶς ἡμᾶς ἐδέξατο. | He received us kindly. | composed
+Φιλικῶς ἡμῖν διελέγετο. | He talked to us in a friendly way. | composed
+Ἐφόδια παρεσκεύασε τῷ υἱῷ. | She got provisions ready for her son's journey. | composed
+Ὁ κύων ἀεὶ παραμένει τῷ δεσπότῃ. | The dog always stays by his master. | composed
+Ἄσμενοι οἴκαδε ἐπανήλθομεν. | We were glad to come back home. | composed
+Οἱ ἐν τῇ κώμῃ τοὺς ξένους οὐ φιλοῦσιν. | The people in the village do not like strangers. | composed | +X:art-prep
+Ἆρα οἱ νῦν σοφώτεροί εἰσι τῶν προγόνων; | Are the people of today wiser than their ancestors? | composed | +X:art-adv
+Ἀποπέμπει τὸν ἀργὸν δοῦλον. | He is sending the lazy slave away. | composed
+Σῖτον ἡμῖν ἔδωκε καὶ προσέτι οἶνον. | He gave us food, and wine besides. | composed
+Ὡς ἐβαδίζομεν, μῦθον ἔλεγεν ὁ πατήρ. | As we walked, father was telling a story. | composed | +X:hos-while
+«Τίνα σε δεῖ καλεῖν;» «Φίλιππον.» | “What should I call you?” “Philip.” | composed
+Ἀροῦσι τὴν ἄρουραν. | They are ploughing the field. | composed | @ἀροῦσιν=ἀρόω
+Ἐπιτίθησι τὰ κανθήλια τῷ ὄνῳ. | He puts the panniers on the donkey. | composed
+Ξηραίνει ὁ ἥλιος τὴν γῆν. | The sun dries the ground. | composed
+Ὑπὸ μεγάλῃ δρυῒ ἐκαθιζόμεθα. | We were sitting under a big oak. | composed
+Ἐν τοῖς ὄρεσιν ἐλάται εἰσὶ καὶ δρύες. | In the mountains there are firs and oaks. | composed
+Ἡ Λάκαινα τὸν υἱὸν πρὸς τὸν πόλεμον ἔπεμψεν. | The Spartan woman sent her son to the war. | composed
+Ὁ κυνηγέτης τὸν κύνα καλεῖ. | The hunter calls his dog. | composed
+Ἐν τοῖς ὄρεσι κυνηγετεῖ. | He hunts in the mountains. | composed
+Οἱ κύνες τὸν λαγὼν διώκουσιν. | The dogs are chasing the hare. | composed
+Ὁ κυνηγέτης τοὺς κύνας καλεῖ. | The hunter is calling his dogs. | composed
+Δύο λαγὼς ἔλαβεν. | He caught two hares. | composed | @λαγώς:acc
+Οἱ λαγῲ ταχέως τρέχουσιν. | Hares run fast. | composed
+Σημαίνει τοῖς στρατιώταις. | He gives the signal to the soldiers. | composed
+Σημανεῖ ὁ κῆρυξ. | The herald will give the signal. | composed
+Ἐσήμηνε τοῖς ναύταις ἀποπλεῖν. | He signalled to the sailors to sail away. | composed
+Μέτεισι τὸν ἰατρόν. | He will go and fetch the doctor. | composed
+Ἐν τῇ κώμῃ νυκτερεύσομεν. | We shall spend the night in the village. | composed
+Ἔρημος ἦν ἡ ὁδός. | The road was deserted. | composed
+Ἀεὶ εὐτυχεῖ. | He always prospers. | composed
+Ἐπὶ τῶν ὤμων φέρει τὸν ἄρνα. | He carries the lamb on his shoulders. | composed
+Ἀσμένως ἐδεξάμεθα τὸν σῖτον. | We gladly accepted the food. | composed
+Τιθέασι τὰ σκεύη ἐπὶ τὴν ἅμαξαν. | They are putting the baggage on the wagon. | composed
+Ἐν καλύβῃ οἰκεῖ. | He lives in a hut. | composed
+Τυρὸν ποιεῖ. | He makes cheese. | composed
+Ἄρτον ὀπτᾷ. | She is baking bread. | composed
+# ---- practice (ch.19 review)
+Αὔριον ἐν τῷ λειμῶνι νεμεῖ τὰς αἶγας. | Tomorrow he will graze the goats in the meadow. | composed
+«Χαλεπὸς ὁ τῶν γεωργῶν βίος.» «Καὶ μὴν ἀληθῆ λέγεις, ὦ φίλε.» | “The farmers' life is hard.” “And indeed you are right, my friend.” | composed
+Παραινεῖ τῷ ξένῳ τὴν ἄνασσαν ἱκετεύειν. | She advises the stranger to beg the queen for help. | composed
+Παρῄνεσε τῷ υἱῷ τῶν ἀγρῶν μὴ ἀμελεῖν. | He advised his son not to neglect the fields. | composed
+Τίνι μὴν ταῦτα λέγεις; | To whom, then, are you saying this? | composed | +X:sense-men
+«Ἀνίστασο, ὦ παῖ· ἤδη ἡμέρα ἐστίν.» | “Get up, boy: it is already day.” | composed | @ἀνίστασο:imp
+«Ἀνίστασθε, ὦ παῖδες.» | “Get up, children.” | composed | @ἀνίστασθε:imp
+Πλούσιός ἐστιν· καίτοι οὐκ εὐδαίμων. | He is rich, and yet not happy. | composed
+«Ἄκουε τοίνυν, ὦ παῖ.» | “Listen, then, boy.” | composed
+«Ἐγὼ γοῦν οὐ γιγνώσκω.» | “I, at any rate, don't know.” | composed
+«Τί δῆτα οὐκ ἦλθες;» | “Why then didn't you come?” | composed
+«Μῶν φοβῇ, ὦ παῖ;» | “You're not afraid, are you, boy?” | composed
+«Ἆρα ἐθέλεις συνελθεῖν;» «Τί μήν;» | “Do you want to come along?” “Of course!” | composed
+Ὁ ἀγώγιμος γενόμενος εἰς ἄλλην πόλιν ἔφυγεν. | The man who had become liable to seizure fled to another city. | composed

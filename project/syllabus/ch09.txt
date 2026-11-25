@@ -1,0 +1,79 @@
+ἀνέχω | hold up | v impf=0
+αὐξάνω | increase, make grow | v
+γηράσκω | grow old | v
+διαιρέω | divide | v impf=0
+διηγέομαι | relate, tell in full | v impf=0
+δοκέω | seem; think | v
+εἰσκαλέω | call in, invite in | v impf=0
+εὐφημέω | keep holy silence | v
+καθίζομαι | sit down | v
+καθοράω | look down on, see | v impf=0
+κατατέμνω | cut up | v impf=0
+κηρύττω | proclaim, announce | v long
+κοσμέω | adorn, decorate | v
+κωμάζω | revel, go in a procession of revellers | v
+λάμπομαι | shine | v
+πεινάω | be hungry | 
+πίνω | drink | v long
+προσήκει | it is fitting, it befits (+ dat.) | 
+σπένδω | pour a libation | v
+συλλέγομαι | gather, come together | v impf=0
+τέρπομαι | enjoy oneself, take pleasure (+ dat.) | v
+ὠθίζομαι | push, jostle | v
+ὠνέομαι | buy | v
+ἄγαλμα | statue | n3 gen=ἀγάλματος g=n
+ἀλλαντοπώλης | sausage-seller | n
+ἀλλᾶς | sausage | n3 gen=ἀλλᾶντος
+ἄναξ | lord, prince | n3 gen=ἄνακτος
+ἀσπίς | shield | n3 gen=ἀσπίδος g=f
+βότρυς | bunch of grapes | n3 gen=βότρυος acc=βότρυν
+γέρων | old man | n3 gen=γέροντος
+δαίς | feast | n3 gen=δαιτός g=f
+δῆμος | the people | n
+δόρυ | spear | n3 gen=δόρατος g=n
+εἰκών | image, statue | n3 gen=εἰκόνος g=f
+θυσία | sacrifice | n
+ἱερεῖον | sacrificial victim | n
+ἱερεύς | priest | 
+ἱερόν | temple, sanctuary | n
+κανοῦν | basket | 
+κῆρυξ | herald | n3 gen=κήρυκος
+κρέας | meat | 
+μέτοικος | resident foreigner, metic | n
+ὄναρ | dream | 
+πομπή | procession | n
+προπύλαιον | gateway (τὰ προπύλαια, of the Acropolis) | n
+σκάφιον | bowl | n
+στοά | colonnade, stoa | n
+τεκόντες | parents | 
+τέμενος | sacred precinct | 
+ὑπηρέτης | servant, attendant | n
+ὤνιον | goods for sale (τὰ ὤνια) | n
+Φειδίας | (name) | n
+Χρύσης | (name) | n
+Ἀπόλλων | (name) | n3 gen=Ἀπόλλωνος
+Βρόμιος | (name) | n
+Ἕλληνες | (name) | 
+Κίρκη | (name) | n
+Νίκη | (name) | n
+Ὄλυμπος | (name) | n
+ἄριστος | best, very good | adj
+ἐναντίος | opposite, facing (+ dat.) | adj
+ἐνόπλιος | armed, in armour | adj2
+ἕτοιμος | ready | adj
+ἥσυχος | quiet | adj2
+κάλλιστος | most beautiful, very beautiful | adj
+πολιοῦχος | guardian of the city | adj2
+σκοτεινός | dark | adj
+τελευταῖος | last | adj
+ἐκποδών | out of the way | 
+πόρρω | far off, far | 
+χαμαί | on the ground | 
+X:gen-part | the partitive genitive: πολλοὶ τῶν πολιτῶν “many of the citizens”
+X:men-de | οἱ μέν … οἱ δέ … “some … others …”
+X:art-ptc | article + participle: οἱ πονοῦντες “those who are working”
+C:ἐκποδὼν γίγνεται / ἐκποδὼν γίγνονται / ἐκποδὼν γίγνου / ἐκποδὼν γίγνεσθε | get out of the way
+C:ὀργίλως ἔχει / ὀργίλως ἔχω / ὀργίλως ἔχεις / ὀργίλως ἔχουσιν | be angry
+ἀπολύω | release, set free | v impf=0
+# set phrases the readings use without listing them among the Locuzioni (added 2026-11-23)
+C:ἄγε δή | come now!, come on!

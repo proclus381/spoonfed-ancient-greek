@@ -1,0 +1,123 @@
+# chapter 6: the middle voice; deponent verbs; uses of the dative; prepositions
+Βούλεται παίζειν. | He wants to play. | composed | !bridge
+«Τί βούλει, ὦ παῖ;» | “What do you want, boy?” | composed
+Βούλονται εἰς τὴν ἀγορὰν ἰέναι. | They want to go to the agora. | composed
+«Βούλομαι παίζειν», λέγει ὁ παῖς. | “I want to play,” says the boy. | composed
+«Βουλόμεθα παίζειν», λέγουσιν αἱ κόραι. | “We want to play,” say the girls. | composed
+Ἐν τῷ ἀγρῷ ἐργάζεται. | He works in the field. | composed
+«Ἐργάζου, ὦ δοῦλε.» | “Get to work, slave!” | composed
+«Μὴ φοβοῦ, ὦ παῖ.» | “Don't be afraid, boy.” | composed
+Ὁ ταῦρος μέγας ἐστὶ καὶ ἄγριος. | The bull is big and savage. | composed
+Φοβοῦνται τὸν ταῦρον. | They are afraid of the bull. | composed
+«Φοβούμεθα τὸν ταῦρον.» | “We're afraid of the bull.” | composed
+Φοβεῖται τὸν λύκον. | He is afraid of the wolf. | composed
+«Φοβοῦμαι», λέγει ἡ κόρη. | “I'm frightened,” says the girl. | composed
+«Τί φοβεῖσθε;» | “What are you afraid of?” | composed | @φοβεῖσθε:ind
+«Μὴ φοβεῖσθε, ὦ φίλοι.» | “Don't be afraid, friends.” | composed | @φοβεῖσθε:imp
+Πορεύονται εἰς τὸ ἄστυ. | They are travelling to the city. | composed
+Μεγάλη ἡ πόλις. | The city is big. | composed
+Εἰς τὴν πόλιν πορεύεται. | He is going to the city. | composed
+Τέλος ἀφικνοῦνται εἰς τὴν πόλιν. | At last they arrive at the city. | composed
+Καλεῖ τοὺς ἑταίρους. | He calls his companions. | composed
+Ἰσχυρὸς ὁ βασιλεύς. | The king is powerful. | composed
+Ἡ νῆσός ἐστι μικρά. | The island is small. | composed
+Μέγας ὁ λαβύρινθος. | The labyrinth is huge. | composed
+Ἡ παρθένος ἐστὶ καλή. | The girl is beautiful. | composed
+«Ποῖ βαδίζεις, ὦ παρθένε;» | “Where are you going, maiden?” | composed
+«Τί ποιεῖτε, ὦ παρθένοι;» | “Maidens, what are you doing?” | composed
+Τὸ ἥμισυ τοῦ σίτου παρέχει τοῖς δούλοις. | He gives half of the grain to the slaves. | composed
+«Ὦ πάππα, ἐλθὲ δεῦρο.» | “Daddy, come here!” | composed
+Σῦκα ἐσθίει. | He is eating figs. | composed
+Οὐ βούλεται ἐργάζεσθαι. | He doesn't want to work. | composed
+Ὁ δεσπότης τὸν δοῦλον ἀναγκάζει ἐργάζεσθαι. | The master forces the slave to work. | composed
+Ἄγγελον πέμπει. | He sends a messenger. | composed
+Οἱ νεανίαι ἐν τῇ ἀγορᾷ εἰσιν. | The young men are in the agora. | composed
+Ἐν τῷ πλοίῳ εἰσὶν ἑπτὰ νεανίαι. | There are seven young men on the boat. | composed
+Ἑπτὰ νεανίας πέμπει. | He sends seven young men. | composed | @νεανίας:acc
+Σῖτον παρέχει τοῖς νεανίαις. | She gives the young men food. | composed
+Ὁ θόρυβος τῶν νεανιῶν μέγας ἐστίν. | The young men make a great deal of noise. | composed
+«Ἀνδρεῖοι ἔστε, ὦ νεανίαι.» | “Be brave, young men.” | composed
+Κατ᾽ ἔτος οἱ Ἀθηναῖοι ἑορτὴν ἄγουσιν. | Every year the Athenians hold a festival. | composed
+Ὁ Μίνως τῆς νήσου βασιλεύει. | Minos is king of the island. | composed
+Πολλὰς πόλεις ἔχει. | He has many cities. | composed | @πόλεις:acc
+Αἴρει τὸν παῖδα. | He picks the boy up. | composed
+Φιλεῖ τοὺς παῖδας. | He loves his children. | composed
+Ἕωθεν ἐγείρεται. | He wakes up at dawn. | composed
+Βοηθοῦσι τῷ γεωργῷ. | They come to the farmer’s help. | composed
+Οἰκτίρει τὸν δοῦλον. | She pities the slave. | composed
+Ἐπεὶ πρῶτον ὁ ἥλιος ἀνατέλλει, ἐγείρεται ὁ γεωργός. | As soon as the sun rises, the farmer wakes up. | composed
+Τῷ πατρὶ συλλαμβάνει. | He helps his father. | composed
+Ἀνδρεῖος γίγνεται. | He is becoming brave. | composed
+Σῴζει τὰ πρόβατα. | It saves the sheep. | composed
+Πείθεται τῷ πατρί. | He obeys his father. | composed
+Μεγάλη ἡ ναῦς. | The ship is big. | composed
+Ναῦν πέμπει. | He sends a ship. | composed
+Ἐν τῷ πλοίῳ πλεῖ. | He is sailing in the boat. | composed
+Δέχεται τὸν παῖδα. | She welcomes the boy. | composed
+Ἡ βασίλειά ἐστιν ἐν τῇ οἰκίᾳ. | The queen is in the house. | composed
+Ὁ δοῦλός ἐστιν ἐν τῷ δεσμωτηρίῳ. | The slave is in prison. | composed
+Ὀνομάζει τὸν παῖδα Φίλιππον. | He names the boy Philip. | composed
+Ὁ νεανίας τῆς παρθένου ἐρᾷ. | The young man is in love with the girl. | composed
+Ὁ νεανίας ἡβᾷ καὶ ἰσχυρός ἐστιν. | The young man is in his prime and strong. | composed
+Νὺξ γίγνεται. | Night is falling. | composed
+«Ὦ δοῦλοι, ἐργάζεσθε.» | “Work, slaves!” | composed | @ἐργάζεσθε:imp
+Λίνον ἔχει. | She has a thread. | composed
+Ἀποκτείνει ὁ κύων τὸν λύκον. | The dog kills the wolf. | composed
+Ἐκφεύγει ὁ λαγώς. | The hare escapes. | composed
+Εἰσελαύνει τοὺς βοῦς εἰς τὸ αὔλιον. | He drives the oxen into the fold. | composed
+Ἡμέρα γίγνεται. | Day is breaking. | composed
+Τῇ πρώτῃ ἡμέρᾳ ἀροτρεύει. | On the first day he ploughs. | composed | +X:dat-time
+Ἀπέρχεται ὁ ἄγγελος. | The messenger goes away. | composed
+Ξίφος ἔχει. | He has a sword. | composed
+Ἐγείρει τοὺς παῖδας. | She wakes the children. | composed | @ἐγείρει=ἐγείρω
+«Ἐγώ γε οὐ φοβοῦμαι.» | “I, at any rate, am not afraid.” | composed
+Ἕπεται τῷ δεσπότῃ. | It follows its master. | composed
+Ὁ πατὴρ τῆς βασιλείας ἐν τῇ νήσῳ βασιλεύει. | The princess's father is king on the island. | composed
+Ἕπεται ἡ δούλη τῇ βασιλείᾳ. | The slave woman follows the princess. | composed
+Ὁ ἄγγελος εἰς τὴν πόλιν ἀφικνεῖται καὶ τὴν βασίλειαν ζητεῖ. | The messenger arrives in the city and looks for the queen. | composed
+Ἐν μεσημβρίᾳ ἡσυχάζουσιν. | At midday they rest. | composed
+«Τί βούλεσθε, ὦ κόραι;» | “What do you want, girls?” | composed | @βούλεσθε:ind
+Ὁ παππίας ἐστὶν ἐν τῷ ἀγρῷ. | Daddy is in the field. | composed
+«Μὴ φοβοῦ μηδὲ φεῦγε.» | “Don't be afraid, and don't run away.” | composed
+Ὁ τρόπος αὐτοῦ ἐστιν ἄτοπος. | His way of behaving is strange. | composed
+«Οὐδαμῶς φοβοῦμαι.» | “I'm not afraid at all.” | composed
+Οἴκοι μένει. | She stays at home. | composed
+«Εἰπέ μοι, ὦ παῖ, τί ποιεῖς;» | “Tell me, boy, what are you doing?” | composed
+Μάχεται τῷ λύκῳ. | It fights the wolf. | composed
+Ἔρχεται ὁ ἄγγελος. | The messenger is coming. | composed
+Ἀνοίγει τὴν θύραν. | She opens the door. | composed
+Κλείει τὴν θύραν. | He shuts the door. | composed
+Κλείουσι τὰς πύλας. | They shut the gates. | composed
+Ὁ νεανίας οὐκ ἐθέλει φοβεῖσθαι. | The young man refuses to be afraid. | composed
+Ὁ πατὴρ ἡγεῖται, οἱ δὲ παῖδες ἕπονται. | The father leads, and the children follow. | composed
+Ἐν τῷ σκότῳ οὐδὲν ὁρῶμεν. | In the dark we see nothing. | composed
+Ἐν τῇ δεξιᾷ ξίφος ἔχει. | In his right hand he has a sword. | composed
+Ἐν τῇ ἀριστερᾷ λίνον ἔχει. | In his left hand he holds a thread. | composed
+Βραδέως προχωροῦσιν. | They move forward slowly. | composed
+Τιμῶσι τὸν πάππον. | They honour their grandfather. | composed
+Ἀνάγκη ἐστὶν ἐργάζεσθαι. | We have no choice but to work. | composed
+Τοὺς παῖδας ἐᾷ παίζειν. | He lets the children play. | composed
+Ὁ λύκος τρέπεται καὶ φεύγει. | The wolf turns and runs away. | composed
+Μέγας ὁ ποὺς τοῦ ταύρου. | The bull's foot is big. | composed
+Τὸ πνεῦμα ἀπὸ τῆς θαλάττης ἥκει. | The wind is coming from the sea. | composed
+Ὀσφραίνεται ὁ κύων τοῦ λύκου. | The dog catches the scent of the wolf. | composed
+Ἡ κόρη τῆς μητρὸς λαμβάνεται. | The girl takes hold of her mother. | composed
+Ὁ κύων τοῦ ποδὸς τοῦ ἀνθρώπου λαμβάνεται. | The dog grabs the man by the foot. | composed
+Ἀκούει τὸν ψόφον τῶν ποδῶν. | He hears the sound of feet. | composed
+Ἡ κεφαλὴ τοῦ ταύρου ἐστὶ μεγάλη. | The bull's head is big. | composed
+Μέγα στῆθος ἔχει. | It has a big chest. | composed
+Κλάζει ὁ κύων. | The dog howls. | composed
+Φέρει τὸν μοχλόν. | He carries the bar. | composed
+Τῇ ῥάβδῳ τύπτει τὸν βοῦν. | He strikes the ox with his stick. | composed | +X:dat-means
+Τῷ αὐτουργῷ κλῆρος μικρός ἐστιν. | The farmer has a small plot of land. | composed | +X:dat-poss
+Μάχονται οἱ νεανίαι ταῖς μαχαίραις. | The young men fight with knives. | composed
+Διακόπτει τὸ λίνον. | He cuts through the thread. | composed
+Ἐξέρχεται ἐκ τῆς οἰκίας. | She goes out of the house. | composed
+Ἀποπλεῖ ἡ ναῦς. | The ship sails away. | composed
+Περαίνει τὸ ἔργον. | He finishes the job. | composed
+Ἐκεῖνος ὁ ἀνήρ ἐστι βασιλεύς. | That man is a king. | composed
+Ἐκείνη ἡ ναῦς εἰς τὴν νῆσον πλεῖ. | That ship is sailing to the island. | composed
+# practice
+Ἔστι τῷ αὐτουργῷ κύων, Ἄργος ὀνόματι. | The farmer has a dog called Argos. | composed | +X:dat-resp
+Τῇ μαχαίρᾳ διακόπτει τὸ λίνον. | He cuts through the thread with his knife. | composed
+Ἐν τῇ κρήνῃ τὸν πόδα ἔχει. | He has his foot in the spring. | composed

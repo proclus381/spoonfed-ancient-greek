@@ -1,0 +1,72 @@
+ἀγαπάω | love, be fond of; be content | v
+διαπεράω | cross over | v impf=0
+ἀθυμέω | be discouraged, lose heart | v
+ἀναστρέφω | turn round | v impf=0
+ἄπειμι | be away, be absent | 
+ἀπελαύνω | drive away | v impf=0
+ἀποφεύγω | run away, escape | v impf=0
+ἀσπαίρω | gasp, struggle (dying) | v
+βάλλω | throw, hit (with a missile) | v
+βοάω | shout | v
+γιγνώσκω | get to know, recognize | v
+δάκνω | bite | v short
+ἐμπίπτω | fall into, fall upon (+ dat.) | v impf=0
+ἔνειμι | be in | 
+ἐπάνελθε | come back! | 
+ἐπιθυμέω | long for, desire (+ gen.) | v impf=0
+θαυμάζω | wonder at, admire | v
+θορυβέω | make a noise | v
+καταβαίνω | go down, come down | v impf=0
+καταπίπτω | fall down | v impf=0
+κατέχω | hold back | v impf=0
+ὁράω | see | v
+ὁρμάω | rush, set out (ἐπί + acc.) | v
+παύω | stop | v
+σιγάω | be silent | v
+ὑλακτέω | bark | v
+φεύγω | flee, run away | v
+φυλάττω | guard | v
+βακτηρία | stick, staff | n
+θηρίον | wild beast | n
+κῆπος | garden | n
+κύων | dog | 
+λαγώς | hare | 
+λύκος | wolf | n
+μαμμία | mummy (mother) | n
+μάχαιρα | knife | 
+μειράκιον | lad, boy | n
+μῦθος | story, tale | n
+νεανίας | young man | n
+ὄρος | mountain, hill | 
+πάππος | grandfather | n
+ψόφος | noise | n
+Ἄργος | (name) | n
+Μίνως | (name) | 
+Φαῖδρος | (name) | n
+ἀγαθός | good | adj
+ἄγριος | wild, savage | adj
+δεινός | terrible, dreadful | adj
+ποῖος | of what kind? | adj
+πρῶτος | first | adj
+ῥᾴθυμος | careless, lazy | adj2
+σός | your (one person) | adj
+ὑμέτερος | your (more than one) | adj
+τις | someone, something; a, a certain | 
+ἀνά | up (+ acc.) | 
+δήπου | I suppose, surely | 
+μέγα | loudly, greatly | 
+ὀδάξ | with the teeth | 
+ποῦ | where? | 
+που | somewhere | 
+οὔτε | neither, nor (οὔτε … οὔτε …) | 
+X:neutpl | a neuter plural subject takes a singular verb (τὰ πρόβατα τρέχει)
+X:art-de | ὁ δέ, ἡ δέ, οἱ δέ … at the start of a clause: “and he / she / they …”
+X:elision | elision: a short final vowel drops before a vowel (ἀλλ᾽ ἐγώ, δ᾽ αὐτόν, ἐπ᾽ αὐτόν)
+X:attr | attributive position (ὁ ἀγαθὸς δοῦλος “the good slave”) and predicative (ὁ δοῦλος ἀγαθός “the slave is good”)
+C:εὖ γε | well done!
+C:ἄκρον τὸ ὄρος / ἄκρον τὸ ὄρος / ἄκρου τοῦ ὄρους / ἄκρῳ τῷ ὄρει | the top of the mountain
+C:ἐνταῦθα δή | at that very moment
+C:ἴθι δή | come on!
+C:μάλιστά γε | yes, certainly
+# set phrases the readings use without listing them among the Locuzioni (added 2026-11-23)
+C:ἀληθῆ λέγεις / ἀληθῆ λέγει / ἀληθῆ λέγετε / ἀληθῆ λέγουσι / ἀληθῆ λέγουσιν | you are right (“you say true things”)

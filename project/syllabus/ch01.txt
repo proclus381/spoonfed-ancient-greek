@@ -1,0 +1,72 @@
+Δικαιόπολις | (name)
+αἴρω | lift | v
+αὐτουργός | farmer (who works his own land) | n
+αὐτός | him, it
+βίος | life | n
+βαδίζω | walk | v
+γάρ | for, because
+γεωργέω | farm | v
+δέ | and, but
+δένδρον | tree | n
+εἰμί | be
+κάμνω | be tired | v short
+καί | and
+καθίζω | sit down | v
+καλός | fine, beautiful, good | adj
+καταδύνω | set (of the sun) | v impf=0
+κατατρίβω | wear out | v impf=0
+κλῆρος | farm, plot of land | n
+λέγω | say | v
+λύω | untie, set free | v
+λίθος | stone | n
+μάλα | very, very much
+μέγας | big
+μακρός | long, tall | adj
+μικρός | small | adj
+μόσχος | calf | n
+οἰκέω | live | v
+οἶκος | house | n
+οὐ | not
+οὐκέτι | no longer
+οὖν | so, then
+παρέχω | provide, give | v impf=0
+πολλάκις | often
+πολύς | much
+πονέω | work | v
+πρός | to, towards
+πόνος | toil, work | n
+σκάπτω | dig | v short
+στενάζω | groan | v
+σῖτος | grain | n
+τέλος | finally, at last
+φέρω | carry | v
+φιλέω | love | v
+φλέγω | blaze | v
+χαίρω | be glad | v
+χαλεπός | hard, difficult | adj
+χρόνος | time | n
+ἀγρός | field | n
+ἀεί | always
+ἀλλά | but
+ἀπέραντος | endless | adj2
+ἄνθρωπος | man | n
+ἄοκνος | tireless | adj2
+Ἀθηναῖος | Athenian | adj
+ἐκ | out of, from
+ἐλεύθερος | free | adj
+ἐν | in
+ἐπαίρω | lift up, raise | v impf=0
+ἑαυτόν | himself
+ἕρμα | heap of stones
+ἡσυχάζω | rest, keep quiet | v
+ἥλιος | sun | n
+ἰσχυρός | strong | adj
+ἱκανός | enough, sufficient | adj
+ὀκνέω | shirk, hesitate | v
+ὑπό | under
+ὦ | O (calling someone)
+C:δι᾽ ὀλίγου | soon
+C:ἐν ταῖς Ἀθήναις | in Athens
+C:ἐν τοῖς ἀγροῖς | in the country
+C:ἐπαίρει ἑαυτόν | gets up
+C:ὦ Ζεῦ | O Zeus

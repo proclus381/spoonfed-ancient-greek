@@ -1,0 +1,124 @@
+# Athenaze I, ch.16 (Μετὰ τὴν ἐν τῇ Σαλαμῖνι μάχην) — δύναμαι, κεῖμαι, ἐπίσταμαι; ναῦς and βοῦς; numerals
+ἀγοράζω | buy; be in the market place | v aor=ἠγόρασα/ἀγορασ
+ἄρδω | water | v
+ἀρόω | plough | v aor=ἤροσα/ἀροσ irr
+ἁρπάζω | snatch, seize | v aor=ἥρπασα/ἁρπασ
+ἄρχομαι | begin (+ gen. or inf.) | v aor=ἠρξάμην/ἀρξ
+δύναμαι | be able, can |
+εἰσβιάζομαι | force one's way in | v
+ἐκβάλλω | throw out | v aor2=ἐξ·έβαλον/ἐκβαλ
+ἐνθυμέομαι | take to heart, ponder | v
+ἐπιγίγνομαι | come after, follow; come upon | v aor_mid=ἐπ·εγενόμην/ἐπιγεν
+ἐπίσταμαι | know how to, understand |
+ἐργάζομαι | work | v aor=εἰργασάμην/ἐργασ
+θαλαττουργέω | work on the sea, be a fisherman | v
+θύω | sacrifice | v aor=ἔθυσα/θυσ
+ἱλάσκομαι | appease, propitiate | v aor=ἱλασάμην/ἱλασ
+καθαιρέω | take down, destroy | v aor2=καθ·εῖλον/καθελ
+κεῖμαι | lie, be placed |
+κατακεῖμαι | lie down |
+μισθοφορέω | serve for pay | v
+ὀρύττω | dig | v aor=ὤρυξα/ὀρυξ
+πέτομαι | fly | v
+πήγνυμαι | freeze, be fixed |
+πολιορκέω | besiege | v aor=ἐπολιόρκησα/πολιορκησ
+πρίαμαι | buy (aor. ἐπριάμην) |
+προσδέχομαι | await, expect | v
+προσκρούω | strike against (+ dat.) | v aor=προσ·έκρουσα/προσκρουσ
+στέλλομαι | set out, journey | v
+συλλυπέομαι | share in grief, sympathize with (+ dat.) | v
+συναγείρω | gather together | v aor=συν·ήγειρα/συναγειρ irr
+τρέφω | rear, feed | v aor=ἔθρεψα/θρεψ irr
+ἀκαρπία | barrenness, failure of crops | n
+ἁλιεύς | fisherman |
+ἁλιευτική | fishing | n
+ἄνθραξ | charcoal | n3 gen=ἄνθρακος
+ἀνομβρία | lack of rain | n
+ἀπαλλαγή | release, escape | n
+αὐχμός | drought | n
+βροντή | thunder | n
+ἔαρ | spring (the season) |
+εἰρήνη | peace | n
+ἐμπορική | trade | n
+ἐμπόριον | trading post, market | n
+ἔνοικος | inhabitant | n
+ἔτος | year | nes
+εὐχή | prayer | n
+θέρος | summer | nes
+θυμός | spirit, heart, anger | n
+ἵππος | horse | n
+κάπηλος | innkeeper, retailer | n
+κροκόδιλος | crocodile | n
+λέαινα | lioness | n
+μύρμηξ | ant | n3 gen=μύρμηκος
+ναυτική | seamanship | n
+νεφέλη | cloud | n
+ὁλκάς | merchant ship | n3 gen=ὁλκάδος g=f
+ὅρμος | anchorage, harbour | n
+ὄρνις | bird | n3 gen=ὄρνιθος acc=ὄρνιν
+πλοῦς | voyage |
+πόντος | sea | n
+πρῷρα | prow |
+πυραμίς | pyramid | n3 gen=πυραμίδος g=f
+σῆμα | sign; tomb | n3 gen=σήματος g=n
+σκάφη | small boat; tub | n
+στρουθός | sparrow; bird | n
+σύμμαχος | ally | n
+τοκεύς | parent |
+φέγγος | light | nes
+φύσις | nature |
+ψῦχος | cold | nes
+Αἰακός | (name) | n
+Αἴγινα | (name) |
+Αἰγινήτης | (name) | n
+Ἀσωπός | (name) | n
+Βυζάντιον | (name) | n
+Ἴων | (name) | n3 gen=Ἴωνος
+Ἰωνία | (name) | n
+Κίμων | (name) | n3 gen=Κίμωνος
+Μυκάλη | (name) | n
+Μυρμιδών | (name) | n3 gen=Μυρμιδόνος
+Νεῖλος | (name) | n
+Πηλεύς | (name) |
+Σάμος | (name) | n g=f
+Σκυθία | (name) | n
+Σφίγξ | (name) | n3 gen=Σφιγγός g=f
+Τελαμών | (name) | n3 gen=Τελαμῶνος
+Τιμάσαρχος | (name) | n
+ἀλλοῖος | of another kind, different | adj
+ἀρχαῖος | ancient, old | adj cmp=ἀρχαιότερος sup=ἀρχαιότατος
+βίαιος | violent, forcible | adj
+ἔκτοπος | strange, out of the way | adj2
+ἐλάχιστος | smallest, least (superlative of μικρός, ὀλίγος) | adj
+ἑπτάρους | seven-streamed (of the Nile) |
+εὔκολος | contented, easy-going | adj2
+εὐσεβής | pious | adjes
+λευκός | white | adj
+μέλας | black |
+νέος | young, new | adj cmp=νεώτερος sup=νεώτατος
+Πανελλήνιος | of all the Greeks, Panhellenic | adj
+πετρώδης | rocky |
+πρεσβύτερος | older, elder | adj
+ἕνδεκα | eleven |
+εἴκοσι | twenty |
+τριάκοντα | thirty |
+ἑκατόν | a hundred |
+μύριοι | ten thousand |
+δεύτερος | second | adj
+τρίτος | third | adj
+τέταρτος | fourth | adj
+πέμπτος | fifth | adj
+δέκατος | tenth | adj
+ἐντός | within, inside (+ gen.) |
+ἔμπαλιν | back, backwards |
+ἐνίοτε | sometimes |
+οὐδαμοῦ | nowhere |
+πολλαχόσε | to many places |
+πορρωτέρω | further |
+σχεδόν | nearly, almost |
+C:δεῖπνον αἱροῦνται / δεῖπνον αἱρεῖσθαι / δεῖπνον εἵλοντο / δεῖπνον ᾑροῦντο / δεῖπνον αἱροῦμαι / δεῖπνον αἱρούμεθα | have dinner (“take dinner”)
+C:ἥκιστά γε | not in the least, certainly not
+C:πανταχοῦ τῆς γῆς | everywhere in the world
+C:ποῦ γῆς | where in the world?
+C:σπονδὰς ποιοῦνται / σπονδὰς ἐποιήσαντο / σπονδὰς ποιεῖσθαι / σπονδὰς ἐποιοῦντο / σπονδὰς ποιησάμενοι / σπονδὰς ποιησάμενος | make a treaty (with + dat.)
+X:sense-cheimon | χειμών also means “winter” (χειμῶνος, ἐν τῷ χειμῶνι “in winter”) | lemma=χειμών hint=winter

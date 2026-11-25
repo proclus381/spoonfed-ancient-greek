@@ -1,0 +1,104 @@
+# ch.30 — conditional sentences; conditions in indirect speech; verbal adjectives in -τός, -τέος; the dual
+Ἐτήρουν τὸν τῶν πολεμίων ἐπίπλουν. | They watched for the enemy's attack by sea. | composed
+Πολλοὺς ἐπίπλους ἐποιοῦντο. | They made many attacks. | composed | @ἐπίπλους:acc
+Ἡ τῶν νεῶν ἐπιστροφὴ ἦν ταχεῖα. | The ships' turning about was quick. | composed
+Ἔσω ἐλθέ, ὦ ξένε. | Come inside, stranger. | composed
+Οἱ σύμμαχοι ἐπεβοήθησαν τοῖς Ἀθηναίοις. | The allies came to the aid of the Athenians. | composed
+Στρέφει τοὺς βοῦς. | He turns the oxen. | composed
+Ὁ κύων εὐθὺς ἐστράφη καὶ ἔφυγεν. | The dog immediately turned round and ran off. | composed
+Ἐπεστράφησαν αἱ νῆες. | The ships turned about. | composed
+Ἀεὶ ἀδολεσχεῖ. | He is always chattering. | composed
+Ἤδη πολὺν χρόνον ἠσθένει. | He had been ill for a long time. | composed
+Ἀφείλετο τοὺς πολίτας τὴν ἐλευθερίαν. | He took their freedom away from the citizens. | composed
+Ἐξέπεσεν ὑπὸ τοῦ χειμῶνος εἰς τὴν γῆν. | It was driven ashore by the storm. | composed
+Ἐνεβίβασε τοὺς ξένους εἰς τὴν ναῦν. | He put the strangers on board. | composed
+Κατεγέλασαν οἱ νεανίαι τοῦ γέροντος. | The young men laughed at the old man. | composed
+Σπουδάζει περὶ τὴν μουσικήν. | He is keen on music. | composed
+Ὑπέμειναν τὴν τῶν πολεμίων προσβολήν. | They stood firm against the enemy's attack. | composed
+Εἰς τὰ βράχεα ἐξέπεσον. | They were driven onto the shallows. | composed
+Μόνον τὸ κέρδος σκοπεῖ. | He looks only to profit. | composed
+Τὸ ὑπόλοιπον τοῦ σίτου τοῖς δούλοις ἔδωκεν. | He gave the rest of the grain to the slaves. | composed
+Ἐκεῖνοι οἱ ἄνδρες ἀνδρεῖοι ἦσαν. | Those men were brave. | composed
+Ὁ δέ, ὅπερ ἐκεῖνοι προσεδέχοντο, φοβηθεὶς περὶ τῷ χωρίῳ ἐρήμῳ ὄντι, ὡς ἑώρα ἀναγομένους αὐτούς, ἄκων καὶ κατὰ σπουδὴν ἐμβιβάσας ἔπλει παρὰ τὴν γῆν. | [Phormio,] as they had expected, afraid for the undefended place, when he saw them putting out, reluctantly and in haste embarked his men and sailed along the coast. | Thuc. 2.90.3
+Περὶ τῷ παιδὶ φοβεῖται. | She is afraid for her child. | composed | +X:peri-dat
+Ἐὰν χειμὼν γένηται, οἱ ναῦται ἐν τῷ λιμένι μένουσιν. | Whenever a storm comes, the sailors stay in the harbour. | composed | +X:cond-gen-pres
+Εἰ ἔλθοι ὁ πατήρ, χαίροιμι ἄν. | If father should come, I would be glad. | composed | +X:cond-flv
+Εἴ ποτε ὁ πάππος εἰς τὴν πόλιν ἔλθοι, δῶρα ἔφερε τοῖς παισίν. | Whenever grandfather came to the city, he used to bring presents for the children. | composed | +X:cond-gen-past
+Εἰ πλούσιος ἦν, πολλοὺς ἵππους ἂν εἶχον. | If I were rich, I would have many horses. | composed | +X:cond-unreal-pres
+Εἰ ἦλθεν ὁ ἰατρός, ὁ παῖς οὐκ ἂν ἀπέθανεν. | If the doctor had come, the boy would not have died. | composed | +X:cond-unreal-past
+Ὁ πατὴρ εἶπεν ὅτι, εἰ ὁ παῖς σπουδάζοι, πολλὰ μαθήσοιτο. | Father said that if the boy worked hard, he would learn a great deal. | composed | +X:cond-indirect
+Ποιητέον ἐστὶν ἡμῖν ὅ τι ἂν ὁ στρατηγὸς κελεύῃ. | We must do whatever the general orders. | composed | +X:verbal-teos
+Μέγα γὰρ τὸ τῆς θαλάσσης κράτος. | For great is the power of the sea. | Thuc. 1.143.5 | +X:old-attic-ss
+Γραπτοί εἰσιν οἱ τῆς πόλεως νόμοι. | The laws of the city are written. | composed | +X:verbal-tos
+Μετωπηδὸν ἔπλεον. | They were sailing in line abreast. | composed
+Ὑπεξέφυγε τοὺς φύλακας. | He slipped away from the guards. | composed
+Ἐξέωσαν τοὺς πολεμίους ἐκ τῆς κώμης. | They drove the enemy out of the village. | composed
+Ἐπεισέβησαν εἰς τὴν ναῦν. | They boarded the ship after them. | composed
+Ἐξένευσαν ἐκ τῆς νεώς. | They swam out of the ship. | composed
+Οἱ ναῦται τὴν ναῦν ἀνεδήσαντο καὶ εἰς τὸν λιμένα εἵλκυσαν. | The sailors took the ship in tow and hauled it into the harbour. | composed
+Ἀπέλαβον τοὺς στρατιώτας ἐν τῷ ὄρει. | They cut the soldiers off on the mountain. | composed
+Ἐν τῇ ἀγορᾷ ἐδημηγόρησεν. | He made a public speech in the agora. | composed
+Παρεβοήθησαν τοῖς συμμάχοις. | They came to the help of their allies. | composed
+Οἱ λύκοι περιέκλεισαν τὰ πρόβατα. | The wolves surrounded the sheep. | composed
+Ἀντίπρῳροι ἦσαν αἱ νῆες. | The ships were prow to prow. | composed
+Ἡ ὁδὸς πολλαχῇ ἔστραπται. | The road twists in many places. | composed
+Πολλὰ πρόβατα ἐν τῇ ἑορτῇ ἐσφάγη. | Many sheep were slaughtered at the festival. | composed
+Οἱ νικήσαντες ἐπαιάνισαν. | The victors sang the paean. | composed
+Καθῆκε τὴν ὑδρίαν εἰς τὴν κρήνην. | He let the water jar down into the spring. | composed
+Ὁ θάνατος πολλάκις ἀπροσδόκητος ἔρχεται. | Death often comes unexpectedly. | composed
+Ἐπεδίωξαν τοὺς φεύγοντας. | They pursued those who were running away. | composed
+Ὤκειλε τὴν ναῦν. | He ran the ship aground. | composed
+Οἱ πολέμιοι τοὺς νεκροὺς ὑποσπόνδους ἀνείλοντο. | The enemy took up their dead under a truce. | composed
+Ἐπικλίνει ὁ ἄνεμος τὰ δένδρα. | The wind bends the trees. | composed
+Τὼ ἀδελφὼ ἦσαν ἐν τῷ ἀγρῷ. | The two brothers were in the field. | composed
+Τοῖν ἀδελφοῖν ἀκούει. | He listens to the two brothers. | composed
+Καλεῖ τὼ κόρα. | He calls the two girls. | composed | @κόρα:d
+Τοῖν κόραιν ἀκούει. | He listens to the two girls. | composed
+Καλεῖ τὼ φύλακε. | He calls the two guards. | composed | @φύλακε:d
+Καλεῖ τὼ ὄφει. | He calls the two snakes. | composed | @ὄφει:d
+Ὁ πατὴρ νὼ καλεῖ. | Father is calling the two of us. | composed
+Ὁ πατὴρ νῷν σῖτον παρέχει. | Father gives the two of us food. | composed
+Τὼ ἀδελφὼ ἐν τῷ ἀγρῷ παίζετον. | The two brothers are playing in the field. | composed
+Τὼ ἀδελφὼ ἐλυέτην τὸν ἵππον. | The two brothers were untying the horse. | composed
+Τὼ ἀδελφὼ ποιεῖσθον τὸν πλοῦν. | The two brothers are making the voyage. | composed
+Τὼ ἀδελφὼ ἐποιησάσθην τὸν πλοῦν. | The two brothers made the voyage. | composed
+Τὼ ἀδελφὼ λυέτων τὸν ἵππον. | Let the two brothers untie the horse. | composed
+Τὼ ἀδελφὼ λυέσθων τὸν πατέρα. | Let the two brothers ransom their father. | composed
+Ἡ τοῦ πύργου ἔγκλισις τοὺς πολίτας φοβεῖ. | The tower's lean frightens the citizens. | composed
+Δεινὴ νόσος ἡ μανία. | Madness is a terrible disease. | composed
+Ὁ σοφὸς γεωμετρίαν διδάσκει. | The wise man teaches geometry. | composed
+Προέμαθε τὸν μῦθον. | He had learnt the story beforehand. | composed
+Ἀλγεῖ τὸν μηρόν. | He has a pain in his thigh. | composed
+Ἡ ὁμόνοια συνέχει τὴν πόλιν. | Concord holds the city together. | composed
+Πολλοὺς ἀκροατὰς εἶχεν. | He had many listeners. | composed
+Ἡ ἀκολασία πολλοὺς νέους διαφθείρει. | Lack of self-control ruins many young men. | composed
+Ἅτε πολλοὶ ὄντες, οἱ πολέμιοι οὐκ ἐφοβοῦντο. | Since they were many, the enemy were not afraid. | composed
+Οἱ Ἀθηναῖοι θαλαττοκράτορες ἦσαν. | The Athenians were masters of the sea. | composed
+Ἀδεῶς προσῆλθε πρὸς τὸν λέοντα. | He went up to the lion without fear. | composed
+Οἱ πολέμιοι ἐνέπρησαν τὰς οἰκίας. | The enemy set fire to the houses. | composed
+Ἡ τοῦ στρατοῦ σύνταξις ἦν χαλεπή. | Organising the army was difficult. | composed
+Αἱ τοῦ δεξιοῦ κέρως νῆες πρῶται ἔπλεον. | The ships of the right wing were sailing in front. | composed | +X:keras
+Ὁ κακὸς πολίτης καταχαρίζεται τὴν πόλιν τοῖς πολεμίοις. | The bad citizen betrays the city to the enemy as a favour. | composed
+Ὁ νεανίας διὰ τὴν ἀσωτίαν ἀπώλεσε πάντα τὰ χρήματα. | Because of his extravagance the young man lost all his money. | composed
+Θωπεύει τὸν δεσπότην. | He flatters his master. | composed
+Αἱ νῆσοι χρήματα ὑποτελοῦσι τοῖς Ἀθηναίοις. | The islands pay money to the Athenians as tribute. | composed
+Ἡ τοῦ κλέπτου ἀναίδεια ἦν μεγάλη. | The thief's shamelessness was great. | composed
+Ἐν τῇ ἀναρχίᾳ οὐδεὶς πείθεται τοῖς νόμοις. | In anarchy no one obeys the laws. | composed
+Ἡ μήτηρ ᾆσμα ᾖδε τῷ παιδί. | Mother sang a song to the child. | composed
+Περὶ τὴν εὐπαιδευσίαν σπουδάζουσιν. | They are serious about a good education. | composed
+Ἐθαύμαζον τὴν τοῦ ἱεροῦ μεγαλοπρέπειαν. | They marvelled at the magnificence of the temple. | composed
+Οἱ παῖδες ἐθίζονται ἕωθεν ἐγείρεσθαι. | The children are getting used to getting up at dawn. | composed
+Ἐξέλεξε τοὺς ἀρίστους τῶν στρατιωτῶν. | He picked out the best of the soldiers. | composed
+Τότε δὴ ἔγνω ἄν τις τὴν τῶν Ἑλλήνων ἀρετήν. | Then one could have seen the courage of the Greeks. | composed | +X:ind-pot
+Φενακίζει τοὺς ξένους. | He cheats the strangers. | composed
+Ὁ πάππος πολλάκις ἂν ἔλεγε τοὺς παλαιοὺς μύθους. | Grandfather would often tell the old stories. | composed | +X:an-iter
+Πολλοὶ νόμοι ἄγραφοί εἰσιν. | Many laws are unwritten. | composed
+Εἴθε ὁ πατὴρ ἔτι ἔζη. | If only father were still alive! | composed | +X:wish-unreal
+Μηδαμῇ, ὦ παῖ, τοῦτο ποιήσῃς. | On no account do this, boy. | composed
+Εἰ καὶ πένης ἐστίν, εὐδαίμων ἐστίν. | Even though he is poor, he is happy. | composed | +X:ei-kai
+Εἰ τότε ἐπείσθης τῷ πατρί, νῦν ἂν εὐδαίμων ἦσθα. | If you had obeyed your father then, you would be happy now. | composed | +X:cond-mixed
+Ἐπὶ τεττάρων ἐτάχθησαν. | They were drawn up four deep. | composed
+Οἱ στρατιῶται καθ᾽ ἕνα διὰ τῆς πύλης ἐξῆλθον. | The soldiers went out through the gate one by one. | composed
+Μετέπεισε τὸν δῆμον. | He changed the people's mind. | composed
+Ὁ ἀγαθὸς στρατηγὸς τὸ τῆς πόλεως συμφέρον σκοπεῖ. | A good general looks to the city's advantage. | composed
+# ---- practice (ch.30 review)

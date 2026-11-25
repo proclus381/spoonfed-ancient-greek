@@ -1,0 +1,92 @@
+ἀναγκάζω | force, compel | v
+ἀνοίγω | open | v
+ἀποκτείνω | kill | v impf=0
+ἀφικνέομαι | arrive | v impf=0
+βασιλεύω | be king, rule | v
+βοηθέω | help, come to help (+ dat.) | v
+βούλομαι | want, wish | v
+γίγνομαι | become, happen, be born | v
+δέχομαι | receive | v
+διακόπτω | cut through | v impf=0
+ἐάω | allow, let (+ acc. and inf.) | v
+ἐγείρω | wake (someone) up | v
+ἐγείρομαι | wake up | v
+εἰπέ | say! tell! | 
+εἰσελαύνω | drive in, ride in | v impf=0
+ἐκφεύγω | escape | v impf=0
+ἕπομαι | follow (+ dat.) | v
+ἐράω | be in love with (+ gen.) | v
+ἐργάζομαι | work | v
+ἔρχομαι | come, go | v
+ἀπέρχομαι | go away | v impf=0
+ἐξέρχομαι | go out | v impf=0
+ἐσθίω | eat | v
+ἡβάω | be a young man, be in one's prime | v
+ἡγέομαι | lead (+ dat.) | v
+κλάζω | clang, bark, scream | v
+κλείω | shut | v
+λαμβάνομαι | take hold of (+ gen.) | v
+μάχομαι | fight | v
+οἰκτίρω | pity | v
+ὀνομάζω | name, call | v
+ὀσφραίνομαι | smell, catch the scent of (+ gen.) | v
+πείθομαι | obey (+ dat.) | v
+πέμπω | send | v
+περαίνω | finish, accomplish | v
+πλέω | sail |
+ἀποπλέω | sail away | 
+πορεύομαι | go, journey | v
+προχωρέω | go forward, advance | v impf=0
+σῴζω | save | v
+τιμάω | honour | v
+τρέπομαι | turn | v
+φοβέομαι | be afraid, fear | v
+ἀνάγκη | necessity | n
+ἀριστερά | left hand | n
+βασίλεια | queen | 
+βασιλεύς | king | 
+δεξιά | right hand | n
+δεσμωτήριον | prison | n
+ἑταῖρος | comrade, companion | n
+ἡμέρα | day | n
+κεφαλή | head | n
+λαβύρινθος | labyrinth | n
+λίνον | thread | n
+μεσημβρία | midday, noon | n
+μοχλός | bar (of a door) | n
+ναῦς | ship | 
+νῆσος | island | n g=f
+νύξ | night | 
+ξίφος | sword | 
+παππίας | daddy | n
+παρθένος | girl, maiden | n g=f
+πνεῦμα | breath | 
+πόλις | city | 
+πούς | foot | 
+πύλαι | gates (of a city) | 
+σκότος | darkness | n
+στῆθος | chest | 
+ταῦρος | bull | n
+τρόπος | way, manner | n
+Αἰγεύς | (name) | 
+Ἀριάδνη | (name) | n
+Θησεύς | (name) | 
+Κνωσσός | (name) | n g=f
+Κρήτη | (name) | n
+Μινώταυρος | (name) | n
+ἐκεῖνος | that, that one | 
+ἑπτά | seven | 
+κατά | down (+ acc.); according to, by | 
+γε | at least, indeed | 
+οἴκοι | at home | 
+οὐδαμῶς | in no way, not at all | 
+μηδέ | and not, not even | 
+X:dat-means | the dative of means: “with, by means of” (ῥάβδῳ τύπτει)
+X:dat-time | the dative of time: “on, at” (τῇ ὑστεραίᾳ, ταύτῃ τῇ ἡμέρᾳ)
+C:ἐπεὶ πρῶτον | as soon as
+C:κατ᾽ ἔτος | every year
+C:τὸ ἥμισυ | half
+C:ὦ πάππα | daddy!
+X:dat-poss | dative of possession: ἔστι μοι … “I have …”
+# Smyth inventory (added 2026-11-23): the book teaches it here (dative of limitation) but did not list it
+X:dat-resp | the dative of respect (limitation): “in, by, in respect of” (ὀνόματι Θησεύς “Theseus by name”, τῷ σώματι ἀσθενής “weak in body”); Smyth §1516

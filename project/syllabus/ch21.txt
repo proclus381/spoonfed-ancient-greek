@@ -1,0 +1,120 @@
+# Athenaze II, ch.21 (Ἡ ἐκκλησία) — the subjunctive (exhortation, deliberation, prohibition, purpose); ἵημι
+# ---- principal parts of verbs already known
+ἄρχω | rule (+ gen.); begin | v pfm=ἦργμαι! aorp=ἤρχθην/ἀρχθ
+κεῖμαι | lie | vx fut=κείσομαι!
+νομίζω | think, consider; believe in (the gods) | v pf=νενόμικα pfm=νενόμισμαι aorp=ἐνομίσθην
+θύω | sacrifice | v pf=τέθυκα! pfm=τέθυμαι! aorp=ἐτύθην!
+καίω | burn, light (a fire) | v fut=καύσω! aor=ἔκαυσα/καυσ irr
+# ---- new verbs
+ἵημι | let go, release, throw, send; (middle) hurry, rush, be eager | vx fut=ἥσω! pf=εἷκα! pfm=εἷμαι! aorp=εἵθην/ἑθ!
+ἀφίημι | let go, release, set free; give up | cmpd base=ἵημι pre=ἀπο fut=ἀφήσω
+ἀγορεύω | speak in the assembly, proclaim | v reg
+βουλεύω | deliberate, plan; (middle) take counsel, resolve | v reg mid
+ψηφίζομαι | vote, vote for | v fut=ψηφιοῦμαι aor=ἐψηφισάμην/ψηφισ pfm=ἐψήφισμαι
+πρόκειμαι | lie before; be set before, be proposed (+ dat.) |
+ἀκροάομαι | listen to (+ gen.) | v fut=ἀκροάσομαι aor=ἠκροασάμην/ἀκροασ
+ἀναγιγνώσκω | read | v fut=ἀναγνώσομαι raor=ἀν·έγνων/ἀναγνω/ἀναγνο base=γιγνώσκω
+διακρίνω | distinguish; decide, settle | v fut=διακρινῶ! aor=δι·έκρινα/διακριν irr
+ἐξαμάω | reap, mow down | v reg pre=ἐξ
+ἐξίστημι | put out of its place; (middle, and aorist ἐξέστην) stand aside, give way (to: + dat.; from: + gen.) | cmpd base=ἵστημι pre=ἐκ raor=ἐξ·έστην/ἐκστη/ἐκστα fut=ἐκστήσω
+ἐπαγγέλλω | announce, proclaim; (middle) promise, offer | v mid fut=ἐπαγγελῶ aor=ἐπ·ήγγειλα/ἐπαγγειλ irr base=ἀγγέλλω
+θερίζω | reap, harvest | v reg
+κωλύω | hinder, prevent (+ acc. and infinitive) | v reg long
+μετέχω | share in, take part in (+ gen.) | v fut=μεθέξω aor2=μετ·έσχον/μετασχ base=ἔχω
+μυέω | initiate (into the mysteries) | v reg
+νηστεύω | fast | v reg
+πνέω | blow; breathe | vx
+εἰσπνέω | breathe in; inspire | vx
+πρεσβεύω | be an ambassador; (middle) send ambassadors, negotiate | v reg mid
+προάγω | lead forward, lead on | v fut=προάξω aor2=προ·ήγαγον/προαγαγ base=ἄγω
+προηγέομαι | go first, lead the way | v reg pre=προ
+προχέω | pour out, pour forth | vx
+σκώπτω | mock, jeer at | v fut=σκώψομαι! aor=ἔσκωψα/σκωψ
+συμπαραστατέω | stand by and help (+ dat.) | v fut=συμπαραστατήσω aor=συμπαρ·εστάτησα/συμπαραστατησ
+τελέω | complete, fulfil; perform (rites); pay | v fut=τελῶ! aor=ἐτέλεσα/τελεσ irr
+ὕω | rain (ὕει “it is raining”) | v long aor=ὗσα/ὑσ
+χειροτονέω | vote by show of hands, elect | v reg
+ἀπωθέω | push away, drive back | v fut=ἀπώσω aor=ἀπ·έωσα/ἀπωσ base=ὠθέω
+# ---- nouns
+ἀγγεῖον | vessel, jar | n
+αἰών | lifetime, age; a long time | n3 gen=αἰῶνος
+ἄλφιτον | (pl. τὰ ἄλφιτα) barley-meal | n
+ἀνάκτορον | palace; shrine (the inner sanctuary at Eleusis) | n
+αὐλός | pipe, flute | n
+αὔρα | breeze | n
+ἀφροδίσια | (pl.) the pleasures of love; a festival of Aphrodite |
+βουλευτής | councillor, member of the Council | n
+γραῖα | old woman | n sa
+δωρεά | gift | n
+ἔγκλημα | accusation, complaint, charge | n3 gen=ἐγκλήματος g=n
+εἰκάς | the twentieth day (of the month) | n3 gen=εἰκάδος g=f
+ἐλπίς | hope, expectation | n3 gen=ἐλπίδος g=f
+ἐπιστάτης | president, chairman (of the prytaneis); overseer | n
+ἐποπτεία | the highest grade of initiation into the Mysteries | n
+ἴακχος | the Iacchus-song (the processional hymn of the Mysteries) | n
+ἰδιώτης | private person, ordinary citizen; layman | n
+κοῦρος | boy, youth | n
+κυκεών | kykeon (a drink of barley-meal, water and herbs) | n3 gen=κυκεῶνος
+μίνθη | mint | n
+μυρρίνη | myrtle, myrtle branch | n
+μύρτος | myrtle (tree) | n g=f
+μυσταγωγός | mystagogue (one who introduces a new initiate) | n
+μυστήριον | secret rite; τὰ μυστήρια the Mysteries | n
+μύστης | initiate | n
+ὄργια | (pl.) secret rites, sacred rites |
+πλημοχόη | plemochoe (an earthen vessel used on the last day of the Mysteries) | n
+πότνια | lady, mistress, queen (a title of goddesses) | n sa
+πρέσβεις | (pl.) ambassadors, envoys (οἱ πρέσβεις, τῶν πρέσβεων) |
+προβούλευμα | preliminary decree (of the Council) | n3 gen=προβουλεύματος g=n
+πρύτανις | prytanis (member of the presiding committee of the Council) | nis g=m
+στάχυς | ear of corn (ὁ στάχυς, τοῦ στάχυος) |
+συνθήκη | agreement; (pl.) treaty | n
+τελεστήριον | hall of initiation (at Eleusis) | n
+τελετή | rite, initiation | n
+τελευτή | end | n
+φρέαρ | well | n3 gen=φρέατος g=n
+χοιρίδιον | piglet | n
+Ἅιδης | (name) |
+Ἀφροδίτη | (name) | n
+Βοηδρομιών | (name) | n3 gen=Βοηδρομιῶνος
+Ἴακχος | (name) | n
+Πνύξ | (name) |
+# ---- adjectives
+ἁγνός | holy, pure | adj
+ἀσθενής | weak | adjes
+αὐτόνομος | independent, living under one's own laws | adj2
+Ἀφροδίσιος | of Aphrodite | adj
+διττός | twofold, double; (pl.) two | adj
+ἑκάτερος | each (of two) | adj
+ἐμπόδιος | in the way, a hindrance (ἐμπόδιός εἰμι + gen. “stand in the way of”) | adj2
+εὔφημος | speaking words of good omen; keeping holy silence | adj2
+εὐχάριστος | grateful; pleasing | adj2
+μυστικός | of the Mysteries, mystic | adj
+πάγκλαυτος | most lamentable; all in tears | adj2
+πολυτίμητος | highly honoured, most revered | adj2
+σύμπας | all together, the whole | 
+ὑπήκοος | subject, obedient (+ gen.); οἱ ὑπήκοοι “subjects” | adj2
+χρόνιος | lasting a long time; after a long time | adj
+# ---- adverbs, prepositions, conjunctions
+ἕνεκα | for the sake of, because of (+ gen.; it follows its noun) |
+ἐναλλάξ | alternately, in turn |
+θηριωδῶς | like a wild beast, savagely |
+κοσμίως | in an orderly way, decently |
+ὅλως | altogether, on the whole; (with a negative) at all |
+ἵνα | so that, in order that (+ subjunctive) |
+Ἐλευσῖνάδε | to Eleusis |
+C:οἱ ἐπιγιγνόμενοι / τῶν ἐπιγιγνομένων / τοῖς ἐπιγιγνομένοις / τοὺς ἐπιγιγνομένους | those who come after, posterity
+C:εἰς Ἅιδου | to (the house of) Hades, to the underworld
+C:γνώμης ἔχομαι / γνώμης ἔχεται / γνώμης ἐχόμεθα / γνώμης ἔχονται / γνώμης ἔχῃ / γνώμης εἴχετο / γνώμης ἔχεσθαι | hold to (the same) opinion (τῆς αὐτῆς γνώμης ἔχομαι)
+C:κατὰ πάντα | in every respect
+X:subj-hort | the hortatory subjunctive (1st person, usually plural): ἴωμεν “let's go”; negative μή
+X:subj-delib | the deliberative subjunctive: τί ποιῶμεν; “what are we to do?”
+X:subj-prohib | μή + aorist subjunctive = a prohibition: μὴ τοῦτο ποιήσῃς “don't do this”
+X:hopos-purpose | ὅπως + subjunctive, like ἵνα: “so that, in order to”
+X:euthys-adj | εὐθύς, εὐθεῖα, εὐθύ as an adjective: “straight”
+μυρίος | countless, numberless (mostly pl. μυρίοι) | adj
+X:sense-theros | θέρος also means “harvest, crop” (τὸ θέρος θερίζουσιν “they reap the harvest”) | lemma=θέρος hint=harvest, crop
+# for classical passages that the book quotes, in the author's own words (added 2026-11-23)
+ἡλικία | age, time of life |
+# the chapter is named after it, but the word was missing from the syllabus (added 2026-11-23)
+ἐκκλησία | assembly (the Assembly of the Athenian people) |

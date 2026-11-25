@@ -1,0 +1,100 @@
+# ch.32 — supplement from Smyth: concepts Athenaze does not treat (no new vocabulary except αἰτιάομαι)
+Πάλαι σε, ὦ φίλε, ζητῶ. | I've been looking for you for a long time, my friend. | composed | +X:pres-pf
+Ἥσθην ἀκούσας τοὺς σοὺς λόγους. | I am delighted to hear what you say. | composed | +X:aor-dramatic
+Μία ἡμέρα τὸν μὲν ἦρεν, τὸν δὲ ἀπώλεσεν. | One day lifts one man up and destroys another. | composed | +X:aor-gnomic
+Μὴ χαλεπὸν ᾖ τοῦτο εὑρεῖν. | It may be hard to find this. | composed | +X:me-doubt
+Ἀφίεμέν σε, ἐφ᾽ ᾧτε μηκέτι ταῦτα ποιεῖν. | We let you go on condition that you no longer do this. | composed
+Ὁ γέρων ἔτρεχεν ὥσπερ ἂν εἰ νέος ἦν. | The old man was running just as if he were young. | composed | +X:hosper-an-ei
+Ἔτι πονεῖ, καὶ ταῦτα ἀσθενὴς ὤν. | He is still working, and that although he is weak. | composed | +X:kai-tauta
+Οὐκ οἶδα τὸν ξένον ὅστις ἐστίν. | I don't know who the stranger is. | composed | +X:prolepsis
+Πάντες, ὡς ἔπος εἰπεῖν, ἀπέθανον. | Practically everyone died. | composed
+Ὀλίγου δεῖν πάντες ἔφυγον. | Almost everyone fled. | composed
+Ἑκὼν εἶναι οὐκ ἀπέρχομαι. | I won't leave if I can help it. | composed
+«Τί παίζεις ἔχων, ὦ φίλε;» | “Why do you keep on joking, my friend?” | composed | +X:echon-ptc
+«Τί μαθὼν τοῦτο ἐποίησας;» | “What possessed you to do this?” | composed
+«Μὴ αἰτιῶ τοὺς θεούς.» | “Don't blame the gods.” | composed
+Δειλίας ᾐτιῶντο τὸν στρατηγόν. | They accused the general of cowardice. | composed | +X:gen-charge
+Φοβοῦμαι μὴ ὁ ἄγγελος ἤδη ἀπεληλυθὼς ᾖ. | I am afraid the messenger may already have left. | composed | +X:pf-subj
+Οὐχ ὅπως ἐβοήθησαν ἡμῖν, ἀλλὰ καὶ ἔβλαψαν. | So far from helping us, they even did us harm. | composed | +X:me-hoti
+Ὁ ὀδοὺς ἀλγεῖ. | The tooth aches. | composed
+Ἀλγεῖ τὸν ὀδόντα. | He has toothache. | composed
+Ὁ πόνος τοῦ ὀδόντος χαλεπός ἐστιν. | The pain of the tooth is hard to bear. | composed
+Τῷ ὀδόντι τὸ σῦκον τέμνει. | He cuts the fig with his tooth. | composed
+«Μηκέτι ἄλγει, ὦ ὀδούς.» | “Tooth, stop aching.” | composed | @ὀδούς:voc
+Οἱ ὀδόντες τοῦ λέοντος μεγάλοι εἰσίν. | The lion's teeth are big. | composed
+Ἀλγεῖ τοὺς ὀδόντας. | His teeth ache. | composed | @ὀδόντας:acc
+Ὁ πόνος τῶν ὀδόντων χαλεπός ἐστιν. | The pain of the teeth is hard to bear. | composed
+Τοῖς ὀδοῦσι τὸ κρέας τέμνει. | He cuts the meat with his teeth. | composed
+Ἡ γραῦς πρὸς τῷ πυρὶ καθίζει. | The old woman is sitting by the fire. | composed
+Φιλεῖ τὴν γραῦν. | He loves the old woman. | composed
+Ἀκούει τῆς γραός. | He listens to the old woman. | composed
+Σῖτον φέρει τῇ γραΐ. | He brings the old woman food. | composed
+«Μῦθον, ὦ γραῦ, ἡμῖν λέγε.» | “Tell us a story, granny.” | composed
+Αἱ γρᾶες ἐν τῇ οἰκίᾳ καθεύδουσιν. | The old women are asleep in the house. | composed
+Φιλεῖ τὰς γραῦς. | He loves the old women. | composed | @γραῦς:acc
+Ἀκούει τῶν γραῶν. | He listens to the old women. | composed
+Σῖτον φέρει ταῖς γραυσί. | He brings the old women food. | composed
+«Ἔλθετε δεῦρο, ὦ γρᾶες.» | “Come here, old women.” | composed
+Μεγάλη ἐστὶν ἡ πειθώ. | Persuasion is a great power. | composed
+Οἱ ῥήτορες τιμῶσι τὴν πειθώ. | Speakers honour persuasion. | composed | @πειθώ:acc
+Ὁ ῥήτωρ πειθοῦς δεῖται. | A speaker needs persuasion. | composed
+Πειθοῖ, οὐ βίᾳ, νικᾷ. | He wins by persuasion, not by force. | composed | @Πειθοῖ:dat
+«Βοήθει μοι, ὦ πειθοῖ.» | “Persuasion, help me.” | composed
+Ἡ αἰδὼς καλόν ἐστιν. | A sense of shame is a fine thing. | composed
+Αἰδῶ οὐκ ἔχει. | He has no shame. | composed
+Ὁ νεανίας αἰδοῦς μεστός ἐστιν. | The young man is full of modesty. | composed
+Αἰδοῖ πείθεται. | He obeys out of reverence. | composed
+«Ποῦ εἶ, ὦ αἰδώς;» | “Shame, where are you?” | composed
+Οἱ Ἀθηναῖοι τὸν Περικλέα ἐθαύμαζον. | The Athenians admired Pericles. | composed
+Ἤκουον τοῦ Περικλέους. | They listened to Pericles. | composed
+Ἐπείθετο ὁ δῆμος τῷ Περικλεῖ. | The people obeyed Pericles. | composed
+«Εὖ λέγεις, ὦ Περίκλεις.» | “Pericles, you speak well.” | composed
+Ὁ γείτων εὔνους ἐστίν. | The neighbour is well disposed. | composed
+Εὔνουν φίλον ἔχει. | He has a well-disposed friend. | composed | @Εὔνουν:m
+Εὔνουν τὸ πλῆθος. | The people are well disposed. | composed | @Εὔνουν:nom
+Εὔνου φίλου ἐπιθυμεῖ. | He longs for a well-disposed friend. | composed | @Εὔνου:gen
+Εὔνῳ φίλῳ πιστεύει. | He trusts a well-disposed friend. | composed
+Εὖνοι οἱ πολῖται. | The citizens are well disposed. | composed | @Εὖνοι:nom
+Εὔνους φίλους ἔχει. | He has well-disposed friends. | composed | @Εὔνους:acc
+Εὔνοα τὰ πλήθη. | The peoples are well disposed. | composed | @Εὔνοα:nom
+Εὔνοα πλήθη ἔχει. | He has the goodwill of the peoples. | composed | @Εὔνοα:acc
+Εὔνων φίλων ἐπιθυμεῖ. | He longs for well-disposed friends. | composed
+Εὔνοις φίλοις πιστεύει. | He trusts well-disposed friends. | composed
+«Χαίρετε, ὦ εὖνοι φίλοι.» | “Greetings, kind friends.” | composed
+«Χαῖρε, ὦ εὔνου φίλε.» | “Greetings, kind friend.” | composed | @εὔνου:voc
+Ἵλεων θεὸν ἔχει. | He has a gracious god. | composed | @Ἵλεων:acc.m
+Ἵλεων τὸ πνεῦμα. | The wind is kindly. | composed | @Ἵλεων:nom
+Ἵλεων πνεῦμα ἔχουσιν. | They have a kindly wind. | composed | @Ἵλεων:acc.n
+Ἵλεω θεοῦ δεῖται. | He needs a gracious god. | composed | @Ἵλεω:gen.s
+Ἵλεῳ θεῷ θύει. | He sacrifices to a gracious god. | composed | @Ἵλεῳ:dat
+Ἵλεῳ οἱ θεοί. | The gods are gracious. | composed | @Ἵλεῳ:nom
+Ἵλεως θεοὺς ἔχουσιν. | They have gracious gods. | composed | @Ἵλεως:acc
+Ἵλεα τὰ τέκνα. | The children are kind. | composed | @Ἵλεα:nom
+Ἵλεα τέκνα ἔχουσιν. | They have kind children. | composed | @Ἵλεα:acc
+Ἵλεων θεῶν δέονται. | They need gracious gods. | composed | @Ἵλεων:gen
+Ἵλεῳς θεοῖς θύουσιν. | They sacrifice to gracious gods. | composed
+Χαρίεις ὁ νεανίας. | The young man is graceful. | composed
+Χαρίεσσα ἡ κόρη. | The girl is graceful. | composed | @Χαρίεσσα:nom
+Χαρίεν τὸ ἄγαλμα. | The statue is graceful. | composed | @Χαρίεν:nom
+Χαρίεν ἄγαλμα ποιεῖ. | He makes a graceful statue. | composed | @Χαρίεν:acc
+Χαρίεντα νεανίαν ὁρᾷ. | He sees a graceful young man. | composed | @Χαρίεντα:acc.m
+Χαρίεσσαν κόρην ὁρᾷ. | He sees a graceful girl. | composed
+Ἐρᾷ τοῦ χαρίεντος νεανίου. | She loves the graceful young man. | composed
+Ἐρᾷ τῆς χαριέσσης κόρης. | He loves the graceful girl. | composed
+Ἕπεται τῷ χαρίεντι νεανίᾳ. | She follows the graceful young man. | composed
+Ἕπεται τῇ χαριέσσῃ κόρῃ. | He follows the graceful girl. | composed
+«Χαῖρε, ὦ χαρίεν παῖ.» | “Greetings, lovely boy.” | composed | @χαρίεν:voc
+«Χαῖρε, ὦ χαρίεσσα κόρη.» | “Greetings, lovely girl.” | composed
+Χαρίεντες οἱ νεανίαι. | The young men are graceful. | composed | @Χαρίεντες:nom
+Χαρίεσσαι αἱ κόραι. | The girls are graceful. | composed | @Χαρίεσσαι:nom
+Χαρίεντα τὰ ἀγάλματα. | The statues are graceful. | composed | @Χαρίεντα:nom.n
+Χαρίεντα ἀγάλματα ποιεῖ. | He makes graceful statues. | composed | @Χαρίεντα:acc.n
+Χαρίεντας νεανίας ὁρᾷ. | He sees graceful young men. | composed
+Χαριέσσας κόρας ὁρᾷ. | He sees graceful girls. | composed
+Ἀκούει τῶν χαριέντων νεανιῶν. | He listens to the graceful young men. | composed
+Ἀκούει τῶν χαριεσσῶν κορῶν. | He listens to the graceful girls. | composed
+Ἕπεται τοῖς χαρίεσι νεανίαις. | She follows the graceful young men. | composed
+Ἕπεται ταῖς χαριέσσαις κόραις. | He follows the graceful girls. | composed
+«Χαίρετε, ὦ χαρίεντες παῖδες.» | “Greetings, lovely children.” | composed
+«Χαίρετε, ὦ χαρίεσσαι κόραι.» | “Greetings, lovely girls.” | composed
+# review

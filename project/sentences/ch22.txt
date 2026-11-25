@@ -1,0 +1,129 @@
+# ch.22 — fearing (μή + subjunctive); ἐάν, ὅταν, ἐπειδάν, ὃς ἄν, ἕως ἄν; δείκνυμι and verbs in -νυμι; indirect questions; the evacuation of Attica
+Φοβοῦμαι μὴ ὁ παῖς πέσῃ. | I'm afraid the boy may fall. | composed | +X:fear-me
+Ἡ ἐκ τῆς παλαιᾶς οἰκίας ἀνάστασις χαλεπὴ ἦν τῷ γέροντι. | Moving out of the old house was hard for the old man. | composed
+Ὃς ἂν τοῦτο ποιήσῃ, δίκην δώσει. | Whoever does this will pay for it. | composed
+Ὅστις ἂν ἔλθῃ, δεξόμεθα αὐτόν. | Whoever comes, we shall welcome him. | composed
+Ἥτις γυνὴ σώφρων ἐστί, τιμᾶται. | Any woman who is sensible is honoured. | composed
+Οἵτινες πονοῦσι, πλούσιοι γίγνονται. | Those who work become rich. | composed
+Αἵτινες πονοῦσι, τιμῶνται. | Women who work are honoured. | composed
+Ἅτινα καλά ἐστι, χαλεπά ἐστιν. | Whatever is fine is hard. | composed | @Ἅτινα:nom
+Ὅντινα ὁρᾷς, ἐρώτα. | Ask anyone you see. | composed
+Οὕστινας ὁρᾷς, ἐρώτα. | Ask any men you see. | composed
+Ἅστινας ὁρᾷς, ἐρώτα. | Ask any women you see. | composed
+Ἅτινα λέγει, ἀληθῆ ἐστιν. | Whatever he says is true. | composed | @Ἅτινα:acc
+Ἧστινος γυναικὸς ἐρᾷ, οὐ λέγει. | He does not say which woman he loves. | composed
+Ὅτῳ πείθεται, οὐ λέγει. | He does not say whom he obeys. | composed
+Οὐ λέγει ᾗτινι συλλαμβάνει. | She does not say which woman she is helping. | composed
+Ὧντινων ἀκούει, οὐ λέγει. | He does not say whom he listens to. | composed
+Οἷστισι πείθεται, οὐ λέγει. | He does not say which people he obeys. | composed
+Οὐδεὶς ἡμῖν εἶπεν ὅτου ἕνεκα ὁ βασιλεὺς ὀργίζεται. | No one told us why the king is angry. | composed
+Εἰπέ μοι ἥντινα ὁδὸν ἴωμεν. | Tell me which road we are to take. | composed
+Ὅταν ἀνατέλλῃ ὁ ἥλιος, οἱ γεωργοὶ ἐγείρονται. | When the sun rises, the farmers wake up. | composed
+Ἐπειδὰν τελέσωμεν τὸ ἔργον, οἴκαδε ἴμεν. | When we have finished the work, we shall go home. | composed
+Μένε ἐνταῦθα ἕως ἂν ἐπανέλθω. | Wait here until I come back. | composed | +X:heos-an
+Ὁ ξένος ἐρωτᾷ εἰ ὁ πατὴρ οἴκοι ἐστίν. | The stranger asks whether father is at home. | composed | +X:ind-question
+Αἱ τῶν πολιτῶν οἰκήσεις ἦσαν μικραί. | The citizens' dwellings were small. | composed | @οἰκήσεις=οἴκησις
+Ἐὰν σπεύδωμεν, ἐν καιρῷ ἀφιξόμεθα. | If we hurry, we shall arrive in time. | composed
+Ἐὰν δέῃ, μαχούμεθα. | If we must, we will fight. | composed
+Ἐὰν ἐξῇ, ἄπιμεν. | If it is allowed, we will go away. | composed
+Ἐὰν μηδὲν κωλύῃ, ἀφιξόμεθα. | If nothing prevents us, we shall arrive. | composed | @μηδὲν:nom
+Ἀνθίστανται τοῖς πολεμίοις. | They are standing up to the enemy. | composed
+Φυλακὴν ἐν τῷ τείχει κατέστησεν. | He posted a garrison on the wall. | composed
+Δείκνυσι τὴν ὁδὸν τῷ ξένῳ. | He shows the stranger the way. | composed
+Δείκνυμί σοι τὴν οἰκίαν. | I am showing you the house. | composed
+Τί μοι δείκνυς; | What are you showing me? | composed
+Δείκνυμεν τὴν πόλιν τοῖς ξένοις. | We are showing the strangers the city. | composed
+Βούλομαί σοι τὸν ἀγρὸν δεικνύναι. | I want to show you the field. | composed
+Δείκνυ μοι τὸ τραῦμα. | Show me the wound. | composed
+«Δείκνυτέ μοι τὴν ὁδόν.» | “Show me the way.” | composed | @δείκνυτε:imp
+Δεικνύασι τὰ δῶρα τῷ πατρί. | They show their father the presents. | composed
+«Τί δείκνυτε τῷ ξένῳ;» | “What are you showing the stranger?” | composed | @δείκνυτε:ind
+Ἐδείκνυ τὴν θάλατταν τοῖς παισίν. | He was showing the children the sea. | composed
+«Ἐδείκνυν τῷ ξένῳ τὴν ὁδόν.» | “I was showing the stranger the way.” | composed
+«Τί ἐδείκνυς τοῖς παισίν;» | “What were you showing the children?” | composed
+Ἐδείκνυμεν τὴν θάλατταν τοῖς ξένοις. | We were showing the strangers the sea. | composed
+«Τί ἐδείκνυτε τῷ πατρί;» | “What were you showing father?” | composed
+Ἐδείκνυσαν τὰ ὤνια. | They were showing their wares. | composed
+Τὴν ὁδὸν δεικνὺς ἡμῖν ἡγεῖται. | He leads us, pointing out the way. | composed
+Ζεύγνυσι τοὺς βοῦς. | He is yoking the oxen. | composed | @βοῦς:acc
+Ἀναβιβάζει τοὺς ἵππους εἰς τὴν ναῦν. | He is putting the horses on board the ship. | composed
+Κατεπήδησεν ἀπὸ τοῦ ἵππου. | He jumped down from his horse. | composed
+Καλὸν παράδειγμα παρέχει τοῖς παισίν. | He sets his children a good example. | composed
+Ἡ πηγὴ τοῦ ποταμοῦ ἐστιν ἐν τοῖς ὄρεσιν. | The source of the river is in the mountains. | composed
+Ἐσθίει τὴν βοτάνην. | They are eating the grass. | composed
+Ὑψηλόν ἐστι τὸ ὄρος. | The mountain is high. | composed
+Φιλοῦσι τὴν παλαιὰν δίαιταν. | They love their old way of life. | composed
+Ὁ νεανίας συγγίγνεται τοῖς σοφοῖς. | The young man keeps company with the wise. | composed
+Ὁ ποταμὸς διαρρεῖ διὰ μέσης τῆς πόλεως. | The river flows through the middle of the city. | composed
+Ἡ γῆ καρποὺς ἀναδίδωσιν. | The earth yields crops. | composed
+Ὅπου ἂν ᾖς, φίλους εὑρήσεις. | Wherever you are, you will find friends. | composed | +X:hos-an
+Διὰ παντὸς ὑλακτεῖ ὁ κύων. | The dog barks all the time. | composed
+Ἑνί γε τρόπῳ δεῖ ἡμᾶς σῖτον εὑρεῖν. | One way or another we must find food. | composed
+Ἔνδοθεν βοῆς ἠκούσαμεν. | We heard a shout from inside. | composed
+Ἐγένετο καρτερὰ μάχη. | There was a fierce battle. | composed
+Ἔξωθεν ἡ οἰκία καλὴ φαίνεται. | From outside the house looks beautiful. | composed
+Πάντες ἐν τῷ αὐτῷ ἐκάθευδον. | They were all sleeping in the same place. | composed
+Πέρυσι ἐγένετο πολὺς σῖτος. | Last year there was a big harvest of grain. | composed
+Κρῆναι γὰρ οὔπω ἦσαν αὐτόθι. | For there were as yet no wells there [in the Piraeus]. | Thuc. 2.48.2
+Ἡ κώμη ἐστὶ πέραν τοῦ ποταμοῦ. | The village is on the other side of the river. | composed
+Πόρρω τοῦ ἄστεώς ἐστιν ὁ ἀγρός. | The field is far from the city. | composed | +X:porro-gen
+Γενναῖος ὁ νεανίας. | The young man is noble. | composed
+Ἡ μήτηρ τῷ ξένῳ τὴν ὁδὸν δεικνῦσα ἡγεῖται. | Mother leads the way, showing the stranger the road. | composed
+Τὸ παιδίον τὴν ὁδὸν δεικνὺν ἡγεῖται. | The child leads the way, showing the road. | composed | @δεικνὺν:nom
+Φιλεῖ τὸ παιδίον τὸ τὴν ὁδὸν δεικνύν. | He loves the child who shows the way. | composed | @δεικνύν:acc
+Καλεῖ τὸν παῖδα τὸν τὴν ὁδὸν δεικνύντα. | He calls the boy who is showing the way. | composed
+Ἀκούει τοῦ τὴν ὁδὸν δεικνύντος. | He listens to the one who is showing the way. | composed
+Ἕπεται τῷ τὴν ὁδὸν δεικνύντι. | He follows the one who is showing the way. | composed
+Οἱ παῖδες τὴν ὁδὸν δεικνύντες ἡγοῦνται. | The boys lead the way, showing the road. | composed
+Καλεῖ τοὺς τὴν ὁδὸν δεικνύντας. | He calls those who are showing the way. | composed
+Ἀκούει τῶν τὴν ὁδὸν δεικνύντων. | He listens to those who are showing the way. | composed
+Ἕπονται τοῖς τὴν ὁδὸν δεικνῦσι. | They follow those who are showing the way. | composed | @δεικνῦσι:ptc
+Καλεῖ τὴν κόρην τὴν τὰ ἱερὰ δεικνῦσαν. | He calls the girl who is showing the shrines. | composed
+Ἀκούει τῆς κόρης τῆς τὰ ἱερὰ δεικνύσης. | He listens to the girl who is showing the shrines. | composed
+Ἕπεται τῇ κόρῃ τῇ τὴν ὁδὸν δεικνύσῃ. | He follows the girl who is showing the way. | composed
+Αἱ κόραι τὴν ὁδὸν δεικνῦσαι ἡγοῦνται. | The girls lead the way, showing the road. | composed
+Καλεῖ τὰς κόρας τὰς τὰ ἱερὰ δεικνύσας. | He calls the girls who are showing the shrines. | composed
+Ἀκούει τῶν κορῶν τῶν τὰ ἱερὰ δεικνυσῶν. | He listens to the girls who are showing the shrines. | composed
+Ἕπεται ταῖς κόραις ταῖς τὴν ὁδὸν δεικνύσαις. | He follows the girls who are showing the way. | composed
+Τὰ παιδία τὴν ὁδὸν δεικνύντα ἡγεῖται. | The children lead the way, showing the road. | composed | @δεικνύντα:nom.n
+Φιλεῖ τὰ παιδία τὰ τὴν ὁδὸν δεικνύντα. | He loves the children who show the way. | composed | @δεικνύντα:acc.n
+«Χαῖρε, ὦ τὴν ὁδὸν δεικνύς.» | “Greetings, guide.” | composed | @δεικνύς:voc
+«Χαῖρε, ὦ τὴν ὁδὸν δεικνῦσα.» | “Greetings, lady guide.” | composed | @δεικνῦσα:voc
+«Χαίρετε, ὦ τὴν ὁδὸν δεικνύντες.» | “Greetings, guides.” | composed | @δεικνύντες:voc
+«Χαίρετε, ὦ τὴν ὁδὸν δεικνῦσαι.» | “Greetings, ladies who show the way.” | composed | @δεικνῦσαι:voc
+Δείδω μὴ ὀψὲ ἀφικώμεθα. | I fear we may arrive too late. | composed
+Τηλικοῦτος ἦν ὁ χειμὼν ὥστε τὰ δένδρα πίπτειν. | The storm was so great that the trees were falling. | composed
+Τηλικαύτην ναῦν οὐ πρότερον εἶδον. | I had never before seen so large a ship. | composed
+Τηλικαύτας ναῦς ἔχουσιν. | They have ships as big as that. | composed | @Τηλικαύτας:acc
+Τηλικαῦται ἦσαν αἱ νῆες. | The ships were as big as that. | composed
+Τηλικαῦτα πλοῖα ἔχουσιν. | They have boats as big as that. | composed | @Τηλικαῦτα:acc
+Ἐν τηλικαύτῃ νηὶ πλέουσιν. | They sail in so large a ship. | composed
+Ἐν τηλικαύταις ναυσὶ πλέουσιν. | They sail in such large ships. | composed
+Ἐκ τηλικαύτης πόλεως ἥκουσιν. | They come from so large a city. | composed
+Ὁ γέρων χαλεπῶς φέρει τὴν νόσον. | The old man is taking his illness hard. | composed
+Ἀπέβαλε τὴν ἀσπίδα. | He threw away his shield. | composed
+Ἐνθένδε οὐ πολλὴ ὁδός ἐστιν εἰς τὸ ἄστυ. | From here it is not far to the city. | composed
+Οἴχεται ὁ ξένος. | The stranger has gone. | composed
+Αὔριον οἰχήσομαι. | Tomorrow I shall be gone. | composed
+Ὀλιγοχρόνιος ὁ βίος τῶν ἀνθρώπων. | Human life is short. | composed
+Ῥήγνυσιν ὁ χειμὼν τὰ ἱστία. | The storm is tearing the sails. | composed
+Ἢν μὴ σπεύδῃς, οὐκ ἀφίξῃ. | If you don't hurry, you won't get there. | composed | +X:sense-en
+Μεθίησι τὸν κύνα. | He lets go of the dog. | composed
+Ἄκων τοῦτο ἐποίησεν. | He did this unintentionally. | composed
+Ἁμαξιτός ἐστιν ἡ ὁδός. | The road is fit for wagons. | composed
+Ἐν τοῖς δένδρεσι καθίζουσιν οἱ ὄρνιθες. | The birds are perching in the trees. | composed | +X:dendresi
+Ἐν τῇ κώμῃ ἦν ἡρῷον. | In the village there was a hero's shrine. | composed
+Οἱ Ἀθηναῖοι πρεσβείαν πρὸς τὸν βασιλέα ἔπεμψαν. | The Athenians sent an embassy to the king. | composed
+Ἐκτὸς τῶν τειχῶν μένουσιν. | They remain outside the walls. | composed
+Ἤδη ἐπὶ τοῖς ὁρίοις εἰσὶν οἱ πολέμιοι. | The enemy are already on the frontier. | composed
+Αὐθημερὸν εἰς τὴν πόλιν ἀφικόμεθα. | We reached the city on the same day. | composed
+Ἄνευ ἀγωγοῦ οὐ δυνάμεθα τὴν ὁδὸν εὑρεῖν. | Without a guide we cannot find the way. | composed
+Ἡ οἰκία οὐκ ἐχώρει πάντας τοὺς ξένους. | The house did not have room for all the guests. | composed
+Οὐκ ἐνδιδόασι τοῖς πολεμίοις. | They do not give in to the enemy. | composed
+Τὸ τῶν πολεμίων στρατόπεδον ἦν ἐγγὺς τοῦ ποταμοῦ. | The enemy's camp was near the river. | composed
+Οὐδείς πω τοῦτο εἶδεν. | No one has ever yet seen this. | composed
+Οὐδὲν ἀπὸ τοῦ αὐτομάτου γίγνεται. | Nothing happens by itself. | composed
+# ---- practice (ch.22 review)
+Ὅταν παρῇ ὁ διδάσκαλος, οἱ παῖδες σιγῶσιν. | Whenever the teacher is there, the children are quiet. | composed
+Τί ἐστι τοῦτο τῶν ὄντων, περὶ οὗ οὗτοι οἱ λόγοι εἰσὶν οἷς ἡ ῥητορικὴ χρῆται; | What is it, among the things that are, that these speeches which rhetoric uses are about? | Pl. Gorgias 451d
+Βασιλεὺς Μακεδόνων Φίλιππος Ἀθηναίων τῇ βουλῇ καὶ τῷ δήμῳ χαίρειν. | Philip, King of the Macedonians, to the Council and People of Athens, greetings. | Dem. On the Crown 39

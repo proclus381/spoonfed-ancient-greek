@@ -1,0 +1,118 @@
+# ch.25 — the optative: wishes; after a past tense in subordinate clauses and in indirect speech; Solon and Croesus, Cleobis and Biton; school and palaestra
+Σῴζοι σε ὁ θεός. | May the god keep you safe. | composed
+Σῴζοιεν οἱ θεοὶ τὴν πόλιν. | May the gods keep the city safe. | composed
+Εἴθε ἐπανέλθοι ὁ πατήρ. | If only father would come back! | composed
+Σώσειε ὁ θεὸς τὴν πόλιν. | May the god save the city. | composed
+Οἱ θεοὶ σώσειαν τὸν βασιλέα. | May the gods save the king. | composed
+Εἴθε τοῦτο ἀκούσαιμι. | If only I could hear this! | composed
+«Εἴθε σώσαις τὸν πατέρα.» | “May you save your father!” | composed
+«Εἴθε νικήσαιμεν τοὺς πολεμίους.» | “May we defeat the enemy!” | composed
+«Εἴθε σώσαιτε τὴν πόλιν.» | “May you save the city!” | composed
+Οἱ θεοὶ ἀγαθὰ ἡμῖν δοῖεν. | May the gods give us good things. | composed
+«Εἴθε ἀεὶ διδοίη ὁ θεὸς ἡμῖν τὸν σῖτον.» | “May the god always give us our food!” | composed
+«Εἴθε ἀποδοίμην τὸν ἵππον.» | “If only I could sell the horse!” | composed
+«Εἴθε τὸ δεῖπνον ἐπὶ τὴν τράπεζαν θείη.» | “If only she would put the dinner on the table!” | composed
+«Εἴθε καλοὺς νόμους θείμην.» | “If only I could make good laws!” | composed
+«Εἴθε ἀεὶ καλοὺς νόμους τιθείη ὁ δῆμος.» | “May the people always lay down good laws!” | composed
+«Εἴθε ἱσταίη ὁ παῖς τὸν ἵππον.» | “If only the boy would stop the horse!” | composed
+«Εἴθε ἀφείη ὁ βασιλεὺς τοὺς δεσμώτας.» | “May the king release the prisoners!” | composed
+«Εἴθε μὴ λίθους ἱείη ὁ παῖς.» | “If only the boy would not throw stones!” | composed
+Εἴθε σωθείη ὁ υἱός. | If only my son may be saved! | composed
+«Εἴθε σωθείην.» | “Oh, may I be saved!” | composed
+«Εἴθε τιμηθείης, ὦ φίλε.» | “May you be honoured, my friend!” | composed
+«Εἴθε μὴ νικηθεῖμεν.» | “May we not be defeated!” | composed
+«Εἴθε σωθεῖτε, ὦ ναῦται.» | “May you be saved, sailors!” | composed
+«Εἴθε σωθεῖεν οἱ παῖδες.» | “May the children be saved!” | composed
+Ὁ παῖς εἶπεν ὅτι ὁ πατὴρ ἴοι εἰς τὴν ἀγοράν. | The boy said that his father was going to the market place. | composed
+«Εἴθε οἴκαδε ἴοιμι.» | “If only I could go home!” | composed
+«Εἴθε σὺν ἡμῖν ἴοις.» | “If only you would come with us!” | composed
+«Εἴθε εἰς τὴν πόλιν ἴοιμεν.» | “If only we could go to the city!” | composed
+«Εἴθε μὴ ἴοιτε, ὦ φίλοι.» | “If only you would not go, friends!” | composed
+«Εἴθε ἀπίοιεν οἱ πολέμιοι.» | “If only the enemy would go away!” | composed
+Ὁ γέρων ἤρετο τί φαίη ὁ ξένος. | The old man asked what the stranger was saying. | composed
+Εἰς τὸ διδασκαλεῖον φοιτῶσιν. | They go to school. | composed
+Εἰς τὴν παλαίστραν ἔδραμον ἐκ τοῦ διδασκαλείου. | They ran from the school to the palaestra. | composed
+Ἀστραγαλίζουσιν οἱ παῖδες. | The boys are playing knucklebones. | composed
+Ἐν τῷ ἀποδυτηρίῳ ἀπεδύοντο. | They were undressing in the changing room. | composed
+Ἐν τῇ γωνίᾳ καθεύδει ὁ κύων. | The dog is sleeping in the corner. | composed
+Οἱ παῖδες ἐν τῇ γωνίᾳ ἀστραγαλίζουσιν, ἄλλοι δὲ ἀρτιάζουσιν. | The boys are playing knucklebones in the corner, and others are playing odds and evens. | after Plato, Lysis 206e
+Πάμπολλα λάφυρα ἔλαβον. | They took a vast amount of booty. | composed
+Πάμπολυς ἦν ὁ σῖτος. | There was a great deal of grain. | composed
+Πάμπολυ ἦν τὸ πλῆθος. | The number was very great. | composed | @Πάμπολυ:nom
+Πάμπολυν σῖτον ἔχουσιν. | They have a great deal of grain. | composed
+Πάμπολυ ἀργύριον ἔχει. | He has a great deal of money. | composed | @Πάμπολυ:acc
+Ἄρτους ἐν φορμίσκῳ φέρει. | She is carrying loaves in a small basket. | composed
+Σῴζοι ὁ θεὸς τοὺς ναύτας. | May the god keep the sailors safe. | composed | +X:opt-wish
+Χαίροις, ὦ ξένε. | Farewell, stranger. | composed
+Μὴ ἔχοιμεν πόλεμον. | May we not have war. | composed
+Ἀποθάνοιμι πρὸ τῆς πατρίδος. | May I die for my country. | composed
+Μὴ γένοιτο. | God forbid! | composed
+Οἱ φίλοι μὴ ὀργίζοιντο ἡμῖν. | May our friends not be angry with us. | composed
+Εἴθε σοφὸς γενοίμην. | If only I might become wise! | composed
+Εὐτυχοίης, ὦ παῖ. | Good luck to you, my boy. | composed
+Εἴθε εὐτυχοίην. | If only I may be lucky! | composed
+Νικῷεν οἱ Ἀθηναῖοι. | May the Athenians win. | composed
+Εἴθε ὁ πατὴρ μὴ νοσοίη. | Oh, may father not be ill! | composed
+Εἴθε ὁ πατὴρ ὑγιὴς εἴη. | Oh, may father be well! | composed
+Εἴθε πλούσιος εἴην. | Oh, may I be rich! | composed
+«Εἴθε εὐδαίμων εἴης, ὦ φίλε.» | “May you be happy, my friend!” | composed
+«Εἴθε ἐλεύθεροι εἶμεν.» | “If only we were free!” | composed
+«Εἴθε σώφρονες εἶτε, ὦ παῖδες.» | “If only you would be sensible, children!” | composed
+Οἱ παῖδες εὐδαίμονες εἶεν. | May the children be happy. | composed
+Ἔλεγεν ὅτι δέοι ἀπιέναι. | He said that they had to leave. | composed
+Ἔλεγεν ὅτι χρείη ἀπιέναι. | He said that it was necessary to leave. | composed
+Ἔλεγεν ὅτι ἐξείη ἀπιέναι. | He said that they were allowed to leave. | composed
+Εἴθε παύσαιτο ὁ χειμών. | If only the storm would stop! | composed
+Ἀπεδήμησεν ὁ ἔμπορος δέκα ἔτη. | The merchant was abroad for ten years. | composed
+Συχνὸν χρόνον ἀπεδήμει. | He was abroad for a long time. | composed
+Ὁ ἀνόητος προαιρεῖται τὸν πλοῦτον πρὸ τῆς ἀρετῆς. | The fool prefers wealth to virtue. | composed
+Ἐξέμαθε τὰ ποιήματα. | He learned the poems by heart. | composed
+Ἐξεπίσταται τὸ ποίημα. | He knows the poem thoroughly. | composed
+Περίπατον ποιεῖται. | He is taking a walk. | composed
+Οἱ δικασταὶ δίκαιον ἔκριναν τὸν ἄνδρα. | The jurors judged the man to be just. | composed
+Τοπάζω γάρ σε ἔχειν τὸν λόγον αὐτόν. | For I guess you have the speech itself. | Pl. Phaedrus 228d
+Εἰ γὰρ οἱ ναῦται σῴζοιντο. | If only the sailors might be saved! | composed | +X:ei-gar
+Ὁ παῖς τὰ τοῦ Ὁμήρου ποιήματα ἀπὸ στόματος λέγει. | The boy recites Homer's poems from memory. | composed
+Ἀπόδειξιν τῆς ἀρετῆς ἐποιήσατο. | He gave a display of his courage. | composed
+Οἱ Ἀργεῖοι τὰ νομιζόμενα ἐποίησαν τοῖς νεανίαις. | The Argives performed the customary rites for the young men. | composed
+Οἱ πρέσβεις εἶπον ὅτι ὁ βασιλεὺς τὴν εἰρήνην δέξοιτο. | The ambassadors said that the king would accept the peace. | composed
+Ὁ υἱὸς γηροτροφεῖ τὸν πατέρα. | The son supports his father in his old age. | composed
+Εἴθε ὁ ἰατρὸς τὸν πατέρα σῴζειν δύναιτο. | If only the doctor could save father! | composed
+Ἔσπευδον ἵνα τοῦ ῥήτορος ἀκούοιεν. | They were hurrying so as to hear the speaker. | composed | +X:opt-past
+Ὁ ἄγγελος ἔλεγεν ὅτι ὁ βασιλεὺς νοσοίη. | The messenger said that the king was ill. | composed | +X:opt-indirect
+Ὁ παῖς τὸ βιβλίον ἀνείλιξε καὶ ἀνέγνω. | The boy unrolled the book and read it. | composed
+Ἐν μέρει ἀνεγίγνωσκον. | They were reading in turn. | composed
+Πολλοὶ θεωρίας ἕνεκα εἰς Αἴγυπτον πλέουσιν. | Many people sail to Egypt to see the sights. | composed
+Ὅρκῳ ὑπέσχοντο τοῖς νόμοις ἐμμενεῖν. | They promised on oath to abide by the laws. | composed
+Ἐν τοῖς βασιλείοις ἐδέξατο τοὺς πρέσβεις. | He received the ambassadors in the palace. | composed
+Περιῆγε τὸν ξένον κατὰ τὴν πόλιν. | He was showing the stranger round the city. | composed
+Ὁ πλούσιος ἑαυτὸν ὄλβιον ἐνόμιζεν. | The rich man thought himself blessed. | composed
+Ἐν τῇ πλάνῃ πολλὰς πόλεις εἶδεν. | In his wanderings he saw many cities. | composed
+Ὑποθωπεύει τὸν δεσπότην. | He flatters his master. | composed
+Ἡ τῶν πολεμίων τροπὴ ἦν ταχεῖα. | The rout of the enemy was swift. | composed
+Ὁ γείτων ἡμῶν ἐστιν ἀγαθὸς ἀνήρ. | Our neighbour is a good man. | composed
+Κρινοῦσι τὸ πρᾶγμα. | They will decide the matter. | composed
+Ἐκρίθη ὑπὸ τῶν δικαστῶν. | He was judged by the jurors. | composed
+Πατρὸς Ἀθηναίου ἐξεγένετο. | He was the son of an Athenian father. | composed
+Ἔλαβε τὰ δευτερεῖα. | He took the second prize. | composed
+Πάγχυ ὀργίζεται. | He is utterly furious. | composed
+Ὁ ἀθλοφόρος ὑπὸ τῶν πολιτῶν ἐτιμήθη. | The prize-winner was honoured by the citizens. | composed
+Πάντως γάρ που τηλικοῦτος ὢν ἤδη ἐθέλει διαλέγεσθαι. | For surely, at his age, he is already willing to converse. | Pl. Charmides 154e
+Ὁ ῥήτωρ λόγῳ μὲν φίλος ἦν τοῦ δήμου, ἔργῳ δὲ ἐχθρός. | The speaker was a friend of the people in word, but in fact an enemy. | composed | +X:logos-ergon
+Ἐν τῷ ἀγῶνι ὁ ἐμὸς ἀδελφὸς δευτερεῖα ἤνεγκεν. | In the contest my brother came second. | composed
+Τὸ ζεῦγος τὴν ἅμαξαν ἕλκει. | The yoke of oxen pulls the wagon. | composed
+Εἵλκυσαν οἱ ἵπποι τὴν ἅμαξαν. | The horses pulled the wagon. | composed
+Ἐν τῷ ἱερῷ ηὐωχοῦντο οἱ νεανίαι. | The young men were feasting in the temple. | composed
+Ἀντίον τῆς οἰκίας ἔχει τὸν ἀγρόν. | He has a field opposite the house. | composed
+Τετταράκοντα ναῦς οἱ Ἀθηναῖοι ἔπεμψαν. | The Athenians sent forty ships. | composed
+Οἱ παῖδες τοὺς πατέρας τιμῶσιν. | Children honour their fathers. | composed
+Κατέστρεψεν ὁ ἄνεμος τὸν λέμβον. | The wind overturned the skiff. | composed
+Ἐν τῷ περιπάτῳ ἐκύρησα τῷ γείτονι. | On my walk I happened to meet my neighbour. | composed
+Οὐκ ἐν τῷ πλούτῳ ἐστὶν ἡ εὐδαιμονία. | Happiness is not in wealth. | composed
+Μένοιτε ἐνταῦθα, ὦ φίλοι. | May you stay here, my friends. | composed
+# ---- practice (ch.25 review)
+Ἡ ἅμαξα εἱλκύσθη ὑπὸ τῶν νεανιῶν. | The wagon was pulled by the young men. | composed
+Πολλαὶ πόλεις κατεστράφησαν ὑπὸ τῶν Περσῶν. | Many cities were subdued by the Persians. | composed
+Ἐν γὰρ τῷ μακρῷ χρόνῳ πολλὰ μὲν ἐστὶ ἰδεῖν τὰ μή τις ἐθέλει, πολλὰ δὲ καὶ παθεῖν. | For in a long life one can see many things one would rather not, and suffer many too. | Hdt. 1.32.2 | +X:ion-art-rel
+Ἐγίγνετό τε λόγῳ μὲν δημοκρατία, ἔργῳ δὲ ὑπὸ τοῦ πρώτου ἀνδρὸς ἀρχή. | In name it was a democracy, but in fact it was rule by the first man. | Thuc. 2.65.9 | +X:logos-ergon
+Ὁ παῖς ἐτόπασε πόσους ἀστραγάλους ὁ φίλος ἐν τῇ χειρὶ ἔχοι. | The boy guessed how many knucklebones his friend had in his hand. | composed

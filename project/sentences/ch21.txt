@@ -1,0 +1,222 @@
+# ch.21 — the subjunctive (let us …, what are we to …?, don't …, so that …); ἵημι and ἀφίημι; the Assembly and the Mysteries
+Διττοὺς λόγους περὶ τούτου ἀκούομεν. | We hear two different accounts of this. | composed
+Ἡ Δημήτηρ δύο δωρεὰς τοῖς ἀνθρώποις ἔδωκεν. | Demeter gave mankind two gifts. | after Isocrates, Panegyricus 28
+Νυκτὸς γίγνεται ἡ τελετή. | The rite takes place at night. | composed
+Οἱ Ἀθηναῖοι τὰ μυστήρια κατ᾽ ἔτος ποιοῦσιν. | The Athenians celebrate the Mysteries every year. | composed
+Τὸ φρέαρ βαθύ ἐστιν. | The well is deep. | composed
+Ὕδωρ ἐκ τοῦ φρέατος φέρουσιν. | They fetch water from the well. | composed
+Λαμβάνει τὸ δόρυ. | He takes the spear. | composed | @δόρυ:acc
+Μάχεται τῷ δόρατι. | He fights with the spear. | composed
+Τὰ δόρατα μακρά ἐστιν. | The spears are long. | composed | @δόρατα:nom
+Λαμβάνουσιν τὰ δόρατα. | They take their spears. | composed | @δόρατα:acc
+Ἀκούει τὸν ψόφον τῶν δοράτων. | He hears the clash of the spears. | composed
+Μάχονται τοῖς δόρασι. | They fight with spears. | composed
+Σκώπτουσι τὸν γέροντα. | They are making fun of the old man. | composed
+Σκώψονται τὸν ῥήτορα. | They will jeer at the speaker. | composed
+Γραῖά τις ἐν τῇ ὁδῷ καθίζεται. | An old woman is sitting in the road. | composed
+Πάντες οἱ πολῖται τῆς ἑορτῆς μετέχουσιν. | All the citizens take part in the festival. | composed
+Οἱ μύσται διὰ τῆς ἱερᾶς ὁδοῦ βαδίζουσιν. | The initiates walk along the Sacred Way. | composed
+Ἐλπὶς ἔτι ἐστὶ σωτηρίας. | There is still hope of safety. | composed
+Μυρία κακὰ ὁ πόλεμος παρέχει. | War brings countless evils. | composed
+Ἡ τοῦ βίου τελευτὴ πᾶσιν ἔρχεται. | The end of life comes to all. | composed
+Οὐ μακρός ἐστιν ὁ τῶν ἀνθρώπων αἰών. | Man's lifetime is not long. | composed
+Σύμπασα ἡ πόλις τῆς ἑορτῆς μετέχει. | The whole city takes part in the festival. | composed
+Θηριωδῶς ἐμάχοντο. | They fought like wild beasts. | composed
+Ἀκούσωμεν τοῦ ῥήτορος. | Let's hear the speaker. | composed
+Ποῖ φύγω; | Where am I to flee? | composed
+Μὴ τοῦτο ποιήσῃς. | Don't do that. | composed
+Σπεύδομεν ἵνα τοῦ ῥήτορος ἀκούσωμεν. | We are hurrying so as to hear the speaker. | composed
+Φύγωμεν εἰς τὰ ὄρη. | Let's flee to the mountains. | composed
+Μαχώμεθα ὑπὲρ τῆς πατρίδος. | Let us fight for our country. | composed
+Ὁ δοῦλος σπεύδει ἵνα ὁ δεσπότης μὴ ὀργίζηται. | The slave hurries so that his master won't be angry. | composed
+Οἱ γέροντες συνέρχονται ἵνα περὶ τῆς εἰρήνης διαλέγωνται. | The elders are meeting to talk about peace. | composed
+«Πῶς τοῦτο ἐργάζωμαι;» | “How am I to do this?” | composed
+«Λέγω ταῦτα ἵνα μὴ φοβῇ.» | “I am telling you this so that you won't be afraid.” | composed | @φοβῇ:subj
+«Ταῦτα λέγω ἵνα μὴ ὀργίζησθε.» | “I am saying this so that you won't be angry.” | composed
+Τὰ μυστικὰ οὐκ ἔξεστι λέγειν. | One may not speak of the secrets of the Mysteries. | composed
+Τῆς πατρίδος ἕνεκα μαχόμεθα. | We are fighting for the sake of our country. | composed
+Τὸν ἴακχον ᾄδουσιν. | They sing the Iacchus-song. | composed
+Πνεῖ ὁ ἄνεμος ἀπὸ τῆς θαλάττης. | The wind is blowing from the sea. | composed
+Πνεῖ αὔρα ἡδεῖα. | A pleasant breeze is blowing. | composed
+Ὁ ποιμὴν οὐ σύριγγα ἀλλ᾽ αὐλὸν ἔχει. | The shepherd has not a panpipe but a flute. | composed
+Ὁ διδάσκαλος βραδέως λέγει ἵνα ὁ παῖς μανθάνῃ. | The teacher speaks slowly so that the boy may understand. | composed | @μανθάνῃ:3s.subj
+Ταῦτα ὑμῖν λέγω ἵνα τὰ ἀληθῆ γιγνώσκητε. | I am telling you this so that you may know the truth. | composed
+Οἴκαδε σπεύδωμεν. | Let's hurry home. | composed
+Ὁ πατὴρ πονεῖ ἵνα οἱ παῖδες σῖτον ἔχωσιν. | The father works so that his children may have food. | composed
+Ἥκω ἵνα σοι βοηθῶ. | I have come to help you. | composed | @βοηθῶ:subj
+Ταῦτα λέγω ἵνα μανθάνῃς. | I say this so that you may learn. | composed
+Ὁ ἄγγελος τρέχει ἵνα ὁ βασιλεὺς τὰ γενόμενα γνῷ. | The messenger runs so that the king may learn what has happened. | composed
+Ἀναβῶμεν ἐπὶ τὸ ὄρος. | Let's go up the mountain. | composed
+«Ἀναβῶ εἰς τὸ δένδρον;» | “Am I to climb up the tree?” | composed
+«Μὴ ἀναβῇς εἰς τὸ δένδρον.» | “Don't climb up the tree.” | composed
+«Μὴ ἐκβῆτε ἐκ τῆς νεώς.» | “Don't get out of the ship.” | composed
+Ὁ πατὴρ τοὺς παῖδας καλεῖ ἵνα ἀπὸ τοῦ δένδρου καταβῶσιν. | Father calls the children so that they will come down from the tree. | composed
+Μὴ ἀπέλθῃς, ὦ φίλε. | Don't go away, my friend. | composed | +X:subj-prohib
+Μὴ θαυμάσητε, ὦ ἄνδρες. | Do not be surprised, gentlemen. | composed
+Λέγε ἵνα πάντες ἀκούσωσιν. | Speak so that everyone may hear. | composed
+Μηδεὶς οἴκαδε ἀπέλθῃ. | Let no one go home. | composed
+Μὴ δέξῃ τὰ δῶρα. | Don’t accept the gifts. | composed | @δέξῃ:subj
+Μὴ δέξησθε τὰ τῶν πολεμίων δῶρα. | Do not accept the enemy's gifts. | composed
+Ὁ ἰατρὸς πάρεστιν ἵνα ὁ παῖς ὑγιὴς γένηται. | The doctor is here so that the boy may get well. | composed
+Τί γένωμαι; | What is to become of me? | composed
+Δεξώμεθα τοὺς ξένους. | Let's welcome the strangers. | composed
+Ὁ ῥήτωρ πολλὰ λέγει ἵνα οἱ πολῖται τὴν εἰρήνην δέξωνται. | The speaker says a great deal so that the citizens will accept the peace. | composed
+Σιγᾶτε ὅπως ἡμεῖς ἀκούωμεν. | Be quiet so that we can hear. | composed | +X:hopos-purpose
+Μόλις εἰσπνεῖ. | He can hardly draw breath. | composed
+Μὴ μένωμεν ἐνταῦθα. | Let's not stay here. | composed | +X:subj-hort
+Ἄνδρες ἀγαθοὶ ὦμεν. | Let us be brave men. | composed
+Οἱ στρατιῶται μάχονται ἵνα οἱ πολῖται ἐλεύθεροι ὦσιν. | The soldiers fight so that the citizens may be free. | composed
+Οἴκοι μένε ἵνα ἀσφαλὴς ᾖς. | Stay at home so that you may be safe. | composed
+Πάντα πράττω ἵνα ὁ πατὴρ ὑγιὴς ᾖ. | I am doing everything so that father may be well. | composed
+Τί ποιήσω ἵνα σοφὸς ὦ; | What shall I do to be wise? | composed | @ὦ=εἰμί
+Δεῖ πονεῖν ἵνα πλούσιοι ἦτε. | You must work in order to be rich. | composed | @ἦτε:subj
+Τῇ εἰκάδι τοῦ Βοηδρομιῶνος γίγνεται ἡ πομπή. | The procession takes place on the twentieth of Boedromion. | composed
+Ἐλευσῖνάδε πορεύεται. | It is on its way to Eleusis. | composed
+Προηγεῖται ὁ ἱερεὺς τῆς πομπῆς. | The priest goes at the head of the procession. | composed
+Ἀπέωσαν τοὺς βαρβάρους. | They drove the barbarians back. | composed
+Οἱ νέοι τοῖς γέρουσι τῆς ὁδοῦ ἐξίστανται. | The young make way for the old. | composed
+Οὐ θεμιτόν ἐστι τὰ ὄργια τοῖς ἄλλοις φράζειν. | It is not lawful to reveal the sacred rites to others. | composed
+Δεῖ τοὺς μύστας ἁγνοὺς εἶναι. | The initiates must be pure. | composed
+Ὁ θεὸς συμπαραστατεῖ τοῖς ἀνδρείοις. | The god stands by the brave. | composed
+Ἡ πολυτίμητος θεὸς τοὺς καρποὺς ἡμῖν δίδωσιν. | The most revered goddess gives us the crops. | composed
+Ἐλευθερῶμεν τὴν πατρίδα. | Let us set our country free. | composed | @ἐλευθερῶμεν:subj
+Οἱ πολῖται εὐχάριστοί εἰσι τῇ Δήμητρι. | The citizens are grateful to Demeter. | composed
+Ὁ πλούσιος ἐργάζεται ἵνα τοῖς πένησι διδῷ. | The rich man works so that he may give to the poor. | composed
+Δῶμεν τῷ πένητι σῖτον. | Let's give the poor man some food. | composed
+«Ἀποδώμεθα τὸν ἵππον.» | “Let us sell the horse.” | composed
+Ἴωμεν εἰς τὴν ἀγοράν. | Let's go to the market place. | composed
+Κάλει τὸν παῖδα ἵνα οἴκαδε ἴῃ. | Call the boy so that he may go home. | composed
+«Ἴω ἢ μὴ ἴω;» | “Am I to go or not?” | composed
+«Τοῦτο λέγω ἵνα μὴ μόνος ἴῃς.» | “I am saying this so that you don't go alone.” | composed
+«Ταῦτα λέγω ἵνα μὴ εἰς τὴν πόλιν ἴητε.» | “I am telling you this so that you don't go to the city.” | composed
+Ὁ πατὴρ ἡγεῖται ἵνα οἱ παῖδες σὺν αὐτῷ ἴωσιν. | Father leads the way so that the children go with him. | composed
+Θῶμεν τὰ δῶρα ἐπὶ τὸν βωμόν. | Let's put the gifts on the altar. | composed
+Ὁ δοῦλος σπεύδει ἵνα τὸ δεῖπνον ἐπὶ τὴν τράπεζαν τιθῇ. | The slave hurries to put the dinner on the table. | composed
+«Θώμεθα τὰς ὑδρίας ἐνταῦθα.» | “Let us put our water jars down here.” | composed
+«Ἱστῶμεν τὸν ἵππον;» | “Shall we stop the horse?” | composed
+Τί ποιῶμεν; | What are we to do? | composed | +X:subj-delib @ποιῶμεν:subj
+Ἡ γραῖα πάγκλαυτον διάγει τὸν βίον. | The old woman leads a life full of tears. | composed
+Ἐξαμῶσι τὸν σῖτον. | They are reaping the grain. | composed
+Εἰς τὸ τελεστήριον εἰσέρχονται οἱ μύσται. | The initiates go into the hall of initiation. | composed
+Στεφάνους μυρρίνης ἔχουσιν. | They wear garlands of myrtle. | composed
+Κυκεῶνα πίνουσιν. | They drink the kykeon. | composed
+Ἐξ ἀλφίτων καὶ ὕδατος γίγνεται. | It is made of barley-meal and water. | composed
+Ἡ μίνθη ἡδὺ ὄζει. | Mint smells sweet. | composed
+Ἐναλλὰξ ᾄδουσιν. | They sing in turn. | composed
+Μετὰ τὴν τελετὴν γίγνεται ἡ ἐποπτεία. | After the initiation comes the final vision. | composed
+Πληροῖ τὸ ἀγγεῖον ὕδατος. | She fills the jar with water. | composed
+Μύρτοι παρὰ τῷ ἱερῷ εἰσιν. | There are myrtle trees beside the temple. | composed
+Ἀφροδίσιον δένδρον ἐστὶν ἡ μύρτος. | The myrtle is Aphrodite's tree. | composed
+Τῇ τελευταίᾳ ἡμέρᾳ τὰς πλημοχόας πληροῦσιν. | On the last day they fill the plemochoai. | composed
+Προχεῖ τὸ ὕδωρ ἐκ τῆς πλημοχόης. | He pours out the water from the plemochoe. | composed
+Τήμερον ὕει. | It is raining today. | composed
+Εὔφημοι ἔστε, ὦ πολῖται. | Keep holy silence, citizens. | composed
+Κοσμίως βαδίζουσιν. | They walk in good order. | composed
+Ὁ ἱερεὺς μόνος εἰς τὸ ἀνάκτορον εἰσέρχεται. | The priest alone enters the inner shrine. | composed
+Θερίζουσι τὸν σῖτον. | They are harvesting the grain. | composed
+Θερίζουσι τὸ θέρος. | They are reaping the harvest. | composed | +X:sense-theros
+Ὦ πότνια, σῷζε τὴν πόλιν. | O Lady, preserve the city. | composed
+Κοῦροι καὶ κόραι ἐν τῇ πομπῇ βαδίζουσιν. | Boys and girls walk in the procession. | composed
+Στάχυν φέρει. | She is carrying an ear of corn. | composed
+Ἔκαυσαν τὰ ἱερά. | They burned the temples. | composed
+Στρατηγὸς ὁ μὲν ἀδελφός, ὁ δὲ πατὴρ ἰδιώτης. | The brother is a general, but the father is a private citizen. | composed
+Οὐδεὶς ἡμᾶς κωλύει ἀπιέναι. | No one is stopping us from leaving. | composed
+Τελεῖ τὰ ἱερά. | He performs the rites. | composed | @τελεῖ:pres
+Αὔριον τελοῦμεν τὸ ἔργον. | Tomorrow we shall finish the work. | composed
+Ἐτέλεσαν τὸ ἔργον. | They finished the work. | composed
+Νηστεύουσιν οἱ μύσται. | The initiates fast. | composed
+Οὐχ ὅλως ἀληθῆ λέγεις. | What you say is not altogether true. | composed
+Εὐθεῖα ἡ ὁδός. | The road is straight. | composed | +X:euthys-adj
+Ὁ σώφρων τῶν ἀφροδισίων κρατεῖ. | The self-controlled man is master of his passions. | composed
+Ἕκαστος τῶν μυστῶν χοιρίδιον θύει. | Each of the initiates sacrifices a piglet. | composed
+Ὁ μυσταγωγὸς τὸν μύστην πρὸς τὸ ἱερὸν ἄγει. | The mystagogue leads the initiate to the sanctuary. | composed
+Λίθον ἵησιν. | He throws a stone. | composed
+Ἵει τὸν λίθον. | Throw the stone. | composed | @ἵει:imp
+«Ἵετε τοὺς λίθους, ὦ παῖδες.» | “Throw the stones, boys.” | composed | @ἵετε:imp
+Ἀφίησι τὸν δοῦλον. | He lets the slave go. | composed
+Οὐκ ἀφεῖσαν τοὺς δεσμώτας. | They did not release the prisoners. | composed
+Τοὺς δεσμώτας ἀφεὶς ἀπῆλθεν. | He released the prisoners and went away. | composed
+Ἡ κόρη τὸν ἄρνα ἀφεῖσα οἴκαδε ἔδραμεν. | The girl let the lamb go and ran home. | composed
+Φωνὴν μεγάλην ἵημι. | I let out a loud cry. | composed
+Διὰ τί λίθους ἵης; | Why are you throwing stones? | composed
+Λίθους ἵεμεν ἐπὶ τὸν λύκον. | We are throwing stones at the wolf. | composed | @ἵεμεν:pres
+Διὰ τί λίθους ἵετε ἐπὶ τὸν ξένον; | Why are you throwing stones at the stranger? | composed | @ἵετε:ind.pres
+Ἀφῆκε τοὺς δεσμώτας. | He released the prisoners. | composed
+Ἀφῆκα τὸν κλέπτην. | I let the thief go. | composed
+Ἀφεῖμεν τοὺς ἵππους. | We turned the horses loose. | composed
+«Διὰ τί ἀφῆκας τὸν κλέπτην;» | “Why did you let the thief go?” | composed
+«Διὰ τί ἀφεῖτε τοὺς δεσμώτας;» | “Why did you release the prisoners?” | composed
+Ἀφῶμεν τοὺς δεσμώτας. | Let's release the prisoners. | composed
+«Μὴ ἱῶμεν λίθους.» | “Let us not throw stones.” | composed
+Οὐ δεῖ λίθους ἱέναι. | You mustn't throw stones. | composed
+Λίθους ἱεὶς τὸν κύνα διώκει. | He chases the dog, throwing stones. | composed
+Ἵει τοὺς κύνας. | He was loosing his dogs. | composed | @ἵει:impf
+«Λίθους ἵην εἰς τὸν ποταμόν.» | “I was throwing stones into the river.” | composed
+Μυεῖ τοὺς νέους. | He initiates the young men. | composed
+Οἱ πολέμιοι τὰς συνθήκας ἔλυσαν. | The enemy broke the treaty. | composed
+Ἑκάτερος τῶν ῥητόρων εὖ ἔλεγεν. | Each of the two speakers spoke well. | composed
+Ἐπαγγέλλει τὴν εἰρήνην. | He proclaims the peace. | composed
+Βουλεύονται περὶ τοῦ πολέμου. | They are deliberating about the war. | composed
+Ἆθλα τοῖς νικῶσι πρόκειται. | Prizes are offered to the winners. | composed
+Πρέσβεις πέμπουσιν. | They are sending ambassadors. | composed
+Αἱ πόλεις αὐτόνομοι εἶναι βούλονται. | The cities want to be independent. | composed
+Ἐνθάδε κείσομαι. | Here I shall lie. | composed
+Καύσουσι τὴν πόλιν. | They will burn the city. | composed
+Οἱ πρυτάνεις τοὺς πολίτας καλοῦσιν. | The prytaneis summon the citizens. | composed
+Ὁ ἐπιστάτης τοὺς πολίτας σιγᾶν κελεύει. | The chairman orders the citizens to be silent. | composed
+Ὁ πατήρ μου βουλευτής ἐστιν. | My father is a member of the Council. | composed
+Ἀναγιγνώσκει τὸν λόγον. | He is reading the speech. | composed
+Ἀκούουσι τὸ προβούλευμα. | They hear the Council's motion. | composed
+Ὁ σοφὸς διακρίνει τὸ ἀγαθὸν καὶ τὸ κακόν. | The wise man distinguishes good from evil. | composed
+Ὁ χρόνος πάντα διακρινεῖ. | Time will decide everything. | composed
+Διέκρινεν ἡ μάχη τὸν πόλεμον. | The battle decided the war. | composed | @διέκρινεν:aor
+Ψηφίζονται τὸν πόλεμον. | They vote for war. | composed
+Εἰς τὴν ἐκκλησίαν συνέρχονται. | They gather for the assembly. | composed
+Χειροτονοῦσι τοὺς στρατηγούς. | They elect their generals by show of hands. | composed
+Τίς ἀγορεύειν βούλεται; | Who wishes to speak? | Aristophanes, Acharnians 45
+Οὗτος ὁ ἀνὴρ ἐμπόδιός ἐστι τῆς εἰρήνης. | This man stands in the way of peace. | composed
+Ἀφήσω σε. | I will let you go. | composed
+Ὑπήκοοι τῶν Ἀθηναίων ἐγένοντο. | They became subjects of the Athenians. | composed
+Οἱ Κορίνθιοι πολλὰ ἐγκλήματα ἔχουσι πρὸς τοὺς Ἀθηναίους. | The Corinthians have many complaints against the Athenians. | composed
+Ἀσθενὴς ὁ γέρων. | The old man is weak. | composed
+«Τί ἵεις, ὦ παῖ;» | “What were you throwing, boy?” | composed
+Ἵεμεν λίθους εἰς τὴν θάλατταν. | We were throwing stones into the sea. | composed | @ἵεμεν:impf
+«Διὰ τί λίθους ἵετε;» | “Why were you throwing stones?” | composed | @ἵετε:impf
+Ἡ κόρη λίθους εἰς τὴν θάλατταν ἱεῖσα παίζει. | The girl is playing, throwing stones into the sea. | composed
+Ἵεσαν οἱ βάρβαροι λίθους. | The barbarians were hurling stones. | composed
+Ἵεται ἐπὶ τὸν λύκον. | It rushes at the wolf. | composed
+«Οἴκαδε ἵεμαι.» | “I am hurrying home.” | composed
+«Ποῖ ἵεσαι, ὦ παῖ;» | “Where are you rushing to, boy?” | composed
+Ἱέμεθα ἐπὶ τοὺς πολεμίους. | We are rushing at the enemy. | composed | @ἱέμεθα:pres
+«Ποῖ ἵεσθε, ὦ φίλοι;» | “Where are you rushing to, friends?” | composed | @ἵεσθε:pres.ind
+Ὁ κύων βούλεται ἐπὶ τὸν λύκον ἵεσθαι. | The dog wants to rush at the wolf. | composed
+«Ἵεσθε ἐπὶ τοὺς πολεμίους, ὦ στρατιῶται.» | “Charge at the enemy, soldiers!” | composed | @ἵεσθε:imp
+Ἡ κόρη οἴκαδε ἱεμένη ἔτρεχεν. | The girl was running, eager to get home. | composed
+Οἴκαδε ἱέμενοι ἔτρεχον. | They were running, eager to get home. | composed
+Ὁ βασιλεὺς ἐκέλευσε τοὺς δεσμώτας ἀφεῖναι. | The king gave orders to release the prisoners. | composed
+Λίθους ἱᾶσιν εἰς τὸν ποταμόν. | They are throwing stones into the river. | composed
+Ἀφεῖτο ὁ γέρων τοῦ ἔργου. | The old man gave up his work. | composed | @Ἀφεῖτο:aor
+Ἀφεῖντο οἱ στρατιῶται τῆς πόλεως. | The soldiers gave up the city. | composed | @Ἀφεῖντο:aor
+«Οὐ βούλομαι τοῦ ἔργου ἀφέσθαι.» | “I don't want to give up the work.” | composed
+Ὁ γέρων τοῦ ἔργου ἀφέμενος ἀναπαύεται. | The old man has given up his work and is resting. | composed
+Τιμῶμεν τοὺς θεούς. | Let us honour the gods. | composed | @τιμῶμεν:subj
+Χρόνιος ἦν ὁ πόλεμος. | The war was a long one. | composed
+Ἐπρέσβευσε πρὸς τὸν βασιλέα. | He went as ambassador to the king. | composed
+Ἀκροᾶται ὁ δῆμος τῶν πρέσβεων. | The people listen to the ambassadors. | composed
+Οἱ ἐπιγιγνόμενοι ἡμᾶς θαυμάσονται. | Posterity will admire us. | composed
+Ἐγὼ τῆς τοῦ πατρὸς γνώμης ἔχομαι. | I hold to my father's view. | composed
+Ἄφες με, ὦ ξένε. | Let go of me, stranger. | composed
+Ἵενται εἰς τὸν ποταμόν. | They rush into the river. | composed
+Ἵεντο ἐπὶ τοὺς Ἕλληνας. | They were charging at the Greeks. | composed
+«Ἐγὼ οἴκαδε ἱέμην.» | “I was hurrying home.” | composed
+Ἐπὶ τὸν λύκον ἵετο ὁ κύων. | The dog was rushing at the wolf. | composed
+Ἱέμεθα ἐπὶ τὰς ναῦς. | We were rushing to the ships. | composed | @ἱέμεθα:impf
+«Ποῖ ἵεσθε;» | “Where were you rushing to?” | composed | @ἵεσθε:impf
+Ἄφετε τὸν παῖδα· οὐδὲν γὰρ κακὸν ἐποίησεν. | Let the boy go: he has done nothing wrong. | composed
+Προάγει τὸν στρατόν. | He leads the army forward. | composed
+Ὁ υἱὸς τῷ πατρὶ ὅμοιός ἐστι κατὰ πάντα. | The son is like his father in every respect. | composed
+Πάντες εἰς Ἅιδου καταβησόμεθα. | We shall all go down to Hades. | composed
+# ---- practice (ch.21 review)
+Ὁρᾶτε γὰρ δὴ τὴν ἡλικίαν ὅτι πόρρω ἤδη ἐστὶ τοῦ βίου, θανάτου δὲ ἐγγύς. | For you see my age, that it is far along in life now and close to death. | Pl. Apology 38c
+Ἀπὸ τῶν ὀρῶν ἔπνει αὔρα. | A breeze was blowing from the mountains. | composed
+Μηδὲν κακὸν ποιήσῃς, ὦ παῖ. | Don't do anything bad, child. | composed | @Μηδὲν:acc

@@ -1,0 +1,63 @@
+# chapter 10: πόλις and ἄστυ; impersonal verbs; question words; review of verb forms
+Ἐπὶ τοῖς θράνοις καθίζονται. | They sit down on the benches. | composed
+Ὑμνεῖ τὸν θεόν. | It sings in praise of the god. | composed
+Ἄνω βλέπει. | He looks up. | composed
+Ἤδη καταδύνει ὁ ἥλιος· δεῖ οὖν ἡμᾶς οἴκαδε ἰέναι. | The sun is already setting, so we must go home. | composed
+Ἐν τῷ θεάτρῳ τραγῳδίαν θεώμεθα. | In the theatre we watch a tragedy. | composed
+Συμφορὰς διηγεῖται. | It tells of disasters. | composed
+Ὁ σαλπιγκτής ἐστιν ἐν τῷ θεάτρῳ. | The trumpeter is in the theatre. | composed
+Σαλπίζει ὁ σαλπιγκτής. | The trumpeter sounds his trumpet. | composed
+Ὁ χορὸς χορεύει. | The chorus dances. | composed
+Ἐν τῇ ὀρχήστρᾳ χορεύει. | It dances on the dancing-floor. | composed
+Ἐν τῷ χειμῶνι οὐ πλέουσιν. | They do not sail in winter. | composed
+Θεῶνται τὸν ἀγῶνα. | They watch the contest. | composed
+Ὁ ποιητὴς τοῦ ἀγῶνος ἐπιθυμεῖ. | The poet longs for the contest. | composed
+Οἱ ἀγῶνες καλοί εἰσιν. | The contests are fine. | composed
+Οἱ ποιηταὶ ἀγωνίζονται ἐν τῷ ἀγῶνι. | The poets compete in the contest. | composed
+Νικᾷ ὁ ποιητής. | The poet wins. | composed
+Πολλοὺς ἀγῶνας νικᾷ. | He wins many contests. | composed
+Ἐν τοῖς ἀγῶσι νικῶσιν. | They win in the contests. | composed
+Αἱ ἑορταὶ τῶν Ἑλλήνων καλαί εἰσιν. | The festivals of the Greeks are beautiful. | composed
+Ὁ χορὸς νικᾷ· ἄριστα γὰρ χορεύει. | The chorus wins, for it dances very well. | composed | @ἄριστα=ἄριστα
+Τρεῖς τραγῳδίας ἐφεξῆς θεώμεθα. | We watch three tragedies in a row. | composed
+Πρῲ ἐγειρόμεθα. | We wake up early. | composed
+Ὁ νικῶν στέφανον λαμβάνει. | The winner receives a garland. | composed
+Μέγας ὁ τοῦ πατρὸς πόθος. | The father's longing is great. | composed
+Ἐν τῷ θεάτρῳ ἐστὶν ἡσυχία. | There is silence in the theatre. | composed
+Ποθεῖ τὸν υἱόν. | He misses his son. | composed
+Οἱ θεοὶ εὐεργετοῦσι τοὺς ἀνθρώπους. | The gods do good to men. | composed
+Ὁ δεσπότης φιλεῖ τὸν δοῦλον, ὁ δὲ δοῦλος μισεῖ αὐτόν. | The master loves the slave, but the slave hates him. | composed
+Πολυπραγμονεῖ ὁ γέρων. | The old man is a busybody. | composed
+Ἐν τῇ ἀγορᾷ φαίνεται ὁ κῆρυξ. | The herald appears in the agora. | composed
+Ἔξεστί σοι ἐνθάδε μένειν. | You may stay here. | composed
+«Ἆρα ἔξεστιν ἡμῖν εἰς τὸ θέατρον ἰέναι;» «Ἀμέλει.» | “May we go to the theatre?” “Of course.” | composed
+Πολλαὶ αἱ τῶν Ἑλλήνων πόλεις. | The cities of the Greeks are many. | composed | @πόλεις:nom
+Ἐν ταῖς πόλεσι πολλοὶ ἄνθρωποι οἰκοῦσιν. | Many people live in the cities. | composed
+«Χαῖρε, ὦ πόλι.» | “Greetings, my city.” | composed
+Ἐκ πολλῶν πόλεων ἥκει. | He has come from many cities. | composed
+Τὰ τῶν Ἑλλήνων ἄστη μεγάλα ἐστίν. | The towns of the Greeks are big. | composed
+Ἐκ πολλῶν ἄστεων ἥκουσιν. | They come from many towns. | composed
+Πάντα διαπράττει. | He gets everything done. | composed
+Διοικοῦσι τὴν πόλιν. | They run the city. | composed
+Πρὸ τοῦ χοροῦ βαδίζει. | He walks in front of the chorus. | composed
+Δεῖ τὸν δοῦλον ἐργάζεσθαι. | The slave has to work. | composed | +X:impers
+Εὐθὺς σαλπίζει. | At once he sounds his trumpet. | composed
+Καίεται ἡ οἰκία. | The house is on fire. | composed
+Κατὰ τὸ εἰκὸς νικᾷ. | He is probably winning. | composed
+Ἐν τῇ μάχῃ πολλοὶ ἀποθνήσκουσιν. | Many die in the battle. | composed | @μάχῃ=μάχη
+Δακρύει ὁ τλήμων γέρων. | The poor old man is crying. | composed
+Καίεται ἡ οἰκία· ὕδωρ οὖν καταχεῖ ἐπὶ τὸ πῦρ. | The house is on fire, so he pours water on the fire. | composed
+Τὰ δένδρα κινεῖται ὑπὸ τοῦ ἀνέμου. | The trees are moved by the wind. | composed
+Μόλις ἀναπνεῖ. | He can hardly catch his breath. | composed
+# practice
+Ὁ νικῶν ποιητὴς χαίρει, οἱ δὲ ἄλλοι ἀθυμοῦσιν. | The winning poet is happy, and the others are downhearted. | composed
+# review of chapters 8–10
+Τῇ ἰσχύι νικῶσιν. | They win by their strength. | composed
+Ποθεῖ τὴν γυναῖκα. | He misses his wife. | composed
+Αἱ θυγατέρες τὰς μητέρας φιλοῦσιν. | Daughters love their mothers. | composed
+«Ξένοι τινές εἰσιν.» | “They are some strangers.” | composed
+Ἀνθρώπῳ τινὶ ἐντυγχάνει. | He meets someone. | composed
+Ξένοις τισὶν ἐντυγχάνει. | He meets some strangers. | composed
+Ψόφου τινὸς ἀκούει. | He hears a noise. | composed
+Περὶ ξένων τινῶν λαλοῦσιν. | They are talking about some strangers. | composed
+«Τίνα ἔχεις ἐν τῷ σάκκῳ;» | “What have you got in the bag?” | composed | @Τίνα:n.p

@@ -1,0 +1,75 @@
+ἀναβαίνω | go up, climb | v impf=0
+δειπνέω | have dinner | v
+δρέπω | pick, pluck | v
+ἐκφέρω | carry out | v impf=0
+ἐμποδίζω | be in the way of, hinder (+ dat.) | v
+ἐξετάζω | examine, inspect | v
+ἔχω | have, hold | v impf=εἰχ
+θεραπεύω | look after, tend | v
+καταβάλλω | throw down | v impf=0
+κατασείω | shake down | v impf=0
+λείπω | leave | v
+μέλλω | be about to, intend | v impf=0
+ὀλισθάνω | slip | v
+πάσχω | suffer, experience | v short
+πίπτω | fall | v short
+προσχωρέω | go towards, approach (+ dat.) | v impf=0
+πταίω | stumble, trip | v
+ῥᾳδιουργέω | take it easy, be idle | v
+σπείρω | sow | v
+συλλέγω | collect, gather | v impf=0
+τρέχω | run | v
+φημί | say | 
+φλυαρέω | talk nonsense | v
+φυτεύω | plant | v
+σεαυτόν | yourself | 
+ἄμπελος | vine | n g=f
+ἄροτος | ploughing, ploughing season | n
+γεωργός | farmer | n
+δεῖπνον | dinner | n
+ἐλάα | olive tree | n
+ἔλαιον | olive oil | n
+καιρός | right time, the moment | n
+καρπός | fruit | n
+μήτηρ | mother | 
+οἶνος | wine | n
+παῖς | child, boy, girl | 
+πατήρ | father | 
+σάκκος | sack, bag | n
+υἱός | son | n
+φόβος | fear | n
+Μυρρίνη | (name) | n
+Φίλιππος | (name) | n
+ἀπό | from, away from (+ gen.) | 
+ἐπί | on (+ dat.); onto, against (+ acc.) | 
+ἅμα | at the same time | 
+αὖθις | again | 
+ἐκεῖ | there | 
+ἐξαίφνης | suddenly | 
+ἔτι | still | 
+μηκέτι | no longer (in commands) | 
+μόλις | with difficulty, hardly | 
+ναί | yes | 
+οἴκαδε | home, homeward | 
+ἆρα | (introduces a question) | 
+ἐπεί | when, since | 
+ὅτι | that | 
+τε | and (τε … καί: both … and) | 
+αἴτιος | responsible, to blame | adj
+ἀκίνητος | motionless, immovable | adj2
+ἀνδρεῖος | brave | adj
+ἀνόητος | foolish | adj2
+δυνατός | possible, able | adj
+κακός | bad | adj
+σκαιός | clumsy, stupid | adj
+τοσοῦτος | so big, so much | 
+ὡραῖος | ripe, in season | adj
+φεῦ | alas! | 
+C:ἐν ᾧ | while
+C:ἐν τούτῳ | meanwhile
+C:καλῶς ἔχω / καλῶς ἔχεις / καλῶς ἔχει / καλῶς ἔχουσιν | be well, be fine
+C:ὦ μαστιγία | you rascal!
+ἀγνοέω | not know, be unaware of | v
+X:sense-phileo | φιλέω also means “kiss” (ἡ μήτηρ τὸν υἱὸν φιλεῖ “the mother kisses her son”) | lemma=φιλέω hint=kiss
+# set phrase the readings use without listing it among the Locuzioni (added 2026-11-23); the deck's authentic cards use it from ch. 3
+C:τί οὖν | what then?, why then?, so what?

@@ -1,0 +1,207 @@
+# chapter 4: present, all persons; the feminine; 1st and 2nd declension; adjectives (μέγας, πολύς)
+«Πονοῦμεν», λέγουσιν οἱ δοῦλοι. | “We're working,” say the slaves. | composed
+«Σκάπτομεν καὶ κάμνομεν.» | “We dig and we get tired.” | composed
+«Τί, ὦ δοῦλοι, ποιεῖτε;» | “What are you doing, slaves?” | composed | @ποιεῖτε:ind
+«Παίζομεν, ὦ πάτερ.» | “We're playing, father.” | composed
+Ἡ κόρη ἐστὶν ἐν τῷ οἴκῳ. | The girl is in the house. | composed
+Αἱ κόραι παίζουσιν. | The girls are playing. | composed
+Ὁ πατὴρ τὴν κόρην καλεῖ. | Father calls the girl. | composed
+Σῖτον παρέχει τῇ κόρῃ. | He gives the girl some food. | composed
+Γεωργὸς ὁ πατὴρ τῆς κόρης. | The girl's father is a farmer. | composed
+Πρὸς τὴν κρήνην βαδίζει. | She walks to the spring. | composed
+Τὰ πρόβατα ἄγει ὁ παῖς. | The boy leads the sheep. | composed
+Εἰς τὸ αὔλιον ἄγει τὰ πρόβατα. | He leads the sheep into the fold. | composed
+Ἐν τῇ κρήνῃ ἐστὶν ὕδωρ. | There is water in the spring. | composed
+Ἡ δούλη ὕδωρ φέρει. | The slave woman carries water. | composed
+Ἀμέλγει τὰ πρόβατα. | She milks the sheep. | composed
+Χόρτον παρέχει τοῖς προβάτοις. | He gives the sheep fodder. | composed
+Πιέζει τὸν σάκκον. | It weighs down on the sack. | composed
+Καλὴ ἡ κόρη. | The girl is beautiful. | composed
+Καλαὶ αἱ κόραι. | The girls are beautiful. | composed
+Φιλεῖ τὴν καλὴν κόρην. | He loves his beautiful girl. | composed
+Σῖτον παρέχει τῇ καλῇ κόρῃ. | He gives food to the beautiful girl. | composed
+Ὁ πατὴρ τῆς καλῆς κόρης γεωργός ἐστιν. | The beautiful girl's father is a farmer. | composed
+Ἡ οἰκία ἐστὶ μεγάλη. | The house is big. | composed
+Ἡ γυνή ἐστιν ἐν τῇ οἰκίᾳ. | The woman is in the house. | composed
+Αἱ γυναῖκες ὕδωρ φέρουσιν. | The women are carrying water. | composed
+Ὁ ἀνὴρ ἐν τῷ ἀγρῷ πονεῖ. | The man is working in the field. | composed
+«Ὦ ἄνερ, ἡ κόρη ἐστὶ πρὸς τῇ κρήνῃ.» | “Husband, the girl is at the spring.” | composed
+Ἡ γυνὴ τὸν ἄνδρα καλεῖ. | The woman calls her husband. | composed
+Ὁ ἀνὴρ τὰς γυναῖκας καλεῖ. | The man calls the women. | composed
+Αἱ κόραι τῶν γυναικῶν παίζουσιν. | The women's daughters are playing. | composed
+Ἡ κόρη οὐκ ἐθέλει πονεῖν. | The girl doesn't want to work. | composed
+Ἡ κόρη θυγάτηρ ἐστὶ τοῦ γεωργοῦ. | The girl is the farmer's daughter. | composed
+«Ὦ θύγατερ, ἐλθὲ δεῦρο.» | “Daughter, come here.” | composed
+Ἤδη ἥκει. | He has already arrived. | composed
+Ἄγγελος ἥκει. | A messenger has come. | composed
+Ἐκ τοῦ ἄστεως ἥκει. | He has come from the city. | composed
+Ἀνατέλλει ὁ ἥλιος. | The sun is rising. | composed
+«Ἴθι πρὸς τὴν κρήνην, ὦ θύγατερ.» | “Go to the spring, daughter.” | composed
+Ἐθέλει εἰς τὸ ἄστυ ἰέναι. | He wants to go to the city. | composed
+Ἐν νῷ ἔχω εἰς τὸ ἄστυ ἰέναι. | I intend to go to the city. | composed
+«Ὦ γύναι, πάρεστιν ἡ κόρη;» | “Wife, is the girl here?” | composed
+Ὑδρίαν φέρει. | She is carrying a water jar. | composed
+Οὐδὲ μικρὸν λίθον αἴρει. | He doesn't even lift a small stone. | composed | +X:sense-oude
+Μάλα φλέγει ὁ ἥλιος, ὥστε κάμνει ὁ αὐτουργός. | The sun is blazing so fiercely that the farmer is worn out. | composed
+Ἐν τῇ κώμῃ οἰκοῦσιν. | They live in the village. | composed
+Μικρὰ ἡ κώμη. | The village is small. | composed | @Μικρὰ:f
+Μικρὰν ὑδρίαν φέρει. | She carries a small water jar. | composed
+Μακρὰ ἡ ὁδός. | The road is long. | composed | @Μακρὰ:f.s
+Σῖτον μόνον ἔχει. | He has only grain. | composed
+Τὸ παιδίον φέρει ἡ μήτηρ. | The mother carries the little child. | composed
+Ὁ ἄγροικος τὸ ἄστυ οὐ φιλεῖ. | The countryman doesn't like the city. | composed
+Τὸ ἔργον ἐστὶ χαλεπόν. | The work is hard. | composed
+Ἀπέραντον τὸ ἔργον. | The work is endless. | composed | @Ἀπέραντον:nom
+Ἀπέραντα τὰ ἔργα. | The tasks are endless. | composed | @Ἀπέραντα:nom
+Ἀπέραντα ἔργα ποιοῦσιν οἱ δοῦλοι. | The slaves do endless tasks. | composed | @Ἀπέραντα:acc
+Ὁ ἥλιος φλέγει· διὰ τοῦτο ἐν τῇ σκιᾷ ἡσυχάζομεν. | The sun is blazing, so we rest in the shade. | composed
+Ὁ πατὴρ τῶν κορῶν ἐν τῷ ἀγρῷ πονεῖ. | The girls' father is working in the field. | composed
+Ταῖς κόραις δεῖπνον παρέχει. | She gives the girls dinner. | composed
+Καλεῖ τὰς κόρας. | She calls the girls. | composed
+«Δοῦλοί ἐσμεν.» | “We are slaves.” | composed
+«Ἆρα ἐλεύθεροί ἐστε;» | “Are you free men?” | composed
+Ταῖς καλαῖς κόραις δεῖπνον παρέχει ἡ μήτηρ. | Mother serves dinner to the beautiful girls. | composed
+Ὁ πατὴρ τὰς καλὰς κόρας καλεῖ. | Father calls the beautiful girls. | composed
+Ὥσπερ ὁ βοῦς πονεῖ. | He works like an ox. | composed
+Γεμίζει τὴν ὑδρίαν. | She fills the water jar. | composed
+Ὕδατος γεμίζει τὴν ὑδρίαν. | She fills the jar with water. | composed
+Ἡ ὑδρία μεστή ἐστιν ὕδατος. | The jar is full of water. | composed
+Ἐν τῇ ἀγορᾷ εἰσι πολλοὶ ἄνθρωποι. | There are many people in the agora. | composed
+Χαλεπὸς ὁ βίος· ὅμως δὲ χαίρει ὁ αὐτουργός. | Life is hard; but the farmer is happy all the same. | composed
+Ἀποχωρεῖ ὁ ἄγγελος. | The messenger goes away. | composed
+«Τίς καλεῖ;» | “Who's calling?” | composed
+Ἄλλος δοῦλος ἥκει. | Another slave has come. | composed
+Ἄλλη κόρη πρὸς τὴν κρήνην βαδίζει. | Another girl is walking to the spring. | composed
+Ἡ φίλη τῆς κόρης ἐστὶ πρὸς τῇ κρήνῃ. | The girl's friend is at the spring. | composed
+Καλεῖ τὸν φίλον. | He calls his friend. | composed
+«Χαῖρε, ὦ φίλε.» | “Hello, my friend!” | composed
+Ταχέως τρέχει. | He runs fast. | composed
+Ἐξ ἑωθινοῦ πονοῦσιν. | They've been working since early morning. | composed
+Καθ᾽ ἡμέραν ὕδωρ φέρει. | Every day she fetches water. | composed
+Ἡ μήτηρ κατ᾽ οἶκον μένει. | The mother stays at home. | composed
+Ἀκούει ἡ κόρη τοῦ δεσπότου. | The girl listens to her master. | composed
+Καλὴ ἡ ἑορτή. | The festival is a fine one. | composed
+Οἱ Ἀθηναῖοι ἑορτὴν ἄγουσιν. | The Athenians are holding a festival. | composed
+«Ἡμεῖς πονοῦμεν», λέγουσιν οἱ δοῦλοι. | “We are working,” say the slaves. | composed
+«Ἡμεῖς μὲν σκάπτομεν, ὑμεῖς δὲ παίζετε.» | “We are digging, but you are playing.” | composed
+Ἡ θάλαττά ἐστι καλή. | The sea is beautiful. | composed
+Ἐν τῇ θαλάττῃ πονεῖ ὁ ἄνθρωπος. | The man works at sea. | composed
+Τὸ πλοῖόν ἐστιν ἐν τῇ θαλάττῃ. | The boat is on the sea. | composed
+Θεωρεῖ τὰ πλοῖα. | He is watching the ships. | composed
+Θεωρεῖ τὴν θάλατταν. | He gazes at the sea. | composed
+Ἐκ τῆς θαλάττης ἥκει τὸ πλοῖον. | The ship is coming in from the sea. | composed
+Ἡ κόρη, Μέλιττα ὀνόματι, φέρει τὴν ὑδρίαν. | The girl, Melitta by name, is carrying the water jar. | composed
+Ἡ μήτηρ τὴν κόρην φιλεῖ καὶ πολλάκις καλεῖ αὐτήν. | The mother loves the girl and often calls her. | composed
+Ἡ δέσποινα τὴν δούλην καλεῖ. | The mistress calls the slave woman. | composed
+Αἱ δέσποιναι ἐν τῇ οἰκίᾳ εἰσίν. | The mistresses are in the house. | composed
+Ἡ δούλη τὰς δεσποίνας καλεῖ. | The slave woman calls her mistresses. | composed
+Αἱ δοῦλαι τῶν δεσποινῶν πονοῦσιν. | The mistresses' slave women are working. | composed
+Ταῖς δεσποίναις δεῖπνον παρέχει. | She serves dinner to the mistresses. | composed
+«Ἡ κόρη, ὦ δέσποινα, ἐν τῷ ἀγρῷ ἐστιν.» | “Mistress, the girl is in the field.” | composed
+«Τί ποιεῖτε, ὦ δέσποιναι;» | “Ladies, what are you doing?” | composed
+Θεωροῦσι τὸν χορόν. | They are watching the dance. | composed
+Παρασκευάζει τὸ δεῖπνον. | She prepares dinner. | composed
+Ὀλίγον σῖτον ἔχομεν. | We have little grain. | composed
+Ἀγανακτεῖ ὁ δεσπότης. | The master is annoyed. | composed
+«Μὰ τὸν Δία, χαλεπὸν τὸ ἔργον.» | “By Zeus, the job is hard!” | composed
+Ὅλην τὴν ἡμέραν πονοῦσιν. | They work all day long. | composed
+Γεωργὸς ὁ ἐμὸς πατήρ. | My father is a farmer. | composed
+Ἐκ τῆς οἰκίας ἐκβαίνει ἡ δούλη. | The slave woman comes out of the house. | composed
+Ὅτε ἀνατέλλει ὁ ἥλιος, ἐκβαίνει ἐκ τῆς οἰκίας. | When the sun rises, he goes out of the house. | composed
+Αἱ οἰκίαι ἐν τῇ κώμῃ εἰσίν. | The houses are in the village. | composed
+Φέρουσιν τὰς ὑδρίας. | They carry the water jars. | composed | @ὑδρίας:acc
+Ἐν ταῖς οἰκίαις μένουσιν αἱ γυναῖκες. | The women stay in the houses. | composed
+Αἱ δέσποιναι τῶν οἰκιῶν ἀγανακτοῦσιν. | The mistresses of the houses are annoyed. | composed
+Λαλοῦσι πρὸς τῇ κρήνῃ. | They are chatting at the spring. | composed
+Ἡ κόρη καὶ ἡ φίλη αὐτῆς λαλοῦσιν. | The girl and her friend are chatting. | composed
+Συλλαμβάνει αὐτῇ ἡ δούλη. | The slave woman helps her. | composed
+Ἐκ τῆς θύρας βλέπει. | She looks out of the door. | composed
+Ἐν τῇ ἀγορᾷ ἐστι πολὺς θόρυβος. | There is a lot of noise in the agora. | composed
+Ἐν τῷ ἐργαστηρίῳ πονεῖ. | He works in the workshop. | composed
+Ἡ γῆ ἐστι μεγάλη. | The earth is big. | composed
+Προσκλύζει πρὸς τὴν γῆν. | It washes against the land. | composed
+Καλὴ ἡ χώρα. | The country is beautiful. | composed
+Ὥρα ἐστὶν οἴκαδε βαδίζειν. | It's time to walk home. | composed
+Τῇ ὑστεραίᾳ οὐ πονοῦσιν ἀλλὰ σχολάζουσιν. | The next day they don't work: they have time off. | composed
+Σπανίως σχολάζει. | He rarely has time off. | composed
+Ζητεῖ τὴν κόρην. | She is looking for the girl. | composed
+Ἐν τῇ ὁδῷ βαδίζει ὁ ἄγγελος. | The messenger is walking along the road. | composed
+Ἐκ τῆς ὁδοῦ ἀποχωρεῖ ὁ παῖς. | The boy moves off the road. | composed
+Αἱ ὁδοὶ εἰς τὴν ἀγορὰν φέρουσιν. | The roads lead to the agora. | composed
+Θεραπεύει τὰς ἀμπέλους. | He tends the vines. | composed
+Ἐν τῇ ὁδῷ ἐντυγχάνει τῷ ἀγγέλῳ. | On the road he meets the messenger. | composed
+Ἐν ταῖς ὁδοῖς πολὺς θόρυβός ἐστιν. | There is a lot of noise in the streets. | composed
+Ὁ καρπὸς τῶν ἀμπέλων καλός ἐστιν. | The fruit of the vines is good. | composed
+Ἀθλία ἐστὶν ἡ δούλη. | The slave woman is miserable. | composed
+Τοιοῦτος ὁ βίος τῶν δούλων. | Such is the life of slaves. | composed
+Τοιοῦτον πλοῖον οὐκ ἔχομεν. | We don't have a boat like that. | composed
+Τοιαύτη ἐστὶν ἡ θάλαττα. | That is what the sea is like. | composed
+Τοιοῦτόν ἐστι τὸ ἔργον. | That is what the work is like. | composed | @Τοιοῦτόν:nom
+Τοιοῦτοί εἰσιν οἱ δοῦλοι. | That is what slaves are like. | composed
+Τοιαῦταί εἰσιν αἱ κόραι. | That is what girls are like. | composed
+Τοιαῦτά ἐστι τὰ ἔργα. | Such are the tasks. | composed | @Τοιαῦτά:nom
+Τοιαύτην οἰκίαν οὐκ ἔχομεν. | We have no house like that. | composed
+Τοιούτους δούλους οὐκ ἔχομεν. | We have no slaves like that. | composed
+Τοιαύτας δούλας οὐ φιλεῖ. | She does not like slave women like that. | composed
+Ἐκ τοιούτου ἀγροῦ ὀλίγον σῖτον ἔχει. | He gets little grain from a field like that. | composed
+Ἐκ τοιαύτης κώμης ἥκει. | He comes from a village like that. | composed
+Μακράν ἐστιν ἡ κώμη. | The village is a long way off. | composed | @μακράν=μακράν
+Παρὰ τὸν πατέρα τρέχει. | He runs to his father. | composed
+Περὶ τῆς ἑορτῆς λαλοῦσιν. | They are chatting about the festival. | composed
+«Σπεῦδε δή, ὦ παῖ.» | “Do hurry up, boy!” | composed
+Ὡς καλὴ ἡ θάλαττα. | How beautiful the sea is! | composed
+«Ἀληθῶς λέγεις.» | “You're telling the truth.” | composed
+«Ἐνταῦθα μένομεν.» | “We'll stay here.” | composed
+Μάλιστα φιλεῖ τὸν ἀγρόν. | He loves his field most of all. | composed
+Πανταχοῦ θόρυβός ἐστιν. | There's noise everywhere. | composed
+«Πόθεν, ὦ ἄγγελε, ἥκεις;» | “Where have you come from, messenger?” | composed
+«Ποῖ βαδίζεις;» | “Where are you going?” | composed
+«Ἆρά ποτε σχολάζεις;» | “Do you ever have time off?” | composed
+Συνεχῶς προσκλύζει. | It washes against the shore without stopping. | composed
+«Ποῖ βαδίζεις, ὦ κόρη;» | “Where are you going, girl?” | composed
+«Τί ποιεῖτε, ὦ κόραι;» | “Girls, what are you doing?” | composed
+«Ποῖ βαδίζετε, ὦ καλαὶ κόραι;» | “Where are you off to, pretty girls?” | composed
+Ἐν τῇ μικρᾷ κώμῃ οἰκοῦσιν. | They live in the little village. | composed
+Ἐκ τῆς μικρᾶς κώμης ἥκει. | He comes from the little village. | composed
+Μικραὶ αἱ κῶμαι. | The villages are small. | composed
+Μικρὰς ὑδρίας φέρουσιν αἱ κόραι. | The girls carry small water jars. | composed
+Ἐν ταῖς μικραῖς κώμαις οἰκοῦσιν. | They live in the little villages. | composed
+«Τί πάσχεις, ὦ ἀθλία κόρη;» | “Poor girl, what is the matter?” | composed
+«Τί πάσχετε, ὦ ἄθλιαι κόραι;» | “Poor girls, what is wrong?” | composed
+Οἴμοι· πίπτει ἡ ὑδρία. | Oh dear! The jar is falling. | composed
+Οὐδὲν λέγει. | He says nothing. | composed
+Ἐν τοιούτῳ οἴκῳ οὐκ ἐθέλει οἰκεῖν. | He does not want to live in a house like that. | composed
+Ἐν τοιαύτῃ οἰκίᾳ οἰκεῖ ἡ γυνή. | The woman lives in a house like that. | composed
+Ὁ βίος τοιούτων δούλων χαλεπός ἐστιν. | The life of such slaves is hard. | composed
+Οὐ μόνον ὁ ἀνὴρ ἀλλὰ καὶ ἡ γυνὴ πονεῖ. | Not only the husband but also the wife works. | composed | +X:ou-monon
+Βραδέως βαδίζει· ἡ οὖν δέσποινα χαλεπαίνει. | She walks slowly, so her mistress is cross. | composed
+Ἐν τῷ οὐρανῷ φλέγει. | It blazes in the sky. | composed
+Αὐτίκα σπεύδει πρὸς τὴν κρήνην. | She hurries straight to the spring. | composed
+Ἡ δέσποινα τὴν δούλην ψέγει. | The mistress scolds the slave woman. | composed
+Θραύει ἡ δούλη τὴν ὑδρίαν. | The slave woman breaks the water jar. | composed
+Δακρύει ἡ δούλη. | The slave woman is crying. | composed
+Κολάζει τὸν δοῦλον. | He punishes the slave. | composed
+Ἐπὶ τῇ κλίνῃ καθεύδει. | He is asleep on the couch. | composed
+Ἐπὶ τὴν τράπεζαν φέρει τὸ δεῖπνον. | She brings the dinner to the table. | composed
+Σῦκα φέρει. | She brings figs. | composed
+Ἐξαίφνης βοὴν ἀκούει. | Suddenly he hears a shout. | composed
+Εἰς τὸ καπηλεῖον εἰσβαίνει. | He goes into the tavern. | composed
+Καρποφόρος ἡ γῆ. | The land is fruitful. | composed
+Καλὸν τὸ χωρίον. | It's a lovely spot. | composed
+Οἰκίαν οἰκοδομεῖ. | He is building a house. | composed
+Διώκει τὸν μόσχον. | He chases the calf. | composed
+Πείθει τὸν πατέρα. | She persuades her father. | composed
+Ἄτοπός ἐστιν ὁ ἄγροικος. | The countryman is a strange fellow. | composed
+Τοσοῦτον λίθον αἴρει ὅσον ὁ πατήρ. | He lifts as big a stone as his father. | composed
+Ῥᾴδιόν ἐστι τὸ ἔργον. | The task is easy. | composed
+Ἡ ἡμετέρα οἰκία ἐστὶ μικρά. | Our house is small. | composed
+«Ποῖ καὶ πόθεν, ὦ φίλε;» | “Where are you off to, my friend, and where from?” | composed
+Ὁ πόνος χαλεπός· οὐδὲν ἧττον χαίρει ὁ αὐτουργός. | The work is hard; nonetheless the farmer is happy. | composed
+«Τί δέ; οὐκ ἐθέλεις συλλαμβάνειν;» | “What then? Won't you help?” | composed | +X:ti-de
+Ἡ Ἀκρόπολίς ἐστιν ἐν ταῖς Ἀθήναις. | The Acropolis is in Athens. | composed
+Τὴν κόρην κελεύει ὕδωρ φέρειν. | She tells the girl to fetch water. | composed
+Ὁ Πειραιεύς ἐστιν ἐπὶ τῇ θαλάττῃ. | The Piraeus is by the sea. | composed
+Εἰς τὸν Πειραιᾶ σπεύδει. | He hurries to the Piraeus. | composed
+Ἐκ τοῦ Πειραιῶς ἥκει ὁ ἄγγελος. | The messenger is coming from Piraeus. | composed
+«Τί ποτε, ὦ φίλε, λέγεις;» | “What on earth are you saying, my friend?” | composed
+Ὁ παῖς οὐδὲν ἄλλο ποιεῖ ἀλλὰ παίζει. | The boy does nothing but play. | composed

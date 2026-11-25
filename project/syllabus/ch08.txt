@@ -1,0 +1,91 @@
+βρυχάομαι | roar | v
+ὁρμάομαι | set out, start | v
+βληχάομαι | bleat | v
+θεάομαι | watch, look at | v
+ἀνδρίζομαι | be brave, play the man | v
+ἀνέλκω | draw up, pull up | v impf=0
+ἀποβλέπω | look (at), gaze (πρός + acc.) | v impf=0
+ἀτιμάζω | dishonour | v
+γυμνάζω | train, exercise | v
+γυμνάζομαι | exercise, train oneself | v
+διαλέγομαι | talk with, converse (+ dat.) | v impf=0
+διατρίβω | spend (time) | v impf=0
+εἰσέρχομαι | go in, come in | v impf=0
+ἐξάγω | lead out | v impf=0 short
+ἐξηγέομαι | explain, relate | v impf=0
+ἐπιμελέομαι | take care of (+ gen.) | v impf=0
+ἐπισκοπέω | look upon, watch over | v impf=0
+ἐρείδομαι | lean on, prop oneself | v
+ἔστω | let it be! all right! | 
+εὔχομαι | pray | v
+προσεύχομαι | pray to (+ dat.) | v impf=0
+θαρρέω | be confident, take heart | v
+κατακλίνομαι | lie down | v impf=0 long
+πράττω | do, act; fare | v long
+τίκτω | give birth to | v short
+τρέφω | rear, feed | v
+ὑπακούω | obey, answer (+ gen.) | v impf=0
+ὑφαίνω | weave | v
+παύομαι | stop (doing something) | v
+ἀναπαύομαι | rest | v impf=0
+ἔγωγε | I at least, I for my part | 
+ἀγών | contest | n3 gen=ἀγῶνος
+αὐλή | courtyard | n
+βωμός | altar | n
+γεωργία | farming | n
+ἑσπέρα | evening | n
+ἡμίονος | mule | n
+θέατρον | theatre | n
+ἰσχύς | strength | 
+κόσμος | world; order; ornament | n
+λιμός | hunger | n
+λυκοκτόνος | wolf-killer | n
+μῆλον | sheep (τὰ μῆλα: flocks) | n
+ὅμιλος | crowd | n
+πέπλος | robe | n
+ποιητής | poet | n
+πολίτης | citizen | n long
+σιγή | silence | n
+σπονδή | libation | n
+στιβάς | bed of straw | n3 gen=στιβάδος g=f
+σχολή | leisure, free time | n
+τέκνον | child | n
+ὕπνος | sleep | n
+φύλλον | leaf | n
+χείρ | hand | 
+χρυσός | gold | n
+Ἀθηνᾶ | (name) | 
+Διόνυσος | (name) | n
+Ἱππίας | (name) | n
+Κτήσιππος | (name) | n
+Ζεύς | (name) | 
+Παρθενών | (name) | n3 gen=Παρθενῶνος
+Πολέμαρχος | (name) | n
+ἀδύνατος | impossible, unable | adj2
+ἀφνειός | rich | adj
+πλούσιος | rich | adj
+πολύμηλος | rich in sheep | adj2
+τρεῖς | three | 
+τέτταρες | four | 
+πέντε | five | 
+ἕξ | six | 
+ὀκτώ | eight | 
+ἐννέα | nine | 
+δέκα | ten | 
+διά | through (+ gen.) | 
+ὑπέρ | for, on behalf of (+ gen.) | 
+αὔριον | tomorrow | 
+ἐκεῖσε | to that place, there | 
+μέντοι | however | 
+διότι | because | 
+C:ἅμα τῇ ἡμέρᾳ | at daybreak
+C:ἐς ἀριθμόν | in number
+C:κακῶς λέγει / κακῶς λέγουσι / κακῶς λέγουσιν / κακῶς λέγεις / κακῶς λέγω | speak ill of
+C:νὴ τὸν Δία | by Zeus!
+C:τοῦ λοιποῦ | in future
+γνωρίζω | recognise | v
+κατασκοπέω | look closely at, survey | v impf=0
+περισκοπέω | look around | v impf=0
+παιδοποιέω | have children | v impf=0
+τεκνοποιέομαι | have children | v impf=0
+C:πῶς ἔχεις / πῶς ἔχει / πῶς ἔχετε | how are you? how is he?

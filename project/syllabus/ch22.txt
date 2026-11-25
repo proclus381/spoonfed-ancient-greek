@@ -1,0 +1,71 @@
+# Athenaze II, ch.22 (Ἡ ἀνάστασις) — clauses of fearing; ἄν + subjunctive (ἐάν, ὅταν, ἐπειδάν, ὃς ἄν, ἕως ἄν); δείκνυμι and verbs in -νυμι; indirect statements and questions
+# ---- principal parts of verbs already known
+λούω | wash; (mid.) bathe | v pfm=λέλουμαι
+# ---- new verbs
+δείκνυμι | show, point out | numi fut=δείξω aor=ἔδειξα/δειξ pf=δέδειχα! pfm=δέδειγμαι! aorp=ἐδείχθην
+ζεύγνυμι | yoke, harness; join | numi fut=ζεύξω aor=ἔζευξα/ζευξ pfm=ἔζευγμαι! aorp=ἐζεύχθην
+ῥήγνυμι | break, burst | numi fut=ῥήξω aor=ἔρρηξα/ῥηξ
+ἀνθίσταμαι | stand up against, resist (+ dat.) | cmpd base=ἵστημι pre=ἀντι raor=ἀντ·έστην/ἀντιστη/ἀντιστα fut=ἀντιστήσω
+ἀναβιβάζω | make go up, bring up; put on board | v fut=ἀναβιβῶ aor=ἀν·εβίβασα/ἀναβιβασ
+ἀναδίδωμι | give forth, yield; hand out | cmpd base=δίδωμι pre=ἀνα fut=ἀναδώσω
+ἀποβάλλω | throw away; lose | v fut=ἀποβαλῶ aor2=ἀπ·έβαλον/ἀποβαλ base=βάλλω
+δείδω | fear (aorist ἔδεισα) | v aor=ἔδεισα/δεισ
+διαρρέω | flow through | vx
+ἐνδίδωμι | give in, yield, surrender; hand over | cmpd base=δίδωμι pre=ἐν fut=ἐνδώσω
+καταπηδάω | leap down | v reg pre=κατα
+μεθίημι | let go, release; give up | cmpd base=ἵημι pre=μετα fut=μεθήσω
+οἴχομαι | be gone, have gone | v fut=οἰχήσομαι!
+συγγίγνομαι | be with, keep company with, meet (+ dat.) | v fut=συγγενήσομαι aor_mid=συν·εγενόμην/συγγεν base=γίγνομαι
+χωρέω | have room for, hold, contain; (intr.) go, make way | v reg
+# ---- nouns
+ἀγωγός | guide; conduit, water-channel | n
+ἀνάστασις | removal, evacuation (of a population); a rising up | nis
+βοτάνη | grass, pasture; plant, herb | n
+δίαιτα | way of life | n short
+ἡρῷον | shrine of a hero | n
+οἴκησις | dwelling, house | nis
+ὅριον | (pl. τὰ ὅρια) boundary, frontier | n
+παράδειγμα | example, model | n3 gen=παραδείγματος g=n
+πηγή | spring, source | n
+πρεσβεία | embassy | n
+στρατόπεδον | camp; army | n
+φυλακή | guard, watch; garrison | n
+# ---- adjectives
+ἁμαξιτός | passable for wagons; ἡ ἁμαξιτός (ὁδός) “carriage road, highway” | adj2
+γενναῖος | noble, high-minded | adj
+καρτερός | strong, mighty, fierce | adj
+ὀλιγοχρόνιος | lasting a short time, short-lived | adj2
+τηλικοῦτος | so great; so old (τηλικοῦτος, τηλικαύτη, τηλικοῦτο) |
+ὑψηλός | high, tall | adj
+ἄκων | unwilling(ly) (ἄκων, ἄκουσα, ἆκον; gen. ἄκοντος) |
+# ---- prepositions, adverbs, conjunctions
+ἐκτός | outside (+ gen.) |
+πέραν | across, on the far side of (+ gen.) |
+αὐθημερόν | on the same day |
+ἔνδοθεν | from within, inside |
+ἐνθένδε | from here |
+ἔξωθεν | from outside, outside |
+πέρυσι | last year |
+πω | yet (enclitic; with a negative: οὔπω “not yet”) |
+οὔπω | not yet |
+εἰ | if; (in indirect questions) whether |
+ἐάν | if (εἰ + ἄν; with the subjunctive: “if … ever”, or of the future) |
+ἄν | particle: with the subjunctive it makes a clause general or prospective (ὃς ἄν “whoever”, ἕως ἄν “until”) |
+ὅταν | when, whenever (ὅτε + ἄν; with the subjunctive) |
+ἐπειδάν | when, after, whenever (ἐπειδή + ἄν; with the subjunctive) |
+ὅστις | whoever, whatever, anyone who; (in indirect questions) who, what (ὅστις, ἥτις, ὅ τι) |
+C:ἀπὸ τοῦ αὐτομάτου | of its own accord, by itself, by chance
+C:διὰ παντός | all the time, continually
+C:ἑνί γε τρόπῳ | in one way at least, in some way or other
+C:ἐν τῷ αὐτῷ | in the same place, together
+C:χαλεπῶς φέρω / χαλεπῶς φέρει / χαλεπῶς φέρουσι / χαλεπῶς φέρουσιν / χαλεπῶς φέρομεν / χαλεπῶς ἔφερον / χαλεπῶς ἔφερε / χαλεπῶς ἔφερεν / χαλεπῶς φέρων / χαλεπῶς φέροντες / χαλεπῶς φέρειν / χαλεπῶς ἤνεγκε / χαλεπῶς ἤνεγκεν / χαλεπῶς ἤνεγκαν / χαλεπῶς φέρῃς / χαλεπῶς φέρε | take (it) hard, be distressed, be annoyed
+X:fear-me | verbs of fearing + μή + subjunctive: φοβοῦμαι μὴ πέσῃ “I am afraid he may fall”; “that … not” is μὴ οὐ
+X:hos-an | relative + ἄν + subjunctive: ὃς ἄν “whoever”, ὅ τι ἄν “whatever”, ὅπου ἄν “wherever”
+X:heos-an | ἕως ἄν + subjunctive: “until” (of the future)
+X:ind-question | indirect question: introduced by εἰ “whether”, τίς / ὅστις, ποῦ / ὅπου, πῶς / ὅπως …; the verb keeps the mood and tense of the direct question
+X:porro-gen | πόρρω + genitive: “far from”
+X:dendresi | τὸ δένδρον has a second dative plural: τοῖς δένδρεσι(ν) (beside τοῖς δένδροις)
+X:sense-en | ἤν (also ἄν) = ἐάν, “if”: a contracted form common in Xenophon and comedy | lemma=ἐάν hint=if (contracted form)
+# for classical passages that the book quotes, in the author's own words (added 2026-11-23)
+βουλή | council (ἡ βουλή, the Council of Five Hundred) |
+ῥητορική | rhetoric, the art of speaking |

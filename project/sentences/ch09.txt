@@ -1,0 +1,184 @@
+# chapter 9: present active participle; -ευς nouns; uses of the genitive and of the article
+Τρέχων πίπτει. | He falls as he runs. | composed
+Ἐν τῇ στοᾷ διαλέγονται. | They talk in the colonnade. | composed
+Τὸν κύνα ὁρῶν φοβεῖται. | He is frightened when he sees the dog. | composed
+Τὸν ταῦρον ὁρῶσα φεύγει. | She runs away when she sees the bull. | composed
+Ὁ θόρυβος τῶν ὁρωσῶν τὸν χορὸν γυναικῶν μέγας ἐστίν. | The women watching the dance make a great noise. | composed
+Ὁ θόρυβος τῶν ὁρώντων τὸν χορὸν μέγας ἐστίν. | The people watching the dance make a great noise. | composed
+Οἶνον παρέχει τοῖς ὁρῶσι τὸν χορόν. | He serves wine to those watching the dance. | composed | @ὁρῶσι:ptc
+Καλεῖ τὸν βοῶντα παῖδα. | He calls the boy who is shouting. | composed
+Ἡ μήτηρ τὸ σιγῶν παιδίον φιλεῖ. | Mother loves her quiet child. | composed | @σιγῶν:acc.n
+Τὸ παιδίον σιγῶν καθεύδει. | The child sleeps quietly. | composed | @σιγῶν:nom.n
+Ἀκούει τοῦ βοῶντος παιδός. | He hears the boy shouting. | composed
+Τῷ σιγῶντι παιδὶ σῦκα παρέχει ὁ πάππος. | Grandfather gives figs to the boy who keeps quiet. | composed
+Οἱ παῖδες βοῶντες τρέχουσιν. | The children run along shouting. | composed
+Φιλεῖ ὁ πάππος τοὺς σιγῶντας παῖδας. | Grandfather likes children who keep quiet. | composed
+Τὰ παιδία βοῶντα τρέχει. | The children run along shouting. | composed | @βοῶντα:nom.n
+Ἡ μήτηρ τὰ βοῶντα παιδία καλεῖ. | Mother calls the shouting children. | composed | @βοῶντα:acc.n
+Καλεῖ τὴν βοῶσαν κόρην. | He calls the girl who is shouting. | composed
+Ἀκούει τῆς βοώσης κόρης. | He hears the girl shouting. | composed
+Τῇ σιγώσῃ κόρῃ σῦκα παρέχει ὁ πάππος. | Grandfather gives figs to the girl who keeps quiet. | composed
+Αἱ κόραι βοῶσαι τρέχουσιν. | The girls run along shouting. | composed
+Φιλεῖ ὁ πάππος τὰς σιγώσας κόρας. | Grandfather likes girls who keep quiet. | composed
+Ταῖς σιγώσαις κόραις σῦκα παρέχει. | He gives figs to the girls who keep quiet. | composed
+Πονῶν στενάζει. | He groans as he works. | composed
+Πονοῦσα δακρύει. | She cries as she works. | composed
+Οἱ δοῦλοι πονοῦντες στενάζουσιν. | The slaves groan as they work. | composed
+Φιλεῖ ὁ δεσπότης τὸν πονοῦντα δοῦλον. | The master likes a slave who works. | composed
+Ἡ μήτηρ τὸ λαλοῦν παιδίον φιλεῖ. | Mother loves her chattering child. | composed | @λαλοῦν:acc.n
+Τὸ παιδίον λαλοῦν παίζει. | The child chatters as it plays. | composed | @λαλοῦν:nom.n
+Ὁ δεσπότης τοῦ πονοῦντος δούλου ἀκούει. | The master hears the slave at work. | composed
+Σῖτον παρέχει τῷ πονοῦντι δούλῳ. | He gives food to the slave who is working. | composed
+Φιλεῖ τοὺς πονοῦντας δούλους. | He likes slaves who work. | composed
+Ἀκούει τὸν θόρυβον τῶν λαλούντων. | He hears the noise of people chattering. | composed
+Σῖτον παρέχει ὁ δεσπότης τοῖς πονοῦσι. | The master gives food to those who work. | composed | @πονοῦσι:ptc
+Τὰ παιδία λαλοῦντα παίζει. | The children chatter as they play. | composed | @λαλοῦντα:nom.n
+Ἡ μήτηρ τὰ λαλοῦντα παιδία φιλεῖ. | Mother loves her chattering children. | composed | @λαλοῦντα:acc.n
+Καλεῖ τὴν πονοῦσαν δούλην. | She calls the slave woman who is working. | composed
+Ἀκούει τῆς λαλούσης κόρης. | He hears the girl chattering. | composed
+Συλλαμβάνει τῇ πονούσῃ δούλῃ. | She helps the slave woman who is working. | composed
+Αἱ κόραι λαλοῦσαι πρὸς τὴν κρήνην βαδίζουσιν. | The girls chatter as they walk to the spring. | composed
+Ἡ δέσποινα τὰς λαλούσας δούλας ψέγει. | The mistress scolds the chattering slave women. | composed
+Ὁ θόρυβος τῶν λαλουσῶν γυναικῶν μέγας ἐστίν. | The noise of the chattering women is great. | composed
+Σῖτον παρέχει ταῖς πονούσαις δούλαις. | She gives food to the slave women who are working. | composed
+Ἐπὶ τῇ κλίνῃ καθεύδει ὁ γέρων. | The old man is asleep on the couch. | composed
+Ὁ παῖς τὸν γέροντα καλεῖ. | The boy calls the old man. | composed
+Ἡ κλίνη τοῦ γέροντος μικρά ἐστιν. | The old man's bed is small. | composed
+Σῖτον παρέχει τῷ γέροντι. | He gives the old man some food. | composed
+«Τί πάσχεις, ὦ γέρον;» | “Old man, what is the matter?” | composed
+Οἱ γέροντες ἐν τῇ στοᾷ διαλέγονται. | The old men are talking in the colonnade. | composed
+Τιμῶσιν τοὺς γέροντας. | They honour the old. | composed
+Ἀκούουσιν τοὺς μύθους τῶν γερόντων. | They listen to the old men's stories. | composed
+Σῖτον παρέχουσιν τοῖς γέρουσι. | They give the old men food. | composed
+Ἐν τῇ στοᾷ καθίζεται. | He sits down in the colonnade. | composed
+Ἀλλᾶντα ἐσθίει. | He is eating a sausage. | composed
+Πεινῇ ὁ παῖς. | The boy is hungry. | composed
+«Ὦ πάντα ὁρῶν ἥλιε, βοήθει ἡμῖν.» | “Sun, you who see everything, help us.” | composed | @ὁρῶν:voc.m
+«Σίγα, ὦ βοῶσα.» | “Be quiet, you noisy girl.” | composed
+«Σιγᾶτε, ὦ βοῶντες.» | “Be quiet, you shouters.” | composed
+«Σιγᾶτε, ὦ βοῶσαι.» | “Be quiet, you noisy girls.” | composed
+Ὁ ἀλλαντοπώλης ἐστὶν ἐν τῇ ἀγορᾷ. | The sausage-seller is in the agora. | composed
+Ἐν τῷ ὁμίλῳ ὠθίζονται. | They are jostling in the crowd. | composed
+Ἐν τῇ ἀγορᾷ ἐστι πολλὰ ὤνια. | There are many goods for sale in the agora. | composed
+Ἀλλᾶντας ὠνεῖται. | He buys sausages. | composed
+Τὸ ἱερόν ἐστι καλόν. | The temple is beautiful. | composed
+Ἡ κόρη τρέχουσα πίπτει. | The girl falls as she runs. | composed
+«Μένετε, ὦ φεύγοντες.» | “Stay, you who are running away.” | composed
+Καλεῖ ἡ μήτηρ τὴν τρέχουσαν κόρην. | Mother calls the running girl. | composed
+Ἡ μήτηρ τῆς τρεχούσης κόρης φοβεῖται. | The running girl's mother is afraid. | composed
+Συλλαμβάνει τῇ φερούσῃ τὴν ὑδρίαν κόρῃ. | He helps the girl who is carrying the water jar. | composed
+Αἱ κόραι τρέχουσαι πίπτουσιν. | The girls fall as they run. | composed
+Καλεῖ τὰς τρεχούσας κόρας. | He calls the running girls. | composed
+Ὁ θόρυβος τῶν παιζουσῶν κορῶν μέγας ἐστίν. | The girls at play make a great noise. | composed
+Συλλαμβάνει ταῖς φερούσαις τὰς ὑδρίας κόραις. | He helps the girls who are carrying the water jars. | composed
+Ὁ κύων τοῦ φεύγοντος παιδὸς λαμβάνεται. | The dog catches hold of the boy as he runs away. | composed
+Διώκει ὁ κύων τοὺς φεύγοντας. | The dog chases those who run away. | composed
+Ἀκούει τὸν ψόφον τῶν τρεχόντων. | He hears the sound of people running. | composed
+Βοηθεῖ τοῖς φεύγουσι. | He helps those who are running away. | composed | @φεύγουσι:ptc
+Οἶνον πίνει. | He drinks wine. | composed
+Ἡ κόρη καλὴ οὖσα πολλοὺς φίλους ἔχει. | Being beautiful, the girl has many friends. | composed
+Σώφρων ὢν οὐ μεθύει. | Being sensible, he doesn't get drunk. | composed
+Οἱ πονοῦντες κάμνουσιν. | Those who work get tired. | composed | +X:art-ptc
+Οἱ μὲν τρέχουσιν, οἱ δὲ μένουσιν. | Some run, others stay. | composed | +X:men-de
+«Ἀναπαύου, ὦ πονῶν.» | “Have a rest, you who are working.” | composed
+«Ἀναπαύου, ὦ πονοῦσα.» | “Have a rest, my hard-working girl.” | composed
+«Ἀναπαύεσθε, ὦ πονοῦντες.» | “Rest, you workers.” | composed
+«Ἀναπαύεσθε, ὦ πονοῦσαι.» | “Rest, you working women.” | composed
+«Μένε, ὦ φεύγων.» | “Stay, you who are running away.” | composed
+«Μένε, ὦ φεύγουσα.» | “Stay, girl, don't run away.” | composed
+«Μένετε, ὦ φεύγουσαι.» | “Stay, girls, don't run away.” | composed
+Νυκτὸς ἥκει. | It comes by night. | composed
+Πολλοὶ τῶν πολιτῶν βαδίζουσιν εἰς τὸ θέατρον. | Many of the citizens walk to the theatre. | composed | +X:gen-part
+Διὰ τῆς ἀγορᾶς πορεύεται ἡ πομπή. | The procession goes through the agora. | composed
+Πρὸς τὰ προπύλαια ἀφικνεῖται. | It arrives at the gateway. | composed
+Ἡ εἰκὼν τοῦ θεοῦ ἐστιν ἐν τῷ ἱερῷ. | The image of the god is in the temple. | composed
+Ἐν τῇ δεξιᾷ δόρυ ἔχει. | In his right hand he holds a spear. | composed
+Ἐνόπλιος ἡ Ἀθηνᾶ. | Athena is in armour. | composed
+Ὁ βωμός ἐστιν ἐναντίος τῷ ἱερῷ. | The altar faces the temple. | composed
+Πόρρω ἐστὶν ἡ πατρίς. | Our homeland is far away. | composed
+Τὸ ἄγαλμά ἐστι μέγα. | The statue is huge. | composed
+Κάλλιστόν ἐστι τὸ ἄγαλμα τῆς Ἀθηνᾶς. | The statue of Athena is very beautiful. | composed
+Ὁ ἱερεύς ἐστι πρὸς τῷ βωμῷ. | The priest is at the altar. | composed
+Σῖτον φέρει τῷ ἱερεῖ. | He brings food to the priest. | composed
+Τιμῶσιν τὸν ἱερέα. | They honour the priest. | composed
+Ἀκούουσιν τοῦ ἱερέως. | They listen to the priest. | composed
+Οἱ ἱερεῖς πρὸς τῷ βωμῷ εἰσιν. | The priests are at the altar. | composed | @ἱερεῖς:nom
+Τιμῶσιν τοὺς ἱερέας. | They honour the priests. | composed
+Αἱ οἰκίαι τῶν ἱερέων μεγάλαι εἰσίν. | The priests' houses are big. | composed
+Οἶνον φέρουσιν τοῖς ἱερεῦσιν. | They bring wine to the priests. | composed
+Κοσμεῖ τὸν βωμόν. | He decorates the altar. | composed
+Σκοτεινὴ ἡ νύξ. | The night is dark. | composed
+Οἱ Ἀθηναῖοι τὴν Ἀθηνᾶν τὴν πολιοῦχον τιμῶσιν. | The Athenians honour Athena, the guardian of the city. | composed
+Τὸ ἄγαλμα ἀσπίδα ἔχει. | The statue has a shield. | composed
+Ἐν τῷ ἡλίῳ λάμπεται. | It shines in the sun. | composed
+Κανοῦν φέρει ἐπὶ τῇ κεφαλῇ. | She carries a basket on her head. | composed
+Ἐν τῷ κανῷ σῦκά ἐστιν. | There are figs in the basket. | composed
+Ἐκ τοῦ κανοῦ σῦκα λαμβάνει. | He takes figs out of the basket. | composed
+Ἀνέχει τὸ κανοῦν. | He holds up the basket. | composed
+Τὸ τέμενος τοῦ θεοῦ ἐστι μέγα. | The god's precinct is big. | composed
+Ἐν τῷ τεμένει ἐστὶν ὁ βωμός. | The altar is in the sacred precinct. | composed
+Ἐκ τοῦ τεμένους ἐξέρχεται. | He comes out of the precinct. | composed
+Τιμῶσι τοὺς τεκόντας. | They honour their parents. | composed
+Ἐκ τῆς Ἀκροπόλεως καταβαίνουσιν. | They come down from the Acropolis. | composed
+Εἰς τὴν Ἀκρόπολιν ἀναβαίνουσιν. | They go up onto the Acropolis. | composed
+Ἀπὸ τῆς Ἀκροπόλεως καθορῶμεν τὴν πόλιν. | From the Acropolis we look down on the city. | composed
+Ἐν τῇ Ἀκροπόλει ἐστὶ τὸ ἱερόν. | The temple is on the Acropolis. | composed
+Ἐν τῇ ἀγορᾷ συλλέγονται. | They gather in the agora. | composed
+Ὁ δεσπότης ὀργίλως ἔχει. | The master is angry. | composed
+«Ἄγε δή, λέγε μοι, ὦ φίλε, ποῖ βαδίζεις;» | “Come now, tell me, my friend, where are you going?” | composed
+Κωμάζουσιν οἱ νεανίαι. | The young men are out revelling. | composed
+Μέγα βοᾷ ὁ κῆρυξ. | The herald shouts loudly. | composed
+Ὁ βότρυς καλός ἐστιν. | The bunch of grapes is fine. | composed
+Βότρυν ἐσθίει. | He is eating a bunch of grapes. | composed
+Χαίρει τῷ βότρυι ὁ παῖς. | The boy is delighted with the bunch of grapes. | composed
+Δρέπει τοὺς βότρυας. | He picks the grapes. | composed
+Ἐκ τοῦ βότρυος γίγνεται ὁ οἶνος. | Wine is made from the grape. | composed
+Ἐκ τῶν βοτρύων οἶνον ποιοῦσιν. | They make wine from the grapes. | composed
+Χαίρει τοῖς βότρυσιν ὁ παῖς. | The boy is delighted with the grapes. | composed
+Οἱ βότρυες ὡραῖοί εἰσιν. | The grapes are ripe. | composed
+Ἐκποδών ἐστιν ὁ κύων. | The dog is out of the way. | composed
+«Ἐκποδὼν γίγνου, ὦ παῖ.» | “Get out of the way, boy!” | composed
+Ὁ μέτοικος ἐν ταῖς Ἀθήναις οἰκεῖ, ἀλλ᾽ οὐ πολίτης ἐστίν. | The metic lives in Athens, but he is not a citizen. | composed
+Ὁ ὑπηρέτης τῷ ἱερεῖ ἕπεται. | The attendant follows the priest. | composed
+Σκάφιον φέρει ὁ ὑπηρέτης. | The attendant carries a bowl. | composed
+Ἀπολύει τὸν δοῦλον. | He sets the slave free. | composed
+Ἄριστός ἐστιν ὁ κύων. | The dog is a very good one. | composed
+Σφάττει τὸ ἱερεῖον. | He slaughters the victim. | composed
+Ὁ τελευταῖος παῖς βραδέως βαδίζει. | The last boy walks slowly. | composed
+Κηρύττει τὴν ἑορτήν. | He proclaims the festival. | composed
+Ὁ δῆμος τὴν Ἀθηνᾶν τιμᾷ. | The people honour Athena. | composed
+«Εὐφημεῖτε», λέγει ὁ κῆρυξ. | “Keep holy silence,” says the herald. | composed
+Ἥσυχος ὁ γέρων. | The old man is quiet. | composed
+Μέγας ἐστὶν ὁ ἄναξ. | The lord is great. | composed
+«Ὦ ἄναξ, ἵλεως ἴσθι.» | “Lord, be gracious.” | composed
+Ἐν τῷ ἱερῷ γίγνεται ἡ θυσία. | The sacrifice takes place in the sanctuary. | composed
+Αὐξάνει τὸν σῖτον. | She makes the grain grow. | composed
+Κατατέμνει τὸ ἱερεῖον. | He cuts up the victim. | composed
+Ἕτοιμον τὸ δεῖπνον. | Dinner is ready. | composed
+Τὸ κρέας ἐστὶ καλόν. | The meat is good. | composed
+Πολλῶν κρεῶν ἐπιθυμεῖ. | He wants a lot of meat. | composed
+Σπένδει οἶνον. | He pours a libation of wine. | composed
+Διαιρεῖ τὸ κρέας. | He divides the meat. | composed
+Μετὰ τὴν θυσίαν ἐστὶ δαίς. | After the sacrifice there is a feast. | composed
+Τέρπονται τῇ δαιτί. | They enjoy the feast. | composed
+Προσήκει τοῖς παισὶ τοὺς τεκόντας τιμᾶν. | It is right for children to honour their parents. | composed
+Χαμαὶ καθίζει. | He sits down on the ground. | composed
+Ὄναρ ὁρᾷ. | He has a dream. | composed
+Ἐκ τοῦ ὀνείρατος ἐγείρεται. | He wakes from the dream. | composed
+Ὁ γέρων σοφὸς εἶναι δοκεῖ. | The old man seems to be wise. | composed
+Εἰσκαλεῖ τοὺς ξένους. | He invites the strangers in. | composed
+Καλεῖ τὸν βασιλέα. | He calls the king. | composed
+Οἱ Ἀθηναῖοι τῷ βασιλεῖ βοηθοῦσιν. | The Athenians come to the king's help. | composed
+Ἐκείνη ἡ παρθένος θυγάτηρ ἐστὶ τοῦ βασιλέως. | That girl is the king's daughter. | composed
+Οἱ Ἀθηναῖοι τοὺς βασιλέας οὐ φιλοῦσιν. | The Athenians do not like kings. | composed
+Ἕπονται οἱ δοῦλοι τοῖς βασιλεῦσιν. | The slaves follow the kings. | composed
+Αἱ θυγατέρες τῶν βασιλέων καλαί εἰσιν. | The kings' daughters are beautiful. | composed
+Οἱ βασιλῆς ἐν ταῖς νήσοις βασιλεύουσιν. | The kings rule on the islands. | composed
+«Ὦ βασιλεῦ, ἵλεως ἴσθι.» | “Be gracious, king.” | composed
+Διηγεῖται τὸν μῦθον. | He tells the story from start to finish. | composed
+Γηράσκει ὁ πάππος. | Grandfather is growing old. | composed
+# practice
+Περὶ τῶν βοῶν λαλοῦσιν. | They are talking about the oxen. | composed | @βοῶν=βοῦς
+Αἱ κόραι κανᾶ φέρουσαι ἐν τῇ πομπῇ βαδίζουσιν. | The girls walk in the procession carrying baskets. | composed
+Μετὰ τὴν θυσίαν τὰ κρέα διαιροῦσι τοῖς πολίταις. | After the sacrifice they divide the meat among the citizens. | composed
+Ἐν τῷ Πειραιεῖ οἰκοῦσιν. | They live in the Piraeus. | composed

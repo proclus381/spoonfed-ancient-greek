@@ -1,0 +1,77 @@
+# Athenaze II, ch.23 (Ἡ ἐσβολή) — the passive (present and imperfect); prefixes in compound verbs; indirect statement with the infinitive; φημί; attraction of the relative
+# ---- principal parts of verbs already known
+ἐάω | allow, let (+ acc. and inf.) | v fut=ἐάσω! aor=εἴασα/ἐασ irr pf=εἴακα! pfm=εἴαμαι! aorp=εἰάθην/ἐαθ!
+τέμνω | cut; ravage (land) | v pf=τέτμηκα!
+ποιέω | make, do | v mid aor=ἐποίησα/ποιησ
+# ---- new verbs
+καθέζομαι | sit down, take one's seat; encamp | v fut=καθεδοῦμαι!
+τάττω | draw up (troops), station, arrange; assign | v fut=τάξω aor=ἔταξα/ταξ pf=τέταχα! pfm=τέταγμαι! aorp=ἐτάχθην
+ἀνερεθίζομαι | be stirred up, be provoked | v
+ἀποκρύπτω | hide (something from someone: two accusatives) | v short fut=ἀποκρύψω aor=ἀπ·έκρυψα/ἀποκρυψ base=κρύπτω
+δῃόω | ravage, lay waste | v reg
+διδάσκω | teach (someone something: two accusatives) | v fut=διδάξω! aor=ἐδίδαξα/διδαξ irr
+ἐγκαλέω | bring a charge against, blame (+ dat. of the person) | v fut=ἐγκαλῶ aor=ἐν·εκάλεσα/ἐγκαλεσ base=καλέω
+ἐμμένω | remain in; abide by, stand by (+ dat.) | v fut=ἐμμενῶ aor=ἐν·έμεινα/ἐμμειν base=μένω
+ἐνάγω | lead on, urge, induce | v fut=ἐνάξω aor2=ἐν·ήγαγον/ἐναγαγ base=ἄγω
+ἐνδιατρίβω | spend time in (a place) | v
+ἐνστρατοπεδεύω | encamp in | v aor=ἐν·εστρατοπέδευσα/ἐνστρατοπεδευσ
+ἐξαμαρτάνω | make a mistake, go wrong, do wrong | v fut=ἐξαμαρτήσομαι aor2=ἐξ·ήμαρτον/ἐξαμαρτ base=ἁμαρτάνω
+ἐπεξέρχομαι | march out against (+ dat.) | v aor2=ἐπεξ·ῆλθον/ἐπεξελθ eimi=ἐπεξ base=ἔρχομαι
+ἐπικηρυκεύομαι | send heralds, make overtures (for peace) | v reg pre=ἐπι
+ζημιόω | punish, fine | v reg
+κακίζω | reproach, call a coward | v reg
+καταφαίνομαι | come into view, be plainly visible | v
+τειχίζω | build a wall, fortify | v reg
+# ---- nouns
+βουλευτήριον | council-chamber | n
+δημιουργός | craftsman | n
+δικαστήριον | law court | n
+δικαστής | juror, judge | n
+ἐκκλησιαστής | member of the Assembly | n
+ἐξουσία | power, authority; freedom (to do something) | n
+ἐπιστήμη | knowledge, skill | n
+ἐσβολή | invasion | n
+ἰδέα | form, appearance; kind, sort | n
+κατασκευή | equipment, furnishings | n
+μεθόρια | (pl.) borderlands |
+μηχανή | device, contrivance; siege-engine | n
+προσβολή | attack, assault | n
+πρόφασις | pretext, excuse; alleged reason | nis
+στάδιον | stade (about 180 metres); stadium (pl. τὰ στάδια or οἱ στάδιοι) | n
+σύλλογος | gathering, meeting | n
+συμβουλή | advice | n
+σύστασις | gathering, knot (of people) | nis
+τιμωρία | vengeance, punishment | n
+φρούριον | fort, garrisoned post | n
+χῶρος | place, piece of ground | n
+# ---- adjectives, numerals
+ἀνασχετός | bearable, tolerable | adj2
+δαιμόνιος | divine, marvellous (ὦ δαιμόνιε “my dear fellow”) | adj
+ἐμφανής | visible, plain, open | adjes
+ἐπιτήδειος | suitable, fit; friendly; τὰ ἐπιτήδεια “provisions” | adj
+πιθανός | persuasive | adj
+πολιτικός | of citizens, political | adj
+πολυμαθής | very learned | adjes
+φιλομαθής | fond of learning | adjes
+ἑξήκοντα | sixty |
+τρισχίλιοι | three thousand |
+ἄλλως | otherwise; in vain (ἄλλως τε καί “especially”) |
+ἀπροσδοκήτως | unexpectedly |
+ᾗπερ | by the very way that, just as |
+C:ἐν τῷ ἐμφανεῖ | in the open, in public
+C:μέχρι οὗ | until
+C:πεῖραν ποιεῖται / πεῖραν ποιοῦνται / πεῖραν ποιοῦμαι / πεῖραν ἐποιήσατο / πεῖραν ἐποιήσαντο / πεῖραν ποιούμενος / πεῖραν ποιούμενοι / πεῖραν ποιεῖσθαι / πεῖραν ποιήσασθαι / πεῖραν ἐποιοῦντο / πεῖραν ἐποιεῖτο / πεῖραν ποιησώμεθα | make an attempt (on: + gen.), make trial of
+C:οὔ φημι / οὔ φησι / οὔ φησιν / οὔ φασι / οὔ φασιν / οὐκ ἔφη / οὐκ ἔφασαν / οὐκ ἔφην / οὔ φαμεν | say that … not, deny, refuse
+X:nom-inf | indirect statement with the infinitive: when the subject is the same as that of the main verb it is not expressed, and what refers to it is nominative (ἔφη ἕτοιμος εἶναι “he said he was ready”)
+X:attraction | attraction: a relative that should be accusative takes the case of a genitive or dative antecedent (ἄξιος τῆς τιμῆς ἧς ἔχει)
+X:double-acc | verbs of teaching, asking, hiding, persuading take two accusatives: a person and a thing
+X:prefix-assim | prefixes in compounds: ἐν- and συν- change before certain consonants (ἐμ-μένω, ἐγ-καλέω, συμ-, συγ-, συλ-) and come back before the augment (ἐν-έμεινα, ἐν-εκάλεσα)
+X:demos-deme | ὁ δῆμος also means “deme”, one of the villages and districts of Attica
+X:sense-demos | δῆμος also means “deme”, one of the districts of Attica | lemma=δῆμος hint=deme (district of Attica)
+# Smyth inventory (added 2026-11-23): Smyth concepts Athenaze does not treat; the deck uses the accusative of space from here
+X:acc-space | the accusative of extent of space: πολλοὺς σταδίους ἀπέχει “it is many stades away”; Smyth §1581
+X:rel-incorp | incorporation: the antecedent is taken into the relative clause, in its case (οὓς εἶχεν ἵππους τοῖς φίλοις ἔδωκεν “he gave his friends the horses he had”); Smyth §2536
+X:estin-hoi | ἔστιν οἵ “some (people)”, ἔστιν ὅτε “sometimes”, οὐκ ἔστιν ὅστις οὐ / οὐδεὶς ὅστις οὐ “everyone”; Smyth §2513–2515, §2534
+# for classical passages that the book quotes, in the author's own words (added 2026-11-23)
+δημοκρατία | democracy |
+ἐπιβιόω | survive, live on (aor. ἐπεβίων) |

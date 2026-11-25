@@ -1,0 +1,137 @@
+# ch.26 — correlatives; uses of the cases (accusative of respect, accusative absolute, dative of possession); ἀπόλλυμι; Croesus and Adrastus, Amasis and Polycrates
+Οἱ ἄνθρωποι τὴν τῶν θεῶν νέμεσιν φοβοῦνται. | Men fear the retribution of the gods. | composed
+Νυκτὸς ὄνειρον εἶδεν. | She had a dream in the night. | composed
+Ὁ θεὸς ἐν ὀνείρῳ ἔφηνε τὰ μέλλοντα. | The god revealed the future in a dream. | composed
+Ἐφίλει τὴν ἄγραν. | He loved hunting. | composed
+Οὐ γὰρ πείσονται οἱ πολλοὶ ὡς σὺ αὐτὸς οὐκ ἠθέλησας ἀπιέναι ἐνθένδε ἡμῶν προθυμουμένων. | For most people will not believe that you yourself refused to leave here, though we were eager for it. | Pl. Crito 44c
+Ἐπέστησε τὸν ξένον τῷ υἱῷ ὡς φύλακα. | He put the stranger in charge of his son as a guard. | composed
+Ὁ γέρων κωφός ἐστι καὶ οὐδὲν ἀκούει. | The old man is deaf and hears nothing. | composed
+Γυναῖκα ἠγάγετο. | He took a wife. | composed | +X:agomai-gyn
+Σιδηροῦς ὁ πέλεκυς. | The axe is made of iron. | composed
+Σιδηραῖ ἦσαν αἱ τῆς πόλεως πύλαι. | The city's gates were made of iron. | composed
+Σιδηρᾶ ἡ μάχαιρα. | The knife is made of iron. | composed
+Σιδηροῦν τὸ ξίφος. | The sword is of iron. | composed | @Σιδηροῦν:nom
+Σιδηροῦν πέλεκυν ἔχει. | He has an iron axe. | composed | @Σιδηροῦν:m
+Σιδηροῦν ξίφος ἔχει. | He has an iron sword. | composed | @Σιδηροῦν:acc.n
+Σιδηρᾶν μάχαιραν ἔχει. | He has an iron knife. | composed
+Λαμβάνεται τοῦ σιδηροῦ πελέκεως. | He grips the iron axe. | composed
+Λαμβάνεται τῆς σιδηρᾶς μαχαίρας. | He grips the iron knife. | composed
+Σιδηρῷ ξίφει μάχεται. | He fights with an iron sword. | composed
+Σιδηρᾷ μαχαίρᾳ τέμνει. | He cuts with an iron knife. | composed
+Σιδηροῖ οἱ πελέκεις. | The axes are made of iron. | composed
+Σιδηρᾶ τὰ δόρατα. | The spears are tipped with iron. | composed | @Σιδηρᾶ:nom.n
+Σιδηροῦς πελέκεις ἔχουσιν. | They have iron axes. | composed | @Σιδηροῦς:acc
+Σιδηρᾶς μαχαίρας ἔχουσιν. | They have iron knives. | composed | @Σιδηρᾶς:acc
+Σιδηρᾶ δόρατα ἔχουσιν. | They have iron-tipped spears. | composed | @Σιδηρᾶ:acc.n
+Ἀκούει τὸν ψόφον τῶν σιδηρῶν πελέκεων. | He hears the sound of the iron axes. | composed
+Σιδηροῖς πελέκεσι τέμνουσιν. | They cut with iron axes. | composed
+Σιδηραῖς μαχαίραις τέμνουσιν. | They cut with iron knives. | composed
+Ἡ τοῦ δόρατος αἰχμή ἐστι σιδηρᾶ. | The point of the spear is made of iron. | composed
+Ἀκόντιον ἔχει. | He has a javelin. | composed
+Ἐν τῇ οἰκίᾳ τοῦ πατρὸς ἐγένετο ὁ γάμος. | The wedding took place in the father's house. | composed
+Καθάρσιον ἐποίησε τῇ πόλει. | He made a purifying offering for the city. | composed
+Ζεὺς καθάρσιος ὑπὸ τῶν Ἑλλήνων τιμᾶται. | Zeus the Purifier is honoured by the Greeks. | composed
+Ἐξεκόμισε τὰ ἀκόντια ἐκ τῆς οἰκίας. | He carried the javelins out of the house. | composed
+Πολλοὺς λίθους συνένησαν. | They piled up many stones. | composed
+Χρῄζω σίτου καὶ ὕδατος. | I need food and water. | composed
+Λύκῳ ἐπεκύρησεν. | He came upon a wolf. | composed
+Περιεῖλε τὸν στέφανον τῆς κεφαλῆς. | He took the garland off his head. | composed
+Ἐκάθηρε τὸ ἱερόν. | He purified the temple. | composed
+Ὁ ναύτης ἤρετο ὁπόθεν ἥκοιμεν. | The sailor asked where we had come from. | composed
+Ὁ ξένος εἶπεν ὅθεν ἥκοι. | The stranger said where he had come from. | composed
+Ἐχαρίσατο τῷ παιδί. | He did the boy a favour. | composed
+Ὁ βασιλεὺς ἔφη ἑαυτὸν θεοῦ ἔκγονον εἶναι. | The king said that he was descended from a god. | composed
+Οἱ Μυσοὶ τὸν ὗν ἀποκτεῖναι οὐχ οἷοί τ᾽ ἦσαν. | The Mysians were not able to kill the boar. | composed | +X:hoios-te
+Τέλος δὲ ἀπικόμενοι παρὰ τὸν Κροῖσον τῶν Μυσῶν ἄγγελοι ἔλεγον τάδε. | Finally messengers of the Mysians came to Croesus and said this. | Hdt. 1.36.2 | +X:ion-psil
+Οἱ Μυσοὶ ἐδεήθησαν τοῦ βασιλέως τὸν υἱὸν πέμψαι. | The Mysians asked the king to send his son. | composed
+Ὁ στρατηγὸς ἠμηχάνει τί ποιοίη. | The general was at a loss what to do. | composed
+Ὁ νοσῶν πάγχυ ἤλγει. | The sick man was in great pain. | composed
+Ὁ ξένος ἤρετο ὁπόσους ἵππους ἔχοιμεν. | The stranger asked how many horses we had. | composed
+Ὃ μὲν δὴ δίαιταν εἶχε ἐν Κροίσου. | So he lived in Croesus' house. | Hdt. 1.36.1 | @Ὃ=ὁ
+Ἀλγεῖ τὴν κεφαλήν. | He has a headache. | composed | +X:acc-resp
+Ὁ παῖς τοὺς πόδας ἀλγεῖ. | The boy's feet hurt. | composed
+Οἱ πόδες αὐτοῦ μεγάλοι εἰσίν. | His feet are big. | composed
+Τύπτει τῷ ποδί. | He kicks. | composed
+Τρέχει τοῖς ποσί. | He runs on his feet. | composed
+Ἐξὸν ἀπιέναι, ἐμείναμεν. | Although we were allowed to go away, we stayed. | composed
+Ἐξὸν οἴκαδε ἐπανελθεῖν, ἔμεινεν ὁ στρατιώτης. | Though free to go home, the soldier stayed. | composed | +X:acc-abs
+Δέον τοῖς φίλοις βοηθεῖν, οὐδὲν ἐποίησας. | When you should have helped your friends, you did nothing. | composed
+Οὐχ οἷός τ᾽ εἰμὶ μὴ οὐ δακρύειν. | I cannot keep from weeping. | composed | +X:me-ou
+Λογάδας ὁπλίτας ἔπεμψεν. | He sent picked hoplites. | composed
+Ἐξέμαθε τὰ τοῦ Ὁμήρου ἔπη. | He learned Homer's verses by heart. | composed
+Ὁ νεόγαμος ἐν τῷ θαλάμῳ ἔμενεν. | The newly married man stayed in his chamber. | composed
+Μέλει μοι τῆς πόλεως. | I care about the city. | composed
+Εἰσηκόντισαν εἰς τὸ τεῖχος. | They threw their javelins at the wall. | composed
+Αἰσχρὰ ἡ δειλία. | Cowardice is shameful. | composed
+Ἐπιστολὴν ἔπεμψε τῷ πατρί. | He sent a letter to his father. | composed
+Συνεβούλευσε τῷ γέροντι μὴ πολὺν οἶνον πίνειν. | He advised the old man not to drink much wine. | composed
+Σφραγῖδα καλὴν εἶχεν. | He had a fine signet ring. | composed
+Μετὰ τὴν μάχην ἐν ἀθυμίᾳ ἦσαν οἱ στρατιῶται. | After the battle the soldiers were despondent. | composed
+Ἄχαρι ἔργον ἐστὶ τοῦτο. | This is a thankless task. | composed
+Ὁ πόλεμος πολλοὺς ἀπόλλυσιν. | War destroys many. | composed
+Ἐὰν μὴ σπεύδωμεν, ἀπολούμεθα. | If we don't hurry, we shall perish. | composed
+Χάρισαί μοι, ὦ φίλε. | Do me a favour, my friend. | composed
+Ὁ ῥήτωρ τὸν λόγον ἀληθῆ ὄντα ἀπέφηνεν. | The orator showed that the story was true. | composed
+Ὁ πατὴρ μετέγνω καὶ τὸν υἱὸν ἐκέλευσεν ἰέναι. | The father changed his mind and told his son to go. | composed
+Συγγνώμην ἔσχε τῷ παιδί. | He forgave the boy. | composed
+Τί προσδοκᾷς, ὦ φίλε; | What do you expect, my friend? | composed
+Ἠκόντιζον τὸν ὗν. | They were throwing their javelins at the boar. | composed
+Ἐκαθάρθη ὑπὸ τοῦ βασιλέως. | He was purified by the king. | composed
+Αὔριον φανοῦμεν τοῖς φίλοις τὴν ὁδόν. | Tomorrow we shall show our friends the way. | composed
+Ἤνεγκε τὴν φήμην. | He brought the report. | composed
+Ὁ θεὸς ἐξέπλησε τὰ τοῦ ὀνείρου. | The god fulfilled what the dream foretold. | composed
+Οὐδεὶς ἄνθρωπος τὸν μόρον φυγεῖν δύναται. | No man can escape his fate. | composed
+Οἱ Ἀθηναῖοι ναῦς ἐξήρτυσαν. | The Athenians fitted out ships. | composed | @ναῦς:acc
+Πολλὰς βίβλους ἔχει. | He has many books. | composed
+Δεινὸς ὁ φθόνος τῶν θεῶν. | The envy of the gods is terrible. | composed
+Ἐλεινὸς ἦν ὁ πατὴρ τὸν υἱὸν θάπτων. | The father was a pitiful sight as he buried his son. | composed
+Τὰ τοῦ στρατηγοῦ βουλεύματα ἦν κακά. | The general's plans were bad. | composed
+Ἅπαξ μόνον εἶδον τὸν ἄνδρα. | I saw the man only once. | composed
+Τοσούτους ἵππους οὐκ ἔχομεν. | We do not have so many horses. | composed
+Ὅσους ἔχομεν ἵππους, τοσούτους σοι δώσομεν. | As many horses as we have, so many will we give you. | composed | +X:correl
+Ἡ πόλις συνεταράχθη τῷ τοῦ στρατηγοῦ θανάτῳ. | The city was thrown into confusion by the general's death. | composed
+Ἡ πόλις ἀσφαλὴς καταφυγὴ ἦν τοῖς γεωργοῖς. | The city was a safe refuge for the farmers. | composed
+Φθονεροὶ οἱ γείτονες. | The neighbours are envious. | composed
+Ἐγεύσατο ὁ παῖς τοῦ οἴνου. | The boy tasted the wine. | composed
+Γλυκὺς ὁ οἶνος. | The wine is sweet. | composed
+Αἱρετὴ ἡ εἰρήνη. | Peace is to be desired. | composed
+Ὦ μοχθηρέ, τί ἐποίησας; | You wretch, what have you done? | composed
+Ὁ σοφὸς ἀταραξίαν ἔχει. | The wise man has peace of mind. | composed
+Ἐπανέστησαν τοῖς δεσπόταις. | They rose up against their masters. | composed
+Ὁ πατὴρ καὶ ὁ ξένος ξενίαν συνέθεντο. | Father and the stranger made a pact of guest-friendship. | composed
+Ὁ βασιλεὺς ἤρετο ὅποι ὁ ξένος πορεύοιτο. | The king asked where the stranger was going. | composed
+Ἐκ Φρυγίας ἧκεν· ἐκεῖθεν γὰρ ἦν. | He had come from Phrygia: that is where he was from. | composed
+Εὐτυχῶς ἐμάχετο. | He fought successfully. | composed
+Τὰ πράγματα ἐχώρει εὐτυχῶς. | Things were going well. | composed
+Ἡ τοῦ ἐμπόρου εὐτυχία ἦν πολλή. | The merchant's good luck was great. | composed
+Ὁ ἔμπορος ἀεὶ εὖ ἔπραττεν. | The merchant always did well. | composed
+Οἱ πολέμιοι οὐδὲν ἡμᾶς βλάπτουσιν. | The enemy do us no harm at all. | composed | +X:acc-adv
+Πολλὰ κειμήλια ἐν τῇ οἰκίᾳ εἶχεν. | She kept many treasures in the house. | composed
+Οἱ Ἀθηναῖοι καλὴν μάχην ἐμαχέσαντο. | The Athenians fought a fine battle. | composed | +X:acc-cognate
+Καλὴ ἡ σμάραγδος. | The emerald is beautiful. | composed
+Ἑσπέρας τοῦ πόνου παύεται. | In the evening he stops his toil. | composed | +X:gen-sep
+Πολλάκις ἐδυστύχησεν. | He was often unlucky. | composed
+Ὁ Κῦρος πολλῶν ἐθνῶν ἦρχεν. | Cyrus ruled over many peoples. | composed | +X:gen-verbs
+Οἱ ἀνδρεῖοι ἄξιοί εἰσι τῆς ἐλευθερίας. | The brave are worthy of freedom. | composed | +X:gen-adj
+Ἡ σφραγὶς ὑπὸ τεχνίτου ἐποιήθη. | The ring was made by a craftsman. | composed
+Θαυμάζω σε τῆς ἀνδρείας. | I admire you for your courage. | composed | +X:gen-cause
+Πολλοὶ ναῦται ἐν τῷ πελάγει ἀπώλοντο. | Many sailors were lost on the open sea. | composed
+Φεῦ τῆς συμφορᾶς. | Alas for the disaster! | composed | +X:gen-excl
+Σῖτον παρασκευάζει τοῖς παισίν. | He gets food ready for his children. | composed | +X:dat-interest
+Οἱ στρατιῶται τῷ στρατηγῷ ἕπονται καὶ πείθονται. | The soldiers follow and obey their general. | composed | +X:dat-verbs
+Ἀπόλοιντο οἱ πολέμιοι. | May the enemy perish! | composed
+«Εἴθε παυσαίμην τοῦ πόνου.» | “If only I could stop my toil!” | composed
+«Εἴθε παύσαιο, ὦ παῖ.» | “If only you would stop, boy!” | composed
+«Εἴθε παυσαίμεθα τοῦ πολέμου.» | “If only we could put an end to the war!” | composed
+«Εἴθε παύσαισθε τῆς μάχης.» | “If only you would stop fighting!” | composed
+Αἱ νῆες κατέδυσαν αὐτοῖς τοῖς ναύταις. | The ships sank, crews and all. | composed | +X:dat-accomp
+Σιγῇ προσεχώρουν. | They advanced in silence. | composed | +X:dat-manner
+Ἀνήγοντο εἰς τὸ πέλαγος. | They were putting out to sea. | composed
+Τὸ τεῖχος ὀκτὼ σταδίων ἦν. | The wall was eight stades long. | composed | +X:gen-measure
+Φόβῳ ἔφυγεν. | He ran away out of fear. | composed | +X:dat-cause
+«Μή μοι θορυβεῖτε, ὦ παῖδες.» | “Please don't make a noise, children.” | composed | +X:dat-ethic
+Ἀνεσταυρώθη ὁ κλέπτης ὑπὸ τοῦ τυράννου. | The thief was impaled by the tyrant. | composed
+Ἐκάλουν τὸν Δία. | They were calling on Zeus. | composed
+Θύουσιν τῷ Διί. | They sacrifice to Zeus. | composed
+# ---- practice (ch.26 review)
+Φθόνος γὰρ ἔξω θείου χοροῦ ἵσταται. | For envy stands outside the divine chorus. | Pl. Phaedrus 247a

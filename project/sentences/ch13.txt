@@ -1,0 +1,253 @@
+# ch.13 — imperfect; relative pronoun; stems in -εσ-; time expressions; Persian Wars vocabulary
+Ἐκάθευδεν ὁ πατήρ· ἐν τούτῳ δὲ ὁ παῖς ἔπαιζεν. | Father was asleep; meanwhile the boy was playing. | composed
+Ἐπὶ τῷ στήθει τῆς μητρὸς καθεύδει τὸ παιδίον. | The baby sleeps on its mother's breast. | composed
+Λαμβάνει τὸ παιδίον ἀπὸ τοῦ στήθους. | She takes the baby from her breast. | composed
+Τῷ ξίφει ἀποκτείνει τὸν ταῦρον. | He kills the bull with his sword. | composed
+Ὁ νεανίας τοῦ ξίφους λαμβάνεται. | The young man grasps the sword. | composed
+Ἐπὶ τῷ καταστρώματι ἐκάθευδεν. | He was sleeping on the deck. | composed
+Ἐν τῇ ὁδῷ ἔπαιζον. | They were playing in the road. | composed
+Ἐγὼ οἴκοι ἔμενον· οὐ γὰρ ἤθελον πονεῖν. | I was staying at home, for I didn't want to work. | composed
+Ἐν ᾧ ἔσκαπτεν, ἐξαίφνης ἔπεσεν. | While he was digging, he suddenly fell. | composed | +X:impf-aspect
+Τί ἔπραττες, ὦ παῖ, ἐν ᾧ ἐγὼ ἔσκαπτον; | What were you doing, boy, while I was digging? | composed
+Ἡμεῖς μὲν ἐμένομεν, οἱ δὲ ἄλλοι ἔφευγον. | We were standing our ground, but the others were running away. | composed | @ἔφευγον:3p
+Οἱ Ἀθηναῖοι πολλὰς ναῦς μακρὰς εἶχον. | The Athenians had many warships. | composed
+Ἡ τριήρης ἐστὶ ναῦς μακρά. | The trireme is a warship. | composed
+Πολλοὺς ἐρέτας ἔχει. | It has many rowers. | composed
+Ἤρεσσον οἱ ἐρέται. | The rowers were rowing. | composed
+Ἔλυον τὰ πείσματα. | They were untying the mooring ropes. | composed
+Τὰ ἱστία ᾖρον. | They were hoisting the sails. | composed
+Ὁ ἀνὴρ ὃς ἐν τῷ ἀγρῷ πονεῖ ὁ ἐμὸς πατήρ ἐστιν. | The man who is working in the field is my father. | composed
+Ἡ γυνὴ ἣ πρὸς τὴν κρήνην βαδίζει ἡ ἐμὴ μήτηρ ἐστίν. | The woman who is walking to the spring is my mother. | composed
+Τὸ δένδρον ὃ ἐν τῷ κήπῳ ἐστὶ πολλοὺς καρποὺς φέρει. | The tree which is in the garden bears a lot of fruit. | composed
+Ἀεὶ ἐπόνει ἐν τῷ κλήρῳ. | He was always at work on his farm. | composed
+Πολλάκις ἐβοήθουν τῷ δεσπότῃ. | They often used to help their master. | composed
+Πανταχοῦ σε, ὦ Ξανθία, ἐζήτουν. | I was looking for you everywhere, Xanthias. | composed
+Ἀεὶ ἐτίμα τοὺς θεούς. | He always used to honour the gods. | composed
+Οἱ παῖδες ἐβόων καὶ ἔτρεχον. | The children were shouting and running about. | composed
+Ἐγὼ μὲν ἐσίγων, ὁ δὲ ἀδελφὸς ἐφλυάρει. | I kept silent, but my brother was talking nonsense. | composed
+Τί ἑώρας, ὦ παῖ; | What were you looking at, boy? | composed
+Ἐφοβεῖτο τὸν κύνα. | He was afraid of the dog. | composed
+Ἐφοβοῦντο τὸν χειμῶνα. | They were afraid of the storm. | composed
+Ἐφοβούμην, ὦ μῆτερ, διότι νὺξ ἦν. | I was afraid, mother, because it was night. | composed
+Διὰ τί ἐφοβοῦ, ὦ φίλε; | Why were you afraid, my friend? | composed
+Ἐθεᾶτο τὸν χορόν. | She was watching the dance. | composed
+Ἐθεῶντο τοὺς χορούς. | They were watching the choruses. | composed
+«Ἐγὼ μὲν τὸν χορὸν ἐθεώμην, σὺ δὲ ἐκάθευδες.» | “I was watching the dance, but you were asleep.” | composed
+Ὁ γέρων, οὗ τὸν οἶκον ὁρᾷς, πλούσιός ἐστιν. | The old man whose house you see is rich. | composed
+Ἡ γυνή, ἧς ὁ ἀνὴρ ἀπέθανεν, μάλα λυπεῖται. | The woman whose husband has died is very sad. | composed
+Ὁ γέρων ᾧ ἐβοηθοῦμεν ἀνὴρ ἀγαθὸς ἦν. | The old man we were helping was a good man. | composed
+Ἡ θεός, ᾗ οἱ Ἀθηναῖοι εὔχονται, Ἀθηνᾶ ἐστιν. | The goddess to whom the Athenians pray is Athena. | composed
+Οἱ ναῦται οἳ ἐν τῷ πλοίῳ ἦσαν εἰς τὴν θάλατταν ἔπεσον. | The sailors who were in the boat fell into the sea. | composed
+Αἱ γυναῖκες αἳ ἐν τῇ ἀγορᾷ ἦσαν πάντα ἑώρων. | The women who were in the market place saw everything. | composed
+Τὰ δῶρα ἃ ὁ ξένος ἔφερε μάλα καλὰ ἦν. | The gifts which the stranger was bringing were very beautiful. | composed
+Ταχὺς ὁ λαγώς. | The hare is swift. | composed
+Μεγάλη ἦν ἡ φιλία τῶν δύο ἀνδρῶν. | Great was the friendship between the two men. | composed
+Βεβαία ἡ τῶν ἀγαθῶν φιλία. | The friendship of good men is secure. | composed
+Οἱ ξένοι ᾖσαν πρὸς τὸν λιμένα. | The strangers were going to the harbour. | composed
+Βραδέως ᾔει πρὸς τὴν κρήνην. | He was walking slowly to the spring. | composed
+Ἐβούλοντο πρὸς τὴν κρήνην ἰέναι. | They wanted to go to the spring. | composed
+Ἐβουλόμην μὲν οἴκοι μένειν, ἐπορευόμην δὲ ἅμα τῷ πατρί. | I wanted to stay at home, but I was going along with my father. | composed
+Τί ἐβούλου, ὦ γύναι; | What did you want, wife? | composed
+Ἐπορευόμεθα πρὸς τὸ ἄστυ, ὅτε ἀφίκετο ὁ ἄγγελος. | We were on our way to the city when the messenger arrived. | composed
+Αὐτῷ ἐβοήθουν οἱ οἰκεῖοι. | His relatives were helping him. | composed
+Ὁ Ζεύς ἐστι μέγιστος πάντων τῶν θεῶν. | Zeus is the greatest of all the gods. | composed
+Πόλεμος πάντων μὲν πατήρ ἐστι, πάντων δὲ βασιλεύς. | War is the father of all, and the king of all. | composed
+Ὁ κελευστὴς ἐκέλευε τοὺς ἐρέτας ἐρέσσειν. | The boatswain was ordering the rowers to row. | composed
+Ἐρέσσοντες ᾖδον. | They were singing as they rowed. | composed
+Μέλος ᾖδεν ὁ κελευστής, οἱ δὲ ἐρέται ἤρεσσον. | The boatswain was singing a song, and the rowers were rowing. | composed
+Ἄνεμος οὔριος τὴν ναῦν ἔφερεν. | A favourable wind was carrying the ship. | composed
+Οἱ Ἀθηναῖοι τεῖχος περὶ τὴν πόλιν ᾠκοδόμουν. | The Athenians were building a wall round the city. | composed
+Τὰ τείχη τῆς πόλεως ἦν μακρά. | The walls of the city were long. | composed
+Οἰκοδομοῦσιν τὸ τεῖχος. | They are building the wall. | composed | @τεῖχος:acc
+Φυλάττουσιν τὰ τείχη. | They guard the walls. | composed | @τείχη:acc
+Ἀπὸ τοῦ τείχους ἐθεῶντο τὴν μάχην. | They were watching the battle from the wall. | composed
+Λαμπρὸς ἦν ὁ ἥλιος. | The sun was bright. | composed
+Ἀλλήλους ἔτυπτον. | They were hitting one another. | composed
+Ἀλλήλας ἔτυπτον αἱ κόραι. | The girls were hitting each other. | composed
+Ἄλληλα φιλεῖ τὰ παιδία. | The children love each other. | composed
+Διελέγοντο ἀλλήλαις. | They were talking with one another. | composed
+Ἀλλήλοις ἐβοήθουν οἱ ἀδελφοί. | The brothers were helping each other. | composed
+Οἱ φίλοι ἀλλήλων ἐπιμελοῦνται. | Friends take care of one another. | composed
+Ἐκ τοῦ ὄπισθεν ἐμπίπτει τοῖς προβάτοις. | It falls on the sheep from behind. | composed
+«Τί ἐθεῶ, ὦ παῖ;» | “What were you watching, boy?” | composed
+Ποῖ ἐπορεύεσθε, ὦ παῖδες, ὅτε ὑμᾶς εἶδον; | Where were you going, children, when I saw you? | composed
+Βραδέως ἐπορεύετο πρὸς τὸν λιμένα. | He was slowly making his way to the harbour. | composed
+Νόμος ὁ πάντων βασιλεύς. | Custom is king of all. | composed
+Οἱ ξένοι οἷς ἐβοηθοῦμεν ἡμῖν χάριν εἶχον. | The strangers whom we were helping were grateful to us. | composed
+Οἱ βόες οὓς ἐζητοῦμεν ἐν τῷ ἀγρῷ ἦσαν. | The oxen we were looking for were in the field. | composed
+Αἱ αἶγες ἃς ἐζητοῦμεν ἐν τῷ αὐλίῳ ἦσαν. | The goats we were looking for were in the fold. | composed
+Αἱ κόραι αἷς διελεγόμεθα πρὸς τῇ κρήνῃ ὑδρίας ἔφερον. | The girls we were talking to at the spring were carrying water jars. | composed
+Ἐγένετο ὅπερ ἐφοβούμεθα. | What we feared is exactly what happened. | composed
+Τὸ δένδρον ὃ φυτεύει μέγα ἐστίν. | The tree he is planting is big. | composed | @ὃ:acc
+Τὰ δῶρα ἃ φέρει καλά ἐστιν. | The gifts he brings are beautiful. | composed | @ἃ:acc
+Στενὴ ἦν ἡ ὁδός. | The road was narrow. | composed
+Στρογγύλην ναῦν εἶχεν. | He had a merchant ship. | composed
+Ταχεῖαι αἱ κόραι. | The girls are quick. | composed
+Ταχεῖα ἡ ναῦς. | The ship is fast. | composed
+Ταχὺ τὸ πλοῖον. | The boat is fast. | composed | @Ταχὺ:nom
+Ταχὺν κύνα ἔχει. | He has a fast dog. | composed
+Ταχὺ πλοῖον ἔχει. | He has a fast boat. | composed | @Ταχὺ:acc
+Ταχεῖαν ναῦν ἔχει. | He has a fast ship. | composed
+Ἀκούει τοῦ ταχέος κυνός. | He hears the swift dog. | composed
+Ἐκ τῆς ταχείας ἁμάξης ἐκβαίνει. | He gets out of the fast wagon. | composed
+Ἕπεται τῷ ταχεῖ κυνί. | He follows the swift dog. | composed
+Αἱ τριήρεις ἦσαν ταχεῖαι. | The triremes were fast. | composed
+Ἐν τῇ ταχείᾳ ἁμάξῃ καθίζει. | He sits in the fast wagon. | composed
+Ταχεῖς οἱ νεανίαι. | The young men are fast. | composed | @Ταχεῖς:nom
+Ταχέα τὰ πλοῖα. | The boats are fast. | composed | @Ταχέα:nom
+Ταχεῖς δούλους ἔχει. | He has quick slaves. | composed | @Ταχεῖς:acc
+Ταχείας ναῦς ἔχουσιν οἱ Ἀθηναῖοι. | The Athenians have fast ships. | composed | @Ταχείας:acc
+Ταχέα πλοῖα ἔχουσιν. | They have fast boats. | composed | @Ταχέα:acc
+Ἀκούει τὸν ψόφον τῶν ταχέων κυνῶν. | He hears the noise of the swift dogs. | composed
+Ὁ ἔμπορος τῶν ταχειῶν ἁμαξῶν ἐπιθυμεῖ. | The merchant wants the fast wagons. | composed
+Ἕπεται τοῖς ταχέσι κυσίν. | He follows the swift dogs. | composed
+Ἐν ταῖς ταχείαις ἁμάξαις πορεύονται. | They travel in the fast wagons. | composed
+Ἐν τῇ τριήρει πολλοὶ ἐρέται εἰσίν. | There are many rowers in the trireme. | composed
+Ἐκ τῆς τριήρους ἐκβαίνουσιν. | They disembark from the trireme. | composed
+Πολλαὶ τῶν τριήρων ταχεῖαί εἰσιν. | Many of the triremes are fast. | composed
+Ἐν ταῖς τριήρεσι πολλοὶ ναῦταί εἰσιν. | There are many sailors in the triremes. | composed
+Οἱ Ἀθηναῖοι πολλὰς τριήρεις εἶχον. | The Athenians had many triremes. | composed | @τριήρεις:acc
+Τριήρη οὐκ εἶχεν, ἀλλὰ πλοῖον μικρόν. | He didn't have a trireme, but a small boat. | composed
+Τὰ κύματα ἦν μεγάλα. | The waves were big. | composed
+Ἐν τῷ χειμῶνι ἐκινδύνευον. | They were in danger in the storm. | composed
+«Πρὸς τὴν κρήνην ᾖα, ὦ μῆτερ.» | “I was going to the spring, mother.” | composed
+«Ποῖ ᾔεις, ὦ παῖ;» | “Where were you going, boy?” | composed
+«Εἰς τὴν ἀγορὰν ᾖμεν.» | “We were going to the market place.” | composed
+«Ποῖ ᾖτε, ὦ φίλοι;» | “Where were you going, friends?” | composed
+Ἐξαίφνης ἐκύμαινεν ἡ θάλαττα. | Suddenly the sea began to swell. | composed
+Ὁ Ξέρξης ὀργιζόμενος ἐκέλευσε τὸν Ἑλλήσποντον τύπτειν. | In his anger Xerxes ordered his men to whip the Hellespont. | composed
+Ὁρᾷς τὸν ἄνδρα ὃν ὁ κύων διώκει; | Do you see the man whom the dog is chasing? | composed
+Ὁ ἀνὴρ ὃν ὁρᾷς ἰατρός ἐστιν. | The man you see is a doctor. | composed | +X:rel-case
+Ἡ κόρη ἣν σὺ φιλεῖς οὐ φιλεῖ σε. | The girl you love does not love you. | composed
+Ὁ λόγος ὃν ἔλεγες ἀληθής ἐστιν. | The story you were telling is true. | composed
+Ἆρα ἀληθές ἐστιν ὃ λέγεις; | Is what you say true? | composed
+Ἀληθεῖς εἰσιν οἱ λόγοι. | The words are true. | composed | @Ἀληθεῖς:nom
+Ἀληθῆ λόγον λέγει. | He tells a true story. | composed | @Ἀληθῆ:acc.m
+Ἀληθὲς λέγει. | He is telling the truth. | composed | @Ἀληθὲς:acc
+Ἀληθεῖς λόγους λέγει. | He tells true stories. | composed | @Ἀληθεῖς:acc
+Ὁ παῖς τἀληθῆ λέγει. | The boy tells the truth. | composed | @τἀληθῆ:acc
+Ἀληθεῖ λόγῳ πείθεται. | He is persuaded by a true word. | composed
+Ἀληθοῦς φίλου ἐπιθυμεῖ. | He longs for a true friend. | composed
+Πείθεται τοῖς ἀληθέσι λόγοις. | He is persuaded by true words. | composed
+Ἀληθῶν λόγων ἀκούει. | He hears true words. | composed
+«Χαίρετε, ὦ ἀληθεῖς φίλοι.» | “Greetings, my true friends.” | composed
+Ψευδὴς ἦν ὁ ἄγγελος· οὐδὲν γὰρ ἀληθὲς ἔλεγεν. | The messenger was a liar, for he said nothing true. | composed
+Λίθους ἔρριπτον εἰς τὴν θάλατταν. | They were throwing stones into the sea. | composed
+Οἱ πολῖται, ὧν αἱ οἰκίαι ἐκαίοντο, πρὸς τὴν Ἀκρόπολιν ἔφευγον. | The citizens whose houses were burning were fleeing to the Acropolis. | composed
+Οὐδεὶς ἐτόλμα εἰς τὸ ἄντρον εἰσβαίνειν. | No one dared to go into the cave. | composed
+Ὁ ῥήτωρ τὸν δῆμον ἔπειθεν. | The orator was trying to persuade the people. | composed
+Μέγας ἦν ὁ πλοῦτος τοῦ Ξέρξου. | Great was the wealth of Xerxes. | composed
+Ἐπιφθόνως ἔλεγε περὶ τοῦ πλούτου. | He spoke about his wealth in a way that caused envy. | composed
+Στρατιὰν μεγάλην ἦγεν ὁ Ξέρξης εἰς τὴν Ἑλλάδα. | Xerxes was leading a great army into Greece. | composed
+Τὸ πλῆθος τῆς στρατιᾶς ἦν μέγιστον. | The size of the army was enormous. | composed
+Τοσοῦτον ἦν τὸ πλῆθος ὥστε οἱ ποταμοὶ οὐχ ἱκανοὶ ἦσαν τῇ στρατιᾷ. | The host was so great that the rivers were not enough for the army. | after Hdt. 7.21 | @τοσοῦτον:nom
+Οὐδὲν λέγεις, ὦ φίλε. | You're talking nonsense, my friend. | composed
+Ἥσυχος ἔχε, ὦ παῖ· καθεύδει ὁ πάππος. | Keep quiet, boy; grandfather is asleep. | composed
+Τὸν θάνατον οὐδεὶς ἐκφεύγει. | No one escapes death. | composed
+Μηδένα πρὸ τοῦ θανάτου μακάριον καλεῖτε. | Call no one happy before his death. | after Hdt. 1.32
+Μείζων ὁ πατὴρ ἢ ὁ υἱός. | The father is bigger than the son. | composed
+Μεῖζον ἦν τὸ πλῆθος τῶν βαρβάρων. | The number of the barbarians was greater. | composed
+Μείζονα οἶκον ἔχει. | He has a bigger house. | composed | @Μείζονα:m
+Μεῖζον πλοῖον ἔχει. | He has a bigger boat. | composed | @Μεῖζον:acc
+Μείζονος οἴκου ἐπιθυμεῖ. | He wants a bigger house. | composed
+Ἐν μείζονι οἰκίᾳ οἰκεῖ. | He lives in a bigger house. | composed
+Μείζονες οἱ ἀγροί. | The fields are bigger. | composed | @Μείζονες:nom
+Μείζονας ἀγροὺς ἔχει. | He has bigger fields. | composed
+Μείζονα τὰ πλοῖα. | The boats are bigger. | composed | @Μείζονα:nom.n
+Μείζονα πλοῖα ἔχουσιν. | They have bigger boats. | composed | @Μείζονα:acc.n.p
+Ἐκ μειζόνων πόλεων ἥκουσιν. | They come from bigger cities. | composed
+Ἐν μείζοσι πλοίοις πλέουσιν. | They sail in bigger boats. | composed
+Πλέον ἦν τὸ πλῆθος τῶν Περσῶν. | The number of the Persians was greater. | composed | @Πλέον:nom
+Διὰ τί οὐκ ἐμένετε, ὦ φίλοι; | Why didn't you stay, friends? | composed
+Οἱ πολέμιοί εἰσιν ἐγγύς. | The enemy are near! | composed
+Τὸ ναυτικὸν τοῦ Ξέρξου ἦν μέγιστον. | Xerxes' fleet was enormous. | composed
+Ἐπόθουν τὴν ἐλευθερίαν. | They longed for freedom. | composed
+Δουλείαν ἔφερε τοῖς Ἕλλησιν. | He was bringing slavery to the Greeks. | composed
+Ἀμύνει τὸν λύκον τοῖς προβάτοις. | He keeps the wolf off the sheep. | composed
+Οἱ Ἀθηναῖοι ἐν Μαραθῶνι τοὺς βαρβάρους τῇ Ἑλλάδι ἤμυναν. | At Marathon the Athenians kept the barbarians off Greece. | composed
+Ἀνδρεῖοι ὄντες ἠμύνοντο τοὺς πολεμίους. | Being brave, they were defending themselves against the enemy. | composed
+Ἠμύναντο οἱ Ἕλληνες τοὺς Πέρσας. | The Greeks beat off the Persians. | composed
+Οἱ πολέμιοι τῷ τείχει προσεχώρουν. | The enemy were approaching the wall. | composed
+Ἐπὶ τοῖς τείχεσιν ἔμενον. | They were waiting on the walls. | composed
+Ἐγγὺς τῶν τειχῶν ἦσαν οἱ πολέμιοι. | The enemy were near the walls. | composed
+Τῷ ὄντι ἀνδρεῖοι ἦσαν οἱ ναῦται. | The sailors were really brave. | composed
+Πάντα ἐξ ἀρχῆς μοι λέγε. | Tell me everything from the beginning. | composed
+Ἡ ἀρετὴ τῶν Ἀθηναίων μεγάλη ἦν. | The courage of the Athenians was great. | composed
+Ἡ τόλμα τῶν ναυτῶν ἦν θαυμαστή. | The daring of the sailors was remarkable. | composed | @τόλμα=τόλμα
+Παραγίγνονται πολλοὶ ξένοι τῇ ἑορτῇ. | Many strangers are present at the festival. | composed
+Ταχέως παρεγένετο. | He soon arrived. | composed
+Οὐδὲν σαφὲς ἔλεγεν. | He said nothing clear. | composed
+Ὁ γέρων ἀεὶ ἔλεγεν ὅτι οἱ θεοὶ τὴν ὕβριν μισοῦσιν. | The old man always used to say that the gods hate arrogance. | composed
+Ἐνόμιζε τὸν βίον τῶν ἀνθρώπων οὐ μακρὸν εἶναι. | He thought that human life was short. | composed
+Ἐν τῷ πολέμῳ μεγάλην δόξαν ἔσχον. | They won great glory in the war. | composed
+Ὁ μὲν βίος οὐ μακρός, ἡ δὲ τέχνη μακρά. | Life is not long, but art is long. | composed
+Ὁ διδάσκαλος τοῖς παισὶ μῦθον ἔλεγεν. | The teacher was telling the boys a story. | composed
+Τοῖς μαθηταῖς ἐξηγεῖτο τὴν τέχνην. | He was explaining the craft to his pupils. | composed
+Ἐπίστευον οἱ μαθηταὶ τῷ διδασκάλῳ. | The pupils trusted their teacher. | composed
+Τὰ πράγματα ἦν χαλεπά. | Things were difficult. | composed
+Τὰ παιδία φοβούμενα δακρύει. | The little children cry in fright. | composed | @φοβούμενα:nom
+Ἀληθῆ ἐστι τὰ λεγόμενα. | What is being said is true. | composed | @Ἀληθῆ:nom.n
+Ἐν Μαραθῶνι τὴν τῶν Περσῶν δύναμιν ἐνίκησαν οἱ Ἀθηναῖοι. | At Marathon the Athenians defeated the might of the Persians. | composed
+Μεγάλας δυνάμεις ἔχουσιν αἱ πόλεις. | The cities have large forces. | composed | @δυνάμεις:acc
+Μεγάλαι αἱ τῶν Ἑλλήνων δυνάμεις. | The forces of the Greeks are large. | composed | @δυνάμεις:nom
+Μεγάλαις δυνάμεσι πορεύονται. | They march with large forces. | composed
+Πολλῶν δυνάμεων ἐπιθυμεῖ ὁ βασιλεύς. | The king wants many forces. | composed
+Ἐνόμιζε τὴν στρατιὰν ἄμαχον εἶναι. | He thought his army could not be beaten. | composed
+Οὐχ ὑπείκει ὁ ἀνδρεῖος τῷ φόβῳ. | The brave man does not give in to fear. | composed
+Γυμνάζουσι τὰ σώματα. | They are training their bodies. | composed
+Ἐν τοῖς στενοῖς ἐγένετο ἡ ναυμαχία. | The sea battle took place in the straits. | composed
+Οἱ Ἀθηναῖοι ἐν Μαραθῶνι ἐμαχέσαντο καὶ ἐνίκησαν. | The Athenians fought at Marathon and won. | composed
+Οἱ Ἀθηναῖοι ἐν Μαραθῶνι μόνοι διεκινδύνευσαν. | At Marathon the Athenians faced the danger alone. | after Thuc. 1.73
+Ἐν τῇ ὑστέρᾳ ναυμαχίᾳ ἐνίκησαν. | In the later sea battle they were victorious. | composed
+Νομίζω σε, ὦ πάππα, σοφὸν εἶναι. | I think you are wise, daddy. | composed | +X:acc-inf
+Ὁ Θεμιστοκλῆς ἔπεισε τοὺς Ἀθηναίους τριήρεις κατασκευάζειν. | Themistocles persuaded the Athenians to build triremes. | after Hdt. 7.144 | @τριήρεις:acc
+Δύο ναῦς εἶχεν. | He had two ships. | composed | @ναῦς:acc
+Οἱ πρόγονοι ἡμῶν ἦσαν ἐλεύθεροι. | Our ancestors were free. | composed
+Οἱ πατέρες ἡμῶν τοὺς Πέρσας ἐνίκησαν. | Our forefathers defeated the Persians. | composed | +X:sense-pateres
+Οἱ Ἀθηναῖοι τὴν τυραννίδα ἐμίσουν. | The Athenians hated tyranny. | composed
+Ἐν ὀλιγαρχίᾳ ὀλίγοι διοικοῦσι τὴν πόλιν. | In an oligarchy a few run the city. | composed
+Ἡ τῶν Ἀθηναίων πολιτεία ἦν καλή. | The constitution of the Athenians was a fine one. | composed
+Τὸ τῶν Περσῶν ἔθνος ἦν μέγα. | The Persian nation was great. | composed
+Ἅπασα ἡ πόλις ἦν ἐν φόβῳ. | The whole city was in fear. | composed
+Ἅπαντα ὁρᾷ ὁ θεός. | The god sees everything. | composed | @Ἅπαντα:acc.n.p
+Ἅπαν τὸ ἔργον ποιεῖ. | He does the whole job. | composed | @Ἅπαν:acc
+Πολιτεία γὰρ τροφὴ ἀνθρώπων ἐστίν, καλὴ μὲν ἀγαθῶν, ἡ δὲ ἐναντία κακῶν. | For a constitution is the nurture of men: a good one of good men, the opposite of bad. | Pl. Menexenus 238c
+Ἡ τοῦ πλήθους πολιτεία ὄνομα ἔχει πάντων κάλλιστον, ἰσονομίαν. | Government by the people has the fairest name of all: equality before the law. | after Hdt. 3.80
+Τίς ἦν ἡ αἰτία τοῦ πολέμου; | What was the cause of the war? | composed | @αἰτία=αἰτία
+Οἱ Ἀθηναῖοι ὑπὸ τοῖς τυράννοις οὐκ ἦσαν ἀνδρεῖοι, ἐλεύθεροι δὲ γενόμενοι πρῶτοι ἐγένοντο. | Under the tyrants the Athenians were not brave, but once free they became the first. | after Hdt. 5.78
+Ὁ θάνατος τὴν ψυχὴν λύει ἀπὸ τοῦ σώματος. | Death frees the soul from the body. | composed
+Ἐκ τῶν ὀφθαλμῶν ἔπιπτε δάκρυα. | Tears were falling from her eyes. | composed
+Μέγα πένθος ἦν ἐν τῇ πόλει. | There was great mourning in the city. | composed
+Τὰ ἄνθη ἐν τῷ κήπῳ ἐξήνθει. | The flowers were blooming in the garden. | composed
+Ἀπεκάλυψε τὴν κεφαλήν. | She uncovered her head. | composed
+Ψυχὴ πᾶσα ἀθάνατος. | Every soul is immortal. | composed
+Νῦν μᾶλλον φοβοῦμαι. | Now I am more afraid. | composed
+Μακάριοι οἱ κακῶν ἄγευστοι. | Happy are those who have never tasted evils. | after Soph. Ant. 582
+Οἱ Ἀθηναῖοι ἀντέταξαν τὰς ναῦς τοῖς βαρβάροις. | The Athenians drew up their ships against the barbarians. | composed | @ναῦς:acc
+Ὁ Ξέρξης κρείττων ἐδόκει εἶναι. | Xerxes seemed to be the stronger. | composed
+Κατέλεξαν πάντας τοὺς πολίτας εἰς τὰς ναῦς. | They enrolled all the citizens for the ships. | composed | @ναῦς:acc
+Ὁ πόλεμος καλὸς δοκεῖ τοῖς ἀπείροις. | War seems a fine thing to those who have no experience of it. | composed
+Βραδέως ἐπορεύετο ὁ πεζός. | The land army was marching slowly. | composed
+Ἦρε τὸ σημεῖον. | He raised the signal. | composed
+Διεβίβαζε τὴν στρατιὰν ἐκ τῆς Ἀσίας εἰς τὴν Εὐρώπην. | He was taking his army across from Asia into Europe. | composed
+Ὁ μὲν πεζὸς κατὰ γῆν ἐπορεύετο, αἱ δὲ νῆες κατὰ θάλατταν ἔπλεον. | The infantry marched by land, and the ships sailed by sea. | composed
+Τῆς ἡμέρας ἐργάζεται. | He works in the daytime. | composed | +X:gen-time
+Ἑπτὰ ἡμέρας ὁ Ξέρξης τὴν στρατιὰν διεβίβαζεν. | For seven days Xerxes was taking his army across. | after Hdt. 7.56 | +X:acc-time
+Ὁ Ξέρξης, ἐπεὶ εἶδε τὸ πλῆθος τῶν νεῶν, ἐδάκρυσεν. | When Xerxes saw the multitude of his ships, he burst into tears. | after Hdt. 7.45 | +X:aor-ingr
+Χιλίας ναῦς εἶχεν. | He had a thousand ships. | composed | @ναῦς:acc
+Ἄδηλον ἦν τὸ τέλος τοῦ πολέμου. | The outcome of the war was unclear. | composed
+Ὁ βοῦς πολλὴν ῥώμην ἔχει. | The ox has great strength. | composed
+Καταλαμβάνει τὸν λαγών. | It catches the hare. | composed
+Οἱ Πέρσαι τὴν Ἀκρόπολιν κατέλαβον. | The Persians captured the Acropolis. | after Hdt. 8.53
+Οἱ Ἀθηναῖοι ναυτικοὶ ἐγένοντο. | The Athenians became seafarers. | after Thuc. 1.18
+Περιγίγνεται ὁ ἀνδρεῖος τῶν πολεμίων. | The brave man overcomes his enemies. | composed
+Ὀλίγοι τῶν ναυτῶν περιεγένοντο. | Few of the sailors survived. | composed
+Κεναὶ αἱ ὑδρίαι. | The water jars are empty. | composed
+Ἐθαύμαζον τὸ μέγεθος τῆς νεώς. | They were amazed at the size of the ship. | composed
+Ἐπεὶ οἱ Πέρσαι ἀφίκοντο εἰς τὰς Ἀθήνας, φεύγουσιν οἱ πολῖται εἰς τὰς ναῦς. | When the Persians reached Athens, the citizens fled to the ships. | composed | +X:hist-pres
+Ἄνευ τῶν θεῶν οὐδὲν δυνατόν ἐστιν. | Without the gods nothing is possible. | composed
+Δέομαί σου, ὦ φίλε· βοήθει μοι. | I beg you, my friend: help me. | composed
+Μετὰ τὸν πόλεμον οἱ Ἀθηναῖοι τὰ τείχη ἀνῳκοδόμουν. | After the war the Athenians set about rebuilding the walls. | after Thuc. 1.89
+Ὁ ποταμὸς διέρχεται διὰ τῆς χώρας. | The river flows through the country. | composed
+Διῆλθεν ἡ στρατιὰ τὴν Ἀττικήν. | The army passed through Attica. | composed
+# ---- practice (ch.13 review)

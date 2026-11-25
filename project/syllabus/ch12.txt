@@ -1,0 +1,123 @@
+λύω | untie, set free | v long aor=ἔλυσα/λυσ
+παύω | stop | v aor=ἔπαυσα/παυσ
+παύομαι | stop | v aor=ἐπαυσάμην/παυσ
+πέμπω | send | v aor=ἔπεμψα/πεμψ
+κελεύω | order | v aor=ἐκέλευσα/κελευσ
+βαδίζω | walk | v aor=ἐβάδισα/βαδισ
+θαυμάζω | wonder at | v aor=ἐθαύμασα/θαυμασ irr
+καθίζω | sit down | v aor=ἐκάθισα/καθισ irr
+παρασκευάζω | prepare | v impf=0 aor=παρεσκεύασα/παρασκευασ
+ξενίζω | entertain (a guest) | v aor=ἐξένισα/ξενισ
+σπεύδω | hurry | v aor=ἔσπευσα/σπευσ
+νέω | swim | 
+πείθω | persuade | v aor=ἔπεισα/πεισ irr
+σῴζω | save | v aor=ἔσωσα/σωσ irr
+πλέω | sail | 
+ποιέω | do, make | v aor=ἐποίησα/ποιησ
+φιλέω | love | v aor=ἐφίλησα/φιλησ
+οἰκέω | live | v aor=ᾤκησα/οἰκησ
+τιμάω | honour | v aor=ἐτίμησα/τιμησ
+καλέω | call | v aor=ἐκάλεσα/καλεσ irr
+βοηθέω | help | v aor=ἐβοήθησα/βοηθησ
+ἐθέλω | want | v impf=0 aor=ἠθέλησα/ἐθελησ irr
+ἐλαύνω | drive | v aor=ἤλασα/ἐλασ irr
+μένω | stay | v aor=ἔμεινα/μειν irr
+ἀνατέλλω | rise | v impf=0 aor=ἀνέτειλα/ἀνατειλ irr
+ἀποκρίνομαι | answer | v impf=0 long aor=ἀπεκρινάμην/ἀποκριν irr
+πλύνω | wash (clothes) | v long aor=ἔπλυνα/πλυν irr
+ἐγείρω | wake (someone) | v aor=ἤγειρα/ἐγειρ irr
+τρέπομαι | turn | v aor=ἐτρεψάμην/τρεψ irr
+ἁμαρτάνω | miss, make a mistake (+ gen.) | v aor2=ἥμαρτον/ἁμαρτ
+ἐσθίω | eat | v aor2=ἔφαγον/φαγ
+τρέχω | run | v aor2=ἔδραμον/δραμ
+κλάζω | bark, clang | v aor2=ἔκλαγον/κλαγ
+φέρω | carry, bring | v aor=ἤνεγκα/ἐνεγκ irr aor2=ἤνεγκον/ἐνεγκ
+ἐρωτάω | ask (a question) | v aor_mid=ἠρόμην/ἐρ
+ἀπέχω | be distant, be away from (+ gen.) | v impf=0
+ἀπορέω | be at a loss | v
+γαμέομαι | marry (of a woman, + dat.) | v
+ἐλεέω | pity | v aor=ἠλέησα/ἐλεησ
+ἐνδύομαι | put on (clothes) | v impf=0 long aor=ἐνεδυσάμην/ἐνδυσ
+ἐπιλανθάνομαι | forget (+ gen.) | v impf=0
+ἔχομαι | hold on to (+ gen.) | v
+ἰάομαι | heal, cure | v
+ἱκετεύω | beg, supplicate | v aor=ἱκέτευσα/ἱκετευσ
+νοστέω | return home | v aor=ἐνόστησα/νοστησ
+ὁρμάω | set out, rush | v
+παρανέω | swim alongside, swim along (+ dat.) |
+πειράομαι | try | v
+περιμένω | wait for | v impf=0
+πλανάομαι | wander | v
+πωλέω | sell | v
+ἀμφίπολος | maidservant | n g=f
+ἅμαξα | wagon | n
+ἄνασσα | queen, lady | n
+ἄνθος | flower | 
+δῶρον | gift | n
+ἔμπορος | merchant | n
+ἐνύπνιον | dream | n
+θάμνος | bush | n
+θεράπαινα | maidservant | n
+ἱμάτιον | cloak; (pl.) clothes | n
+ἱστός | mast; loom | n
+κεραυνός | thunderbolt | n
+ναύτης | sailor | n
+νύμφη | bride; nymph | n
+οἰνοπώλιον | wine shop | n
+ὄψις | sight, appearance | 
+πέτρα | rock | n
+πόσις | husband | 
+ποταμός | river | n
+πτόρθος | branch | n
+πτωχός | beggar | n
+στόμα | mouth | n3 gen=στόματος g=n
+σφαῖρα | ball | 
+αἰδοῖον | (τὰ αἰδοῖα) private parts | n
+τόπος | place | n
+ὕλη | wood, forest | n
+ὗς | pig | 
+φορτίον | load; (pl.) cargo | n
+χῶμα | mound | n3 gen=χώματος g=n
+Ἀλκίνους | (name) | 
+Ἄρτεμις | (name) | 
+Φαίακες | (name) | 
+ἀλλότριος | belonging to another | adj
+ἄλουτος | unwashed | adj2
+ἀνθρώπινος | human | adj
+βάρβαρος | foreign, barbarian | adj2
+γεραιός | old | adj
+γυμνός | naked | adj
+θνητός | mortal | adj
+μακάριος | blessed, happy | adj
+ὁμαλός | level | adj
+ὅμοιος | like, similar (+ dat.) | adj
+ὀρθός | straight, right | adj
+πλεῖστος | most, very many | adj
+πλείων | more | 
+πρᾷος | gentle | 
+ὑπέρκοπος | arrogant | adj2
+φιλάνθρωπος | kind, humane | adj2
+χωλός | lame | adj
+ἄγαν | too much | 
+εὖ | well | 
+εὐμενῶς | kindly | 
+ὅπου | where | 
+οὐδέποτε | never | 
+πανταχόσε | in every direction | 
+πλεῖστον | most | 
+πόρρωθεν | from afar | 
+ὕστερον | later | 
+C:διάγει τὸν βίον / διάγουσι τὸν βίον / διάγω τὸν βίον / διάγομεν τὸν βίον | spend one's life
+C:εἰς καιρόν | at the right moment
+C:ἐπὶ πόσῳ | for how much?
+C:κατὰ πόλιν | in the city
+C:ὀλίγῳ ὕστερον | a little later
+C:πῶς δαί | how so? what do you mean?
+C:χαίρειν κελεύω / χαίρειν κελεύει / χαίρειν κελεύουσιν / χαίρειν κελεύσας / χαίρειν κελεύσαντες | bid farewell
+X:aug-comp | in compound verbs the augment comes after the prefix: παρασκευάζω → παρεσκεύασα, ἀνατέλλω → ἀνέτειλα
+λούω | wash; (mid.) bathe | v mid reg
+ὁρμέω | lie at anchor | v
+ἤ | or (ἤ … ἤ …: either … or …) |
+C:χοροὺς εἰσάγουσιν / χοροὺς εἰσάγουσι / χοροὺς εἰσάγει / χοροὺς εἰσάγω | put on dances (at a festival)
+# Smyth inventory (added 2026-11-23): a Smyth concept Athenaze does not treat
+X:aor-ingr | the ingressive aorist: the aorist of a verb that names a state can mean “began to, became” (ἐβασίλευσε “became king”, ἐδάκρυσε “burst into tears”, ἐγέλασε “burst out laughing”); Smyth §1924

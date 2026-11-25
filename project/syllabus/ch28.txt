@@ -1,0 +1,141 @@
+# Athenaze II, ch.28 (Κροῖσος ἐπὶ τῇ πυρᾷ; ὁ ἐπιτάφιος) — perfect and pluperfect active (1st -κα, 2nd -α); perfects with a present meaning; uses of ὡς
+# ---- perfect active of verbs already known (the stem is new where marked !)
+λύω | loosen, free | v pf=λέλυκα
+πέμπω | send | v pf=πέπομφα!
+γράφω | write | v pf=γέγραφα!
+λαμβάνω | take | v pf=εἴληφα!
+ἀκούω | hear | v pf=ἀκήκοα!
+ὁράω | see | v pf=ἑώρακα!
+πάσχω | suffer, experience | v pf=πέπονθα!
+γίγνομαι | become, happen (pf. γέγονα) | v pf=γέγονα!
+λέγω | say (pf. εἴρηκα) | v pf=εἴρηκα!
+φέρω | carry | v pf=ἐνήνοχα!
+εὑρίσκω | find | v pf=ηὕρηκα!
+πείθω | persuade (pf. πέπεικα); (pf. πέποιθα) trust (+ dat.) | v pf=πέπεικα!
+ἀποθνήσκω | die (pf. τέθνηκα “am dead”) |
+βαίνω | go, walk (pf. βέβηκα “stand firm, be”) | v pf=βέβηκα!
+πράττω | do (pf. πέπραχα); fare (pf. πέπραγα) | v pf=πέπραχα!
+φεύγω | flee | v pf=πέφευγα!
+λείπω | leave | v pf=λέλοιπα!
+καίω | burn | v pf=κέκαυκα! pfm=κέκαυμαι! aorp=ἐκαύθην!
+# ---- new verbs with principal parts
+ἁλίσκομαι | be caught, be taken | v fut=ἁλώσομαι! raor=ἑάλων/ἁλω/ἁλο pf=ἑάλωκα!
+ἀναμιμνήσκω | remind (someone: acc., of something: gen.); (pf. μέμνημαι) remember | v fut=ἀναμνήσω aor=ἀν·έμνησα/ἀναμνησ pfm=μέμνημαι! aorp=ἐμνήσθην/μνησθ!
+δέω | bind, tie | v fut=δήσω aor=ἔδησα/δησ irr pf=δέδεκα! pfm=δέδεμαι! aorp=ἐδέθην!
+κατακαίω | burn down, burn completely | v fut=κατακαύσω aor=κατ·έκαυσα/κατακαυσ base=καίω
+φύω | produce, make grow; (pf. πέφυκα) be by nature | v aor=ἔφυσα/φυσ irr pf=πέφυκα!
+# ---- other new verbs
+ἀναιρέω | take up; (middle) take up for burial | v mid aor_mid=ἀν·ειλόμην/ἀνελ
+ἀναστενάζω | groan aloud | v aor=ἀν·εστέναξα/ἀναστεναξ
+ἀνερωτάω | ask, question | v reg pre=ἀν
+ἀποβαίνω | step off; turn out, result | v raor=ἀπ·έβην/ἀποβη/ἀποβα fut=ἀποβήσομαι base=βαίνω
+ἀπολείπω | leave behind, abandon | v aor2=ἀπ·έλιπον/ἀπολιπ base=λείπω
+βλώσκω | come, go (aor. ἔμολον) | v aor2=ἔμολον/μολ
+γοητεύω | bewitch, beguile | v reg
+διαμνημονεύω | remember, call to mind; mention | v reg pre=δια
+διαπέμπω | send across, send off | v aor=δι·έπεμψα/διαπεμψ base=πέμπω
+διαρπάζω | plunder | v reg pre=δια
+X:diapherei | impersonal διαφέρει (+ dat.): “it makes a difference (to someone)”; οὐδὲν διαφέρει “it makes no difference”
+ἐγγίγνομαι | be born in, arise in; happen | v aor_mid=ἐν·εγενόμην/ἐγγεν base=γίγνομαι
+ἐγκωμιάζω | praise | v reg pre=ἐγ
+ἐκλογίζομαι | calculate, consider | v reg pre=ἐκ
+ἐνθυμέομαι | consider, ponder | v reg pre=ἐν
+ἐπιβαίνω | go onto, board, mount (+ gen.) | v raor=ἐπ·έβην/ἐπιβη/ἐπιβα base=βαίνω
+ἐπικαλέω | call upon; (middle) invoke | v mid aor=ἐπ·εκάλεσα/ἐπικαλεσ base=καλέω
+ἐπικρατέω | prevail, be master of (+ gen.) | v reg pre=ἐπι
+ἐρεύθω | make red; blush | v
+ἔρρω | go away, go to ruin (ἔρρε “away with you!”) | v
+ζηλόω | envy, emulate | v reg
+ζωγρέω | take alive | v reg
+θέω | run |
+καταβιβάζω | bring down | v reg pre=κατα
+κατακυλίνδομαι | roll down | v
+καταπαύω | put an end to, stop | v aor=κατ·έπαυσα/καταπαυσ base=παύω
+ὀρέγομαι | reach out for, desire (+ gen.) | v aor=ὠρεξάμην/ὀρεξ
+παραμελέω | disregard, neglect | v reg pre=παρα
+παρίσταμαι | stand beside, help (+ dat.) | cmpd base=ἵστημι pre=παρα raor=παρ·έστην/παραστη/παραστα fut=παραστήσω
+πλησιάζω | come near, approach (+ dat.) | v reg
+πορθέω | sack, destroy | v reg
+προλέγω | foretell, warn | v aor2=προ·εῖπον/προειπ base=λέγω
+προσπαίζω | joke with, tease (+ dat.) | v aor=προσ·έπαισα/προσπαισ
+σκήπτομαι | allege, plead as an excuse | v aor=ἐσκηψάμην/σκηψ
+συναιρέω | bring together; συνελόντι εἰπεῖν “to put it briefly” | v aor2=συν·εῖλον/συνελ base=αἱρέω
+τεύχω | make, build | v
+φθέγγομαι | utter, speak | v aor=ἐφθεγξάμην/φθεγξ
+φιλοκαλέω | love beauty | v reg
+# ---- nouns
+αἰθρία | clear sky, fair weather | n
+ἀκρίβεια | exactness, accuracy | n sa
+ἄλοχος | wife | n g=f
+ἀμοιβή | exchange; return, repayment | n
+ἁρμονία | harmony | n
+ἀστήρ | star (dat. pl. ἀστράσι) |
+ἀστρονομία | astronomy | n
+δέος | fear | nes
+δημηγορία | public speech | n
+ἑρμηνεύς | interpreter | neus
+εὐσέβεια | piety | n sa
+εὐτέλεια | simplicity, economy | n sa
+θράσος | boldness, rashness | nes
+κόμπος | boast | n
+κρίσις | judgment, decision | nis g=f
+κυνέη | helmet (Attic κυνῆ) | n
+λογισμός | calculation, reasoning | n
+μαλακία | softness, weakness | n
+μέγαρον | hall, house | n
+μένος | might, strength; spirit | nes
+μέριμνα | care, anxiety | n short
+μετάγνωσις | change of mind, regret | nis g=f
+νέφος | cloud | nes
+νηνεμία | calm, stillness | n
+ξύλον | wood, piece of wood | n
+ὄκνος | hesitation, reluctance | n
+ὄλβος | happiness, prosperity | n
+πέδη | fetter | n
+σοφία | wisdom | n
+ταφή | burial | n
+ὑπόμνημα | reminder; note, memoir | n3 gen=ὑπομνήματος g=n
+φιλοσοφία | love of wisdom, philosophy | n
+φλόξ | flame | n3 gen=φλογός g=f
+# ---- adjectives, adverbs, conjunctions
+ἄμαχος | invincible | adj2
+ἀπότομος | steep, sheer | adj2
+ἀπράγμων | free from business, quiet | adj3 neut=ἄπραγμον gen=ἀπράγμονος
+ἄφωνος | speechless, dumb | adj2
+ἀχρεῖος | useless | adj2
+γνώριμος | well known; (as noun) acquaintance | adj2
+ἐπίδοξος | likely; of good repute | adj2
+ἐπιεικής | reasonable, fair, decent | adjes
+ἐπιτάφιος | funeral; ὁ ἐπιτάφιος (λόγος) “funeral speech” | adj2
+ἐρυθρός | red | adj
+εὐμαθής | quick at learning | adjes
+εὐπλόκαμος | with lovely hair | adj2
+θεοσεβής | god-fearing, pious | adjes
+θεοφιλής | dear to the gods | adjes
+μνημονικός | having a good memory | adj
+ξανθός | fair, yellow, blond | adj
+ξύλινος | wooden | adj
+σπουδαῖος | serious, earnest; good | adj
+φαῦλος | cheap, trivial, bad | adj
+ἄδην | enough, to one's fill |
+ἄνωθεν | from above |
+ὀξέως | sharply, quickly |
+πέλας | near, nearby (ὁ πέλας “one's neighbour”) |
+πολλαχῇ | in many ways, in many places |
+αὖ | again, in turn; on the other hand |
+C:ἄδην ἔχω / ἄδην ἔχει / ἄδην ἔχουσι / ἄδην ἔχουσιν / ἄδην εἶχε / ἄδην εἶχεν / ἄδην εἶχον / ἄδην ἔχειν | have one's fill of (+ gen.)
+C:διαφερόντως ἔχω / διαφερόντως ἔχει / διαφερόντως ἔχουσι / διαφερόντως ἔχουσιν / διαφερόντως εἶχε / διαφερόντως εἶχεν / διαφερόντως ἔχομεν | be exceptional, be outstanding
+C:εἰς λόγους | (εἰς λόγους εἶναι / ἐλθεῖν τινι) into conversation with someone
+C:ἐν τῷ παραχρῆμα | immediately, on the spot
+C:εὖ ἂν λέγοις | you would be right, well said
+C:καθ᾽ ὅσον δύναμαι / καθ᾽ ὅσον δύναται / καθ᾽ ὅσον δυνάμεθα / καθ᾽ ὅσον δύνανται / καθ᾽ ὅσον ἐδύνατο | as far as I can
+C:ὅρα μή / ὁρᾶτε μή | see that … not, take care not (+ subj.)
+C:ὅτι μάλιστα | as much as possible
+C:περὶ οὐδενὸς ποιοῦμαι / περὶ οὐδενὸς ποιεῖται / περὶ οὐδενὸς ποιοῦνται / περὶ οὐδενὸς ἐποιεῖτο / περὶ οὐδενὸς ἐποιοῦντο / περὶ οὐδενὸς ποιεῖσθαι | consider of no account
+X:pf-pres | perfects with a present meaning: τέθνηκα “I am dead”, ἕστηκα “I stand”, βέβηκα “I stand firm”, πέφυκα “I am by nature”, μέμνημαι “I remember”
+X:hos-to | ὡς + accusative of a person: “to” (ὡς βασιλέα ἦλθεν “he came to the king”)
+X:hos-excl | ὡς in exclamations: “how …!” (ὡς καλός ἐστιν “how beautiful he is!”)
+X:hos-about | ὡς with numbers: “about” (ὡς πεντήκοντα “about fifty”)
+# for classical passages that the book quotes, in the author's own words (added 2026-11-23)
+φιλοσοφέω | love wisdom, pursue philosophy |
+ἀμαθία | ignorance, lack of learning |

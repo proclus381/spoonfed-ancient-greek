@@ -1,0 +1,126 @@
+# ch.29 — οἶδα; perfects with a present meaning; the indirect reflexive ἕ / σφεῖς; the potential optative; result clauses; the "Attic" declension
+Οἱ ποιμένες ἐν τοῖς ὄρεσι διαιτῶνται. | Shepherds live in the mountains. | composed
+Οἶδα. | I know. | composed
+Οἱ σοφοὶ ἴσασιν ὅτι οὐδὲν ἴσασιν. | The wise know that they know nothing. | composed
+Ὁ πατὴρ οὐκ ᾔδει ὅποι ὁ υἱὸς ἔλθοι. | Father did not know where his son had gone. | composed
+Πάντα ᾖσμεν. | We knew everything. | composed
+Πάντα ᾖστε. | You knew everything. | composed
+Ἓν οἶδα, ὅτι οὐδὲν οἶδα. | One thing I know: that I know nothing. | composed
+«Ἴστε τοῦτο, ὦ φίλοι.» | “Know this, friends.” | composed | @Ἴστε:imp
+Ἐρωτῶ ἵνα εἰδῶ. | I am asking so that I may know. | composed
+Ἐρωτᾷς ἵνα εἰδῇς. | You are asking so that you may know. | composed
+Ἐρωτῶμεν ἵνα εἰδῶμεν. | We are asking so that we may know. | composed
+Ἐρωτᾶτε ἵνα εἰδῆτε. | You are asking so that you may know. | composed
+Ἐρωτῶσιν ἵνα εἰδῶσιν. | They are asking so that they may know. | composed
+«Εἴθε εἰδείην.» | “If only I knew!” | composed
+«Εἴθε εἰδεῖμεν.» | “If only we knew!” | composed
+«Εἴθε εἰδεῖτε.» | “If only you knew!” | composed
+«Εἴθε εἰδεῖεν.» | “If only they knew!” | composed
+Οὐκ ἂν φαίην. | I would not say so. | composed
+Οὐκ ἂν φαίης. | You would not say so. | composed
+Οὐκ ἂν φαῖμεν. | We would not say so. | composed
+Οὐκ ἂν φαῖτε. | You would not say so. | composed
+Οὐκ ἂν φαῖεν. | They would not say so. | composed
+Οὐκ ᾔδη, ὦ φίλε, τοῦτο. | I didn't know that, my friend. | composed
+Οἱ ναῦται οὐκ ᾔδεσαν πόθεν ὁ ἄνεμος πνεῖ. | The sailors did not know where the wind was blowing from. | composed
+Ἴσμεν τὰ γενόμενα. | We know what has happened. | composed
+Οἱ ἄνθρωποι τὸν λοιμὸν μᾶλλον φοβοῦνται ἢ τὸν πόλεμον. | People fear plague more than war. | composed
+Πολλοὶ ἐν τῷ λοιμῷ ἔκαμνον. | Many were ill during the plague. | composed | +X:sense-kamno
+Ὁ Σωκράτης τὸ φάρμακον πίνει. | Socrates drinks the poison. | composed | +X:sense-pharmakon
+Ἴστε, ὦ παῖδες, τί ἐστιν ἀρετή; | Do you know, children, what virtue is? | composed | @Ἴστε:ind
+«Ἆρα οἶσθα τὴν ὁδόν;» «Οἶδα.» | “Do you know the way?” “I do.” | composed
+Εὖ οἶδε τὴν ὁδόν. | He knows the way well. | composed
+Βούλομαι εἰδέναι τί τοῦτό ἐστιν. | I want to know what this is. | composed
+Ὁ γέρων πολλὰ εἰδὼς σοφὸς νομίζεται. | The old man, who knows a great deal, is thought wise. | composed
+Ἡ μήτηρ εὖ εἰδυῖα τὸν παῖδα νοσοῦντα τὸν ἰατρὸν ἐκάλεσεν. | The mother, knowing well that the boy was ill, called the doctor. | composed
+Εὖ ἴσθι ὅτι ὁ πατήρ σε φιλεῖ. | Be sure that your father loves you. | composed | @ἴσθι=οἶδα
+Μένε ἕως ἂν εἰδῇ ὁ στρατηγὸς τί δεῖ ποιεῖν. | Wait until the general knows what must be done. | composed
+Ὁ παῖς ἤρετο εἰ ὁ διδάσκαλος εἰδείη τὰ ἀληθῆ. | The boy asked whether the teacher knew the truth. | composed
+Τότε μὲν οὐκ ᾔδεις, νῦν δὲ οἶσθα. | Then you didn't know, but now you know. | composed
+Οὐκ ἂν εἰδείης τίς ἐστιν. | You could not know who he is. | composed
+Ἕωθεν περιπατεῖν εἴωθεν. | He is in the habit of walking at dawn. | composed
+Ταράττει ὁ ἄνεμος τὴν θάλατταν. | The wind is stirring up the sea. | composed
+Ὕδωρ τοῦ ἀδελφοῦ κατεσκέδασεν. | He poured water over his brother. | composed
+Νόσος δεινὴ ἐγκατέσκηψεν εἰς τοὺς βοῦς. | A terrible disease struck the cattle. | composed
+Ἡ γλῶττα πολλάκις τοὺς ἀνθρώπους βλάπτει. | The tongue often does people harm. | composed
+Ἐν τῷ τοῦ παιδὸς προσώπῳ ἐφάνη ἐρύθημα. | A red flush appeared on the child's face. | composed
+Ὑπὸ θέρμης ἔκαμνεν. | He was ill with a fever. | composed
+Ἀλγεῖ τὴν καρδίαν. | He has a pain in his heart. | composed
+Σινδόνα φέρει. | She is wearing a linen dress. | composed
+Ἀλγεῖ τὴν φάρυγγα. | He has a sore throat. | composed
+Ἔπαυσε τὴν φλόγωσιν. | He stopped the inflammation. | composed
+Ὁ νεὼς μέγας ἐστίν. | The temple is big. | composed | @νεὼς=νεώς:nom
+Εἰς τὸν νεὼν εἰσῆλθεν. | He went into the temple. | composed
+Ἐκ τοῦ νεὼ ἐξέρχεται. | He comes out of the temple. | composed
+Ἐν τῷ νεῴ θύουσιν. | They sacrifice in the temple. | composed | @νεῴ:dat
+Οἱ νεῴ μεγάλοι εἰσίν. | The temples are big. | composed | @νεῴ:nom
+Πολλοὺς νεὼς οἰκοδομοῦσιν. | They build many temples. | composed | @νεὼς:acc
+Ἐπιμελοῦνται τῶν νεών. | They take care of the temples. | composed | @νεών:gen
+Ἐν τοῖς νεῴς θύουσιν. | They sacrifice in the temples. | composed
+Διώκουσι τοὺς λαγώς. | They are chasing the hares. | composed | +X:attic-decl
+Ὁ λεὼς εἰς τὴν ἀγορὰν συνῆλθεν. | The people gathered in the agora. | composed
+Μετὰ τὴν μάχην αἱματώδης ἦν ὁ ποταμός. | After the battle the river was blood-red. | composed
+Ὁ πλοῦτός ἐστιν ἄνευ σοφίας ἀνωφελής. | Wealth without wisdom is useless. | composed
+Λεπτὸς ὁ γέρων. | The old man is thin. | composed
+Ἔλεγον ὅτι σφεῖς οὐ φεύξονται. | They said that they would not run away. | composed
+Οἱ ναῦται ᾔτουν τὸν ἔμπορον τὸν μισθὸν σφίσι δοῦναι. | The sailors asked the merchant to give them their pay. | composed
+Οἱ παῖδες ἐφοβοῦντο μὴ ὁ πατὴρ σφᾶς κολάζοι. | The children were afraid that their father might punish them. | composed
+Οἱ πολῖται ἐνόμιζον τοὺς θεοὺς σφῶν ἐπιμελεῖσθαι. | The citizens believed that the gods cared for them. | composed
+Πρόοιδε τὸν χειμῶνα. | He knows beforehand that winter is coming. | composed
+Ὁ βὴξ τὸν γέροντα οὐκ ἐᾷ καθεύδειν. | His cough does not let the old man sleep. | composed
+Λὺγξ τὸν παῖδα ἔχει. | The boy has the hiccups. | composed
+Ὁ νοσῶν σπασμοῖς ἐταράττετο. | The sick man was racked by convulsions. | composed
+Διέφυγε τοὺς φύλακας. | He escaped the guards. | composed
+Ὁ πόλεμος πολλοὺς παῖδας τοῦ πατρὸς στερίσκει. | War deprives many children of their father. | composed
+Συνήγαγε τοὺς στρατιώτας εἰς τὴν ἀγοράν. | He gathered the soldiers in the agora. | composed
+Ὁ οἶνος λήθην τῶν κακῶν φέρει. | Wine brings forgetfulness of troubles. | composed
+Πνιγηρόν ἐστι τὸ δεσμωτήριον. | The prison is stifling. | composed
+Φθόρος πολλῶν ἀνθρώπων ἐστὶν ὁ πόλεμος. | War is the ruin of many men. | composed
+Ἡμιθνῆτα ηὕρομεν τὸν στρατιώτην. | We found the soldier half-dead. | composed
+Ἐκένωσε τὴν ὑδρίαν. | She emptied the water jar. | composed
+Εἰς Ἀθήνας ἀπέστειλε τὸν υἱόν. | He sent his son off to Athens. | composed
+Ἐν τῇ αὐλῇ εἴργει τὰ πρόβατα. | He shuts the sheep in the fold. | composed
+Ἐξέπλευσεν ἡ ναῦς ἐκ τοῦ λιμένος. | The ship sailed out of the harbour. | composed
+Τηροῦσι τὰς πύλας. | They are watching the gates. | composed
+Ὁ κύων φρουρεῖ τὴν οἰκίαν. | The dog guards the house. | composed
+Ὁ πορθμός ἐστι στενός. | The strait is narrow. | composed
+Σοφοὺς συμβούλους ἔχει. | He has wise advisers. | composed
+Ὁ γέρων ἐκέλευσε τὸν παῖδα οἶνον οἷ φέρειν. | The old man told the boy to bring him wine. | composed
+Ἐκέλευσε τοὺς φίλους ἓ σῴζειν. | He told his friends to save him. | composed
+Οὐκ ἂν εὕροις ἄνθρωπον σοφώτερον. | You could not find a wiser man. | composed | +X:opt-pot
+Ὁ χειμὼν οὕτω χαλεπὸς ἦν ὥστε οἱ ναῦται οὐκ ἐξέπλευσαν. | The storm was so bad that the sailors did not sail out. | composed | +X:hoste-ind
+Ἐπὶ θεραπείᾳ ἔπεμψε τὸν υἱὸν εἰς τὸ Ἀσκληπιεῖον. | He sent his son to the sanctuary of Asclepius for treatment. | composed | +X:epi-purpose
+Οἱ ἀνδρεῖοι θάνατον πρὸ δουλείας αἱροῦνται. | The brave choose death in preference to slavery. | composed | +X:pro-pref
+Μακρὰ ἡ ὁδός· οὐκ ἂν πρὸ τῆς νυκτὸς ἀφικοίμεθα. | The road is long: we could not arrive before nightfall. | composed
+«Εἴθε μὴ φοβοῖο, ὦ παῖ.» | “I wish you were not afraid, boy.” | composed
+«Εἴθε μὴ ὀργίζοισθε, ὦ φίλοι.» | “I wish you would not be angry, friends.” | composed
+Τί ἂν ποιοῖμεν, ὦ πάτερ; | What should we do, father? | composed
+«Εἴθε σωφρονοῖτε, ὦ παῖδες.» | “If only you would behave yourselves, children!” | composed
+Ταύτῃ μὲν οὖν οἱ Πελοποννήσιοι ἐκράτουν τε καὶ διέφθειραν τὰς Ἀττικὰς ναῦς. | In this part, then, the Peloponnesians were winning, and they destroyed the Athenian ships. | Thuc. 2.91.1
+Ἄνδρας τε τοὺς μὲν ἀπέκτειναν, τινὰς δὲ καὶ ἐζώγρησαν. | Of the men they killed some and took others alive. | Thuc. 2.90.5
+Οὐδεὶς γὰρ οὕτω ἀνόητός ἐστι ὅστις πόλεμον πρὸ εἰρήνης αἱρέεται· ἐν μὲν γὰρ τῇ οἱ παῖδες τοὺς πατέρας θάπτουσι, ἐν δὲ τῷ οἱ πατέρες τοὺς παῖδας. | For no one is so foolish as to choose war rather than peace: in peace sons bury their fathers, in war fathers their sons. | Hdt. 1.87.4 | +X:ion-uncontr +X:pro-pref
+Καλινδοῦνται οἱ κύνες ἐπὶ τῆς γῆς. | The dogs are rolling about on the ground. | composed
+Ὁ ἀργὸς μαθητὴς τῶν τοῦ διδασκάλου λόγων ὀλιγωρεῖ. | The lazy pupil pays little heed to the teacher's words. | composed
+Στέλλουσι τὴν ναῦν. | They are getting the ship ready. | composed
+Αὔριον στελοῦμεν τὴν ναῦν. | Tomorrow we shall get the ship ready. | composed
+Εἰς Σπάρτην ἐστάλησαν. | They were sent to Sparta. | composed
+Στρατιωτικὸν βίον ζῇ. | He lives a soldier's life. | composed | +X:acc-cognate
+Ἐν τῇ ἀγορᾷ ἐστι πολλὴ εὐρυχωρία. | There is plenty of room in the agora. | composed
+Ἅμα ἕῳ ἔρχονται οἱ γεωργοὶ εἰς τοὺς ἀγρούς. | At dawn the farmers go out to the fields. | composed
+Δύο νῆες ἀλλήλαις ἀντιπαρέπλεον. | Two ships were sailing along opposite each other. | composed
+Ἀντιπέρας τῆς νήσου ἐστὶν ὄρος μέγα. | Opposite the island there is a big mountain. | composed
+Ἐν τῇ πρύμνῃ κάθηται ὁ κυβερνήτης. | The helmsman sits in the stern. | composed
+Παρέπλεον τὴν νῆσον. | They were sailing past the island. | composed
+Πολλοὶ προθνήσκουσιν ὑπὲρ τῆς πατρίδος. | Many die for their country. | composed
+Ἐν χρῷ παρέπλευσε τὴν πέτραν. | It sailed past the rock, grazing it. | composed
+Ὁ ἀγαθὸς στρατιώτης οὐδέποτε τὴν τάξιν λείπει. | A good soldier never deserts his post. | composed
+Ἐπὶ τοῦ λόφου τροπαῖον ἕστηκεν. | A trophy stands on the hill. | composed
+Ὁ σοφὸς ταῖς λοιδορίαις οὐκ ὀργίζεται. | The wise man is not angered by abuse. | composed
+Ὁ χειμὼν εἶργε τοὺς ναύτας μὴ ἐκπλεῖν. | The storm kept the sailors from sailing out. | composed | +X:me-redundant
+Προσέπεσεν ὁ λύκος τοῖς προβάτοις. | The wolf fell upon the sheep. | composed
+Ἐν τούτῳ τῷ τόπῳ ἱερὸν προϋπῆρχεν. | There had already been a sanctuary in this place. | composed
+Οἱ Ἀθηναῖοι μάλιστα σέβονται τὴν Ἀθηνᾶν. | The Athenians revere Athena above all. | composed
+Ἐπὶ τῆς στρατηγίδος ἔπλει. | He was sailing on the flagship. | composed
+Οἱ περίλοιποι τῶν στρατιωτῶν οἴκαδε ἐπανῆλθον. | The surviving soldiers returned home. | composed
+Ἐν τῇ νυκτὶ ἐξέπνευσεν. | He breathed his last in the night. | composed
+# ---- practice (ch.29 review)

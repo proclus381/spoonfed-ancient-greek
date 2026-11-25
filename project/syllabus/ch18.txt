@@ -1,0 +1,137 @@
+# Athenaze II, ch.18 (Ὁ Ἀσκληπιός) — δίδωμι and τίθημι; the meanings of αὐτός; adjectives like ταχύς, ταχεῖα, ταχύ
+δίδωμι | give | vx fut=δώσω! pf=δέδωκα! pfm=δέδομαι! aorp=ἐδόθην!
+ἀποδίδωμι | give back, pay; (mid.) sell | cmpd base=δίδωμι pre=ἀπο fut=ἀποδώσω
+ἀνταποδίδωμι | give back in return, repay | cmpd base=δίδωμι pre=ἀνταπο fut=ἀνταποδώσω
+παραδίδωμι | hand over, give up | cmpd base=δίδωμι pre=παρα fut=παραδώσω
+τίθημι | put, place; make | vx fut=θήσω! pf=τέθηκα! pfm=τέθειμαι! aorp=ἐτέθην!
+ἀνατίθημι | set up, dedicate | cmpd base=τίθημι pre=ἀνα fut=ἀναθήσω
+διατίθημι | arrange; put (someone) in a certain state | cmpd base=τίθημι pre=δια fut=διαθήσω
+ἐπιτίθημι | put on; (mid., + dat.) attack | cmpd base=τίθημι pre=ἐπι fut=ἐπιθήσω
+μετατίθημι | change, move to another place | cmpd base=τίθημι pre=μετα fut=μεταθήσω
+προστίθημι | add, put to | cmpd base=τίθημι pre=προσ fut=προσθήσω
+ἁμαρτάνω | miss (+ gen.); make a mistake, do wrong | v aor2=ἥμαρτον/ἁμαρτ pf=ἡμάρτηκα! pfm=ἡμάρτημαι! aorp=ἡμαρτήθην/ἁμαρτηθ!
+γελάω | laugh | v fut=γελάσομαι! aorp=ἐγελάσθην!
+προσγελάω | smile at (+ acc.) | v fut=προσγελάσομαι aor=προσ·εγέλασα/προσγελασ base=γελάω
+τρέχω | run | v pf=δεδράμηκα!
+προστρέχω | run up to, run towards | v fut=προσδραμοῦμαι aor2=προσ·έδραμον/προσδραμ base=τρέχω
+ἀνεγείρω | wake up, rouse | v fut=ἀνεγερῶ aor=ἀν·ήγειρα/ἀνεγειρ irr base=ἐγείρω
+ἀνίσχω | rise (of the sun); hold up | v impf=0
+ἀπείργω | keep away, shut out | v fut=ἀπείρξω aor=ἀπ·εῖρξα/ἀπειρξ
+ἅπτομαι | touch, take hold of (+ gen.) | v fut=ἅψομαι aor=ἡψάμην/ἁψ
+ἀρκέω | be enough, suffice | v fut=ἀρκέσω aor=ἤρκεσα/ἀρκεσ irr
+ἀσπάζομαι | greet, embrace | v reg
+βιάζομαι | force, use violence against | v reg
+βόσκω | feed, pasture (animals) | v
+δάκνω | bite | v aor2=ἔδακον/δακ fut=δήξομαι!
+διαλύω | break up, dissolve; reconcile | v reg pre=δια
+δράω | do | v reg
+ἐγγράφω | write in, inscribe | v fut=ἐγγράψω aor=ἐν·έγραψα/ἐγγραψ
+ἐγκαθεύδω | sleep in (a place) | v impf=0
+ἑλίττω | roll, wind; (mid.) coil | v mid
+ἐπιγράφω | write upon, inscribe | v fut=ἐπιγράψω aor=ἐπ·έγραψα/ἐπιγραψ
+ἐπιμένω | stay on, wait; wait for | v fut=ἐπιμενῶ aor=ἐπ·έμεινα/ἐπιμειν irr base=μένω
+ἐπισκοπέω | look at, examine, visit | v mid fut=ἐπισκέψομαι! aor=ἐπ·εσκεψάμην/ἐπισκεψ irr
+εὐσεβέω | be pious, act reverently | v reg
+κατασχίζω | split, tear apart | v aor=κατ·έσχισα/κατασχισ
+κρατέω | be master of, rule; overcome (+ gen.) | v reg
+κτάομαι | acquire, get | v fut=κτήσομαι aor=ἐκτησάμην/κτησ pfm=κέκτημαι!
+κυέω | be pregnant | v
+λογίζομαι | calculate, reckon, consider | v reg
+μειδιάω | smile | v reg
+μεταπέμπομαι | send for | v fut=μεταπέμψομαι aor=μετ·επεμψάμην/μεταπεμψ
+οἰδέω | swell | v reg
+ἀνοιδέω | swell up | v reg pre=ἀν
+ὀτρύνω | urge on | v aor=ὤτρυνα/ὀτρυν irr
+παρακαλέω | call in, summon; encourage | v fut=παρακαλῶ aor=παρ·εκάλεσα/παρακαλεσ base=καλέω
+πεινάω | be hungry |
+περιοράω | overlook, allow, disregard | v fut=περιόψομαι aor2=περι·εῖδον/περιιδ base=ὁράω
+περιπατέω | walk about | v reg pre=περι
+ὑπισχνέομαι | promise (+ future infinitive) | v impf=0 fut=ὑποσχήσομαι! aor_mid=ὑπ·εσχόμην/ὑποσχ
+διαφέρω | differ from, be superior to (+ gen.); διαφέρων “different; outstanding” | v
+ἀδικία | injustice, wrongdoing | n
+ἀθανασία | immortality | n
+ἄκεσις | healing, cure | nis
+ἀκτή | shore, headland | n
+ἀλγηδών | pain | n3 gen=ἀλγηδόνος g=f
+ἀλεκτρυών | cock | n3 gen=ἀλεκτρυόνος
+ἀνάθημα | votive offering (something “set up” for a god) | n3 gen=ἀναθήματος g=n
+ἀσέβεια | impiety | n sa
+ἀστράγαλος | knucklebone; (pl.) dice | n
+βία | force, violence | n
+δαίμων | spirit, god, divine power | n3 gen=δαίμονος
+δαπάνη | expense, cost | n
+διαφορά | difference; disagreement | n
+ἐσθής | clothing | n3 gen=ἐσθῆτος g=f
+ἔχιδνα | viper | n short
+ἡνία | rein (pl. αἱ ἡνίαι “the reins”) | n
+θάλαμος | bedroom, inner room | n
+θεραπεία | care, attendance, treatment | n
+ἴαμα | remedy, cure | n3 gen=ἰάματος g=n
+ἱκέτις | suppliant (woman) | n3 gen=ἱκέτιδος g=f acc=ἱκέτιν
+κάλλος | beauty | nes
+κράτος | power, might | nes
+λόφος | hill, crest | n
+μάρτυς | witness | n3 gen=μάρτυρος
+μνημεῖον | monument, memorial | n
+ναός | temple, shrine | n
+οἴδημα | swelling | n3 gen=οἰδήματος g=n
+οἴκημα | room, dwelling, building | n3 gen=οἰκήματος g=n
+πεῖρα | attempt, trial, experience | n sa
+περίβολος | enclosure, precinct (wall) | n
+πίναξ | tablet, board; plate | n3 gen=πίνακος
+πλίνθος | brick | n g=f
+σκέλος | leg | nes
+σοφιστής | sophist, expert, teacher of wisdom | n
+συνεργός | helper, fellow worker | n
+συνουσία | being together, company, conversation | n
+τεκμήριον | proof, sign, evidence | n
+τέρας | portent, marvel; monster | n3 gen=τέρατος g=n
+χαρά | joy | n
+Ἀμαζών | (name) | n3 gen=Ἀμαζόνος g=f
+Ἱππολύτη | (name) | n
+Ἱππόλυτος | (name) | n
+ἀκάθαρτος | unclean, impure | adj2
+ἀναίτιος | not to blame, innocent | adj2
+βαθύς | deep | adjus
+βαρύς | heavy; grievous | adjus
+βραδύς | slow | adjus
+εὔθυμος | cheerful | adj2
+εὐμενής | kindly, well-disposed | adjes
+εὐπρόσωπος | fair of face, good-looking | adj2
+ἡδύς | sweet, pleasant | adjus
+θεμιτός | lawful, right (οὐ θεμιτόν “it is not right”) | adj
+καινός | new, strange | adj
+κόσμιος | orderly, well-behaved | adj
+οὐράνιος | heavenly, of the sky | adj
+περιφερής | round, circular | adjes
+σεμνός | revered, holy; solemn, proud | adj
+συνεχής | continuous, unbroken | adjes
+τέλεος | complete, perfect, full-grown | adj
+τραχύς | rough | adjus
+πλησίον | near (+ gen.) |
+ἔνθα | there; where |
+ἐπιπόνως | laboriously, with toil |
+νεωστί | lately, just now |
+πάλαι | long ago; for a long time now |
+πανταχόθεν | from all sides |
+ὑπερφυῶς | extraordinarily, marvellously |
+οὔκουν | so … not; (in questions) not … then? |
+C:διὰ ταχέων | quickly
+C:δίκην δίδωσι / δίκην δίδωσιν / δίκην διδόασι / δίκην διδόασιν / δίκας δίδωσι / δίκας δίδωσιν / δίκας διδόασι / δίκας διδόασιν / δίκας δώσει / δίκας δώσεις / δίκας δώσουσι / δίκας δώσουσιν / δίκας ἔδωκε / δίκας ἔδωκεν / δίκας ἔδοσαν / δίκας διδόναι / δίκας δοῦναι / δίκην δώσει / δίκην δώσεις / δίκην δώσουσι / δίκην δώσουσιν / δίκην ἔδωκε / δίκην ἔδωκεν / δίκην ἔδοσαν / δίκην διδόναι / δίκην δοῦναι | pay the penalty, be punished (“give justice”)
+C:ἐν τῷ ἔμπροσθεν χρόνῳ | in former times
+C:ἐν τῷ μεταξύ | meanwhile
+C:περὶ πλήθουσαν ἀγοράν | about mid-morning (“when the market place is filling”)
+C:πρὸ τοῦδε | before this, formerly
+C:πῶς γὰρ οὔ | of course (“for how not?”)
+C:χάριν ἀποδίδωμι / χάριν ἀποδώσω / χάριν ἀποδώσει / χάριν ἀποδώσομεν / χάριν ἀπέδωκε / χάριν ἀπέδωκεν / χάριν ἀποδοῦναι / χάριν ἀποδιδόναι / χάριν ἀποδίδωσι / χάριν ἀποδίδωσιν / χάριν ἀπέδοσαν | return a favour, show gratitude (+ dat.)
+X:delos-ptc | δῆλός εἰμι + participle: “I am clearly …” (δῆλός ἐστιν ὀργιζόμενος “he is clearly angry”)
+X:euthys-ptc | εὐθύς + participle: “as soon as …” (εὐθὺς γενόμενος “as soon as he was born”)
+X:tithemi-make | τίθημι with two accusatives: “make someone something” (τίθημί σε φίλον “I make you a friend”)
+X:autos-self | αὐτός next to a noun (not after the article), or alone in the nominative: “-self” (αὐτὸς ὁ βασιλεύς “the king himself”)
+X:autos-same | ὁ αὐτός, ἡ αὐτή, τὸ αὐτό: “the same” (τὰ αὐτά “the same things”)
+X:all-e | ἀλλ᾽ ἤ after a negative: “except, other than” (οὐδὲν ἀλλ᾽ ἢ ὕδωρ “nothing but water”)
+X:dia-gen-time | διά + genitive of time: “throughout, during” (διὰ νυκτός “all night long”)
+X:sense-kinduneuo | κινδυνεύει + infinitive: “is likely to, probably” (κινδυνεύει ἀληθὴς εἶναι “it is probably true”) | lemma=κινδυνεύω hint=is likely to
+# Smyth inventory (added 2026-11-23): Smyth concepts and words Athenaze does not list
+X:inf-purpose | the infinitive of purpose after verbs of giving, sending, taking (δίδωσιν αὐτῷ ὕδωρ πιεῖν “he gives him water to drink”); Smyth §2008
+οὐκοῦν | then, therefore; in questions “isn't it so, then?”, expecting “yes” (distinguish οὔκουν “not … then”); Smyth §2951 |

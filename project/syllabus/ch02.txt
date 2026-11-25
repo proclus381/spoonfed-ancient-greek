@@ -1,0 +1,68 @@
+Δημήτηρ | Demeter (goddess of grain)
+Ξανθίας | (name) | n
+αἰαῖ | oh no! alas!
+βαίνω | go, step | v
+βλέπω | look, see | v
+βοῦς | ox
+βραδέως | slowly
+δεσπότης | master | n
+δεῦρο | here, over here
+δοῦλος | slave | n
+εἰς | into, to
+εἰσάγω | lead in, bring in | v impf=0
+εἰσβαίνω | go in | v impf=0
+εἴσελθε | go in! come in!
+ζυγόν | yoke | n
+κέντρον | goad | n
+καθεύδω | sleep | v
+καλέω | call | v
+κατάρατος | accursed, damned | adj2
+κεντέω | goad, prod | v
+λαμβάνω | take | v
+μέν | on the one hand (… δέ …)
+μένω | stay, wait | v
+μή | not, don’t (in commands)
+μετά | after
+νῦν | now
+οὐδέ | and not, nor
+οὕτω | so, like this
+πάρειμι | be here, be present
+πληθύνω | multiply, increase | v
+ποιέω | make, do | v
+προσάπτω | fasten to, attach | v impf=0 short
+σκιά | shade, shadow | n
+σπέρμα | seed
+σπεύδω | hurry | v
+συλλαμβάνω | help (+ dat.) | v impf=0
+σύ | you
+τίς | who? what? why?
+τύπτω | strike, beat | v short
+ἀκολουθέω | follow (+ dat.) | v
+ἀργός | lazy | adj2
+ἀροτρεύω | plough | v
+ἄγω | lead, bring | v short
+ἅπτω | fasten | v short
+ἄροτρον | plough | n
+ἐγώ | I
+ἐκβαίνω | go out, come out | v impf=0
+ἐλαύνω | drive | v
+ἐλθέ | come!
+ἔπειτα | then, next
+ἕλκω | drag, pull | v impf=εἱλκ
+ἕωθεν | at dawn
+ἤδη | already
+ἰδού | look!
+ἵλεως | gracious, kind
+ὄπισθεν | behind
+ῥάβδος | stick | n g=f
+C:διὰ τί | why
+C:εἰ μή | unless
+C:μετὰ μεσημβρίαν | after midday
+C:τὴν Δήμητρα | Demeter (acc.)
+C:τῇ ὑστεραίᾳ | on the next day
+C:ἐλθὲ δεῦρο | come here
+C:ὑπὸ τὸ ζυγόν | under the yoke
+C:ὦ δέσποτα | master!
+εἰ | if |
+# set phrases the readings use without listing them among the Locuzioni (added 2026-11-23)
+C:μὲν οὖν | so, well then (moves the account on; the μέν is often answered by δέ)

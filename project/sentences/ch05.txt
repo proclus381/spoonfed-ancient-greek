@@ -1,0 +1,103 @@
+# chapter 5: -α- contracts; neuter plural + singular verb; ὁ δέ; elision; personal pronouns; possessives; attributive position
+Ὁ λύκος ἐστὶ μέγας. | The wolf is big. | composed
+«Ὁρῶ τὸν λύκον», λέγει ὁ παῖς. | “I can see the wolf,” says the boy. | composed
+Ὁρᾷ τὸν λύκον. | He sees the wolf. | composed
+Ὁρῶσι τὸν λύκον. | They see the wolf. | composed
+Οἱ παῖδες ἐν τῷ ἀγρῷ τρέχουσιν. | The children are running in the field. | composed
+«Ὁρῶμεν τὸν λύκον», λέγουσιν οἱ παῖδες. | “We can see the wolf,” say the children. | composed
+«Τί ὁρᾷς, ὦ παῖ;» | “What do you see, boy?” | composed
+«Ἆρα ὁρᾶτε τὸν λύκον;» | “Can you see the wolf?” | composed | @ὁρᾶτε:ind
+Ὁ κύων ἐν τῷ αὐλίῳ καθεύδει. | The dog is asleep in the fold. | composed
+«Ποῦ ἐστιν ὁ κύων;» | “Where is the dog?” | composed
+Ὁ παῖς ἐθέλει τὸν λύκον ὁρᾶν. | The boy wants to see the wolf. | composed
+«Ὁρᾶτε, ὦ φίλοι.» | “Look, friends!” | composed | @ὁρᾶτε:imp
+Ἐξαίφνης ψόφον ἀκούει. | Suddenly he hears a noise. | composed
+Θηρίον ἐστὶν ὁ λύκος. | The wolf is a wild beast. | composed
+«Ποῖον θηρίον ὁρᾷς;» | “What kind of animal do you see?” | composed
+Ἥκει ἄνθρωπός τις. | Somebody has come. | composed
+Ὁ παῖς τινὰ λέγει περὶ τοῦ λύκου. | The boy says a few things about the wolf. | composed | @τινὰ:acc.n.p
+Ψόφον τινὰ ἀκούει. | He hears a noise. | composed | @τινὰ:acc.m.s
+Βοᾷ ὁ παῖς. | The boy shouts. | composed
+Ἐν τῷ κήπῳ πονεῖ. | He is working in the garden. | composed
+Ὁ πάππος ἐν τῷ κήπῳ καθίζει. | Grandfather sits down in the garden. | composed
+«Ὅρα, ὦ πάππε.» | “Look, grandfather!” | composed
+Μέγα βοᾷ. | He shouts loudly. | composed | @μέγα=μέγα
+«Σίγα, ὦ παῖ.» | “Be quiet, boy!” | composed
+Ὁ πάππος τὸν κύνα καλεῖ. | Grandfather calls the dog. | composed
+«Ἴθι δή, λάμβανε τὴν ὑδρίαν.» | “Come on, take the water jar.” | composed
+Λαγὼν διώκει. | It is chasing a hare. | composed
+Ἐν τῷ οἴκῳ τοῦ πατρὸς οἰκεῖ. | He lives in his father's house. | composed
+Ἄπεστιν ὁ πατήρ. | Father is away. | composed
+Τῇ ὑδρίᾳ ἔνεστιν ὕδωρ. | There is water in the jar. | composed
+Ἐν τοῖς ὄρεσιν οἰκεῖ. | It lives in the mountains. | composed
+Ἀπὸ τοῦ ὄρους τρέχει. | He runs down from the mountain. | composed
+Ἀγαθὸς ὁ κύων. | The dog is a good one. | composed
+Φυλάττει τὰ πρόβατα. | It guards the sheep. | composed
+Ὁ ἀγαθὸς κύων φιλεῖ τὸν δεσπότην. | The good dog loves its master. | composed | +X:attr
+Τὰ πρόβατά ἐστιν ἐν τοῖς ὄρεσιν. | The sheep are in the mountains. | composed | +X:neutpl
+Καλεῖ ὁ πάππος τὸν δοῦλον· ὁ δὲ οὐκ ἀκούει. | Grandfather calls the slave, but he doesn’t hear. | composed | +X:art-de
+Ἀνὰ τὸ ὄρος τρέχει. | It runs up the mountain. | composed
+Ὑλακτεῖ ὁ κύων. | The dog barks. | composed
+Φεύγει ὁ λαγώς. | The hare runs away. | composed
+Ὁρμᾷ ἐπὶ τὸν λύκον ὁ κύων. | The dog rushes at the wolf. | composed
+Ὁ νεανίας ἐστὶν ἰσχυρός. | The young man is strong. | composed
+Ὁ λύκος οὔτε φεύγει οὔτε ὁρμᾷ. | The wolf neither runs away nor attacks. | composed
+«Μὴ ὑλάκτει, ὦ κύον.» | “Don't bark, dog!” | composed
+«Ἐπάνελθε, ὦ παῖ.» | “Come back, boy!” | composed
+Ἀγαπᾷ τὸ παιδίον. | He is very fond of the little child. | composed
+Τὸ πλοῖον διαπερᾷ τὴν θάλατταν. | The boat is crossing the sea. | composed
+Ὁ νεανίας πρὸς ἄκρον τὸ ὄρος ἀναβαίνει. | The young man climbs towards the top of the mountain. | composed
+Ὁ κύων ὑλακτεῖ, ἀλλ᾽ ὁ λύκος οὐ φεύγει. | The dog barks, but the wolf doesn't run away. | composed
+Ταχέως καταβαίνει. | He comes down quickly. | composed
+«Ἐν τῷ κήπῳ πού ἐστιν.» | “He's somewhere in the garden.” | composed
+Βακτηρίαν φέρει. | He carries a stick. | composed
+Ἄγριόν ἐστι τὸ θηρίον. | The beast is savage. | composed
+Πρῶτος τρέχει. | It runs first. | composed
+Ῥᾴθυμος ὁ δοῦλος. | The slave is careless. | composed
+Λίθους βάλλει. | He throws stones. | composed
+Ἀποφεύγει ὁ λύκος. | The wolf escapes. | composed
+Ὁ λαγὼς ἀναστρέφει καὶ φεύγει. | The hare turns round and runs away. | composed
+Ἐμπίπτει τῷ λύκῳ. | It falls upon the wolf. | composed
+Ὀδὰξ λαμβάνει τὸν λύκον. | It seizes the wolf with its teeth. | composed
+Μάχαιραν ἔχει. | He has a knife. | composed
+Κατέχει τὸν κύνα. | He holds the dog back. | composed
+Ἀσπαίρει ἐπὶ τῇ γῇ. | It lies gasping on the ground. | composed
+Καταπίπτει ὁ πάππος. | Grandfather falls down. | composed
+Ἐνταῦθα δὴ ἐμπίπτει τῷ λύκῳ. | At that very moment it falls upon the wolf. | composed
+Μῦθον λέγει. | He tells a story. | composed
+Ὁ πάππος τὸν νεανίαν καλεῖ. | Grandfather calls the young man. | composed
+Ὁ πατὴρ τοῦ νεανίου γεωργός ἐστιν. | The young man's father is a farmer. | composed
+Ὁ πάππος τῷ νεανίᾳ μῦθον λέγει. | Grandfather tells the young man a story. | composed
+Θαυμάζει τὸν μῦθον. | He marvels at the story. | composed
+«Εὖ γε, ὦ κύον.» | “Well done, dog!” | composed
+Γιγνώσκει τὸν δεσπότην. | It recognizes its master. | composed
+«Κάμνεις δήπου, ὦ πάππε.» | “You're tired, I suppose, grandfather.” | composed
+«Ὁ πατὴρ ἡμῶν ἐστι γεωργός.» | “Our father is a farmer.” | composed
+«Ἡμῖν δεῖπνον παρέχει ἡ μήτηρ.» | “Mother gives us dinner.” | composed
+«Ἡμᾶς καλεῖ ὁ πατήρ.» | “Father is calling us.” | composed
+Ὑμῖν τὸν σῖτον φέρομεν. | We are bringing you the grain. | composed
+«Ὑμᾶς καλεῖ.» | “He is calling you.” | composed
+«Ὁ οἶκος ὑμῶν ἐστι μέγας.» | “Your house is big.” | composed
+Μύθου ἐπιθυμεῖ. | He longs for a story. | composed
+Ὁ παῖς τῆς μαχαίρας ἐπιθυμεῖ. | The boy wants the knife. | composed
+Οἱ παῖδες τῶν μαχαιρῶν ἐπιθυμοῦσιν. | The children want the knives. | composed
+Αἱ μάχαιραι ἐν τῇ οἰκίᾳ εἰσίν. | The knives are in the house. | composed
+Μαχαίρας φέρουσιν. | They are carrying knives. | composed | @Μαχαίρας:acc
+Δεινὸς ὁ λύκος. | The wolf is terrible. | composed
+Ἡ μαμμία ἐν τῇ οἰκίᾳ ἐστίν. | Mummy is in the house. | composed
+«Ὦ μαμμία, μῦθον λέγει ὁ πάππος.» | “Mummy, grandfather's telling a story!” | composed
+«Οἱ παῖδες καλοῦσιν, ὦ μαμμίαι.» | “Mummies, the children are calling.” | composed
+Τὸ μειράκιον ταχέως τρέχει. | The lad runs fast. | composed
+Θορυβοῦσιν οἱ παῖδες. | The children are making a noise. | composed
+Παύει τοὺς δούλους. | He makes the slaves stop. | composed
+Ἀθυμεῖ ὁ γεωργός· ὁ γὰρ λύκος διώκει τὰ πρόβατα. | The farmer loses heart, because the wolf is chasing the sheep. | composed
+Δάκνει τὸν λύκον. | It bites the wolf. | composed
+«Ὁ σὸς κύων ἐστὶν ἀγαθός.» | “Your dog is a good one.” | composed
+Ἀπελαύνει τὸν λύκον. | He drives the wolf away. | composed
+«Καλὸς ὁ ὑμέτερος κῆπος.» | “Your garden is beautiful.” | composed
+«Ἆρα τὸν μῦθον φιλεῖς;» «Μάλιστά γε.» | “Do you like the story?” “Yes, very much.” | composed
+# review of chapters 3–5
+Φιλεῖ τὴν μητέρα. | He loves his mother. | composed
+Ἡ κόρη μετὰ τῆς μητρὸς βαδίζει πρὸς τὴν κρήνην. | The girl walks to the spring with her mother. | composed
+«Ἀληθῆ λέγεις, ὦ πάππε· δεινὸς ὁ λύκος.» | “You're right, grandfather: the wolf is dangerous.” | composed
+«Τίνα ὁρᾷς;» «Ἄνθρωπόν τινα ὁρῶ.» | “Whom do you see?” “I see somebody.” | composed | @Τίνα:m.s

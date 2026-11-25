@@ -1,0 +1,91 @@
+# Athenaze II, ch.27 (Κροῖσος καὶ τὰ μαντεῖα) — perfect and pluperfect middle-passive; future perfect; πρίν; the articular infinitive
+# ---- perfect middle-passive of verbs already known (the stem is new where marked !)
+λύω | loosen, free | v pfm=λέλυμαι
+γράφω | write | v pfm=γέγραμμαι!
+πείθω | persuade; (pf. pass. πέπεισμαι) be convinced | v pfm=πέπεισμαι!
+πράττω | do | v pfm=πέπραγμαι
+λέγω | say | v pfm=λέλεγμαι
+πέμπω | send | v pfm=πέπεμμαι
+ἀγγέλλω | announce | v pfm=ἤγγελμαι
+βάλλω | throw | v pfm=βέβλημαι!
+καλέω | call | v pfm=κέκλημαι!
+ἄγω | lead | v pfm=ἦγμαι!
+λαμβάνω | take | v pfm=εἴλημμαι!
+αἱρέω | take | v pfm=ᾕρημαι!
+σῴζω | save | v pfm=σέσῳσμαι!
+κελεύω | order | v pfm=κεκέλευσμαι
+γίγνομαι | become, happen (pf. γεγένημαι “have become”) | v pfm=γεγένημαι!
+δέχομαι | receive | v pfm=δέδεγμαι
+ἐργάζομαι | work | v pfm=εἴργασμαι!
+βούλομαι | want | v pfm=βεβούλημαι
+ἀγωνίζομαι | compete, contend | v fut=ἀγωνιοῦμαι aor=ἠγωνισάμην/ἀγωνισ pfm=ἠγώνισμαι
+ἀνέχω | hold up; (middle ἀνέχομαι, impf. ἠνειχόμην, aor. ἠνεσχόμην) endure, put up with | v mid fut=ἀνέξω
+φείδομαι | spare (+ gen.) | v fut=φείσομαι
+# ---- new verbs
+ἀγείρω | gather, collect | v aor=ἤγειρα/ἀγειρ irr
+ἀντιόομαι | oppose, resist (+ dat.) | v fut=ἀντιώσομαι aorp=ἠντιώθην/ἀντιωθ
+μέμφομαι | blame, find fault with (+ dat. or acc.) | v fut=μέμψομαι aor=ἐμεμψάμην/μεμψ aorp=ἐμέμφθην
+κτείνω | kill | v fut=κτενῶ! aor=ἔκτεινα/κτειν irr pf=ἔκτονα!
+ἀπεῖπον | (aorist; present ἀπαγορεύω) forbid; give up, renounce |
+ἀποπειράομαι | make trial of, test (+ gen.) | v reg pre=ἀπο
+διαβαίνω | cross | v raor=δι·έβην/διαβη/διαβα fut=διαβήσομαι base=βαίνω
+διασκεδάννυμι | scatter, disperse | numi fut=διασκεδῶ~α aor=δι·εσκέδασα/διασκεδασ
+διίστημι | set apart, separate; (middle, and aorist διέστην) stand apart, differ | cmpd base=ἵστημι pre=δια raor=δι·έστην/διαστη/διαστα fut=διαστήσω
+ἐπιχειρέω | attempt; attack (+ dat.) | v reg pre=ἐπι
+ἕψω | boil, cook | v fut=ἑψήσω aor=ἥψησα/ἑψησ irr
+θρῴσκω | leap, jump | v aor2=ἔθορον/θορ
+ἀποθρῴσκω | leap off | v aor2=ἀπ·έθορον/ἀποθορ base=θρῴσκω
+καταλύω | dissolve, put an end to, overthrow | v reg pre=κατα
+καταπατέω | trample on | v reg pre=κατα
+καταπράττω | accomplish | v fut=καταπράξω aor=κατ·έπραξα/καταπραξ base=πράττω
+ὁπλίζομαι | arm oneself | v reg
+προμάχομαι | fight in front of, fight for (+ gen.) | v fut=προμαχοῦμαι aor=προ·εμαχεσάμην/προμαχεσ base=μάχομαι
+προστάττω | order, assign (+ dat.) | v fut=προστάξω aor=προσ·έταξα/προσταξ base=τάττω
+σοφίζομαι | devise cleverly, contrive | v reg
+στερέω | deprive (someone: acc., of something: gen.) | v reg
+ταλαιπωρέω | suffer hardship, be in distress | v reg
+τιμωρέω | avenge, help (+ dat.); (middle) take vengeance on, punish (+ acc.) | v reg mid
+φωνέω | speak, utter | v reg
+# ---- nouns
+ἐργασία | work; working | n
+ἱππικόν | cavalry | n
+κάμηλος | camel | n g=f
+λέβης | cauldron | n3 gen=λέβητος
+μαντεῖον | oracle | n
+ὅρκιον | (usually pl.) oath; treaty | n
+ὀσμή | smell, scent | n
+ταραχή | confusion, disorder | n
+τιμή | honour; value, price | n
+φιλοτιμία | love of honour, ambition | n
+φρήν | mind, heart (often pl. αἱ φρένες) | n3 gen=φρενός g=f
+φροντίς | thought, care, worry | n3 gen=φροντίδος g=f
+χαλκός | bronze | n
+χελώνη | tortoise | n
+χρηστήριον | oracle | n
+ψάμμος | sand | n g=f
+Βαβυλών | (name) | n3 gen=Βαβυλῶνος g=f
+Βαβυλώνιος | (name) | n
+Δωδώνη | (name) | n
+Πτερία | (name) | n
+Πυθία | (name) | n
+# ---- adjectives, numerals, adverbs, conjunctions
+ἄλκιμος | brave, valiant | adj2
+ἀνήκεστος | incurable, irreparable | adj2
+ἄρνειος | of a lamb | adj
+ἄχρηστος | useless | adj2
+ἑκατοστός | hundredth | adj
+ἑκκαίδεκα | sixteen |
+ὀπίσω | backwards, back |
+πρίν | before (+ infinitive); until (after a negative: πρὶν ἄν + subj., or the indicative) |
+X:pfm-3pl | perfect middle of consonant stems, 3rd plural: participle + εἰσί(ν) (γεγραμμένοι εἰσί “they have been written”)
+X:prin-inf | πρίν + infinitive: “before …” (πρὶν ἐλθεῖν “before coming”)
+X:prin-an | after a negative: πρὶν ἄν + subjunctive (future) or πρίν + indicative (past): “until”
+X:art-inf | the articular infinitive: τὸ + infinitive as a noun (τὸ μανθάνειν “learning”; διὰ τὸ …, πρὸ τοῦ …, ἐν τῷ …)
+X:hippos-fem | ἡ ἵππος (feminine) = “the cavalry”
+X:sense-hippos | ἡ ἵππος (feminine) means “cavalry” (ἡ ἵππος τῶν Περσῶν “the Persian cavalry”) | lemma=ἵππος hint=cavalry
+# Smyth inventory (added 2026-11-23): a Smyth concept Athenaze does not treat
+X:dat-agent | the dative of the agent with the perfect and pluperfect passive (ἡ ἐπιστολὴ τῷ πατρὶ γέγραπται “the letter has been written by father”); Smyth §1488
+# for classical passages that the book quotes, in the author's own words (added 2026-11-23)
+ἀκρόπολις | citadel, acropolis |
+X:ion-ginomai | Ionic (and later Greek) γίνομαι = Attic γίγνομαι (Herodotus)
+X:ion-dat-pl | Ionic dative plural -ῃσι, -οισι = Attic -αις, -οις (Πέρσῃσι = Πέρσαις; Herodotus)

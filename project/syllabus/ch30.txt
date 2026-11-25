@@ -1,0 +1,100 @@
+# Athenaze II, ch.30 (μέγα τὸ τῆς θαλάττης κράτος) — conditional sentences; conditions in indirect speech; the dual; verbal adjectives in -τός, -τέος
+# ---- verbs with principal parts
+στρέφω | turn, twist | v fut=στρέψω aor=ἔστρεψα/στρεψ pfm=ἔστραμμαι! aorp=ἐστράφην/στραφ!
+ἐπιστρέφω | turn round, turn about (aor. pass. ἐπεστράφην “turned round”) | v aor=ἐπ·έστρεψα/ἐπιστρεψ aorp=ἐπ·εστράφην/ἐπιστραφ base=στρέφω
+σφάττω | slaughter, kill | v short fut=σφάξω aor=ἔσφαξα/σφαξ aorp=ἐσφάγην/σφαγ!
+# ---- other new verbs
+ἀδολεσχέω | chatter, prate | v reg
+ἀναδέομαι | take (a ship) in tow | v aor=ἀν·εδησάμην/ἀναδησ
+ἀπολαμβάνω | cut off; take back, receive | v aor2=ἀπ·έλαβον/ἀπολαβ base=λαμβάνω
+ἀσθενέω | be weak, be ill | v reg
+ἀφαιρέομαι | take away (from someone) | v mid aor_mid=ἀφ·ειλόμην/ἀφελ
+δημηγορέω | make a public speech | v reg
+ἐθίζω | accustom; (pass.) become accustomed | v
+ἐκλέγω | pick out, choose | v aor=ἐξ·έλεξα/ἐκλεξ
+ἐκνέω | swim out, swim away | v aor=ἐξ·ένευσα/ἐκνευσ
+ἐκπίπτω | fall out; be driven ashore; be thrown out | v aor2=ἐξ·έπεσον/ἐκπεσ base=πίπτω
+ἐμβιβάζω | put on board | v aor=ἐν·εβίβασα/ἐμβιβασ
+ἐμπίμπρημι | set on fire, burn | v aor=ἐν·έπρησα/ἐμπρησ
+ἐξωθέω | push out, drive out |
+ἐπεισβαίνω | go in after, board | v raor=ἐπ·εισέβην/ἐπεισβη/ἐπεισβα base=βαίνω
+ἐπιβοηθέω | come to the aid of (+ dat.) | v reg pre=ἐπι
+ἐπιδιώκω | pursue | v aor=ἐπ·εδίωξα/ἐπιδιωξ
+ἐπικλίνω | bend, incline | v
+θωπεύω | flatter | v reg
+καθίημι | let down, lower | cmpd base=ἵημι pre=κατα fut=καθήσω
+καταγελάω | laugh at, mock (+ gen.) | v aor=κατ·εγέλασα/καταγελασ
+καταχαρίζομαι | give away as a favour; betray | v
+μεταπείθω | change someone's mind | v aor=μετ·έπεισα/μεταπεισ base=πείθω
+ὀκέλλω | run (a ship) aground | v aor=ὤκειλα/ὀκειλ
+παιανίζω | sing the paean | v reg
+παραβοηθέω | come to help (+ dat.) | v reg pre=παρα
+περικλείω | shut in, surround | v reg pre=περι
+προμανθάνω | learn beforehand | v aor2=προ·έμαθον/προμαθ base=μανθάνω
+σπουδάζω | be eager, be in earnest | v reg
+συνέχω | hold together, keep together | v
+ὑπεκφεύγω | escape secretly | v aor2=ὑπ·εξέφυγον/ὑπεκφυγ base=φεύγω
+ὑπομένω | stay behind; await; endure, stand firm | v aor=ὑπ·έμεινα/ὑπομειν base=μένω
+ὑποτελέω | pay (as tribute) | v reg pre=ὑπο
+φενακίζω | cheat, deceive | v reg
+# ---- nouns
+ἀκολασία | licentiousness, lack of self-control | n
+ἀκροατής | listener | n
+ἀναίδεια | shamelessness | n sa
+ἀναρχία | lack of a leader, anarchy | n
+ᾆσμα | song | n3 gen=ᾄσματος g=n
+ἀσωτία | profligacy, extravagance | n
+βράχεα | (τὰ βράχεα) shallows, shoals |
+γεωμετρία | geometry | n
+ἔγκλισις | leaning, inclination | nis g=f
+ἐπίπλους | attack by sea (contracted: τοῦ ἐπίπλου, τὸν ἐπίπλουν) |
+ἐπιστροφή | turning round, wheeling | n
+εὐπαιδευσία | good education | n
+θαλαττοκράτωρ | master of the sea | n3 gen=θαλαττοκράτορος
+κέρδος | gain, profit | nes
+μανία | madness | n
+μεγαλοπρέπεια | magnificence | n sa
+μηρός | thigh | n
+συμφέρον | (τὸ συμφέρον) advantage, interest (a participle of συμφέρω) |
+σύνταξις | arrangement; organisation, order of battle | nis g=f
+X:keras | τὸ κέρας “wing (of a fleet)”: Attic gen. κέρως, dat. κέρᾳ (beside κέρατος, κέρατι)
+# ---- names (free)
+Διονύσιος | (name) | n
+Μεσσηνία | (name) | n
+Μεσσήνιοι | (name) | n
+Πάνορμος | (name) | n g=f
+Τιμοκράτης | (name) |
+# ---- adjectives, adverbs, phrases
+ἄγραφος | unwritten | adj2
+ἀντίπρῳρος | with the prow facing, prow to prow | adj2
+ἀπροσδόκητος | unexpected | adj2
+ὑπόλοιπος | remaining, left over | adj2
+ὑπόσπονδος | under a truce | adj2
+ἀδεῶς | fearlessly, without fear |
+ἔσω | inside, within (also εἴσω) |
+μετωπηδόν | in line abreast, with the front forward |
+μηδαμῇ | nowhere; in no way |
+C:ἐπὶ τεττάρων / ἐπὶ τριῶν / ἐπὶ δυοῖν / ἐπὶ ὀκτώ | (drawn up) four deep, three deep … (ἐπί + gen. of a number)
+C:καθ᾽ ἕνα | one by one
+C:κατὰ σπουδήν | in haste
+X:peri-dat | περί + dative: “around, about” (of place); “for, about” after verbs of fearing (περὶ τῷ παιδὶ φοβεῖται)
+# ---- grammar: conditions
+X:cond-gen-pres | general condition, present: ἐάν + subjunctive, present indicative: “if (ever) …, (always) …”
+X:cond-flv | future “should … would” condition: εἰ + optative, ἄν + optative: “if he should come, I would …”
+X:cond-gen-past | general condition, past: εἰ + optative, imperfect: “if (ever) …, (always) used to …”
+X:cond-unreal-pres | unreal condition, present: εἰ + imperfect, ἄν + imperfect: “if he were (now) …, he would …”
+X:cond-unreal-past | unreal condition, past: εἰ + aorist, ἄν + aorist: “if he had …, he would have …”
+X:cond-indirect | conditions in indirect speech after a past verb: ἐάν + subj. → εἰ + opt.; the main verb becomes infinitive or optative (ἄν is kept)
+# ---- grammar: verbal adjectives, the dual
+X:verbal-teos | verbal adjective in -τέος, -τέα, -τέον: “must be done” (agent in the dative); impersonal -τέον ἐστί: ποιητέον ἐστίν ἡμῖν “we must act”
+X:verbal-tos | verbal adjective in -τός: “done” or “that can be done” (γραπτός “written”, ἄγραφος “unwritten”, θνητός “mortal”)
+ἅτε | inasmuch as, since (+ participle) |
+# Smyth inventory (added 2026-11-23): Smyth concepts Athenaze does not treat
+ὀφείλω | owe; aorist ὤφελον + infinitive in wishes: ὤφελες ἐλθεῖν “I wish you had come” | v
+X:ind-pot | the past potential: ἄν + aorist or imperfect indicative outside a condition, “would have, could have” (ἔγνω ἄν τις “one could have seen”); Smyth §1784
+X:an-iter | the iterative ἄν: ἄν + imperfect or aorist indicative for a repeated past action, “used to, would” (ἔλεγεν ἄν “he used to say”); Smyth §1790
+X:wish-unreal | an unattainable wish: εἴθε / εἰ γάρ + imperfect (now) or aorist (past) indicative, or ὤφελον + infinitive (εἴθε ἔζη “if only he were alive!”); Smyth §1780–1781
+X:ei-kai | concessive εἰ καί “even though” and καὶ εἰ (κἄν) “even if”; Smyth §2369–2372
+X:cond-mixed | mixed conditions: the protasis and the apodosis of different types (εἰ τότε ἐπείσθης, νῦν ἂν εὐδαίμων ἦσθα “if you had obeyed then, you would be happy now”); Smyth §2355–2358
+# for classical passages that the book quotes, in the author's own words (added 2026-11-23)
+X:old-attic-ss | Old Attic (Thucydides, tragedy) and Ionic -σσ- for Attic -ττ-: θάλασσα = θάλαττα

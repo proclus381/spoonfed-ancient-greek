@@ -1,0 +1,100 @@
+# ch.23 — the passive in the present and imperfect; φημί; indirect statement with the infinitive; two accusatives; attraction of the relative; the invasion of Attica
+Ὁ διδάσκαλος διδάσκει τοὺς παῖδας. | The teacher teaches the boys. | composed
+Ἐδίδαξε τὸν υἱὸν ἀροῦν. | He taught his son to plough. | composed
+Ἐν τῇ ἀγορᾷ καθέζονται οἱ γέροντες. | The old men sit down in the market place. | composed
+Ἐνταῦθα καθεδούμεθα. | We shall sit here. | composed
+Τάττει τοὺς ὁπλίτας. | He draws up the hoplites. | composed
+Δῃοῦσι τὴν γῆν. | They are laying waste the land. | composed
+Ἐδῃοῦντο οἱ ἀγροί. | The fields were being laid waste. | composed
+«Ἐγὼ τοὺς Ἕλληνας ἐδουλούμην», ἔφη ὁ Ξέρξης. | “I was trying to enslave the Greeks,” said Xerxes. | composed
+«Διὰ τί τοὺς Ἕλληνας ἐδουλοῦ;» | “Why were you trying to enslave the Greeks?” | composed
+Ὁ Ξέρξης τοὺς Ἕλληνας ἐδουλοῦτο. | Xerxes was trying to enslave the Greeks. | composed
+Ἐδέξαντο τὴν προσβολήν. | They withstood the assault. | composed
+Οἱ πολέμιοι μηχανὰς ποιοῦνται ὡς τὸ τεῖχος αἱρήσοντες. | The enemy are building siege-engines to take the wall. | composed
+Ἡ τῶν Λακεδαιμονίων ἐσβολὴ ἅμα τῷ θέρει ἐγένετο. | The Spartan invasion took place at the beginning of summer. | composed
+Τειχίζεται ἡ πόλις. | The city is being fortified. | composed
+Φημὶ τοὺς πολεμίους προσχωρεῖν. | I say that the enemy are approaching. | composed
+Τί φῄς; | What do you say? | composed
+Οἱ ἄγγελοί φασι τοὺς Λακεδαιμονίους εἰσβάλλειν. | The messengers say that the Spartans are invading. | composed
+Ἡμεῖς μέν φαμεν τὸν ξένον σοφὸν εἶναι, ὑμεῖς δὲ οὔ. | We say that the stranger is wise, but you do not. | composed
+Τί φατε, ὦ ἄνδρες; | What do you say, gentlemen? | composed
+Ἐγὼ μὲν ἔφην τὸν πατέρα οἴκοι εἶναι. | I said that father was at home. | composed
+Οἱ φύλακες ἔφασαν οὐδένα ἰδεῖν. | The guards said that they had seen no one. | composed
+Ἡμεῖς ταῦτα ἔφαμεν. | That is what we said. | composed
+Ὑμεῖς ταῦτα ἔφατε. | That is what you said. | composed
+Σὺ ταῦτα ἔφησθα. | That is what you said. | composed
+Οὐ χρὴ ταῦτα φάναι. | One ought not to say that. | composed
+Ἔφη χρῆναι ἀπιέναι. | He said that they had to leave. | composed
+Ὁ στρατηγὸς ἔφη ἕτοιμος εἶναι. | The general said that he was ready. | composed | +X:nom-inf
+Οἱ πολέμιοι τῷ φρουρίῳ προσέβαλον. | The enemy attacked the fort. | composed
+Τὸ φρούριον ἦν ἐν τοῖς μεθορίοις. | The fort was in the borderlands. | composed
+Πολὺν χρόνον ἐν τῇ χώρᾳ ἐνδιατρίβει. | He is spending a long time in the country. | composed
+Ἡ ἰδέα τῆς κόρης ἦν καλλίστη. | The girl's appearance was very beautiful. | composed
+Οὐκ ἔστιν ἄλλως ποιεῖν. | It is not possible to do otherwise. | composed
+Δεῖ ταῖς συνθήκαις ἐμμένειν. | One must abide by the treaty. | composed
+Οὐκ ἐνέμειναν ταῖς σπονδαῖς. | They did not abide by the truce. | composed | +X:prefix-assim
+Οὐκ ἐπεξῆλθον τοῖς πολεμίοις. | They did not march out against the enemy. | composed
+Ἀνηρεθίζετο ὑπὸ τῶν παίδων. | It was being provoked by the children. | composed
+Οἱ πολέμιοι πεῖραν ἐποιήσαντο τοῦ τείχους. | The enemy made an attempt on the wall. | composed
+Ὁ χῶρος ἦν ἔρημος. | The place was deserted. | composed
+Ἐν τῇ νήσῳ ἐνεστρατοπέδευσεν. | It encamped on the island. | composed
+Ἐν τῇ νήσῳ τρισχίλιοι ἄνθρωποι οἰκοῦσιν. | Three thousand people live on the island. | composed
+Ἐπιτήδειος οὗτος ὁ χῶρος. | This place is suitable. | composed
+Ἡ κώμη δέκα σταδίους ἀπέχει τοῦ ἄστεως. | The village is ten stades from the city. | composed
+Ὁ ποταμὸς ἑξήκοντα σταδίους ἀπέχει τῆς πόλεως. | The river is sixty stades from the city. | composed
+Ὁ πατήρ μου ἐκ τοῦ αὐτοῦ δήμου ἐστίν. | My father is from the same deme. | composed | +X:demos-deme
+Οὐκέτι ἀνασχετός ἐστιν ὁ πόνος. | The hardship is no longer bearable. | composed
+Ἐμφανές ἐστι τὸ πρᾶγμα. | The matter is plain. | composed
+Οἱ πολέμιοι ἦσαν ἐν τῷ ἐμφανεῖ. | The enemy were in full view. | composed
+Ἐνῆγον τὸν δῆμον ἐπὶ τὸν πόλεμον. | They were urging the people on to war. | composed
+Ἐκάκιζε τὸν υἱὸν ὡς ἀργὸν ὄντα. | He reproached his son for being lazy. | composed
+Οἱ ὀργιζόμενοι πολλάκις ἐξαμαρτάνουσιν. | Angry men often go wrong. | composed
+Κατὰ συστάσεις ἐν τῇ ὁδῷ ἔπαιζον. | They were playing in little groups in the street. | composed
+Σύλλογον ἐν τῷ λιμένι ἐποιήσαντο. | They held a meeting at the harbour. | composed
+Ἐκόμιζον τὴν κατασκευὴν εἰς τὸ ἄστυ. | They were bringing their household goods into the city. | composed
+Τί μοι ἐγκαλεῖς; | What have you got against me? | composed | @ἐγκαλεῖς:pres
+Ἐπικηρυκεύονται περὶ εἰρήνης. | They are making overtures for peace. | composed
+Οἱ κακοὶ τὴν τιμωρίαν οὐ φεύξονται. | The wicked will not escape punishment. | composed
+Ὁ δῆμος χρήμασιν ἐζημίωσε τὸν στρατηγόν. | The people punished the general with a fine. | composed
+Πιθανὸς ἦν ὁ τοῦ ῥήτορος λόγος. | The orator's speech was persuasive. | composed
+Ὁ ἀργὸς ἀεὶ πρόφασιν εὑρίσκει. | The lazy man always finds an excuse. | composed
+Πολλὴν ἐπιστήμην ἔχει. | He has great knowledge. | composed
+Ἀπροσδοκήτως προσέβαλον. | They attacked unexpectedly. | composed
+Ἐπανήλθομεν ᾗπερ ἤλθομεν. | We came back the same way we had come. | composed
+Οἱ φύλακες ἔμενον μέχρι οὗ ὁ ἥλιος ἀνέτειλεν. | The guards stayed until the sun rose. | composed
+Ὁ παῖς οὔ φησι τὴν ὑδρίαν ῥῆξαι. | The boy says he did not break the water jar. | composed
+Χρῶμαι τοῖς ἵπποις οἷς ἔχω. | I use the horses that I have. | composed | +X:attraction
+Ἀποκρύπτει τὴν μητέρα τὸ ἀργύριον. | He is hiding the money from his mother. | composed
+Αὔριον διδάξω σε τὴν τέχνην. | Tomorrow I shall teach you the craft. | composed
+Οὐκ ἐάσω σε ἀπελθεῖν. | I shall not let you go away. | composed
+Οὐκ εἴασε τὸν παῖδα ἐξιέναι. | He did not let the boy go out. | composed
+Εἰς τὸ βουλευτήριον συνέρχονται οἱ βουλευταί. | The councillors meet in the council-chamber. | composed
+Οἱ δικασταὶ τὸν κλέπτην ἐζημίωσαν. | The jurors punished the thief. | composed
+Ἐν ἑκάστῳ δήμῳ πολλοὶ αὐτουργοὶ οἰκοῦσιν. | In every deme many farmers live. | composed | +X:sense-demos
+Οἱ ἐκκλησιασταὶ ἐν τῇ Πυκνὶ καθίζονται. | The members of the Assembly sit on the Pnyx. | composed
+Εἰς τὸ δικαστήριον ἄγεται ὁ κλέπτης. | The thief is being taken to court. | composed
+Χαλεπὴ ἡ πολιτικὴ τέχνη. | The art of politics is difficult. | composed
+Ὁ δημιουργὸς τὴν τέχνην τὸν υἱὸν διδάσκει. | The craftsman teaches his son his trade. | composed
+Ἡ τοῦ γέροντος συμβουλὴ ἦν ἀγαθή. | The old man's advice was good. | composed
+Ἀπὸ τοῦ ὄρους καταφαίνεται ἡ θάλαττα. | The sea is clearly visible from the mountain. | composed
+Ὦ δαιμόνιε, τί ποιεῖς; | My dear fellow, what are you doing? | composed
+Διδάσκει τοὺς παῖδας τὴν μουσικήν. | He teaches the boys music. | composed | +X:double-acc
+Οἱ πολῖται ἐξουσίαν ἔχουσι λέγειν ἃ βούλονται. | The citizens are free to say what they like. | composed
+Φιλομαθὴς ὢν πολλὰ ἐρωτᾷ. | Being eager to learn, he asks many questions. | composed
+Πολυμαθὴς ὁ γέρων. | The old man is very learned. | composed
+# ---- practice (ch.23 review)
+Ἐπεβίω δὲ δύο ἔτη καὶ ἓξ μῆνας. | [Pericles] lived on for two years and six months. | Thuc. 2.65.6
+Ἡ γῆ δῃουμένη ἐμφανὴς ἦν τοῖς ἐν τῷ ἄστει. | The land could be seen being laid waste by those in the city. | composed
+Ὁ Ξέρξης ἐστρατεύσατο ἐπὶ τὴν Ἑλλάδα τοὺς Ἕλληνας δουλούμενος. | Xerxes marched against Greece, seeking to enslave the Greeks. | composed
+Πολλὰ χρήματα ἐδίδοτο τοῖς δικασταῖς. | A great deal of money was being given to the jurors. | composed
+«Ἀπεδιδόμην τὸν ἵππον, ἀλλ᾽ οὐδεὶς ἐπρίατο.» | “I was trying to sell the horse, but nobody bought it.” | composed
+«Τί ἀπεδίδοσο ἐν τῇ ἀγορᾷ;» | “What were you selling in the market place?” | composed
+Ἀπεδιδόμεθα τὸν οἶνον. | We were selling the wine. | composed
+«Τί ἀπεδίδοσθε;» | “What were you selling?” | composed
+Ἀπεδίδοντο τὸν σῖτον. | They were selling the grain. | composed
+Οὓς εἶχεν ἵππους τοῖς φίλοις ἔδωκεν. | He gave his friends the horses he had. | composed | +X:rel-incorp
+Ἔστιν οἳ οὐ πείθονται τοῖς νόμοις. | There are some who do not obey the laws. | composed | +X:estin-hoi
+Ἐτάττοντο ὡς μαχούμενοι. | They were being drawn up to fight. | composed
+Αἱ γυναῖκες ἐπὶ τὸ τεῖχος ἀνέβησαν ὡς μαχούμεναι. | The women went up onto the wall to fight. | composed | @μαχούμεναι:nom
+Πόσους σταδίους ἀπέχει ἡ θάλαττα; | How many stades away is the sea? | composed | +X:acc-space
+Καὶ ὡς ἐκαθέζοντο, προσβολὰς παρεσκευάζοντο τῷ τείχει ποιησόμενοι μηχαναῖς τε καὶ ἄλλῳ τρόπῳ. | And when they had settled down, they prepared to attack the wall with siege engines and by other means. | Thuc. 2.18.1
