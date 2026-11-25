@@ -31,7 +31,7 @@ Import the apkg in Anki (File → Import). Updates import over the old version, 
 ## 1. Before you start: for absolute beginners
 
 The deck teaches the language sentence by sentence. It assumes you can read the script and know what grammar words
-mean. Spend one to three weeks on the following first.
+mean.
 
 1. **The alphabet and the sounds.**
    - Learn to read every letter, the breathings (ἁ / ἀ), the iota subscript (ᾳ) and the diphthongs, until you can
@@ -83,17 +83,13 @@ mean. Spend one to three weeks on the following first.
   2. Produce the missing word, or its ending, from the hint.
   3. Say the whole sentence aloud.
 
-  Grade honestly: "Hard" if it came slowly, "Again" if the form was wrong.
+  Grade honestly: "Again" if you didn't comprehend the audio or the answer for the cloze was wrong.
 - **When a new form arrives in a run of its paradigm** (σοφοῦ, σοφῷ, σοφῶν …), notice the pattern. Write the
   paradigm out once by hand when its run is over.
-- **Leeches:**
-  - Read the card's grammar in the book or in Smyth, then let it come back.
-  - Don't delete cards: later sentences are built on them.
 
 **On the side**
 
-- **Read the book chapter by chapter.** When the deck reaches a chapter, read its reading in Athenaze or
-  Meletemata, aloud, twice. It will feel easy: that is the point.
+- **Read the book chapter by chapter.** When the deck reaches a chapter, read its reading in Athenaze aloud, twice. It will feel easy: that is the point.
 - **Listen a lot.**
   - Keep watching Ranieri's *Ancient Greek in Action* and his other Greek videos.
   - Replay the deck's audio of a chapter you have finished while walking or commuting.
@@ -105,17 +101,7 @@ mean. Spend one to three weeks on the following first.
 ## Audio
 
 - **The eSpeak apkg** has its audio inside.
-- **The human-voice apkg** expects ElevenLabs clips, which are made with the audio kit in `audio_kit/`. You need
-  your own [ai33.pro](https://api.ai33.pro) key; put it in `audio_kit/key.txt`, which is never shared. Then:
-
-  ```bash
-  cd audio_kit
-  python3 generate.py credits     # check the key and the balance
-  python3 generate.py all         # make the clips that are missing
-  python3 generate.py install     # copy them into Anki's media folder
-  ```
-
-  The human-voice audio will also be published here when it is ready.
+- **The human-voice apkg** Elevenlabs generated with
 
 ## Tools
 
