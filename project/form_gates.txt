@@ -1,6 +1,6 @@
 # Irregular 3rd-declension words: first chapter in which the book (a reading or a Lexicon entry) shows each form
 # (accent-sensitive match; OCR tokens without any accent match ignoring accents). Format: lemma case.num.gender
-# chapter ('-' = not shown before its paradigm). Derived from the user's books by tools/phase1/form_gates.py:
+# chapter ('-' = not shown before its paradigm). Derived from the books:
 # lemma/chapter facts only. Read by check2.py (FORM_GATE).
 Ζεύς acc.s.m 4
 Ζεύς dat.s.m 16
