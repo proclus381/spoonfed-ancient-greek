@@ -3,6 +3,9 @@
 **An Anki deck that teaches Ancient Greek one new thing at a time: 4,735 sentences in the order of *Athenaze*,
 each with natural-sounding audio.**
 
+<p align="center"><a href="https://github.com/proclus381/spoonfed-ancient-greek/releases/latest/download/Spoonfed_Ancient_Greek.apkg"><img src="https://img.shields.io/badge/Download%20the%20deck-Spoonfed__Ancient__Greek.apkg-2ea44f?style=for-the-badge&logo=anki&logoColor=white" alt="Download the deck" height="60"></a></p>
+<p align="center">Free · 4,735 sentences with audio · import into Anki 2.1.50+ · <a href="https://github.com/proclus381/spoonfed-ancient-greek/releases">all releases</a></p>
+
 Every sentence brings exactly one new word, ending, form or construction. Everything else in it you have
 already seen. You hear it, understand it and recall it, and by the end you have met every form in the grammar.
 
@@ -17,7 +20,7 @@ new cards a day (see *Deck options*).
 
 ## Get started
 
-1. **Download** `Spoonfed_Ancient_Greek.apkg` from the [Releases](../../releases) page.
+1. **Download** [`Spoonfed_Ancient_Greek.apkg`](https://github.com/proclus381/spoonfed-ancient-greek/releases/latest/download/Spoonfed_Ancient_Greek.apkg) (or see all [Releases](../../releases)).
 2. **Import** it in Anki (File → Import). The audio is inside.
 3. **Set the deck options** (below), then do 15–25 new sentences a day.
 
