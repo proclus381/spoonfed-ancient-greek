@@ -1,8 +1,8 @@
-"""What an audio update costs: the clips of a manifest that the user's audio folder does not have yet.
+"""What an audio update costs: the clips of a manifest that your audio folder does not have yet.
 
 usage: python3 -I audio_cost.py MANIFEST.tsv AUDIO_DIR [UNUSED_DIR] [OLD_MANIFEST.tsv]
 MANIFEST: filename <TAB> text (project/out/audio_manifest.tsv after a build).
-AUDIO_DIR: the user's clips (audio_kit/audio). UNUSED_DIR: clips set aside earlier (audio_kit/audio_unused);
+AUDIO_DIR: the folder of clips you have. UNUSED_DIR: clips set aside earlier;
 a clip found there can be moved back instead of generated. OLD_MANIFEST: the previous manifest, for the count of
 clips the deck no longer uses. Characters are those of the text sent to the voice (the manifest's text column).
 Prints counts only; with --list also the missing filenames."""

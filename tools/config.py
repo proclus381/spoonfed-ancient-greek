@@ -5,8 +5,8 @@ Scripts add their own directory to sys.path explicitly, so this works under `pyt
     import os, sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     import config as P
 
-Environment overrides: ATH_WORK (work files), ATH_SCRATCH (regenerable intermediates), ATH_CORPUS (downloads),
-ATH_SENTENCES (another set of chNN.txt files, e.g. the composed skeleton from skeleton.py).
+Environment overrides: ATH_WORK (work files), ATH_SCRATCH (regenerable intermediates),
+ATH_SENTENCES (another set of chNN.txt files).
 """
 import glob
 import os
@@ -15,24 +15,13 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROJECT = os.path.join(ROOT, 'project')          # deck sources, check2.py, build.py
 TOOLS = os.path.join(ROOT, 'tools')
-SENTENCES = os.environ.get('ATH_SENTENCES', os.path.join(PROJECT, 'sentences'))   # ATH_SENTENCES: e.g. the skeleton
+SENTENCES = os.environ.get('ATH_SENTENCES', os.path.join(PROJECT, 'sentences'))
 SYLLABUS = os.path.join(PROJECT, 'syllabus')
 GUID_OVERRIDES = os.path.join(PROJECT, 'guid_overrides.txt')
 CARDS_BASELINE = os.path.join(PROJECT, 'cards_current.tsv')
-GOVDB = os.path.join(TOOLS, 'govdb.json')
 
 WORK = os.environ.get('ATH_WORK', os.path.join(ROOT, 'work'))
-PASS12 = os.path.join(WORK, 'pass1_2')           # pass 1-2 candidate lists (sel*.tsv) and decisions
-PASS3 = os.path.join(WORK, 'pass3')              # pass 3 candidates and review sheets
 SCRATCH = os.environ.get('ATH_SCRATCH', os.path.join(WORK, 'tmp'))   # match_*.json etc. (git-ignored)
-
-# downloads: untrusted data (CLAUDE.md rule 4), one directory per source, git-ignored
-CORPUS = os.environ.get('ATH_CORPUS', os.path.join(ROOT, 'corpus'))
-PERSEUS_DATA = os.path.join(CORPUS, 'perseus', 'data')      # PerseusDL canonical-greekLit data/
-FIRST1K_DATA = os.path.join(CORPUS, 'first1k', 'data')      # OpenGreekAndLatin First1KGreek data/
-REFCORP = os.path.join(CORPUS, 'refcorp', 'corpus.tsv')     # mkcorp.py output, used by kwic.py
-
-PRIVATE = os.path.join(ROOT, 'private')          # book-derived inventory; never committed (rule 1)
 
 if PROJECT not in sys.path:
     sys.path.insert(0, PROJECT)

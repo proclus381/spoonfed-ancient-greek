@@ -2,7 +2,7 @@
 
 usage: slot_test.py CANDIDATES.tsv
 CANDIDATES.tsv: lines  n <TAB> greek <TAB> english [<TAB> extras]   (n = card number in deck order, as in
-cards_current.tsv / fallback_status.tsv; extras = column-4 tokens such as +X:e-than or @form hints).
+cards_current.tsv; extras = column-4 tokens such as +X:e-than or @form hints).
 For each candidate prints the card's new items, the candidate's new items, and problems; 'OK' when they match."""
 import os
 import sys
