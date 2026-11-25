@@ -1,4 +1,4 @@
-#An n+1 sentence deck for Ancient Greek (Anki)
+# An n+1 sentence deck for Ancient Greek (Anki)
 
 A sentence deck that follows the syllabus of **Athenaze I–II (Italian edition,
 ch. 1–31) and Meletemata**, chapter by chapter. Chapter 32 is a supplement of grammar from Smyth's *Greek Grammar*
