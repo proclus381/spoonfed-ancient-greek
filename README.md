@@ -22,9 +22,9 @@ From the [Releases](../../releases) page:
 
 | File | What it is |
 |---|---|
-| `Athenaze_Companion_ch01-32.apkg` | the deck with synthetic (eSpeak) audio: works out of the box |
-| `Athenaze_Companion_ch01-32_humanvoice.apkg` | the same deck for human-voice audio; the audio files come separately (see *Audio*) |
-| `athenaze-deck-skill.zip` | the deck's tools as a Claude skill (see *Tools*) |
+| `SAG_synthetic.apkg` | the deck with low quality synthetic (eSpeak) audio in reconstructed pronunciation  |
+| `SAG_generated.apkg` | the deck with high quality Elevenlabs-generated audio in Modern Greek pronunciation |
+| `SAG-deck-skill.zip` | the deck's tools as a Claude skill (see *Tools*) |
 
 Import the apkg in Anki (File → Import). Updates import over the old version, and your review history is kept.
 
@@ -55,7 +55,7 @@ mean.
 4. **The article.** Learn the table of ὁ, ἡ, τό by heart. It is the key to every noun ending, and the deck uses it
    from the first card without teaching it separately.
 5. **Get the book.**
-   - The deck follows *Athenaze* (Italian edition) and *Meletemata*. Reading their chapters alongside is the
+   - The deck follows *Athenaze* (Italian edition). Reading their chapters alongside is the
      intended use.
    - Any edition helps, since the chapter content is close. The deck never copies their text.
 
@@ -129,7 +129,7 @@ cd project && ../.venv/bin/python check2.py -q --cover $(ls sentences/ch[0-9][0-
 ```
 
 **As a Claude skill:**
-1. Unzip `athenaze-deck-skill.zip` into `~/.claude/skills/`.
+1. Unzip `SAG-deck-skill.zip` into `~/.claude/skills/`.
 2. Claude Code then knows how to check, extend and rebuild the deck with these tools: ask it to add a card,
    check a chapter, find untaught forms or fix word order.
 
