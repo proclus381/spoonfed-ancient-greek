@@ -134,10 +134,16 @@ All of these are in the deck's options (the gear icon next to the deck → Optio
 
 Only two things:
 
-- **Try reading real Greek.** Every so often, pick an original text, such as Aesop's fables, and try a few
+- **Try reading real Greek.** Every so often, pick an original text, such as Xenophon's
+  [*Anabasis*](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0201) or one of Plato's early
+  dialogues (the [*Apology*](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Apol.),
+  [*Crito*](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Crito) or
+  [*Euthyphro*](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169)), and try a few
   lines. Don't expect to understand everything: each chapter of the deck makes more of it readable.
   [Perseus](https://www.perseus.tufts.edu/hopper/) has many classical texts with a click-to-look-up dictionary.
 - **Listen to Greek.** Replay the audio of chapters you have finished, while walking or commuting.
+  You can also load a real Greek text in [ElevenReader](https://elevenreader.io/) (the ElevenLabs reader app)
+  and have it read aloud, ideally while reading along.
   - **Free audio of *Athenaze* I** in a reconstructed ancient pronunciation, by Ioannis Stratakis:
     [ancientgreek.eu](https://ancientgreek.eu/edu/athenaze-1.html). It is the main Greek text of each chapter
     of book 1, 4 h 42 min in 16 mp3 files. You ask for the download link by email, as the page explains.
